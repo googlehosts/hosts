@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "glob": "^7.1.2",
+    "js-yaml": "^3.9.1"
+  }
+}
