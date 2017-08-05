@@ -1,0 +1,7 @@
+language: node_js
+node_js: node
+sudo: required
+dist: trusty
+
+script:
+  - bash deploy.sh
