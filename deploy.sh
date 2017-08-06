@@ -38,11 +38,11 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 		git add -A
 		if [ "$(git log --oneline $TRAVIS_COMMIT_RANGE | wc -l)" == "1" ]; then
 			echogr Changes are from a single commit.
-			git show -s --format="%B" $TRAVIS_COMMIT > commit-msg.tmp
+			git show -s --format="%H %B" $TRAVIS_COMMIT > commit-msg.tmp
 		else
 			echogr Changes are from multiple commits.
 			printf "Multiple commits from hosts-source.\n\n" > commit-msg.tmp
-			git log --format="%H %s" $TRAVIS_COMMIT_RANGE >> commit-msg.tmp
+			git log --format="%H %B" $TRAVIS_COMMIT_RANGE >> commit-msg.tmp
 		fi
 		GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -S -F commit-msg.tmp
 
