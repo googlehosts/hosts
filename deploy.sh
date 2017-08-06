@@ -26,8 +26,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 		echogr Changes detected.
 
 		echogr Configuring git.
-		git config user.name $(git show -s --format="%aN" $TRAVIS_COMMIT)
-		git config user.email $(git show -s --format="%aE" $TRAVIS_COMMIT)
+		git config user.name $COMMIT_USER
+		git config user.email $COMMIT_EMAIL
 		git config user.signingkey $GPG_KEY_ID
 		git config push.default simple
 
