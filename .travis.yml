@@ -1,6 +1,5 @@
 language: node_js
 node_js: node
-dist: trusty
 
 script:
   - bash deploy.sh
