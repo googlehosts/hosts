@@ -1,6 +1,6 @@
 # Copyright (c) 2016-2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-06
+# Last updated: 2017-08-07
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,5 +13,11 @@
 ::1	ip6-localhost
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
+
+# Amazon AWS Start
+54.239.38.117	eu-west-1.console.aws.amazon.com
+52.219.0.4	s3-ap-northeast-1.amazonaws.com
+54.231.251.21	s3-ap-southeast-2.amazonaws.com
+# Amazon AWS End
 
 # Modified Hosts End
