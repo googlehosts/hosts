@@ -9,7 +9,7 @@ echogr Generating hosts files.
 mkdir output
 node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
 
-if [ "$PUSH_TO_MASTER" == "true" ]; then
+if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 	echogr Importing SSH key.
 	base64 -d <<< $SSH_KEY > ~/.ssh/id_ed25519
 	chmod 600 ~/.ssh/id_ed25519
@@ -52,5 +52,5 @@ if [ "$PUSH_TO_MASTER" == "true" ]; then
 		echogr No changes detected, deployment skipped.
 	fi
 else
-	echogr Running in a local environment, deployment skipped.
+	echogr Running in an untrusted environment, deployment skipped.
 fi
