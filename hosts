@@ -20,4 +20,43 @@
 54.231.251.21	s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
+# Android Start
+172.217.6.127	android.com
+172.217.6.127	android.l.google.com
+172.217.6.127	android-china.l.google.com
+172.217.6.127	www.android.com
+172.217.6.127	a.android.com
+172.217.6.127	source.android.com
+172.217.6.127	connectivitycheck.android.com
+172.217.6.127	d.android.com
+172.217.6.127	dev.android.com
+172.217.6.127	developer.android.com
+172.217.6.127	market.android.com
+172.217.6.127	android-market.l.google.com
+172.217.6.127	r.android.com
+172.217.6.127	android-review.googlesource.com
+172.217.6.127	android.clients.google.com
+# Android End
+
+# Google Start
+172.217.6.127	google.com
+172.217.6.127	com.google
+172.217.6.127	www.google.com
+172.217.6.127	www.blog.google
+172.217.6.127	apis.google.com
+172.217.6.127	cse.google.com
+172.217.6.127	clients1.google.com
+172.217.6.127	clients.l.google.com
+172.217.6.127	clients-china.l.google.com
+172.217.6.127	plus.l.google.com
+172.217.6.127	plus-china.l.google.com
+# Google End
+
+# Googleusercontent Start
+216.58.199.225	android.googleblog.com
+216.58.199.225	androidstudio.googleblog.com
+216.58.199.225	android-developers.googleblog.com
+216.58.199.225	blogspot.l.googleusercontent.com
+# Googleusercontent End
+
 # Modified Hosts End
