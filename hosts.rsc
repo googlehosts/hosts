@@ -23,40 +23,44 @@ add address=54.231.251.21 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
 # Android Start
-add address=172.217.6.127 name=android.com
-add address=172.217.6.127 name=android.l.google.com
-add address=172.217.6.127 name=android-china.l.google.com
-add address=172.217.6.127 name=www.android.com
-add address=172.217.6.127 name=a.android.com
-add address=172.217.6.127 name=source.android.com
-add address=172.217.6.127 name=connectivitycheck.android.com
-add address=172.217.6.127 name=d.android.com
-add address=172.217.6.127 name=dev.android.com
-add address=172.217.6.127 name=developer.android.com
-add address=172.217.6.127 name=market.android.com
-add address=172.217.6.127 name=android-market.l.google.com
-add address=172.217.6.127 name=r.android.com
-add address=172.217.6.127 name=android-review.googlesource.com
-add address=172.217.6.127 name=android.clients.google.com
+add address=172.217.31.96 name=android.com
+add address=172.217.31.96 name=android.l.google.com
+add address=172.217.31.96 name=android-china.l.google.com
+add address=172.217.31.96 name=www.android.com
+add address=172.217.31.96 name=a.android.com
+add address=172.217.31.96 name=source.android.com
+add address=172.217.31.96 name=connectivitycheck.android.com
+add address=172.217.31.96 name=d.android.com
+add address=172.217.31.96 name=dev.android.com
+add address=172.217.31.96 name=developer.android.com
+add address=172.217.31.96 name=market.android.com
+add address=172.217.31.96 name=android-market.l.google.com
+add address=172.217.31.96 name=r.android.com
+add address=172.217.31.96 name=android-review.googlesource.com
+add address=172.217.31.96 name=android.clients.google.com
 # Android End
 
 # Google Start
-add address=172.217.6.127 name=google.com
-add address=172.217.6.127 name=com.google
-add address=172.217.6.127 name=www.google.com
-add address=172.217.6.127 name=www.blog.google
-add address=172.217.6.127 name=apis.google.com
-add address=172.217.6.127 name=cse.google.com
-add address=172.217.6.127 name=clients1.google.com
-add address=172.217.6.127 name=clients.l.google.com
-add address=172.217.6.127 name=clients-china.l.google.com
-add address=172.217.6.127 name=plus.l.google.com
-add address=172.217.6.127 name=plus-china.l.google.com
+add address=172.217.31.96 name=google.com
+add address=172.217.31.96 name=com.google
+add address=172.217.31.96 name=www.google.com
+add address=172.217.31.96 name=www.blog.google
+add address=172.217.31.96 name=apis.google.com
+add address=172.217.31.96 name=cse.google.com
+add address=172.217.31.96 name=clients1.google.com
+add address=172.217.31.96 name=clients.l.google.com
+add address=172.217.31.96 name=clients-china.l.google.com
+add address=172.217.31.96 name=plus.l.google.com
+add address=172.217.31.96 name=plus-china.l.google.com
 # Google End
 
+# Googleapis Start
+add address=172.217.31.106 name=ajax.googleapis.com
+# Googleapis End
+
 # Google GoLang Start
-add address=172.217.6.127 name=golang.org
-add address=172.217.6.127 name=golang-consa.l.google.com
+add address=172.217.31.96 name=golang.org
+add address=172.217.31.96 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Googleusercontent Start
@@ -64,6 +68,13 @@ add address=216.58.199.225 name=android.googleblog.com
 add address=216.58.199.225 name=androidstudio.googleblog.com
 add address=216.58.199.225 name=android-developers.googleblog.com
 add address=216.58.199.225 name=blogspot.l.googleusercontent.com
+add address=216.58.199.225 name=yt3.ggpht.com
+add address=216.58.199.225 name=photos-ugc.l.googleusercontent.com
 # Googleusercontent End
+
+# Youtube Start
+add address=172.217.31.96 name=youtube.com
+add address=172.217.31.96 name=www.youtube.com
+# Youtube End
 
 # Modified Hosts End
