@@ -7,7 +7,7 @@ function echogr {
 
 echogr Generating hosts files.
 mkdir output
-node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
+node src/generate.js "$PWD/data" $(git show -s --format=%cd --date=short) "$PWD/output"
 
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 	echogr Importing SSH key.

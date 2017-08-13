@@ -5,4 +5,4 @@ if [ -e output ]; then
 	rm -rf output
 fi
 mkdir output
-node generate.js hosts.yml $(git show -s --format=%cd --date=short) output
+node src/generate.js "$PWD/data" $(git show -s --format=%cd --date=short) "$PWD/output"
