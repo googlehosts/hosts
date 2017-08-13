@@ -1,0 +1,12 @@
+hosts:
+  - name: Nvidia
+    items:
+      - ip: 120.52.140.12
+        domains:
+          - www.nvidia.com
+          - images.nvidia.com
+          - cn.download.nvidia.com
+          - images.nvidia.com.global.ogslb.com
+          - cn.download.nvidia.com.global.ogslb.com
+          - www.nvidia.com.global.ogslb.com
+          - lf001.china.uxengine.net
