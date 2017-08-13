@@ -7,6 +7,16 @@
 
 # Modified Hosts Start
 
+# Nvidia Start
+120.52.140.12	www.nvidia.com
+120.52.140.12	images.nvidia.com
+120.52.140.12	cn.download.nvidia.com
+120.52.140.12	images.nvidia.com.global.ogslb.com
+120.52.140.12	cn.download.nvidia.com.global.ogslb.com
+120.52.140.12	www.nvidia.com.global.ogslb.com
+120.52.140.12	lf001.china.uxengine.net
+# Nvidia End
+
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost

@@ -89,6 +89,11 @@
 107.152.25.198	m.box.com
 # Box End
 
+# Dropbox Start
+162.125.248.1	www.dropbox.com
+162.125.248.1	www.dualstack.dropbox-dns.com
+# Dropbox End
+
 # Google Start
 172.217.31.96	google.com
 172.217.31.96	com.google

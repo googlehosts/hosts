@@ -9,6 +9,16 @@
 
 # Modified Hosts Start
 
+# Nvidia Start
+add address=120.52.140.12 name=www.nvidia.com
+add address=120.52.140.12 name=images.nvidia.com
+add address=120.52.140.12 name=cn.download.nvidia.com
+add address=120.52.140.12 name=images.nvidia.com.global.ogslb.com
+add address=120.52.140.12 name=cn.download.nvidia.com.global.ogslb.com
+add address=120.52.140.12 name=www.nvidia.com.global.ogslb.com
+add address=120.52.140.12 name=lf001.china.uxengine.net
+# Nvidia End
+
 # Localhost (DO NOT REMOVE) Start
 add address=127.0.0.1 name=localhost
 add address=::1 name=localhost

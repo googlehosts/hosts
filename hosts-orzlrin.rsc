@@ -91,6 +91,11 @@ add address=107.152.25.198 name=upload.box.com
 add address=107.152.25.198 name=m.box.com
 # Box End
 
+# Dropbox Start
+add address=162.125.248.1 name=www.dropbox.com
+add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
+# Dropbox End
+
 # Google Start
 add address=172.217.31.96 name=google.com
 add address=172.217.31.96 name=com.google
