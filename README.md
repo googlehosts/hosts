@@ -1,10 +1,10 @@
 # 如何贡献
 
-## `hosts.yml`
+## `data/*.yml`
 
 此文件使用YAML语法，详见[官网](http://yaml.org/)或[维基百科](https://zh.wikipedia.org/wiki/YAML)。
 
-由于格式十分简单，一般自行观察[`hosts.yml`](https://github.com/googlehosts/hosts/blob/hosts-source/hosts.yml)和[`hosts`](https://github.com/googlehosts/hosts/blob/master/hosts)即可理解，这里就不给出具体说明了。
+由于格式十分简单，一般自行观察[`hosts.yml`](https://github.com/googlehosts/hosts/blob/hosts-source/data/hosts.yml)和[`hosts`](https://github.com/googlehosts/hosts/blob/master/hosts)即可理解，这里就不给出具体说明了。
 
 ## 其他文件
 
