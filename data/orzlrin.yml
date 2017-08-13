@@ -1,5 +1,0 @@
-hosts:
-  - name: Foo
-    items:
-      - ip: 233.233.233.233
-        domain: foo.com
