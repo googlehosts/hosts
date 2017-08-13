@@ -7,6 +7,10 @@
 
 # Modified Hosts Start
 
+# Foo Start
+233.233.233.233	foo.com
+# Foo End
+
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost

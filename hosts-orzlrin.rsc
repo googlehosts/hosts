@@ -9,6 +9,10 @@
 
 # Modified Hosts Start
 
+# Foo Start
+add address=233.233.233.233 name=foo.com
+# Foo End
+
 # Localhost (DO NOT REMOVE) Start
 add address=127.0.0.1 name=localhost
 add address=::1 name=localhost
