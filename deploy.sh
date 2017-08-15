@@ -20,7 +20,8 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
 
-	cp output/* master/
+	rm master/hosts/*
+	cp output/* master/hosts/
 	cd master
 	if [ -n "$(git status --porcelain)" ]; then
 		echogr Changes detected.
