@@ -85,6 +85,10 @@
 107.152.25.198	m.box.com
 # Box End
 
+# Cloudfront Start
+52.84.167.78	d3c33hcgiwev3.cloudfront.net
+# Cloudfront End
+
 # Dropbox Start
 162.125.248.1	www.dropbox.com
 162.125.248.1	www.dualstack.dropbox-dns.com

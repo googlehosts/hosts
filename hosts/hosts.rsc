@@ -87,6 +87,10 @@ add address=107.152.25.198 name=upload.box.com
 add address=107.152.25.198 name=m.box.com
 # Box End
 
+# Cloudfront Start
+add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
+# Cloudfront End
+
 # Dropbox Start
 add address=162.125.248.1 name=www.dropbox.com
 add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
