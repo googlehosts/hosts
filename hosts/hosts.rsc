@@ -2,7 +2,7 @@
 
 # Copyright (c) 2016-2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-16
+# Last updated: 2017-08-17
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -79,22 +79,29 @@ add address=104.20.6.63 name=bandwagonhost.com
 # Bandwagonhost End
 
 # Box Start
-add address=107.152.25.198 name=box.com
-add address=107.152.25.198 name=app.box.com
-add address=107.152.25.198 name=api.box.com
-add address=107.152.25.198 name=account.box.com
-add address=107.152.25.198 name=upload.box.com
-add address=107.152.25.198 name=m.box.com
+add address=107.152.25.196 name=box.com - app.box.com - api.box.com - account.box.com - upload.box.com - m.box.com
 # Box End
 
 # Cloudfront Start
 add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
+# Culturalspot Start
+add address=172.217.31.96 name=embed.culturalspot.org
+# Culturalspot End
+
 # Dropbox Start
 add address=162.125.248.1 name=www.dropbox.com
 add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
 # Dropbox End
+
+# Disqus Start
+add address=151.101.0.134 name=disqus.com
+add address=151.101.24.134 name=www.disqus.com
+add address=151.101.52.134 name=apkpure.disqus.com
+add address=151.101.52.134 name=content.disqus.com
+add address=151.101.40.134 name=docs.disqus.com
+# Disqus End
 
 # Google Start
 add address=172.217.31.96 name=google.com

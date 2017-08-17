@@ -1,6 +1,6 @@
 # Copyright (c) 2016-2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-16
+# Last updated: 2017-08-17
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -77,22 +77,29 @@
 # Bandwagonhost End
 
 # Box Start
-107.152.25.198	box.com
-107.152.25.198	app.box.com
-107.152.25.198	api.box.com
-107.152.25.198	account.box.com
-107.152.25.198	upload.box.com
-107.152.25.198	m.box.com
+107.152.25.196	box.com - app.box.com - api.box.com - account.box.com - upload.box.com - m.box.com
 # Box End
 
 # Cloudfront Start
 52.84.167.78	d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
+# Culturalspot Start
+172.217.31.96	embed.culturalspot.org
+# Culturalspot End
+
 # Dropbox Start
 162.125.248.1	www.dropbox.com
 162.125.248.1	www.dualstack.dropbox-dns.com
 # Dropbox End
+
+# Disqus Start
+151.101.0.134	disqus.com
+151.101.24.134	www.disqus.com
+151.101.52.134	apkpure.disqus.com
+151.101.52.134	content.disqus.com
+151.101.40.134	docs.disqus.com
+# Disqus End
 
 # Google Start
 172.217.31.96	google.com
