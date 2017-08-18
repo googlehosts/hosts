@@ -1,4 +1,3 @@
-
 #!/bin/bash
 read -p "SN Domain: " domain
 echo ""
