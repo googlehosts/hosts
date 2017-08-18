@@ -519,9 +519,9 @@
 # Youtube End
 
 # Google Video Start
-null	manifest.googlevideo.com
-203.208.41.40	redirector.c.youtube.com
-203.208.41.40	redirector.googlevideo.com
+172.217.31.96	manifest.googlevideo.com
+203.208.41.41	redirector.c.youtube.com
+203.208.41.41	redirector.googlevideo.com
 194.9.24.76	r1---sn-5uh5o-f5f6.googlevideo.com
 194.9.24.77	r2---sn-5uh5o-f5f6.googlevideo.com
 194.9.24.78	r3---sn-5uh5o-f5f6.googlevideo.com
