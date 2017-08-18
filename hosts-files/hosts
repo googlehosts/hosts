@@ -145,6 +145,15 @@
 162.125.82.2	log.getdropbox.com
 # Dropbox End
 
+# DuckDuckGo Start
+50.18.192.250	duckduckgo.com
+50.18.192.250	www.duckduckgo.com
+50.18.192.250	ac.duckduckgo.com
+54.229.110.205	icons.duckduckgo.com
+54.229.110.205	images.duckduckgo.com
+96.45.82.134	help.duckduckgo.com
+# DuckDuckGo End
+
 # Disqus Start
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com

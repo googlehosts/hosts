@@ -147,6 +147,15 @@ add address=162.125.32.10 name=dbxlocal.dropboxstatic.com
 add address=162.125.82.2 name=log.getdropbox.com
 # Dropbox End
 
+# DuckDuckGo Start
+add address=50.18.192.250 name=duckduckgo.com
+add address=50.18.192.250 name=www.duckduckgo.com
+add address=50.18.192.250 name=ac.duckduckgo.com
+add address=54.229.110.205 name=icons.duckduckgo.com
+add address=54.229.110.205 name=images.duckduckgo.com
+add address=96.45.82.134 name=help.duckduckgo.com
+# DuckDuckGo End
+
 # Disqus Start
 add address=151.101.0.134 name=disqus.com
 add address=151.101.24.134 name=www.disqus.com
