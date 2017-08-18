@@ -106,6 +106,7 @@
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com
 151.101.24.134	dropbox.disqus.com
+151.101.24.134	nytchinese.disqus.com
 151.101.24.64	glitter.services.disqus.com
 151.101.52.64	links.services.disqus.com
 173.192.82.196	realtime.services.disqus.com
@@ -114,27 +115,32 @@
 151.101.52.134	content.disqus.com
 151.101.52.134	referrer.disqus.com
 151.101.40.134	docs.disqus.com
+96.7.54.196	about.disqus.com
+96.7.54.200	blog.disqus.com
+96.7.54.198	publishers.disqus.com
+104.16.80.166	c.disquscdn.com
+151.101.24.249	a.disquscdn.com
 # Disqus End
 
 # Gmail Start
-216.58.200.192	gmail.com
-216.58.200.192	www.gmail.com
-216.58.200.192	mail.google.com
-216.58.200.192	googlemail.l.google.com
-216.58.200.192	m.gmail.com
-216.58.200.192	m.googlemail.com
-216.58.200.192	gmail.google.com
-216.58.200.192	inbox.google.com
-216.58.200.192	mail.google.com
-216.58.200.192	mail-settings.google.com
-216.58.200.192	chatenabled.mail.google.com
-216.58.200.192	filetransferenabled.mail.google.com
-216.58.200.192	isolated.mail.google.com
-216.58.200.192	gmail-smtp-in.l.google.com
-216.58.200.192	alt1.gmail-smtp-in.l.google.com
-216.58.200.192	alt2.gmail-smtp-in.l.google.com
-216.58.200.192	alt3.gmail-smtp-in.l.google.com
-216.58.200.192	alt4.gmail-smtp-in.l.google.com
+172.217.31.96	gmail.com
+172.217.31.96	www.gmail.com
+172.217.31.96	mail.google.com
+172.217.31.96	googlemail.l.google.com
+172.217.31.96	m.gmail.com
+172.217.31.96	m.googlemail.com
+172.217.31.96	gmail.google.com
+172.217.31.96	inbox.google.com
+172.217.31.96	mail.google.com
+172.217.31.96	mail-settings.google.com
+172.217.31.96	chatenabled.mail.google.com
+172.217.31.96	filetransferenabled.mail.google.com
+172.217.31.96	isolated.mail.google.com
+172.217.31.96	gmail-smtp-in.l.google.com
+172.217.31.96	alt1.gmail-smtp-in.l.google.com
+172.217.31.96	alt2.gmail-smtp-in.l.google.com
+172.217.31.96	alt3.gmail-smtp-in.l.google.com
+172.217.31.96	alt4.gmail-smtp-in.l.google.com
 # Gmail End
 
 # Google Apis Start
@@ -151,26 +157,26 @@
 # Google Code End
 
 # Google Country Start
-216.58.200.192	www.google.com
-216.58.200.192	ipv4.google.com
-216.58.200.192	com.google
-216.58.200.192	google.com
+172.217.31.96	www.google.com
+172.217.31.96	ipv4.google.com
+172.217.31.96	com.google
+172.217.31.96	google.com
 # Google Country End
 
 # Google Service Start
-216.58.200.192	domains.google
-216.58.200.192	environment.google
-216.58.200.192	www.blog.google
-216.58.200.192	apis.google.com
-216.58.200.192	cse.google.com
-216.58.200.192	clients1.google.com
-216.58.200.192	maven.google.com
-216.58.200.192	ghs-svc-https-sni.ghs-ssl.googlehosted.com
+172.217.31.96	domains.google
+172.217.31.96	environment.google
+172.217.31.96	www.blog.google
+172.217.31.96	apis.google.com
+172.217.31.96	cse.google.com
+172.217.31.96	clients1.google.com
+172.217.31.96	maven.google.com
+172.217.31.96	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 # Google Service End
 
 # Google GoLang Start
-216.58.200.192	golang.org
-216.58.200.192	golang-consa.l.google.com
+172.217.31.96	golang.org
+172.217.31.96	golang-consa.l.google.com
 # Google GoLang End
 
 # Google PLay Start
@@ -241,6 +247,7 @@
 # Youtube End
 
 # Google Video Start
+null	manifest.googlevideo.com
 203.208.41.40	redirector.c.youtube.com
 203.208.41.40	redirector.googlevideo.com
 194.9.24.76	r1---sn-5uh5o-f5f6.googlevideo.com

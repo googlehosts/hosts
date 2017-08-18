@@ -108,6 +108,7 @@ add address=162.125.32.135 name=api-d.dropbox.com
 add address=151.101.0.134 name=disqus.com
 add address=151.101.24.134 name=www.disqus.com
 add address=151.101.24.134 name=dropbox.disqus.com
+add address=151.101.24.134 name=nytchinese.disqus.com
 add address=151.101.24.64 name=glitter.services.disqus.com
 add address=151.101.52.64 name=links.services.disqus.com
 add address=173.192.82.196 name=realtime.services.disqus.com
@@ -116,27 +117,32 @@ add address=151.101.52.134 name=apkpure.disqus.com
 add address=151.101.52.134 name=content.disqus.com
 add address=151.101.52.134 name=referrer.disqus.com
 add address=151.101.40.134 name=docs.disqus.com
+add address=96.7.54.196 name=about.disqus.com
+add address=96.7.54.200 name=blog.disqus.com
+add address=96.7.54.198 name=publishers.disqus.com
+add address=104.16.80.166 name=c.disquscdn.com
+add address=151.101.24.249 name=a.disquscdn.com
 # Disqus End
 
 # Gmail Start
-add address=216.58.200.192 name=gmail.com
-add address=216.58.200.192 name=www.gmail.com
-add address=216.58.200.192 name=mail.google.com
-add address=216.58.200.192 name=googlemail.l.google.com
-add address=216.58.200.192 name=m.gmail.com
-add address=216.58.200.192 name=m.googlemail.com
-add address=216.58.200.192 name=gmail.google.com
-add address=216.58.200.192 name=inbox.google.com
-add address=216.58.200.192 name=mail.google.com
-add address=216.58.200.192 name=mail-settings.google.com
-add address=216.58.200.192 name=chatenabled.mail.google.com
-add address=216.58.200.192 name=filetransferenabled.mail.google.com
-add address=216.58.200.192 name=isolated.mail.google.com
-add address=216.58.200.192 name=gmail-smtp-in.l.google.com
-add address=216.58.200.192 name=alt1.gmail-smtp-in.l.google.com
-add address=216.58.200.192 name=alt2.gmail-smtp-in.l.google.com
-add address=216.58.200.192 name=alt3.gmail-smtp-in.l.google.com
-add address=216.58.200.192 name=alt4.gmail-smtp-in.l.google.com
+add address=172.217.31.96 name=gmail.com
+add address=172.217.31.96 name=www.gmail.com
+add address=172.217.31.96 name=mail.google.com
+add address=172.217.31.96 name=googlemail.l.google.com
+add address=172.217.31.96 name=m.gmail.com
+add address=172.217.31.96 name=m.googlemail.com
+add address=172.217.31.96 name=gmail.google.com
+add address=172.217.31.96 name=inbox.google.com
+add address=172.217.31.96 name=mail.google.com
+add address=172.217.31.96 name=mail-settings.google.com
+add address=172.217.31.96 name=chatenabled.mail.google.com
+add address=172.217.31.96 name=filetransferenabled.mail.google.com
+add address=172.217.31.96 name=isolated.mail.google.com
+add address=172.217.31.96 name=gmail-smtp-in.l.google.com
+add address=172.217.31.96 name=alt1.gmail-smtp-in.l.google.com
+add address=172.217.31.96 name=alt2.gmail-smtp-in.l.google.com
+add address=172.217.31.96 name=alt3.gmail-smtp-in.l.google.com
+add address=172.217.31.96 name=alt4.gmail-smtp-in.l.google.com
 # Gmail End
 
 # Google Apis Start
@@ -153,26 +159,26 @@ add address=74.125.24.82 name=android-review.googlesource.com
 # Google Code End
 
 # Google Country Start
-add address=216.58.200.192 name=www.google.com
-add address=216.58.200.192 name=ipv4.google.com
-add address=216.58.200.192 name=com.google
-add address=216.58.200.192 name=google.com
+add address=172.217.31.96 name=www.google.com
+add address=172.217.31.96 name=ipv4.google.com
+add address=172.217.31.96 name=com.google
+add address=172.217.31.96 name=google.com
 # Google Country End
 
 # Google Service Start
-add address=216.58.200.192 name=domains.google
-add address=216.58.200.192 name=environment.google
-add address=216.58.200.192 name=www.blog.google
-add address=216.58.200.192 name=apis.google.com
-add address=216.58.200.192 name=cse.google.com
-add address=216.58.200.192 name=clients1.google.com
-add address=216.58.200.192 name=maven.google.com
-add address=216.58.200.192 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
+add address=172.217.31.96 name=domains.google
+add address=172.217.31.96 name=environment.google
+add address=172.217.31.96 name=www.blog.google
+add address=172.217.31.96 name=apis.google.com
+add address=172.217.31.96 name=cse.google.com
+add address=172.217.31.96 name=clients1.google.com
+add address=172.217.31.96 name=maven.google.com
+add address=172.217.31.96 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 # Google Service End
 
 # Google GoLang Start
-add address=216.58.200.192 name=golang.org
-add address=216.58.200.192 name=golang-consa.l.google.com
+add address=172.217.31.96 name=golang.org
+add address=172.217.31.96 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Google PLay Start
@@ -243,6 +249,7 @@ add address=172.217.31.96 name=www.youtube-nocookie.com
 # Youtube End
 
 # Google Video Start
+add address=null name=manifest.googlevideo.com
 add address=203.208.41.40 name=redirector.c.youtube.com
 add address=203.208.41.40 name=redirector.googlevideo.com
 add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.googlevideo.com
