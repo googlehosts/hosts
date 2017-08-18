@@ -173,6 +173,10 @@
 216.58.200.192	golang-consa.l.google.com
 # Google GoLang End
 
+# Google PLay Start
+203.208.41.40	redirector.gvt1.com
+# Google PLay End
+
 # Googleusercontent Start
 216.58.199.225	android.googleblog.com
 216.58.199.225	androidstudio.googleblog.com
@@ -934,6 +938,12 @@
 209.85.229.250	r4---sn-npoeen7r.googlevideo.com
 209.85.229.251	r5---sn-npoeen7r.googlevideo.com
 209.85.229.252	r6---sn-npoeen7r.googlevideo.com
+74.125.106.135	r1---sn-oguesnze.googlevideo.com
+74.125.106.136	r2---sn-oguesnze.googlevideo.com
+74.125.106.137	r3---sn-oguesnze.googlevideo.com
+74.125.106.138	r4---sn-oguesnze.googlevideo.com
+74.125.106.139	r5---sn-oguesnze.googlevideo.com
+74.125.106.140	r6---sn-oguesnze.googlevideo.com
 # Google Video End
 
 # Modified Hosts End

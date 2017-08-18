@@ -175,6 +175,10 @@ add address=216.58.200.192 name=golang.org
 add address=216.58.200.192 name=golang-consa.l.google.com
 # Google GoLang End
 
+# Google PLay Start
+add address=203.208.41.40 name=redirector.gvt1.com
+# Google PLay End
+
 # Googleusercontent Start
 add address=216.58.199.225 name=android.googleblog.com
 add address=216.58.199.225 name=androidstudio.googleblog.com
@@ -936,6 +940,12 @@ add address=209.85.229.249 name=r3---sn-npoeen7r.googlevideo.com
 add address=209.85.229.250 name=r4---sn-npoeen7r.googlevideo.com
 add address=209.85.229.251 name=r5---sn-npoeen7r.googlevideo.com
 add address=209.85.229.252 name=r6---sn-npoeen7r.googlevideo.com
+add address=74.125.106.135 name=r1---sn-oguesnze.googlevideo.com
+add address=74.125.106.136 name=r2---sn-oguesnze.googlevideo.com
+add address=74.125.106.137 name=r3---sn-oguesnze.googlevideo.com
+add address=74.125.106.138 name=r4---sn-oguesnze.googlevideo.com
+add address=74.125.106.139 name=r5---sn-oguesnze.googlevideo.com
+add address=74.125.106.140 name=r6---sn-oguesnze.googlevideo.com
 # Google Video End
 
 # Modified Hosts End
