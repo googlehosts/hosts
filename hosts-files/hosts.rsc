@@ -154,6 +154,7 @@ add address=74.125.24.82 name=android-review.googlesource.com
 
 # Google Country Start
 add address=216.58.200.192 name=www.google.com
+add address=216.58.200.192 name=ipv4.google.com
 add address=216.58.200.192 name=com.google
 add address=216.58.200.192 name=google.com
 # Google Country End
