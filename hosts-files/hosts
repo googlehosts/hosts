@@ -1,4 +1,4 @@
-# Copyright (c) 2016-2017, googlehosts members.
+# Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2017-08-18
 
@@ -99,15 +99,20 @@
 162.125.248.1	api.dropbox.com
 162.125.248.1	api.dualstack.dropbox-dns.com
 162.125.248.1	api.dropboxapi.com
-162.125.248.1	null
-162.125.248.1	[object Object]
+162.125.32.135	api-d.dropbox.com
 # Dropbox End
 
 # Disqus Start
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com
+151.101.24.134	dropbox.disqus.com
+151.101.24.64	glitter.services.disqus.com
+151.101.52.64	links.services.disqus.com
+173.192.82.196	realtime.services.disqus.com
+50.18.252.168	help.disqus.com
 151.101.52.134	apkpure.disqus.com
 151.101.52.134	content.disqus.com
+151.101.52.134	referrer.disqus.com
 151.101.40.134	docs.disqus.com
 # Disqus End
 

@@ -1,6 +1,6 @@
 /ip dns static
 
-# Copyright (c) 2016-2017, googlehosts members.
+# Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2017-08-18
 
@@ -101,15 +101,20 @@ add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
 add address=162.125.248.1 name=api.dropbox.com
 add address=162.125.248.1 name=api.dualstack.dropbox-dns.com
 add address=162.125.248.1 name=api.dropboxapi.com
-add address=162.125.248.1 name=null
-add address=162.125.248.1 name=[object Object]
+add address=162.125.32.135 name=api-d.dropbox.com
 # Dropbox End
 
 # Disqus Start
 add address=151.101.0.134 name=disqus.com
 add address=151.101.24.134 name=www.disqus.com
+add address=151.101.24.134 name=dropbox.disqus.com
+add address=151.101.24.64 name=glitter.services.disqus.com
+add address=151.101.52.64 name=links.services.disqus.com
+add address=173.192.82.196 name=realtime.services.disqus.com
+add address=50.18.252.168 name=help.disqus.com
 add address=151.101.52.134 name=apkpure.disqus.com
 add address=151.101.52.134 name=content.disqus.com
+add address=151.101.52.134 name=referrer.disqus.com
 add address=151.101.40.134 name=docs.disqus.com
 # Disqus End
 
