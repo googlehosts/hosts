@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-18
+# Last updated: 2017-08-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -347,16 +347,100 @@ add address=74.125.24.82 name=android-review.googlesource.com
 # Google Code End
 
 # Google Country Start
-add address=172.217.31.96 name=www.google.com
-add address=172.217.31.96 name=ipv4.google.com
 add address=172.217.31.96 name=com.google
+add address=172.217.31.96 name=google.af
+add address=172.217.31.96 name=google.ag
+add address=172.217.31.96 name=google.ai
+add address=172.217.31.96 name=google.bo
+add address=172.217.31.96 name=google.ca
+add address=172.217.31.96 name=google.cl
+add address=172.217.31.96 name=google.co
+add address=172.217.31.96 name=google.co.jp
+add address=172.217.31.96 name=google.do
+add address=172.217.31.96 name=google.eg
+add address=172.217.31.96 name=google.hk
+add address=172.217.31.96 name=google.mx
+add address=172.217.31.96 name=google.ng
+add address=172.217.31.96 name=google.ni
+add address=172.217.31.96 name=google.ph
+add address=172.217.31.96 name=google.pk
+add address=172.217.31.96 name=google.qa
+add address=172.217.31.96 name=google.sa
+add address=172.217.31.96 name=google.sg
+add address=172.217.31.96 name=google.sl
+add address=172.217.31.96 name=google.tw
+add address=172.217.31.96 name=google.ua
+add address=172.217.31.96 name=google.uy
+add address=172.217.31.96 name=google.vn
 add address=172.217.31.96 name=google.com
+add address=172.217.31.96 name=google.com
+add address=172.217.31.96 name=google.com.af
+add address=172.217.31.96 name=google.com.ag
+add address=172.217.31.96 name=google.com.ai
+add address=172.217.31.96 name=google.com.ar
+add address=172.217.31.96 name=google.com.au
+add address=172.217.31.96 name=google.com.bd
+add address=172.217.31.96 name=google.com.bh
+add address=172.217.31.96 name=google.com.bn
+add address=172.217.31.96 name=google.com.bo
+add address=172.217.31.96 name=google.com.br
+add address=172.217.31.96 name=google.com.bz
+add address=172.217.31.96 name=google.com.co
+add address=172.217.31.96 name=google.com.co.jp
+add address=172.217.31.96 name=google.com.cu
+add address=172.217.31.96 name=google.com.cy
+add address=172.217.31.96 name=google.com.do
+add address=172.217.31.96 name=google.com.ec
+add address=172.217.31.96 name=google.com.eg
+add address=172.217.31.96 name=google.com.et
+add address=172.217.31.96 name=google.com.fj
+add address=172.217.31.96 name=google.com.gh
+add address=172.217.31.96 name=google.com.gi
+add address=172.217.31.96 name=google.com.gt
+add address=172.217.31.96 name=google.com.hk
+add address=172.217.31.96 name=google.com.jm
+add address=172.217.31.96 name=google.com.kh
+add address=172.217.31.96 name=google.com.kw
+add address=172.217.31.96 name=google.com.lb
+add address=172.217.31.96 name=google.com.ly
+add address=172.217.31.96 name=google.com.mm
+add address=172.217.31.96 name=google.com.mt
+add address=172.217.31.96 name=google.com.mx
+add address=172.217.31.96 name=google.com.my
+add address=172.217.31.96 name=google.com.na
+add address=172.217.31.96 name=google.com.nf
+add address=172.217.31.96 name=google.com.ng
+add address=172.217.31.96 name=google.com.ni
+add address=172.217.31.96 name=google.com.np
+add address=172.217.31.96 name=google.com.om
+add address=172.217.31.96 name=google.com.pa
+add address=172.217.31.96 name=google.com.pe
+add address=172.217.31.96 name=google.com.pg
+add address=172.217.31.96 name=google.com.ph
+add address=172.217.31.96 name=google.com.pk
+add address=172.217.31.96 name=google.com.pr
+add address=172.217.31.96 name=google.com.py
+add address=172.217.31.96 name=google.com.qa
+add address=172.217.31.96 name=google.com.sa
+add address=172.217.31.96 name=google.com.sb
+add address=172.217.31.96 name=google.com.sg
+add address=172.217.31.96 name=google.com.sl
+add address=172.217.31.96 name=google.com.sv
+add address=172.217.31.96 name=google.com.tj
+add address=172.217.31.96 name=google.com.tr
+add address=172.217.31.96 name=google.com.tw
+add address=172.217.31.96 name=google.com.ua
+add address=172.217.31.96 name=google.com.uy
+add address=172.217.31.96 name=google.com.vc
+add address=172.217.31.96 name=google.com.vn
 # Google Country End
 
 # Google Service Start
 add address=172.217.31.96 name=domains.google
 add address=172.217.31.96 name=environment.google
+add address=172.217.31.96 name=www.google.com
 add address=172.217.31.96 name=www.blog.google
+add address=172.217.31.96 name=ipv4.google.com
 add address=172.217.31.96 name=apis.google.com
 add address=172.217.31.96 name=cse.google.com
 add address=172.217.31.96 name=clients1.google.com

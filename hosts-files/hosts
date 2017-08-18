@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-18
+# Last updated: 2017-08-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -345,16 +345,100 @@
 # Google Code End
 
 # Google Country Start
-172.217.31.96	www.google.com
-172.217.31.96	ipv4.google.com
 172.217.31.96	com.google
+172.217.31.96	google.af
+172.217.31.96	google.ag
+172.217.31.96	google.ai
+172.217.31.96	google.bo
+172.217.31.96	google.ca
+172.217.31.96	google.cl
+172.217.31.96	google.co
+172.217.31.96	google.co.jp
+172.217.31.96	google.do
+172.217.31.96	google.eg
+172.217.31.96	google.hk
+172.217.31.96	google.mx
+172.217.31.96	google.ng
+172.217.31.96	google.ni
+172.217.31.96	google.ph
+172.217.31.96	google.pk
+172.217.31.96	google.qa
+172.217.31.96	google.sa
+172.217.31.96	google.sg
+172.217.31.96	google.sl
+172.217.31.96	google.tw
+172.217.31.96	google.ua
+172.217.31.96	google.uy
+172.217.31.96	google.vn
 172.217.31.96	google.com
+172.217.31.96	google.com
+172.217.31.96	google.com.af
+172.217.31.96	google.com.ag
+172.217.31.96	google.com.ai
+172.217.31.96	google.com.ar
+172.217.31.96	google.com.au
+172.217.31.96	google.com.bd
+172.217.31.96	google.com.bh
+172.217.31.96	google.com.bn
+172.217.31.96	google.com.bo
+172.217.31.96	google.com.br
+172.217.31.96	google.com.bz
+172.217.31.96	google.com.co
+172.217.31.96	google.com.co.jp
+172.217.31.96	google.com.cu
+172.217.31.96	google.com.cy
+172.217.31.96	google.com.do
+172.217.31.96	google.com.ec
+172.217.31.96	google.com.eg
+172.217.31.96	google.com.et
+172.217.31.96	google.com.fj
+172.217.31.96	google.com.gh
+172.217.31.96	google.com.gi
+172.217.31.96	google.com.gt
+172.217.31.96	google.com.hk
+172.217.31.96	google.com.jm
+172.217.31.96	google.com.kh
+172.217.31.96	google.com.kw
+172.217.31.96	google.com.lb
+172.217.31.96	google.com.ly
+172.217.31.96	google.com.mm
+172.217.31.96	google.com.mt
+172.217.31.96	google.com.mx
+172.217.31.96	google.com.my
+172.217.31.96	google.com.na
+172.217.31.96	google.com.nf
+172.217.31.96	google.com.ng
+172.217.31.96	google.com.ni
+172.217.31.96	google.com.np
+172.217.31.96	google.com.om
+172.217.31.96	google.com.pa
+172.217.31.96	google.com.pe
+172.217.31.96	google.com.pg
+172.217.31.96	google.com.ph
+172.217.31.96	google.com.pk
+172.217.31.96	google.com.pr
+172.217.31.96	google.com.py
+172.217.31.96	google.com.qa
+172.217.31.96	google.com.sa
+172.217.31.96	google.com.sb
+172.217.31.96	google.com.sg
+172.217.31.96	google.com.sl
+172.217.31.96	google.com.sv
+172.217.31.96	google.com.tj
+172.217.31.96	google.com.tr
+172.217.31.96	google.com.tw
+172.217.31.96	google.com.ua
+172.217.31.96	google.com.uy
+172.217.31.96	google.com.vc
+172.217.31.96	google.com.vn
 # Google Country End
 
 # Google Service Start
 172.217.31.96	domains.google
 172.217.31.96	environment.google
+172.217.31.96	www.google.com
 172.217.31.96	www.blog.google
+172.217.31.96	ipv4.google.com
 172.217.31.96	apis.google.com
 172.217.31.96	cse.google.com
 172.217.31.96	clients1.google.com
