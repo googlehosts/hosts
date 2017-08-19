@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-19
+# Last updated: 2017-08-20
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -311,6 +311,16 @@ add address=192.0.66.2 name=messengerplatform.fb.com
 add address=192.0.66.2 name=threatexchange.fb.com
 add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
+
+# FlipBoard Start
+add address=54.230.241.35 name=s.flipboard.com
+add address=54.230.242.42 name=cdn.flipboard.com
+add address=34.193.207.226 name=ue.flipboard.com
+add address=34.192.210.197 name=beacon.flipboard.com
+add address=52.44.196.4 name=flipboard.com
+add address=52.204.24.196 name=fbprod.flipboard.com
+add address=50.18.47.33 name=flipboard.helpshift.com
+# FlipBoard End
 
 # Gmail Start
 add address=172.217.31.96 name=gmail.com
