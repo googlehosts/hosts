@@ -1,5 +1,5 @@
 module.exports = {
-	file_name: "dnsmasq.conf",
+	file_name: 'dnsmasq.conf',
 	generate: (function () {
 		var generateEntry = function (ip, domain) {
 			return `address=/${domain}/${ip}`;

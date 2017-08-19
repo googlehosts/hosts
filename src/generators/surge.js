@@ -1,5 +1,5 @@
 module.exports = {
-	file_name: "surge.conf",
+	file_name: 'surge.conf',
 	generate: function (data) {
 		var generateEntry = function (ip, domain) {
 			return `${domain} = ${ip}`;
