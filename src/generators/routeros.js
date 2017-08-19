@@ -1,5 +1,5 @@
 module.exports = {
-	file_name: 'hosts.rsc',
+	fileName: 'hosts.rsc',
 	generate: function (data) {
 		var generateEntry = function (ip, domain) {
 			return `add address=${ip} name=${domain}`;
