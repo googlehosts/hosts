@@ -1,5 +1,5 @@
 module.exports = {
-	file_name: "hosts",
+	fileName: 'hosts',
 	generate: (function () {
 		var generateEntry = function (ip, domain) {
 			return `${ip}\t${domain}`;

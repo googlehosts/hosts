@@ -4,9 +4,9 @@ module.exports = function (generateEntry, generateComment) {
 		output += generateComment(data.header) + '\n';
 		data.hosts.forEach(function (block) {
 			var tmp = '';
-			tmp += generateComment(data.block_header.replace(/{NAME}/g, block.name));
+			tmp += generateComment(data.blockHeader.replace(/{NAME}/g, block.name));
 			block.items.forEach(function (item) {
-				if (item.comment != undefined) {
+				if (item.comment !== undefined) {
 					tmp += generateComment(item.comment);
 				} else {
 					if (item.domain !== undefined) tmp += generateEntry(item.ip, item.domain) + '\n';
@@ -17,7 +17,7 @@ module.exports = function (generateEntry, generateComment) {
 					}
 				}
 			});
-			tmp += generateComment(data.block_footer.replace(/{NAME}/g, block.name));
+			tmp += generateComment(data.blockFooter.replace(/{NAME}/g, block.name));
 			blocks.push(tmp);
 		});
 		output += blocks.join('\n');
