@@ -6,7 +6,7 @@ module.exports = function (generateEntry, generateComment) {
 			var tmp = '';
 			tmp += generateComment(data.block_header.replace(/{NAME}/g, block.name));
 			block.items.forEach(function (item) {
-				if (item.comment != undefined) {
+				if (item.comment !== undefined) {
 					tmp += generateComment(item.comment);
 				} else {
 					if (item.domain !== undefined) tmp += generateEntry(item.ip, item.domain) + '\n';

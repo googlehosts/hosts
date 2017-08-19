@@ -7,7 +7,7 @@ glob.sync(path.join(process.argv[2], '*.yml')).forEach(function(spec_file) {
 	data.header = data.header.replace(/{DATE}/g, process.argv[3]);
 	var spec_suffix = '';
 	var spec_name = path.parse(spec_file).name;
-	if (spec_name != 'hosts') {
+	if (spec_name !== 'hosts') {
 		var spec_data = jsyaml.safeLoad(fs.readFileSync(spec_file), 'utf-8');
 		data.hosts = spec_data.hosts.concat(data.hosts);
 		spec_suffix = `-${spec_name}`;
