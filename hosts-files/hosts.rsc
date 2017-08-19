@@ -313,7 +313,7 @@ add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
 # FlipBoard Start
-add address=54.230.241.35 name=s.flipboard.com
+add address=52.222.211.250 name=s.flipboard.com
 add address=54.230.242.42 name=cdn.flipboard.com
 add address=34.193.207.226 name=ue.flipboard.com
 add address=34.192.210.197 name=beacon.flipboard.com
