@@ -481,6 +481,10 @@ add address=216.58.199.225 name=android-developers.blogspot.hk
 add address=216.58.199.225 name=officialandroid.blogspot.com
 # Googleusercontent End
 
+# Heroku Start
+add address=52.1.240.62 name=id.heroku.com
+# Heroku End
+
 # Telegram Start
 add address=149.154.166.138 name=telegram.org
 add address=149.154.166.138 name=desktop.telegram.org
