@@ -15,5 +15,5 @@
 1. 安装[Node.js](https://nodejs.org/en/download/current/)。
 2. 在项目的文件夹下打开终端。
 3. 运行`npm install`。
-4. 运行`bash generate-local.sh`。
+4. 运行`./generate-local.sh`。
 5. 文件会被自动生成在`output`文件夹下。

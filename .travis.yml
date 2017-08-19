@@ -2,4 +2,4 @@ language: node_js
 node_js: node
 
 script:
-  - bash deploy.sh
+  - ./deploy.sh
