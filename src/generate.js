@@ -12,7 +12,7 @@ glob.sync(path.join(process.argv[2], '*.yml')).forEach(function(spec_file) {
 		data.hosts = spec_data.hosts.concat(data.hosts);
 		spec_suffix = `-${spec_name}`;
 	}
-	require('glob').sync(path.join(__dirname, 'generators/*.js')).forEach(function (gen_file) {
+	glob.sync(path.join(__dirname, 'generators/*.js')).forEach(function (gen_file) {
 		var generator = require(gen_file);
 		var output_path = path.parse(path.join(process.argv[4], generator.file_name));
 		output_path.base = null;
