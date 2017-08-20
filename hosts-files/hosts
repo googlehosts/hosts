@@ -491,6 +491,17 @@
 216.58.200.243	www.humblebundle.com
 # HumbleBundle End
 
+# imgur Start
+151.101.100.193	imgur.com
+151.101.100.193	m.imgur.com
+151.101.100.193	api.imgur.com
+151.101.100.193	www.imgur.com
+151.101.100.193	store.imgur.com
+151.101.100.193	s.imgur.com
+151.101.100.193	p.imgur.com
+151.101.100.193	i.imgur.com
+# imgur End
+
 # Telegram Start
 149.154.166.138	telegram.org
 149.154.166.138	desktop.telegram.org
@@ -505,8 +516,8 @@
 149.154.175.115	aurora-1.web.telegram.org
 149.154.167.124	vesta.web.telegram.org
 149.154.167.124	vesta-1.web.telegram.org
-149.154.171.22	flora.web.telegram.org
-149.154.171.22	flora-1.web.telegram.org
+149.154.163.22	flora.web.telegram.org
+149.154.163.22	flora-1.web.telegram.org
 149.154.167.118	t.me
 # Telegram End
 

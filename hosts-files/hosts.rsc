@@ -493,6 +493,17 @@ add address=52.36.140.12 name=pubnub.com
 add address=216.58.200.243 name=www.humblebundle.com
 # HumbleBundle End
 
+# imgur Start
+add address=151.101.100.193 name=imgur.com
+add address=151.101.100.193 name=m.imgur.com
+add address=151.101.100.193 name=api.imgur.com
+add address=151.101.100.193 name=www.imgur.com
+add address=151.101.100.193 name=store.imgur.com
+add address=151.101.100.193 name=s.imgur.com
+add address=151.101.100.193 name=p.imgur.com
+add address=151.101.100.193 name=i.imgur.com
+# imgur End
+
 # Telegram Start
 add address=149.154.166.138 name=telegram.org
 add address=149.154.166.138 name=desktop.telegram.org
@@ -507,8 +518,8 @@ add address=149.154.175.115 name=aurora.web.telegram.org
 add address=149.154.175.115 name=aurora-1.web.telegram.org
 add address=149.154.167.124 name=vesta.web.telegram.org
 add address=149.154.167.124 name=vesta-1.web.telegram.org
-add address=149.154.171.22 name=flora.web.telegram.org
-add address=149.154.171.22 name=flora-1.web.telegram.org
+add address=149.154.163.22 name=flora.web.telegram.org
+add address=149.154.163.22 name=flora-1.web.telegram.org
 add address=149.154.167.118 name=t.me
 # Telegram End
 
