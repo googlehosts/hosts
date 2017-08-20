@@ -485,6 +485,14 @@ add address=216.58.199.225 name=officialandroid.blogspot.com
 add address=52.1.240.62 name=id.heroku.com
 # Heroku End
 
+# HumbleBundle Start
+add address=54.250.252.63 name=humble.pubnub.com
+add address=104.20.34.236 name=humblebundle.com
+add address=203.69.81.33 name=humblebundle-a.akamaihd.net
+add address=52.36.140.12 name=pubnub.com
+add address=216.58.200.243 name=www.humblebundle.com
+# HumbleBundle End
+
 # Telegram Start
 add address=149.154.166.138 name=telegram.org
 add address=149.154.166.138 name=desktop.telegram.org
