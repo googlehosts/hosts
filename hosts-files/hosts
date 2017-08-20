@@ -510,6 +510,16 @@
 149.154.167.118	t.me
 # Telegram End
 
+# Wikipedia Start
+198.35.26.96	www.wikipedia.org
+198.35.26.96	login.wikimedia.org
+198.35.26.96	wuu.wikipedia.org
+198.35.26.96	zh-yue.wikipedia.org
+198.35.26.96	zh.wikipedia.org
+198.35.26.96	zh.m.wikipedia.org
+198.35.26.112	upload.wikimedia.org
+# Wikipedia End
+
 # Youtube Start
 172.217.31.96	youtube.com
 172.217.31.96	au.youtube.com

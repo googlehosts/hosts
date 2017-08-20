@@ -512,6 +512,16 @@ add address=149.154.171.22 name=flora-1.web.telegram.org
 add address=149.154.167.118 name=t.me
 # Telegram End
 
+# Wikipedia Start
+add address=198.35.26.96 name=www.wikipedia.org
+add address=198.35.26.96 name=login.wikimedia.org
+add address=198.35.26.96 name=wuu.wikipedia.org
+add address=198.35.26.96 name=zh-yue.wikipedia.org
+add address=198.35.26.96 name=zh.wikipedia.org
+add address=198.35.26.96 name=zh.m.wikipedia.org
+add address=198.35.26.112 name=upload.wikimedia.org
+# Wikipedia End
+
 # Youtube Start
 add address=172.217.31.96 name=youtube.com
 add address=172.217.31.96 name=au.youtube.com
