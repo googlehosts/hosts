@@ -64,7 +64,9 @@
 # Apkpure End
 
 # Appspotpreview Start
+216.58.203.244	author-dot-betaspike.appspot.com
 216.58.203.244	jmoore-dot-android-experiments.appspot.com
+216.58.203.244	mission-author-dot-betaspike.appspot.com
 # Appspotpreview End
 
 # Archive Start
@@ -501,6 +503,15 @@
 151.101.100.193	p.imgur.com
 151.101.100.193	i.imgur.com
 # imgur End
+
+# Ingress Start
+54.193.15.78	appload.ingest.crittercism.com
+54.193.15.78	api.crittercism.com
+54.193.253.0	txn.ingest.crittercism.com
+169.44.145.200	bootstrap.upsight-api.com
+169.44.145.200	single.upsight-api.com
+169.44.145.200	batch.upsight-api.com
+# Ingress End
 
 # Telegram Start
 149.154.166.138	telegram.org

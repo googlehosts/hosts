@@ -66,7 +66,9 @@ add address=104.20.82.194 name=translate.apkpure.com
 # Apkpure End
 
 # Appspotpreview Start
+add address=216.58.203.244 name=author-dot-betaspike.appspot.com
 add address=216.58.203.244 name=jmoore-dot-android-experiments.appspot.com
+add address=216.58.203.244 name=mission-author-dot-betaspike.appspot.com
 # Appspotpreview End
 
 # Archive Start
@@ -503,6 +505,15 @@ add address=151.101.100.193 name=s.imgur.com
 add address=151.101.100.193 name=p.imgur.com
 add address=151.101.100.193 name=i.imgur.com
 # imgur End
+
+# Ingress Start
+add address=54.193.15.78 name=appload.ingest.crittercism.com
+add address=54.193.15.78 name=api.crittercism.com
+add address=54.193.253.0 name=txn.ingest.crittercism.com
+add address=169.44.145.200 name=bootstrap.upsight-api.com
+add address=169.44.145.200 name=single.upsight-api.com
+add address=169.44.145.200 name=batch.upsight-api.com
+# Ingress End
 
 # Telegram Start
 add address=149.154.166.138 name=telegram.org
