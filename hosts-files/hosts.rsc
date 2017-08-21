@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-20
+# Last updated: 2017-08-22
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -323,6 +323,10 @@ add address=52.44.196.4 name=flipboard.com
 add address=52.204.24.196 name=fbprod.flipboard.com
 add address=50.18.47.33 name=flipboard.helpshift.com
 # FlipBoard End
+
+# Github Start
+add address=192.30.253.118 name=gist.github.com
+# Github End
 
 # Gmail Start
 add address=172.217.31.96 name=gmail.com
