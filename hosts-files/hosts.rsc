@@ -351,10 +351,6 @@ add address=216.58.200.192 name=youtube.googleapis.com
 add address=216.58.200.192 name=youtubei.googleapis.com
 # Google Apis End
 
-# Google Chromium Start
-add address=74.125.248.72 name=src.chromium.org
-# Google Chromium End
-
 # Google Code Start
 add address=74.125.24.82 name=android.googlecode.com
 add address=74.125.24.82 name=android.googlesource.com
