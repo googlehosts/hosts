@@ -362,6 +362,7 @@
 # Google Apis Start
 216.58.200.192	android.googleapis.com
 216.58.200.192	ajax.googleapis.com
+216.58.200.192	datasaver.googleapis.com
 216.58.200.192	youtube.googleapis.com
 216.58.200.192	youtubei.googleapis.com
 # Google Apis End
@@ -555,6 +556,12 @@
 216.58.199.225	android-developers.blogspot.hk
 216.58.199.225	officialandroid.blogspot.com
 # Googleusercontent End
+
+# Google Zip Start
+64.233.170.114	check.googlezip.net
+216.58.221.108	proxy.googlezip.net
+216.58.221.108	compress.googlezip.net
+# Google Zip End
 
 # Heroku Start
 52.1.240.62	id.heroku.com

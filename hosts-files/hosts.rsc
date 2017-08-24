@@ -364,6 +364,7 @@ add address=108.177.112.109 name=gmail-smtp-msa.l.google.com
 # Google Apis Start
 add address=216.58.200.192 name=android.googleapis.com
 add address=216.58.200.192 name=ajax.googleapis.com
+add address=216.58.200.192 name=datasaver.googleapis.com
 add address=216.58.200.192 name=youtube.googleapis.com
 add address=216.58.200.192 name=youtubei.googleapis.com
 # Google Apis End
@@ -557,6 +558,12 @@ add address=216.58.199.225 name=android-developers.blogspot.com
 add address=216.58.199.225 name=android-developers.blogspot.hk
 add address=216.58.199.225 name=officialandroid.blogspot.com
 # Googleusercontent End
+
+# Google Zip Start
+add address=64.233.170.114 name=check.googlezip.net
+add address=216.58.221.108 name=proxy.googlezip.net
+add address=216.58.221.108 name=compress.googlezip.net
+# Google Zip End
 
 # Heroku Start
 add address=52.1.240.62 name=id.heroku.com
