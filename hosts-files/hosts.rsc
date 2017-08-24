@@ -337,12 +337,29 @@ add address=172.217.31.96 name=mail-settings.google.com
 add address=172.217.31.96 name=chatenabled.mail.google.com
 add address=172.217.31.96 name=filetransferenabled.mail.google.com
 add address=172.217.31.96 name=isolated.mail.google.com
-add address=172.217.31.96 name=gmail-smtp-in.l.google.com
-add address=172.217.31.96 name=alt1.gmail-smtp-in.l.google.com
-add address=172.217.31.96 name=alt2.gmail-smtp-in.l.google.com
-add address=172.217.31.96 name=alt3.gmail-smtp-in.l.google.com
-add address=172.217.31.96 name=alt4.gmail-smtp-in.l.google.com
 # Gmail End
+
+# Gmail SMTP/POP/IMAP Start
+add address=64.233.188.14 name=gmr-smtp-in.l.google.com
+add address=64.233.188.14 name=gmail-smtp-in.l.google.com
+add address=64.233.188.14 name=alt1.gmail-smtp-in.l.google.com
+add address=64.233.188.14 name=alt2.gmail-smtp-in.l.google.com
+add address=64.233.188.14 name=alt3.gmail-smtp-in.l.google.com
+add address=64.233.188.14 name=alt4.gmail-smtp-in.l.google.com
+add address=64.233.188.14 name=googlemail-imap.l.google.com
+add address=64.233.188.14 name=googlemail-smtp.l.google.com
+add address=64.233.188.14 name=googlemail-pop.l.google.com
+add address=64.233.188.14 name=pop.googlemail.com
+add address=64.233.188.14 name=imap.googlemail.com
+add address=64.233.188.14 name=smtp.googlemail.com
+add address=203.208.41.181 name=gmail-imap.l.google.com
+add address=203.208.41.181 name=imap.gmail.com
+add address=203.208.41.181 name=googlemail-pop.l.google.com
+add address=203.208.41.181 name=pop.googlemail.com
+add address=203.208.41.181 name=gmail-smtp.l.google.com
+add address=108.177.112.109 name=smtp.gmail.com
+add address=108.177.112.109 name=gmail-smtp-msa.l.google.com
+# Gmail SMTP/POP/IMAP End
 
 # Google Apis Start
 add address=216.58.200.192 name=android.googleapis.com
@@ -641,7 +658,7 @@ add address=54.165.175.178 name=developers.pinterest.com
 add address=149.154.166.138 name=telegram.org
 add address=149.154.166.138 name=desktop.telegram.org
 add address=149.154.166.138 name=core.telegram.org
-add address=149.154.166.138 name=web.telegram.org
+add address=149.154.166.139 name=web.telegram.org
 add address=149.154.167.216 name=api.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org

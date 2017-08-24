@@ -335,12 +335,29 @@
 172.217.31.96	chatenabled.mail.google.com
 172.217.31.96	filetransferenabled.mail.google.com
 172.217.31.96	isolated.mail.google.com
-172.217.31.96	gmail-smtp-in.l.google.com
-172.217.31.96	alt1.gmail-smtp-in.l.google.com
-172.217.31.96	alt2.gmail-smtp-in.l.google.com
-172.217.31.96	alt3.gmail-smtp-in.l.google.com
-172.217.31.96	alt4.gmail-smtp-in.l.google.com
 # Gmail End
+
+# Gmail SMTP/POP/IMAP Start
+64.233.188.14	gmr-smtp-in.l.google.com
+64.233.188.14	gmail-smtp-in.l.google.com
+64.233.188.14	alt1.gmail-smtp-in.l.google.com
+64.233.188.14	alt2.gmail-smtp-in.l.google.com
+64.233.188.14	alt3.gmail-smtp-in.l.google.com
+64.233.188.14	alt4.gmail-smtp-in.l.google.com
+64.233.188.14	googlemail-imap.l.google.com
+64.233.188.14	googlemail-smtp.l.google.com
+64.233.188.14	googlemail-pop.l.google.com
+64.233.188.14	pop.googlemail.com
+64.233.188.14	imap.googlemail.com
+64.233.188.14	smtp.googlemail.com
+203.208.41.181	gmail-imap.l.google.com
+203.208.41.181	imap.gmail.com
+203.208.41.181	googlemail-pop.l.google.com
+203.208.41.181	pop.googlemail.com
+203.208.41.181	gmail-smtp.l.google.com
+108.177.112.109	smtp.gmail.com
+108.177.112.109	gmail-smtp-msa.l.google.com
+# Gmail SMTP/POP/IMAP End
 
 # Google Apis Start
 216.58.200.192	android.googleapis.com
@@ -639,7 +656,7 @@
 149.154.166.138	telegram.org
 149.154.166.138	desktop.telegram.org
 149.154.166.138	core.telegram.org
-149.154.166.138	web.telegram.org
+149.154.166.139	web.telegram.org
 149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org
 149.154.175.16	pluto-1.web.telegram.org
