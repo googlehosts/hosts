@@ -528,6 +528,7 @@
 172.217.31.96	apis.google.com
 172.217.31.96	cse.google.com
 172.217.31.96	clients1.google.com
+172.217.31.96	patents.google.com
 172.217.31.96	maven.google.com
 172.217.31.96	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 # Google Service End
@@ -656,7 +657,7 @@
 149.154.166.138	telegram.org
 149.154.166.138	desktop.telegram.org
 149.154.166.138	core.telegram.org
-149.154.166.139	web.telegram.org
+149.154.167.24	web.telegram.org
 149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org
 149.154.175.16	pluto-1.web.telegram.org

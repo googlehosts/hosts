@@ -530,6 +530,7 @@ add address=172.217.31.96 name=ipv4.google.com
 add address=172.217.31.96 name=apis.google.com
 add address=172.217.31.96 name=cse.google.com
 add address=172.217.31.96 name=clients1.google.com
+add address=172.217.31.96 name=patents.google.com
 add address=172.217.31.96 name=maven.google.com
 add address=172.217.31.96 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 # Google Service End
@@ -658,7 +659,7 @@ add address=54.165.175.178 name=developers.pinterest.com
 add address=149.154.166.138 name=telegram.org
 add address=149.154.166.138 name=desktop.telegram.org
 add address=149.154.166.138 name=core.telegram.org
-add address=149.154.166.139 name=web.telegram.org
+add address=149.154.167.24 name=web.telegram.org
 add address=149.154.167.216 name=api.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
