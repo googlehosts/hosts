@@ -618,6 +618,23 @@ add address=157.240.15.63 name=scontent-hkg3-2.cdninstagram.com
 add address=31.13.78.52 name=scontent-sit4-1.cdninstagram.com
 # Instagram End
 
+# issuu Start
+add address=52.72.26.162 name=issuu.com
+add address=52.72.26.162 name=www.issuu.com
+add address=52.72.26.162 name=developers.issuu.com
+add address=52.72.26.162 name=page.issuu.com
+add address=66.6.32.22 name=blog.issuu.com
+add address=54.80.162.85 name=pingback.issuu.com
+add address=151.101.65.63 name=photo.issuu.com
+add address=151.101.65.63 name=image.issuu.com
+add address=151.101.65.63 name=content.issuu.com
+add address=151.101.65.63 name=e.issuu.com
+add address=151.101.65.63 name=static.issuu.com
+add address=151.101.65.63 name=skin.issuu.com
+add address=52.1.172.141 name=api.issuu.com
+add address=34.205.198.51 name=help.issuu.com
+# issuu End
+
 # Pinterest Start
 add address=151.101.0.84 name=pinterest.com
 add address=151.101.0.84 name=www.pinterest.com
