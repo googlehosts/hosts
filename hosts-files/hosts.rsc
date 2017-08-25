@@ -668,7 +668,6 @@ add address=149.154.166.138 name=desktop.telegram.org
 add address=149.154.166.138 name=core.telegram.org
 add address=149.154.166.138 name=web.telegram.org
 add address=149.154.167.216 name=api.telegram.org
-add address=149.154.175.115 name=aurora.web.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
 add address=149.154.167.25 name=venus.web.telegram.org
