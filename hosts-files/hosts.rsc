@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-24
+# Last updated: 2017-08-25
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -666,8 +666,9 @@ add address=54.165.175.178 name=developers.pinterest.com
 add address=149.154.166.138 name=telegram.org
 add address=149.154.166.138 name=desktop.telegram.org
 add address=149.154.166.138 name=core.telegram.org
-add address=149.154.167.24 name=web.telegram.org
+add address=149.154.166.138 name=web.telegram.org
 add address=149.154.167.216 name=api.telegram.org
+add address=149.154.175.115 name=aurora.web.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
 add address=149.154.167.25 name=venus.web.telegram.org
@@ -678,6 +679,7 @@ add address=149.154.167.124 name=vesta.web.telegram.org
 add address=149.154.167.124 name=vesta-1.web.telegram.org
 add address=149.154.171.22 name=flora.web.telegram.org
 add address=149.154.171.22 name=flora-1.web.telegram.org
+add address=149.154.167.118 name=telegram.me
 add address=149.154.167.118 name=t.me
 # Telegram End
 
