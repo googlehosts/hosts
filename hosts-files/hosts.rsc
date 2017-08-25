@@ -35,19 +35,19 @@ add address=54.231.251.21 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
 # Android Start
-add address=172.217.31.96 name=android.com
-add address=172.217.31.96 name=www.android.com
-add address=172.217.31.96 name=a.android.com
-add address=172.217.31.96 name=b.android.com
-add address=172.217.31.96 name=m.android.com
-add address=172.217.31.96 name=tools.android.com
-add address=172.217.31.96 name=source.android.com
-add address=172.217.31.96 name=connectivitycheck.android.com
-add address=172.217.31.96 name=d.android.com
-add address=172.217.31.96 name=dev.android.com
-add address=172.217.31.96 name=developer.android.com
-add address=172.217.31.96 name=market.android.com
-add address=172.217.31.96 name=r.android.com
+add address=108.177.125.100 name=android.com
+add address=108.177.125.100 name=www.android.com
+add address=108.177.125.100 name=a.android.com
+add address=108.177.125.100 name=b.android.com
+add address=108.177.125.100 name=m.android.com
+add address=108.177.125.100 name=tools.android.com
+add address=108.177.125.100 name=source.android.com
+add address=108.177.125.100 name=connectivitycheck.android.com
+add address=108.177.125.100 name=d.android.com
+add address=108.177.125.100 name=dev.android.com
+add address=108.177.125.100 name=developer.android.com
+add address=108.177.125.100 name=market.android.com
+add address=108.177.125.100 name=r.android.com
 # Android End
 
 # Apkpure Start
@@ -324,19 +324,19 @@ add address=192.30.253.118 name=gist.github.com
 # Github End
 
 # Gmail Start
-add address=172.217.31.96 name=gmail.com
-add address=172.217.31.96 name=www.gmail.com
-add address=172.217.31.96 name=mail.google.com
-add address=172.217.31.96 name=googlemail.l.google.com
-add address=172.217.31.96 name=m.gmail.com
-add address=172.217.31.96 name=m.googlemail.com
-add address=172.217.31.96 name=gmail.google.com
-add address=172.217.31.96 name=inbox.google.com
-add address=172.217.31.96 name=mail.google.com
-add address=172.217.31.96 name=mail-settings.google.com
-add address=172.217.31.96 name=chatenabled.mail.google.com
-add address=172.217.31.96 name=filetransferenabled.mail.google.com
-add address=172.217.31.96 name=isolated.mail.google.com
+add address=108.177.125.100 name=gmail.com
+add address=108.177.125.100 name=www.gmail.com
+add address=108.177.125.100 name=mail.google.com
+add address=108.177.125.100 name=googlemail.l.google.com
+add address=108.177.125.100 name=m.gmail.com
+add address=108.177.125.100 name=m.googlemail.com
+add address=108.177.125.100 name=gmail.google.com
+add address=108.177.125.100 name=inbox.google.com
+add address=108.177.125.100 name=mail.google.com
+add address=108.177.125.100 name=mail-settings.google.com
+add address=108.177.125.100 name=chatenabled.mail.google.com
+add address=108.177.125.100 name=filetransferenabled.mail.google.com
+add address=108.177.125.100 name=isolated.mail.google.com
 # Gmail End
 
 # Gmail SMTP/POP/IMAP Start
@@ -370,9 +370,9 @@ add address=216.58.200.192 name=youtubei.googleapis.com
 # Google Apis End
 
 # Google Code Start
-add address=74.125.24.82 name=android.googlecode.com
-add address=74.125.24.82 name=android.googlesource.com
-add address=74.125.24.82 name=android-review.googlesource.com
+add address=108.177.125.82 name=android.googlecode.com
+add address=108.177.125.82 name=android.googlesource.com
+add address=108.177.125.82 name=android-review.googlesource.com
 # Google Code End
 
 # Google Country Start
@@ -523,22 +523,22 @@ add address=172.217.6.183 name=google.com.vn
 # Google Country End
 
 # Google Service Start
-add address=172.217.31.96 name=domains.google
-add address=172.217.31.96 name=environment.google
-add address=172.217.31.96 name=www.google.com
-add address=172.217.31.96 name=www.blog.google
-add address=172.217.31.96 name=ipv4.google.com
-add address=172.217.31.96 name=apis.google.com
-add address=172.217.31.96 name=cse.google.com
-add address=172.217.31.96 name=clients1.google.com
-add address=172.217.31.96 name=patents.google.com
-add address=172.217.31.96 name=maven.google.com
-add address=172.217.31.96 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
+add address=108.177.125.100 name=domains.google
+add address=108.177.125.100 name=environment.google
+add address=108.177.125.100 name=www.google.com
+add address=108.177.125.100 name=www.blog.google
+add address=108.177.125.100 name=ipv4.google.com
+add address=108.177.125.100 name=apis.google.com
+add address=108.177.125.100 name=cse.google.com
+add address=108.177.125.100 name=clients1.google.com
+add address=108.177.125.100 name=patents.google.com
+add address=108.177.125.100 name=maven.google.com
+add address=108.177.125.100 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 # Google Service End
 
 # Google GoLang Start
-add address=172.217.31.96 name=golang.org
-add address=172.217.31.96 name=golang-consa.l.google.com
+add address=108.177.125.100 name=golang.org
+add address=108.177.125.100 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Google PLay Start
@@ -781,33 +781,33 @@ add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
 
 # Youtube Start
-add address=172.217.31.96 name=youtube.com
-add address=172.217.31.96 name=au.youtube.com
-add address=172.217.31.96 name=ca.youtube.com
-add address=172.217.31.96 name=de.youtube.com
-add address=172.217.31.96 name=jp.youtube.com
-add address=172.217.31.96 name=ru.youtube.com
-add address=172.217.31.96 name=tw.youtube.com
-add address=172.217.31.96 name=uk.youtube.com
-add address=172.217.31.96 name=www.youtube.com
-add address=172.217.31.96 name=youtube-ui.l.google.com
-add address=172.217.31.96 name=m.youtube.com
-add address=172.217.31.96 name=ads.youtube.com
-add address=172.217.31.96 name=accounts.youtube.com
-add address=172.217.31.96 name=analytics.youtube.com
-add address=172.217.31.96 name=apiblog.youtube.com
-add address=172.217.31.96 name=creatoracademy.youtube.com
-add address=172.217.31.96 name=s.youtube.com
-add address=172.217.31.96 name=gdata.youtube.com
-add address=172.217.31.96 name=gaming.youtube.com
-add address=172.217.31.96 name=help.youtube.com
-add address=172.217.31.96 name=img.youtube.com
-add address=172.217.31.96 name=insight.youtube.com
-add address=172.217.31.96 name=upload.youtube.com
-add address=172.217.31.96 name=stage.gdata.youtube.com
-add address=172.217.31.96 name=tv.youtube.com
-add address=172.217.31.96 name=uploads.stage.gdata.youtube.com
-add address=172.217.31.96 name=www.youtube-nocookie.com
+add address=108.177.125.100 name=youtube.com
+add address=108.177.125.100 name=au.youtube.com
+add address=108.177.125.100 name=ca.youtube.com
+add address=108.177.125.100 name=de.youtube.com
+add address=108.177.125.100 name=jp.youtube.com
+add address=108.177.125.100 name=ru.youtube.com
+add address=108.177.125.100 name=tw.youtube.com
+add address=108.177.125.100 name=uk.youtube.com
+add address=108.177.125.100 name=www.youtube.com
+add address=108.177.125.100 name=youtube-ui.l.google.com
+add address=108.177.125.100 name=m.youtube.com
+add address=108.177.125.100 name=ads.youtube.com
+add address=108.177.125.100 name=accounts.youtube.com
+add address=108.177.125.100 name=analytics.youtube.com
+add address=108.177.125.100 name=apiblog.youtube.com
+add address=108.177.125.100 name=creatoracademy.youtube.com
+add address=108.177.125.100 name=s.youtube.com
+add address=108.177.125.100 name=gdata.youtube.com
+add address=108.177.125.100 name=gaming.youtube.com
+add address=108.177.125.100 name=help.youtube.com
+add address=108.177.125.100 name=img.youtube.com
+add address=108.177.125.100 name=insight.youtube.com
+add address=108.177.125.100 name=upload.youtube.com
+add address=108.177.125.100 name=stage.gdata.youtube.com
+add address=108.177.125.100 name=tv.youtube.com
+add address=108.177.125.100 name=uploads.stage.gdata.youtube.com
+add address=108.177.125.100 name=www.youtube-nocookie.com
 # Youtube End
 
 # Google Video Start

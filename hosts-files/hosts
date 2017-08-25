@@ -33,19 +33,19 @@
 # Amazon AWS End
 
 # Android Start
-172.217.31.96	android.com
-172.217.31.96	www.android.com
-172.217.31.96	a.android.com
-172.217.31.96	b.android.com
-172.217.31.96	m.android.com
-172.217.31.96	tools.android.com
-172.217.31.96	source.android.com
-172.217.31.96	connectivitycheck.android.com
-172.217.31.96	d.android.com
-172.217.31.96	dev.android.com
-172.217.31.96	developer.android.com
-172.217.31.96	market.android.com
-172.217.31.96	r.android.com
+108.177.125.100	android.com
+108.177.125.100	www.android.com
+108.177.125.100	a.android.com
+108.177.125.100	b.android.com
+108.177.125.100	m.android.com
+108.177.125.100	tools.android.com
+108.177.125.100	source.android.com
+108.177.125.100	connectivitycheck.android.com
+108.177.125.100	d.android.com
+108.177.125.100	dev.android.com
+108.177.125.100	developer.android.com
+108.177.125.100	market.android.com
+108.177.125.100	r.android.com
 # Android End
 
 # Apkpure Start
@@ -322,19 +322,19 @@
 # Github End
 
 # Gmail Start
-172.217.31.96	gmail.com
-172.217.31.96	www.gmail.com
-172.217.31.96	mail.google.com
-172.217.31.96	googlemail.l.google.com
-172.217.31.96	m.gmail.com
-172.217.31.96	m.googlemail.com
-172.217.31.96	gmail.google.com
-172.217.31.96	inbox.google.com
-172.217.31.96	mail.google.com
-172.217.31.96	mail-settings.google.com
-172.217.31.96	chatenabled.mail.google.com
-172.217.31.96	filetransferenabled.mail.google.com
-172.217.31.96	isolated.mail.google.com
+108.177.125.100	gmail.com
+108.177.125.100	www.gmail.com
+108.177.125.100	mail.google.com
+108.177.125.100	googlemail.l.google.com
+108.177.125.100	m.gmail.com
+108.177.125.100	m.googlemail.com
+108.177.125.100	gmail.google.com
+108.177.125.100	inbox.google.com
+108.177.125.100	mail.google.com
+108.177.125.100	mail-settings.google.com
+108.177.125.100	chatenabled.mail.google.com
+108.177.125.100	filetransferenabled.mail.google.com
+108.177.125.100	isolated.mail.google.com
 # Gmail End
 
 # Gmail SMTP/POP/IMAP Start
@@ -368,9 +368,9 @@
 # Google Apis End
 
 # Google Code Start
-74.125.24.82	android.googlecode.com
-74.125.24.82	android.googlesource.com
-74.125.24.82	android-review.googlesource.com
+108.177.125.82	android.googlecode.com
+108.177.125.82	android.googlesource.com
+108.177.125.82	android-review.googlesource.com
 # Google Code End
 
 # Google Country Start
@@ -521,22 +521,22 @@
 # Google Country End
 
 # Google Service Start
-172.217.31.96	domains.google
-172.217.31.96	environment.google
-172.217.31.96	www.google.com
-172.217.31.96	www.blog.google
-172.217.31.96	ipv4.google.com
-172.217.31.96	apis.google.com
-172.217.31.96	cse.google.com
-172.217.31.96	clients1.google.com
-172.217.31.96	patents.google.com
-172.217.31.96	maven.google.com
-172.217.31.96	ghs-svc-https-sni.ghs-ssl.googlehosted.com
+108.177.125.100	domains.google
+108.177.125.100	environment.google
+108.177.125.100	www.google.com
+108.177.125.100	www.blog.google
+108.177.125.100	ipv4.google.com
+108.177.125.100	apis.google.com
+108.177.125.100	cse.google.com
+108.177.125.100	clients1.google.com
+108.177.125.100	patents.google.com
+108.177.125.100	maven.google.com
+108.177.125.100	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 # Google Service End
 
 # Google GoLang Start
-172.217.31.96	golang.org
-172.217.31.96	golang-consa.l.google.com
+108.177.125.100	golang.org
+108.177.125.100	golang-consa.l.google.com
 # Google GoLang End
 
 # Google PLay Start
@@ -779,33 +779,33 @@
 # Wikipedia End
 
 # Youtube Start
-172.217.31.96	youtube.com
-172.217.31.96	au.youtube.com
-172.217.31.96	ca.youtube.com
-172.217.31.96	de.youtube.com
-172.217.31.96	jp.youtube.com
-172.217.31.96	ru.youtube.com
-172.217.31.96	tw.youtube.com
-172.217.31.96	uk.youtube.com
-172.217.31.96	www.youtube.com
-172.217.31.96	youtube-ui.l.google.com
-172.217.31.96	m.youtube.com
-172.217.31.96	ads.youtube.com
-172.217.31.96	accounts.youtube.com
-172.217.31.96	analytics.youtube.com
-172.217.31.96	apiblog.youtube.com
-172.217.31.96	creatoracademy.youtube.com
-172.217.31.96	s.youtube.com
-172.217.31.96	gdata.youtube.com
-172.217.31.96	gaming.youtube.com
-172.217.31.96	help.youtube.com
-172.217.31.96	img.youtube.com
-172.217.31.96	insight.youtube.com
-172.217.31.96	upload.youtube.com
-172.217.31.96	stage.gdata.youtube.com
-172.217.31.96	tv.youtube.com
-172.217.31.96	uploads.stage.gdata.youtube.com
-172.217.31.96	www.youtube-nocookie.com
+108.177.125.100	youtube.com
+108.177.125.100	au.youtube.com
+108.177.125.100	ca.youtube.com
+108.177.125.100	de.youtube.com
+108.177.125.100	jp.youtube.com
+108.177.125.100	ru.youtube.com
+108.177.125.100	tw.youtube.com
+108.177.125.100	uk.youtube.com
+108.177.125.100	www.youtube.com
+108.177.125.100	youtube-ui.l.google.com
+108.177.125.100	m.youtube.com
+108.177.125.100	ads.youtube.com
+108.177.125.100	accounts.youtube.com
+108.177.125.100	analytics.youtube.com
+108.177.125.100	apiblog.youtube.com
+108.177.125.100	creatoracademy.youtube.com
+108.177.125.100	s.youtube.com
+108.177.125.100	gdata.youtube.com
+108.177.125.100	gaming.youtube.com
+108.177.125.100	help.youtube.com
+108.177.125.100	img.youtube.com
+108.177.125.100	insight.youtube.com
+108.177.125.100	upload.youtube.com
+108.177.125.100	stage.gdata.youtube.com
+108.177.125.100	tv.youtube.com
+108.177.125.100	uploads.stage.gdata.youtube.com
+108.177.125.100	www.youtube-nocookie.com
 # Youtube End
 
 # Google Video Start
