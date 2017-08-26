@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-25
+# Last updated: 2017-08-26
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -372,6 +372,7 @@ add address=216.58.200.192 name=youtubei.googleapis.com
 # Google Code Start
 add address=108.177.125.82 name=android.googlecode.com
 add address=108.177.125.82 name=android.googlesource.com
+add address=108.177.125.82 name=chromium.googlesource.com
 add address=108.177.125.82 name=android-review.googlesource.com
 # Google Code End
 
@@ -409,6 +410,8 @@ add address=108.177.125.198 name=google.ci
 add address=108.177.125.198 name=google.cl
 add address=108.177.125.198 name=google.cm
 add address=108.177.125.198 name=google.co
+add address=108.177.125.198 name=google.cv
+add address=108.177.125.198 name=google.cz
 add address=108.177.125.198 name=google.co.ao
 add address=108.177.125.198 name=google.co.bw
 add address=108.177.125.198 name=google.co.ck
@@ -436,7 +439,14 @@ add address=108.177.125.198 name=google.co.vi
 add address=108.177.125.198 name=google.co.za
 add address=108.177.125.198 name=google.co.zm
 add address=108.177.125.198 name=google.co.zw
+add address=108.177.125.198 name=google.de
+add address=108.177.125.198 name=google.dj
+add address=108.177.125.198 name=google.dk
+add address=108.177.125.198 name=google.dm
 add address=108.177.125.198 name=google.do
+add address=108.177.125.198 name=google.dz
+add address=108.177.125.198 name=google.ee
+add address=108.177.125.198 name=google.es
 add address=108.177.125.198 name=google.eg
 add address=108.177.125.198 name=google.hk
 add address=108.177.125.198 name=google.mx
@@ -451,8 +461,10 @@ add address=108.177.125.198 name=google.sl
 add address=108.177.125.198 name=google.tw
 add address=108.177.125.198 name=google.ua
 add address=108.177.125.198 name=google.uy
+add address=108.177.125.198 name=google.vg
 add address=108.177.125.198 name=google.vn
-add address=108.177.125.198 name=google.com
+add address=108.177.125.198 name=google.vu
+add address=108.177.125.198 name=google.ws
 add address=108.177.125.198 name=google.com
 add address=108.177.125.198 name=google.com.af
 add address=108.177.125.198 name=google.com.ag
@@ -522,10 +534,13 @@ add address=108.177.125.198 name=google.com.vc
 add address=108.177.125.198 name=google.com.vn
 # Google Country End
 
+# Google Search Country Start
+add address=108.177.125.198 name=www.google.com
+# Google Search Country End
+
 # Google Service Start
 add address=108.177.125.100 name=domains.google
 add address=108.177.125.100 name=environment.google
-add address=108.177.125.100 name=www.google.com
 add address=108.177.125.100 name=www.blog.google
 add address=108.177.125.100 name=ipv4.google.com
 add address=108.177.125.100 name=apis.google.com
@@ -558,6 +573,10 @@ add address=216.58.199.225 name=android-developers.blogspot.com
 add address=216.58.199.225 name=android-developers.blogspot.hk
 add address=216.58.199.225 name=officialandroid.blogspot.com
 # Googleusercontent End
+
+# Google Voice Start
+add address=108.177.125.100 name=voice.google.com
+# Google Voice End
 
 # Google Zip Start
 add address=64.233.170.114 name=check.googlezip.net

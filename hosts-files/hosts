@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-25
+# Last updated: 2017-08-26
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -370,6 +370,7 @@
 # Google Code Start
 108.177.125.82	android.googlecode.com
 108.177.125.82	android.googlesource.com
+108.177.125.82	chromium.googlesource.com
 108.177.125.82	android-review.googlesource.com
 # Google Code End
 
@@ -407,6 +408,8 @@
 108.177.125.198	google.cl
 108.177.125.198	google.cm
 108.177.125.198	google.co
+108.177.125.198	google.cv
+108.177.125.198	google.cz
 108.177.125.198	google.co.ao
 108.177.125.198	google.co.bw
 108.177.125.198	google.co.ck
@@ -434,7 +437,14 @@
 108.177.125.198	google.co.za
 108.177.125.198	google.co.zm
 108.177.125.198	google.co.zw
+108.177.125.198	google.de
+108.177.125.198	google.dj
+108.177.125.198	google.dk
+108.177.125.198	google.dm
 108.177.125.198	google.do
+108.177.125.198	google.dz
+108.177.125.198	google.ee
+108.177.125.198	google.es
 108.177.125.198	google.eg
 108.177.125.198	google.hk
 108.177.125.198	google.mx
@@ -449,8 +459,10 @@
 108.177.125.198	google.tw
 108.177.125.198	google.ua
 108.177.125.198	google.uy
+108.177.125.198	google.vg
 108.177.125.198	google.vn
-108.177.125.198	google.com
+108.177.125.198	google.vu
+108.177.125.198	google.ws
 108.177.125.198	google.com
 108.177.125.198	google.com.af
 108.177.125.198	google.com.ag
@@ -520,10 +532,13 @@
 108.177.125.198	google.com.vn
 # Google Country End
 
+# Google Search Country Start
+108.177.125.198	www.google.com
+# Google Search Country End
+
 # Google Service Start
 108.177.125.100	domains.google
 108.177.125.100	environment.google
-108.177.125.100	www.google.com
 108.177.125.100	www.blog.google
 108.177.125.100	ipv4.google.com
 108.177.125.100	apis.google.com
@@ -556,6 +571,10 @@
 216.58.199.225	android-developers.blogspot.hk
 216.58.199.225	officialandroid.blogspot.com
 # Googleusercontent End
+
+# Google Voice Start
+108.177.125.100	voice.google.com
+# Google Voice End
 
 # Google Zip Start
 64.233.170.114	check.googlezip.net
