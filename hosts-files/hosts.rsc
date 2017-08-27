@@ -35,19 +35,19 @@ add address=54.231.251.21 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
 # Android Start
-add address=108.177.125.100 name=android.com
-add address=108.177.125.100 name=www.android.com
-add address=108.177.125.100 name=a.android.com
-add address=108.177.125.100 name=b.android.com
-add address=108.177.125.100 name=m.android.com
-add address=108.177.125.100 name=tools.android.com
-add address=108.177.125.100 name=source.android.com
-add address=108.177.125.100 name=connectivitycheck.android.com
-add address=108.177.125.100 name=d.android.com
-add address=108.177.125.100 name=dev.android.com
-add address=108.177.125.100 name=developer.android.com
-add address=108.177.125.100 name=market.android.com
-add address=108.177.125.100 name=r.android.com
+add address=108.177.120.94 name=android.com
+add address=108.177.120.94 name=www.android.com
+add address=108.177.120.94 name=a.android.com
+add address=108.177.120.94 name=b.android.com
+add address=108.177.120.94 name=m.android.com
+add address=108.177.120.94 name=tools.android.com
+add address=108.177.120.94 name=source.android.com
+add address=108.177.120.94 name=connectivitycheck.android.com
+add address=108.177.120.94 name=d.android.com
+add address=108.177.120.94 name=dev.android.com
+add address=108.177.120.94 name=developer.android.com
+add address=108.177.120.94 name=market.android.com
+add address=108.177.120.94 name=r.android.com
 # Android End
 
 # Apkpure Start
@@ -656,93 +656,93 @@ add address=108.177.121.94 name=www.google.com.vn
 # Google Search Country End
 
 # Google Service Start
-add address=108.177.125.100 name=domains.google
-add address=108.177.125.100 name=environment.google
-add address=108.177.125.100 name=aboutme.google.com
-add address=108.177.125.100 name=ads.google.com
-add address=108.177.125.100 name=admin.google.com
-add address=108.177.125.100 name=apis.google.com
-add address=108.177.125.100 name=assistant.google.com
-add address=108.177.125.100 name=atap.google.com
-add address=108.177.125.100 name=bpui0.google.com
-add address=108.177.125.100 name=classroom.google.com
-add address=108.177.125.100 name=client1.google.com
-add address=108.177.125.100 name=client2.google.com
-add address=108.177.125.100 name=client3.google.com
-add address=108.177.125.100 name=client4.google.com
-add address=108.177.125.100 name=client5.google.com
-add address=108.177.125.100 name=client6.google.com
-add address=108.177.125.100 name=clients1.google.com
-add address=108.177.125.100 name=clients2.google.com
-add address=108.177.125.100 name=clients3.google.com
-add address=108.177.125.100 name=clients4.google.com
-add address=108.177.125.100 name=clients5.google.com
-add address=108.177.125.100 name=clients6.google.com
-add address=108.177.125.100 name=contributor.google.com
-add address=108.177.125.100 name=console.firebase.google.com
-add address=108.177.125.100 name=cse.google.com
-add address=108.177.125.100 name=client-channel.google.com
-add address=108.177.125.100 name=desktop.google.com
-add address=108.177.125.100 name=desktop1.google.com
-add address=108.177.125.100 name=desktop2.google.com
-add address=108.177.125.100 name=desktop3.google.com
-add address=108.177.125.100 name=desktop4.google.com
-add address=108.177.125.100 name=desktop5.google.com
-add address=108.177.125.100 name=desktop6.google.com
-add address=108.177.125.100 name=dns.google.com
-add address=108.177.125.100 name=drive.google.com
-add address=108.177.125.100 name=encrypted.google.com
-add address=108.177.125.100 name=encrypted-tbn0.google.com
-add address=108.177.125.100 name=encrypted-tbn1.google.com
-add address=108.177.125.100 name=encrypted-tbn2.google.com
-add address=108.177.125.100 name=encrypted-tbn3.google.com
-add address=108.177.125.100 name=fi.google.com
-add address=108.177.125.100 name=fit.google.com
-add address=108.177.125.100 name=fiber.google.com
-add address=108.177.125.100 name=fonts.google.com
-add address=108.177.125.100 name=firebase.google.com
-add address=108.177.125.100 name=goto.google.com
-add address=108.177.125.100 name=gxc.google.com
-add address=108.177.125.100 name=get.google.com
-add address=108.177.125.100 name=gsuite.google.com
-add address=108.177.125.100 name=history.google.com
-add address=108.177.125.100 name=image.google.com
-add address=108.177.125.100 name=investor.google.com
-add address=108.177.125.100 name=isp.google.com
-add address=108.177.125.100 name=issuetracker.google.com
-add address=108.177.125.100 name=jmt0.google.com
-add address=108.177.125.100 name=jmt17.google.com
-add address=108.177.125.100 name=keep.google.com
-add address=108.177.125.100 name=linkhelp.clients.google.com
-add address=108.177.125.100 name=maven.google.com
-add address=108.177.125.100 name=mapsengine.google.com
-add address=108.177.125.100 name=myaccount.google.com
-add address=108.177.125.100 name=myactivity.google.com
-add address=108.177.125.100 name=opensource.google.com
-add address=108.177.125.100 name=patents.google.com
-add address=108.177.125.100 name=passwords.google.com
-add address=108.177.125.100 name=peering.google.com
-add address=108.177.125.100 name=places.google.com
-add address=108.177.125.100 name=pki.google.com
-add address=108.177.125.100 name=privacy.google.com
-add address=108.177.125.100 name=relay.google.com
-add address=108.177.125.100 name=script.google.com
-add address=108.177.125.100 name=security.google.com
-add address=108.177.125.100 name=services.google.com
-add address=108.177.125.100 name=store.google.com
-add address=108.177.125.100 name=support.google.com
-add address=108.177.125.100 name=suggestqueries.google.com
-add address=108.177.125.100 name=takeout.google.com
-add address=108.177.125.100 name=upload.google.com
-add address=108.177.125.100 name=upload.video.google.com
-add address=108.177.125.100 name=upload.clients.google.com
-add address=108.177.125.100 name=uploads.clients.google.com
-add address=108.177.125.100 name=video.google.com
-add address=108.177.125.100 name=www.blog.google
-add address=108.177.125.100 name=www.googlegroups.com
-add address=108.177.125.100 name=www.googlestore.com
-add address=108.177.125.100 name=ipv4.google.com
-add address=108.177.125.100 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
+add address=108.177.120.94 name=domains.google
+add address=108.177.120.94 name=environment.google
+add address=108.177.120.94 name=aboutme.google.com
+add address=108.177.120.94 name=ads.google.com
+add address=108.177.120.94 name=admin.google.com
+add address=108.177.120.94 name=apis.google.com
+add address=108.177.120.94 name=assistant.google.com
+add address=108.177.120.94 name=atap.google.com
+add address=108.177.120.94 name=bpui0.google.com
+add address=108.177.120.94 name=classroom.google.com
+add address=108.177.120.94 name=client1.google.com
+add address=108.177.120.94 name=client2.google.com
+add address=108.177.120.94 name=client3.google.com
+add address=108.177.120.94 name=client4.google.com
+add address=108.177.120.94 name=client5.google.com
+add address=108.177.120.94 name=client6.google.com
+add address=108.177.120.94 name=clients1.google.com
+add address=108.177.120.94 name=clients2.google.com
+add address=108.177.120.94 name=clients3.google.com
+add address=108.177.120.94 name=clients4.google.com
+add address=108.177.120.94 name=clients5.google.com
+add address=108.177.120.94 name=clients6.google.com
+add address=108.177.120.94 name=contributor.google.com
+add address=108.177.120.94 name=console.firebase.google.com
+add address=108.177.120.94 name=cse.google.com
+add address=108.177.120.94 name=client-channel.google.com
+add address=108.177.120.94 name=desktop.google.com
+add address=108.177.120.94 name=desktop1.google.com
+add address=108.177.120.94 name=desktop2.google.com
+add address=108.177.120.94 name=desktop3.google.com
+add address=108.177.120.94 name=desktop4.google.com
+add address=108.177.120.94 name=desktop5.google.com
+add address=108.177.120.94 name=desktop6.google.com
+add address=108.177.120.94 name=dns.google.com
+add address=108.177.120.94 name=drive.google.com
+add address=108.177.120.94 name=encrypted.google.com
+add address=108.177.120.94 name=encrypted-tbn0.google.com
+add address=108.177.120.94 name=encrypted-tbn1.google.com
+add address=108.177.120.94 name=encrypted-tbn2.google.com
+add address=108.177.120.94 name=encrypted-tbn3.google.com
+add address=108.177.120.94 name=fi.google.com
+add address=108.177.120.94 name=fit.google.com
+add address=108.177.120.94 name=fiber.google.com
+add address=108.177.120.94 name=fonts.google.com
+add address=108.177.120.94 name=firebase.google.com
+add address=108.177.120.94 name=goto.google.com
+add address=108.177.120.94 name=gxc.google.com
+add address=108.177.120.94 name=get.google.com
+add address=108.177.120.94 name=gsuite.google.com
+add address=108.177.120.94 name=history.google.com
+add address=108.177.120.94 name=image.google.com
+add address=108.177.120.94 name=investor.google.com
+add address=108.177.120.94 name=isp.google.com
+add address=108.177.120.94 name=issuetracker.google.com
+add address=108.177.120.94 name=jmt0.google.com
+add address=108.177.120.94 name=jmt17.google.com
+add address=108.177.120.94 name=keep.google.com
+add address=108.177.120.94 name=linkhelp.clients.google.com
+add address=108.177.120.94 name=maven.google.com
+add address=108.177.120.94 name=mapsengine.google.com
+add address=108.177.120.94 name=myaccount.google.com
+add address=108.177.120.94 name=myactivity.google.com
+add address=108.177.120.94 name=opensource.google.com
+add address=108.177.120.94 name=patents.google.com
+add address=108.177.120.94 name=passwords.google.com
+add address=108.177.120.94 name=peering.google.com
+add address=108.177.120.94 name=places.google.com
+add address=108.177.120.94 name=pki.google.com
+add address=108.177.120.94 name=privacy.google.com
+add address=108.177.120.94 name=relay.google.com
+add address=108.177.120.94 name=script.google.com
+add address=108.177.120.94 name=security.google.com
+add address=108.177.120.94 name=services.google.com
+add address=108.177.120.94 name=store.google.com
+add address=108.177.120.94 name=support.google.com
+add address=108.177.120.94 name=suggestqueries.google.com
+add address=108.177.120.94 name=takeout.google.com
+add address=108.177.120.94 name=upload.google.com
+add address=108.177.120.94 name=upload.video.google.com
+add address=108.177.120.94 name=upload.clients.google.com
+add address=108.177.120.94 name=uploads.clients.google.com
+add address=108.177.120.94 name=video.google.com
+add address=108.177.120.94 name=www.blog.google
+add address=108.177.120.94 name=www.googlegroups.com
+add address=108.177.120.94 name=www.googlestore.com
+add address=108.177.120.94 name=ipv4.google.com
+add address=108.177.120.94 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
@@ -778,30 +778,30 @@ add address=108.177.97.107 name=www.googlechinawebmaster.com
 # Google Service End
 
 # Google Service:Accounts Start
-add address=108.177.125.100 name=accounts.google.com
-add address=108.177.125.100 name=accounts.google.com.hk
-add address=108.177.125.100 name=accounts.google.com.tw
-add address=108.177.125.100 name=accounts.google.com.sg
-add address=108.177.125.100 name=accounts.google.cn
+add address=108.177.120.94 name=accounts.google.com
+add address=108.177.120.94 name=accounts.google.com.hk
+add address=108.177.120.94 name=accounts.google.com.tw
+add address=108.177.120.94 name=accounts.google.com.sg
+add address=108.177.120.94 name=accounts.google.cn
 # Google Service:Accounts End
 
 # Google Service:Blogsearch Start
-add address=108.177.125.100 name=blogsearch.google.com
-add address=108.177.125.100 name=blogsearch.google.com.hk
-add address=108.177.125.100 name=blogsearch.google.com.tw
-add address=108.177.125.100 name=blogsearch.google.com.sg
+add address=108.177.120.94 name=blogsearch.google.com
+add address=108.177.120.94 name=blogsearch.google.com.hk
+add address=108.177.120.94 name=blogsearch.google.com.tw
+add address=108.177.120.94 name=blogsearch.google.com.sg
 # Google Service:Blogsearch End
 
 # Google Service:Books Start
-add address=108.177.125.100 name=books.google.com
-add address=108.177.125.100 name=books.google.com.hk
-add address=108.177.125.100 name=books.google.com.tw
-add address=108.177.125.100 name=books.google.com.sg
+add address=108.177.120.94 name=books.google.com
+add address=108.177.120.94 name=books.google.com.hk
+add address=108.177.120.94 name=books.google.com.tw
+add address=108.177.120.94 name=books.google.com.sg
 # Google Service:Books End
 
 # Google GoLang Start
-add address=108.177.125.100 name=golang.org
-add address=108.177.125.100 name=golang-consa.l.google.com
+add address=108.177.120.94 name=golang.org
+add address=108.177.120.94 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Googleusercontent Start
@@ -821,7 +821,7 @@ add address=108.177.119.132 name=ig.ig.gmodules.com
 # Googleusercontent End
 
 # Google Voice Start
-add address=108.177.125.100 name=voice.google.com
+add address=108.177.120.94 name=voice.google.com
 # Google Voice End
 
 # Google Zip Start
@@ -858,18 +858,18 @@ add address=108.177.97.107 name=t0.gstatic.com
 add address=108.177.97.107 name=t1.gstatic.com
 add address=108.177.97.107 name=t2.gstatic.com
 add address=108.177.97.107 name=t3.gstatic.com
-add address=108.177.125.100 name=encrypted-tbn0.gstatic.com
-add address=108.177.125.100 name=encrypted-tbn1.gstatic.com
-add address=108.177.125.100 name=encrypted-tbn2.gstatic.com
-add address=108.177.125.100 name=encrypted-tbn3.gstatic.com
-add address=108.177.125.100 name=mt0.gstatic.com
-add address=108.177.125.100 name=mt1.gstatic.com
-add address=108.177.125.100 name=mt2.gstatic.com
-add address=108.177.125.100 name=mt3.gstatic.com
-add address=108.177.125.100 name=mt4.gstatic.com
-add address=108.177.125.100 name=mt5.gstatic.com
-add address=108.177.125.100 name=mt6.gstatic.com
-add address=108.177.125.100 name=mt7.gstatic.com
+add address=108.177.120.94 name=encrypted-tbn0.gstatic.com
+add address=108.177.120.94 name=encrypted-tbn1.gstatic.com
+add address=108.177.120.94 name=encrypted-tbn2.gstatic.com
+add address=108.177.120.94 name=encrypted-tbn3.gstatic.com
+add address=108.177.120.94 name=mt0.gstatic.com
+add address=108.177.120.94 name=mt1.gstatic.com
+add address=108.177.120.94 name=mt2.gstatic.com
+add address=108.177.120.94 name=mt3.gstatic.com
+add address=108.177.120.94 name=mt4.gstatic.com
+add address=108.177.120.94 name=mt5.gstatic.com
+add address=108.177.120.94 name=mt6.gstatic.com
+add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
 
 # Heroku Start

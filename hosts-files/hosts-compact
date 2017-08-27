@@ -26,7 +26,7 @@
 # Amazon AWS End
 
 # Android Start
-108.177.125.100	android.com www.android.com a.android.com b.android.com m.android.com tools.android.com source.android.com connectivitycheck.android.com d.android.com dev.android.com developer.android.com market.android.com r.android.com
+108.177.120.94	android.com www.android.com a.android.com b.android.com m.android.com tools.android.com source.android.com connectivitycheck.android.com d.android.com dev.android.com developer.android.com market.android.com r.android.com
 # Android End
 
 # Apkpure Start
@@ -185,25 +185,25 @@
 # Google Search Country End
 
 # Google Service Start
-108.177.125.100	domains.google environment.google aboutme.google.com ads.google.com admin.google.com apis.google.com assistant.google.com atap.google.com bpui0.google.com classroom.google.com client1.google.com client2.google.com client3.google.com client4.google.com client5.google.com client6.google.com clients1.google.com clients2.google.com clients3.google.com clients4.google.com clients5.google.com clients6.google.com contributor.google.com console.firebase.google.com cse.google.com client-channel.google.com desktop.google.com desktop1.google.com desktop2.google.com desktop3.google.com desktop4.google.com desktop5.google.com desktop6.google.com dns.google.com drive.google.com encrypted.google.com encrypted-tbn0.google.com encrypted-tbn1.google.com encrypted-tbn2.google.com encrypted-tbn3.google.com fi.google.com fit.google.com fiber.google.com fonts.google.com firebase.google.com goto.google.com gxc.google.com get.google.com gsuite.google.com history.google.com image.google.com investor.google.com isp.google.com issuetracker.google.com jmt0.google.com jmt17.google.com keep.google.com linkhelp.clients.google.com maven.google.com mapsengine.google.com myaccount.google.com myactivity.google.com opensource.google.com patents.google.com passwords.google.com peering.google.com places.google.com pki.google.com privacy.google.com relay.google.com script.google.com security.google.com services.google.com store.google.com support.google.com suggestqueries.google.com takeout.google.com upload.google.com upload.video.google.com upload.clients.google.com uploads.clients.google.com video.google.com www.blog.google www.googlegroups.com www.googlestore.com ipv4.google.com ghs-svc-https-sni.ghs-ssl.googlehosted.com
+108.177.120.94	domains.google environment.google aboutme.google.com ads.google.com admin.google.com apis.google.com assistant.google.com atap.google.com bpui0.google.com classroom.google.com client1.google.com client2.google.com client3.google.com client4.google.com client5.google.com client6.google.com clients1.google.com clients2.google.com clients3.google.com clients4.google.com clients5.google.com clients6.google.com contributor.google.com console.firebase.google.com cse.google.com client-channel.google.com desktop.google.com desktop1.google.com desktop2.google.com desktop3.google.com desktop4.google.com desktop5.google.com desktop6.google.com dns.google.com drive.google.com encrypted.google.com encrypted-tbn0.google.com encrypted-tbn1.google.com encrypted-tbn2.google.com encrypted-tbn3.google.com fi.google.com fit.google.com fiber.google.com fonts.google.com firebase.google.com goto.google.com gxc.google.com get.google.com gsuite.google.com history.google.com image.google.com investor.google.com isp.google.com issuetracker.google.com jmt0.google.com jmt17.google.com keep.google.com linkhelp.clients.google.com maven.google.com mapsengine.google.com myaccount.google.com myactivity.google.com opensource.google.com patents.google.com passwords.google.com peering.google.com places.google.com pki.google.com privacy.google.com relay.google.com script.google.com security.google.com services.google.com store.google.com support.google.com suggestqueries.google.com takeout.google.com upload.google.com upload.video.google.com upload.clients.google.com uploads.clients.google.com video.google.com www.blog.google www.googlegroups.com www.googlestore.com ipv4.google.com ghs-svc-https-sni.ghs-ssl.googlehosted.com
 108.177.125.189	0.client-channel.google.com 1.client-channel.google.com 2.client-channel.google.com 3.client-channel.google.com 4.client-channel.google.com 5.client-channel.google.com 6.client-channel.google.com 7.client-channel.google.com 8.client-channel.google.com 9.client-channel.google.com 10.client-channel.google.com 11.client-channel.google.com 12.client-channel.google.com 13.client-channel.google.com 14.client-channel.google.com 15.client-channel.google.com 16.client-channel.google.com 17.client-channel.google.com 18.client-channel.google.com 19.client-channel.google.com 20.client-channel.google.com 21.client-channel.google.com 22.client-channel.google.com 23.client-channel.google.com 24.client-channel.google.com 25.client-channel.google.com 26.client-channel.google.com 27.client-channel.google.com 28.client-channel.google.com 29.client-channel.google.com cello.client-channel.google.com
 108.177.97.107	www.googlechinawebmaster.com
 # Google Service End
 
 # Google Service:Accounts Start
-108.177.125.100	accounts.google.com accounts.google.com.hk accounts.google.com.tw accounts.google.com.sg accounts.google.cn
+108.177.120.94	accounts.google.com accounts.google.com.hk accounts.google.com.tw accounts.google.com.sg accounts.google.cn
 # Google Service:Accounts End
 
 # Google Service:Blogsearch Start
-108.177.125.100	blogsearch.google.com blogsearch.google.com.hk blogsearch.google.com.tw blogsearch.google.com.sg
+108.177.120.94	blogsearch.google.com blogsearch.google.com.hk blogsearch.google.com.tw blogsearch.google.com.sg
 # Google Service:Blogsearch End
 
 # Google Service:Books Start
-108.177.125.100	books.google.com books.google.com.hk books.google.com.tw books.google.com.sg
+108.177.120.94	books.google.com books.google.com.hk books.google.com.tw books.google.com.sg
 # Google Service:Books End
 
 # Google GoLang Start
-108.177.125.100	golang.org golang-consa.l.google.com
+108.177.120.94	golang.org golang-consa.l.google.com
 # Google GoLang End
 
 # Googleusercontent Start
@@ -211,7 +211,7 @@
 # Googleusercontent End
 
 # Google Voice Start
-108.177.125.100	voice.google.com
+108.177.120.94	voice.google.com
 # Google Voice End
 
 # Google Zip Start
@@ -223,7 +223,7 @@
 108.177.119.132	geo0.ggpht.com geo1.ggpht.com geo2.ggpht.com geo3.ggpht.com gm1.ggpht.com gm2.ggpht.com gm3.ggpht.com gm4.ggpht.com lh3.ggpht.com lh4.ggpht.com lh5.ggpht.com lh6.ggpht.com nt0.ggpht.com nt1.ggpht.com nt2.ggpht.com nt3.ggpht.com yt3.ggpht.com yt4.ggpht.com
 108.177.120.94	accounts.gstatic.com maps.gstatic.com connectivitycheck.gstatic.com play-music.gstatic.com cdn.ampproject.org
 108.177.97.107	t0.gstatic.com t1.gstatic.com t2.gstatic.com t3.gstatic.com
-108.177.125.100	encrypted-tbn0.gstatic.com encrypted-tbn1.gstatic.com encrypted-tbn2.gstatic.com encrypted-tbn3.gstatic.com mt0.gstatic.com mt1.gstatic.com mt2.gstatic.com mt3.gstatic.com mt4.gstatic.com mt5.gstatic.com mt6.gstatic.com mt7.gstatic.com
+108.177.120.94	encrypted-tbn0.gstatic.com encrypted-tbn1.gstatic.com encrypted-tbn2.gstatic.com encrypted-tbn3.gstatic.com mt0.gstatic.com mt1.gstatic.com mt2.gstatic.com mt3.gstatic.com mt4.gstatic.com mt5.gstatic.com mt6.gstatic.com mt7.gstatic.com
 # Gstatic End
 
 # Heroku Start
