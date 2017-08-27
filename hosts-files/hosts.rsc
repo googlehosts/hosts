@@ -60,6 +60,10 @@ add address=104.20.82.194 name=static.apkpure.com
 add address=104.20.82.194 name=translate.apkpure.com
 # Apkpure End
 
+# Appspot Start
+add address=64.233.188.151 name=summerofcode.withgoogle.com
+# Appspot End
+
 # Appspotpreview Start
 add address=216.58.203.244 name=author-dot-betaspike.appspot.com
 add address=216.58.203.244 name=jmoore-dot-android-experiments.appspot.com
@@ -364,6 +368,24 @@ add address=108.177.112.109 name=gmail-smtp-msa.l.google.com
 # Google Apis Start
 add address=108.177.121.201 name=android.googleapis.com
 add address=108.177.121.201 name=appengine.clients6.google.com
+add address=108.177.121.201 name=bigtableadmin.clients6.google.com
+add address=108.177.121.201 name=clouddebugger.clients6.google.com
+add address=108.177.121.201 name=cloudconfig.clients6.google.com
+add address=108.177.121.201 name=cloudpersonalization-pa.clients6.google.com
+add address=108.177.121.201 name=cloudsupport.clients6.google.com
+add address=108.177.121.201 name=cloudusersettings-pa.clients6.google.com
+add address=108.177.121.201 name=dataflow.clients6.google.com
+add address=108.177.121.201 name=datahub.clients6.google.com
+add address=108.177.121.201 name=firebasedurablelinks-pa.clients6.google.com
+add address=108.177.121.201 name=firebaserules.clients6.google.com
+add address=108.177.121.201 name=firebasestorage.clients6.google.com
+add address=108.177.121.201 name=gcmcontextualcampaign-pa.clients6.google.com
+add address=108.177.121.201 name=logging.clients6.google.com
+add address=108.177.121.201 name=memcache.clients6.google.com
+add address=108.177.121.201 name=ml.clients6.google.com
+add address=108.177.121.201 name=mobilecrashreporting.clients6.google.com
+add address=108.177.121.201 name=mobilesdk-pa.clients6.google.com
+add address=108.177.121.201 name=reminders-pa.clients6.google.com
 add address=108.177.121.201 name=ajax.googleapis.com
 add address=108.177.121.201 name=datasaver.googleapis.com
 add address=108.177.121.201 name=youtube.googleapis.com
@@ -637,8 +659,6 @@ add address=108.177.125.198 name=www.google.com.vn
 add address=108.177.125.100 name=domains.google
 add address=108.177.125.100 name=environment.google
 add address=108.177.125.100 name=aboutme.google.com
-add address=108.177.125.100 name=accounts.google.com
-add address=108.177.125.100 name=accounts.google.cn
 add address=108.177.125.100 name=ads.google.com
 add address=108.177.125.100 name=admin.google.com
 add address=108.177.125.100 name=apis.google.com
@@ -661,6 +681,7 @@ add address=108.177.125.100 name=clients6.google.com
 add address=108.177.125.100 name=contributor.google.com
 add address=108.177.125.100 name=console.firebase.google.com
 add address=108.177.125.100 name=cse.google.com
+add address=108.177.125.100 name=client-channel.google.com
 add address=108.177.125.100 name=desktop.google.com
 add address=108.177.125.100 name=desktop1.google.com
 add address=108.177.125.100 name=desktop2.google.com
@@ -691,6 +712,7 @@ add address=108.177.125.100 name=issuetracker.google.com
 add address=108.177.125.100 name=jmt0.google.com
 add address=108.177.125.100 name=jmt17.google.com
 add address=108.177.125.100 name=keep.google.com
+add address=108.177.125.100 name=linkhelp.clients.google.com
 add address=108.177.125.100 name=maven.google.com
 add address=108.177.125.100 name=mapsengine.google.com
 add address=108.177.125.100 name=myaccount.google.com
@@ -711,11 +733,62 @@ add address=108.177.125.100 name=support.google.com
 add address=108.177.125.100 name=suggestqueries.google.com
 add address=108.177.125.100 name=takeout.google.com
 add address=108.177.125.100 name=upload.google.com
+add address=108.177.125.100 name=upload.video.google.com
+add address=108.177.125.100 name=upload.clients.google.com
+add address=108.177.125.100 name=uploads.clients.google.com
 add address=108.177.125.100 name=video.google.com
 add address=108.177.125.100 name=www.blog.google
+add address=108.177.125.100 name=www.googlegroups.com
+add address=108.177.125.100 name=www.googlestore.com
 add address=108.177.125.100 name=ipv4.google.com
 add address=108.177.125.100 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
+add address=108.177.125.189 name=0.client-channel.google.com
+add address=108.177.125.189 name=1.client-channel.google.com
+add address=108.177.125.189 name=2.client-channel.google.com
+add address=108.177.125.189 name=3.client-channel.google.com
+add address=108.177.125.189 name=4.client-channel.google.com
+add address=108.177.125.189 name=5.client-channel.google.com
+add address=108.177.125.189 name=6.client-channel.google.com
+add address=108.177.125.189 name=7.client-channel.google.com
+add address=108.177.125.189 name=8.client-channel.google.com
+add address=108.177.125.189 name=9.client-channel.google.com
+add address=108.177.125.189 name=10.client-channel.google.com
+add address=108.177.125.189 name=11.client-channel.google.com
+add address=108.177.125.189 name=12.client-channel.google.com
+add address=108.177.125.189 name=13.client-channel.google.com
+add address=108.177.125.189 name=14.client-channel.google.com
+add address=108.177.125.189 name=15.client-channel.google.com
+add address=108.177.125.189 name=16.client-channel.google.com
+add address=108.177.125.189 name=17.client-channel.google.com
+add address=108.177.125.189 name=18.client-channel.google.com
+add address=108.177.125.189 name=19.client-channel.google.com
+add address=108.177.125.189 name=20.client-channel.google.com
+add address=108.177.125.189 name=21.client-channel.google.com
+add address=108.177.125.189 name=22.client-channel.google.com
+add address=108.177.125.189 name=23.client-channel.google.com
+add address=108.177.125.189 name=24.client-channel.google.com
+add address=108.177.125.189 name=25.client-channel.google.com
+add address=108.177.125.189 name=26.client-channel.google.com
+add address=108.177.125.189 name=27.client-channel.google.com
+add address=108.177.125.189 name=28.client-channel.google.com
+add address=108.177.125.189 name=29.client-channel.google.com
+add address=108.177.125.189 name=cello.client-channel.google.com
 # Google Service End
+
+# Google Service:Accounts Start
+add address=108.177.125.100 name=accounts.google.com
+add address=108.177.125.100 name=accounts.google.com.hk
+add address=108.177.125.100 name=accounts.google.com.tw
+add address=108.177.125.100 name=accounts.google.com.sg
+add address=108.177.125.100 name=accounts.google.cn
+# Google Service:Accounts End
+
+# Google Service:Blogsearch Start
+add address=108.177.125.100 name=blogsearch.google.com
+add address=108.177.125.100 name=blogsearch.google.com.hk
+add address=108.177.125.100 name=blogsearch.google.com.tw
+add address=108.177.125.100 name=blogsearch.google.com.sg
+# Google Service:Blogsearch End
 
 # Google GoLang Start
 add address=108.177.125.100 name=golang.org
@@ -734,6 +807,8 @@ add address=216.58.199.225 name=photos-ugc.l.googleusercontent.com
 add address=216.58.199.225 name=android-developers.blogspot.com
 add address=216.58.199.225 name=android-developers.blogspot.hk
 add address=216.58.199.225 name=officialandroid.blogspot.com
+add address=216.58.199.225 name=a.orkut.gmodules.com
+add address=216.58.199.225 name=ig.ig.gmodules.com
 # Googleusercontent End
 
 # Google Voice Start
