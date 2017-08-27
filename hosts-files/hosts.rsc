@@ -805,19 +805,19 @@ add address=108.177.125.100 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Googleusercontent Start
-add address=172.217.7.161 name=android.googleblog.com
-add address=172.217.7.161 name=androidstudio.googleblog.com
-add address=172.217.7.161 name=androidmarket.googleusercontent.com
-add address=172.217.7.161 name=android-developers.googleblog.com
-add address=172.217.7.161 name=youtube.googleblog.com
-add address=172.217.7.161 name=blogspot.l.googleusercontent.com
-add address=172.217.7.161 name=yt3.ggpht.com
-add address=172.217.7.161 name=photos-ugc.l.googleusercontent.com
-add address=172.217.7.161 name=android-developers.blogspot.com
-add address=172.217.7.161 name=android-developers.blogspot.hk
-add address=172.217.7.161 name=officialandroid.blogspot.com
-add address=172.217.7.161 name=a.orkut.gmodules.com
-add address=172.217.7.161 name=ig.ig.gmodules.com
+add address=108.177.119.132 name=android.googleblog.com
+add address=108.177.119.132 name=androidstudio.googleblog.com
+add address=108.177.119.132 name=androidmarket.googleusercontent.com
+add address=108.177.119.132 name=android-developers.googleblog.com
+add address=108.177.119.132 name=youtube.googleblog.com
+add address=108.177.119.132 name=blogspot.l.googleusercontent.com
+add address=108.177.119.132 name=yt3.ggpht.com
+add address=108.177.119.132 name=photos-ugc.l.googleusercontent.com
+add address=108.177.119.132 name=android-developers.blogspot.com
+add address=108.177.119.132 name=android-developers.blogspot.hk
+add address=108.177.119.132 name=officialandroid.blogspot.com
+add address=108.177.119.132 name=a.orkut.gmodules.com
+add address=108.177.119.132 name=ig.ig.gmodules.com
 # Googleusercontent End
 
 # Google Voice Start
@@ -831,28 +831,28 @@ add address=216.58.221.108 name=compress.googlezip.net
 # Google Zip End
 
 # Gstatic Start
-add address=172.217.7.161 name=geo0.ggpht.com
-add address=172.217.7.161 name=geo1.ggpht.com
-add address=172.217.7.161 name=geo2.ggpht.com
-add address=172.217.7.161 name=geo3.ggpht.com
-add address=172.217.7.161 name=gm1.ggpht.com
-add address=172.217.7.161 name=gm2.ggpht.com
-add address=172.217.7.161 name=gm3.ggpht.com
-add address=172.217.7.161 name=gm4.ggpht.com
-add address=172.217.7.161 name=lh3.ggpht.com
-add address=172.217.7.161 name=lh4.ggpht.com
-add address=172.217.7.161 name=lh5.ggpht.com
-add address=172.217.7.161 name=lh6.ggpht.com
-add address=172.217.7.161 name=nt0.ggpht.com
-add address=172.217.7.161 name=nt1.ggpht.com
-add address=172.217.7.161 name=nt2.ggpht.com
-add address=172.217.7.161 name=nt3.ggpht.com
-add address=172.217.7.161 name=yt3.ggpht.com
-add address=172.217.7.161 name=yt4.ggpht.com
-add address=172.217.25.215 name=accounts.gstatic.com
-add address=172.217.25.215 name=maps.gstatic.com
-add address=172.217.25.215 name=connectivitycheck.gstatic.com
-add address=172.217.25.215 name=play-music.gstatic.com
+add address=108.177.119.132 name=geo0.ggpht.com
+add address=108.177.119.132 name=geo1.ggpht.com
+add address=108.177.119.132 name=geo2.ggpht.com
+add address=108.177.119.132 name=geo3.ggpht.com
+add address=108.177.119.132 name=gm1.ggpht.com
+add address=108.177.119.132 name=gm2.ggpht.com
+add address=108.177.119.132 name=gm3.ggpht.com
+add address=108.177.119.132 name=gm4.ggpht.com
+add address=108.177.119.132 name=lh3.ggpht.com
+add address=108.177.119.132 name=lh4.ggpht.com
+add address=108.177.119.132 name=lh5.ggpht.com
+add address=108.177.119.132 name=lh6.ggpht.com
+add address=108.177.119.132 name=nt0.ggpht.com
+add address=108.177.119.132 name=nt1.ggpht.com
+add address=108.177.119.132 name=nt2.ggpht.com
+add address=108.177.119.132 name=nt3.ggpht.com
+add address=108.177.119.132 name=yt3.ggpht.com
+add address=108.177.119.132 name=yt4.ggpht.com
+add address=108.177.120.94 name=accounts.gstatic.com
+add address=108.177.120.94 name=maps.gstatic.com
+add address=108.177.120.94 name=connectivitycheck.gstatic.com
+add address=108.177.120.94 name=play-music.gstatic.com
 add address=108.177.97.107 name=t0.gstatic.com
 add address=108.177.97.107 name=t1.gstatic.com
 add address=108.177.97.107 name=t2.gstatic.com
