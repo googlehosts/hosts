@@ -773,6 +773,7 @@ add address=108.177.125.189 name=27.client-channel.google.com
 add address=108.177.125.189 name=28.client-channel.google.com
 add address=108.177.125.189 name=29.client-channel.google.com
 add address=108.177.125.189 name=cello.client-channel.google.com
+add address=108.177.97.107 name=www.googlechinawebmaster.com
 # Google Service End
 
 # Google Service:Accounts Start
@@ -790,25 +791,32 @@ add address=108.177.125.100 name=blogsearch.google.com.tw
 add address=108.177.125.100 name=blogsearch.google.com.sg
 # Google Service:Blogsearch End
 
+# Google Service:Books Start
+add address=108.177.125.100 name=books.google.com
+add address=108.177.125.100 name=books.google.com.hk
+add address=108.177.125.100 name=books.google.com.tw
+add address=108.177.125.100 name=books.google.com.sg
+# Google Service:Books End
+
 # Google GoLang Start
 add address=108.177.125.100 name=golang.org
 add address=108.177.125.100 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Googleusercontent Start
-add address=216.58.199.225 name=android.googleblog.com
-add address=216.58.199.225 name=androidstudio.googleblog.com
-add address=216.58.199.225 name=androidmarket.googleusercontent.com
-add address=216.58.199.225 name=android-developers.googleblog.com
-add address=216.58.199.225 name=youtube.googleblog.com
-add address=216.58.199.225 name=blogspot.l.googleusercontent.com
-add address=216.58.199.225 name=yt3.ggpht.com
-add address=216.58.199.225 name=photos-ugc.l.googleusercontent.com
-add address=216.58.199.225 name=android-developers.blogspot.com
-add address=216.58.199.225 name=android-developers.blogspot.hk
-add address=216.58.199.225 name=officialandroid.blogspot.com
-add address=216.58.199.225 name=a.orkut.gmodules.com
-add address=216.58.199.225 name=ig.ig.gmodules.com
+add address=172.217.7.161 name=android.googleblog.com
+add address=172.217.7.161 name=androidstudio.googleblog.com
+add address=172.217.7.161 name=androidmarket.googleusercontent.com
+add address=172.217.7.161 name=android-developers.googleblog.com
+add address=172.217.7.161 name=youtube.googleblog.com
+add address=172.217.7.161 name=blogspot.l.googleusercontent.com
+add address=172.217.7.161 name=yt3.ggpht.com
+add address=172.217.7.161 name=photos-ugc.l.googleusercontent.com
+add address=172.217.7.161 name=android-developers.blogspot.com
+add address=172.217.7.161 name=android-developers.blogspot.hk
+add address=172.217.7.161 name=officialandroid.blogspot.com
+add address=172.217.7.161 name=a.orkut.gmodules.com
+add address=172.217.7.161 name=ig.ig.gmodules.com
 # Googleusercontent End
 
 # Google Voice Start
@@ -820,6 +828,47 @@ add address=64.233.170.114 name=check.googlezip.net
 add address=216.58.221.108 name=proxy.googlezip.net
 add address=216.58.221.108 name=compress.googlezip.net
 # Google Zip End
+
+# Gstatic Start
+add address=172.217.7.161 name=geo0.ggpht.com
+add address=172.217.7.161 name=geo1.ggpht.com
+add address=172.217.7.161 name=geo2.ggpht.com
+add address=172.217.7.161 name=geo3.ggpht.com
+add address=172.217.7.161 name=gm1.ggpht.com
+add address=172.217.7.161 name=gm2.ggpht.com
+add address=172.217.7.161 name=gm3.ggpht.com
+add address=172.217.7.161 name=gm4.ggpht.com
+add address=172.217.7.161 name=lh3.ggpht.com
+add address=172.217.7.161 name=lh4.ggpht.com
+add address=172.217.7.161 name=lh5.ggpht.com
+add address=172.217.7.161 name=lh6.ggpht.com
+add address=172.217.7.161 name=nt0.ggpht.com
+add address=172.217.7.161 name=nt1.ggpht.com
+add address=172.217.7.161 name=nt2.ggpht.com
+add address=172.217.7.161 name=nt3.ggpht.com
+add address=172.217.7.161 name=yt3.ggpht.com
+add address=172.217.7.161 name=yt4.ggpht.com
+add address=172.217.25.215 name=accounts.gstatic.com
+add address=172.217.25.215 name=maps.gstatic.com
+add address=172.217.25.215 name=connectivitycheck.gstatic.com
+add address=172.217.25.215 name=play-music.gstatic.com
+add address=108.177.97.107 name=t0.gstatic.com
+add address=108.177.97.107 name=t1.gstatic.com
+add address=108.177.97.107 name=t2.gstatic.com
+add address=108.177.97.107 name=t3.gstatic.com
+add address=108.177.125.100 name=encrypted-tbn0.gstatic.com
+add address=108.177.125.100 name=encrypted-tbn1.gstatic.com
+add address=108.177.125.100 name=encrypted-tbn2.gstatic.com
+add address=108.177.125.100 name=encrypted-tbn3.gstatic.com
+add address=108.177.125.100 name=mt0.gstatic.com
+add address=108.177.125.100 name=mt1.gstatic.com
+add address=108.177.125.100 name=mt2.gstatic.com
+add address=108.177.125.100 name=mt3.gstatic.com
+add address=108.177.125.100 name=mt4.gstatic.com
+add address=108.177.125.100 name=mt5.gstatic.com
+add address=108.177.125.100 name=mt6.gstatic.com
+add address=108.177.125.100 name=mt7.gstatic.com
+# Gstatic End
 
 # Heroku Start
 add address=52.1.240.62 name=id.heroku.com
