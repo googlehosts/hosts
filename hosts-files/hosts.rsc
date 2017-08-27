@@ -853,6 +853,7 @@ add address=108.177.120.94 name=accounts.gstatic.com
 add address=108.177.120.94 name=maps.gstatic.com
 add address=108.177.120.94 name=connectivitycheck.gstatic.com
 add address=108.177.120.94 name=play-music.gstatic.com
+add address=108.177.120.94 name=cdn.ampproject.org
 add address=108.177.97.107 name=t0.gstatic.com
 add address=108.177.97.107 name=t1.gstatic.com
 add address=108.177.97.107 name=t2.gstatic.com
