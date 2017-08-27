@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-26
+# Last updated: 2017-08-27
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -360,11 +360,12 @@
 # Gmail SMTP/POP/IMAP End
 
 # Google Apis Start
-216.58.200.192	android.googleapis.com
-216.58.200.192	ajax.googleapis.com
-216.58.200.192	datasaver.googleapis.com
-216.58.200.192	youtube.googleapis.com
-216.58.200.192	youtubei.googleapis.com
+108.177.121.201	android.googleapis.com
+108.177.121.201	appengine.clients6.google.com
+108.177.121.201	ajax.googleapis.com
+108.177.121.201	datasaver.googleapis.com
+108.177.121.201	youtube.googleapis.com
+108.177.121.201	youtubei.googleapis.com
 # Google Apis End
 
 # Google Code Start
@@ -372,6 +373,8 @@
 108.177.125.82	android.googlesource.com
 108.177.125.82	chromium.googlesource.com
 108.177.125.82	android-review.googlesource.com
+108.177.125.82	gcr.io
+108.177.125.82	www.gcr.io
 # Google Code End
 
 # Google Country Start
@@ -557,6 +560,434 @@
 108.177.125.198	google.com.vc
 108.177.125.198	google.com.vn
 # Google Country End
+
+# Google Search Country Start
+108.177.125.198	www.google.com
+108.177.125.198	www.google.com.af
+108.177.125.198	www.google.com.ag
+108.177.125.198	www.google.com.ai
+108.177.125.198	www.google.com.ar
+108.177.125.198	www.google.com.au
+108.177.125.198	www.google.com.bd
+108.177.125.198	www.google.com.bh
+108.177.125.198	www.google.com.bn
+108.177.125.198	www.google.com.bo
+108.177.125.198	www.google.com.br
+108.177.125.198	www.google.com.by
+108.177.125.198	www.google.com.bz
+108.177.125.198	www.google.com.co
+108.177.125.198	www.google.com.co.jp
+108.177.125.198	www.google.com.cu
+108.177.125.198	www.google.com.cy
+108.177.125.198	www.google.com.do
+108.177.125.198	www.google.com.ec
+108.177.125.198	www.google.com.eg
+108.177.125.198	www.google.com.et
+108.177.125.198	www.google.com.fj
+108.177.125.198	www.google.com.ge
+108.177.125.198	www.google.com.gh
+108.177.125.198	www.google.com.gi
+108.177.125.198	www.google.com.gr
+108.177.125.198	www.google.com.gt
+108.177.125.198	www.google.com.hk
+108.177.125.198	www.google.com.iq
+108.177.125.198	www.google.com.jm
+108.177.125.198	www.google.com.jo
+108.177.125.198	www.google.com.kh
+108.177.125.198	www.google.com.kw
+108.177.125.198	www.google.com.lb
+108.177.125.198	www.google.com.ly
+108.177.125.198	www.google.com.mm
+108.177.125.198	www.google.com.mt
+108.177.125.198	www.google.com.mx
+108.177.125.198	www.google.com.my
+108.177.125.198	www.google.com.na
+108.177.125.198	www.google.com.nf
+108.177.125.198	www.google.com.ng
+108.177.125.198	www.google.com.ni
+108.177.125.198	www.google.com.np
+108.177.125.198	www.google.com.nr
+108.177.125.198	www.google.com.om
+108.177.125.198	www.google.com.pa
+108.177.125.198	www.google.com.pe
+108.177.125.198	www.google.com.pg
+108.177.125.198	www.google.com.ph
+108.177.125.198	www.google.com.pk
+108.177.125.198	www.google.com.pr
+108.177.125.198	www.google.com.py
+108.177.125.198	www.google.com.qa
+108.177.125.198	www.google.com.ru
+108.177.125.198	www.google.com.sa
+108.177.125.198	www.google.com.sb
+108.177.125.198	www.google.com.sg
+108.177.125.198	www.google.com.sl
+108.177.125.198	www.google.com.sv
+108.177.125.198	www.google.com.tj
+108.177.125.198	www.google.com.tr
+108.177.125.198	www.google.com.tw
+108.177.125.198	www.google.com.ua
+108.177.125.198	www.google.com.uy
+108.177.125.198	www.google.com.vc
+108.177.125.198	www.google.com.vn
+# Google Search Country End
+
+# Google Service Start
+108.177.125.100	domains.google
+108.177.125.100	environment.google
+108.177.125.100	aboutme.google.com
+108.177.125.100	accounts.google.com
+108.177.125.100	accounts.google.cn
+108.177.125.100	ads.google.com
+108.177.125.100	admin.google.com
+108.177.125.100	apis.google.com
+108.177.125.100	assistant.google.com
+108.177.125.100	atap.google.com
+108.177.125.100	bpui0.google.com
+108.177.125.100	classroom.google.com
+108.177.125.100	client1.google.com
+108.177.125.100	client2.google.com
+108.177.125.100	client3.google.com
+108.177.125.100	client4.google.com
+108.177.125.100	client5.google.com
+108.177.125.100	client6.google.com
+108.177.125.100	clients1.google.com
+108.177.125.100	clients2.google.com
+108.177.125.100	clients3.google.com
+108.177.125.100	clients4.google.com
+108.177.125.100	clients5.google.com
+108.177.125.100	clients6.google.com
+108.177.125.100	contributor.google.com
+108.177.125.100	console.firebase.google.com
+108.177.125.100	cse.google.com
+108.177.125.100	desktop.google.com
+108.177.125.100	desktop1.google.com
+108.177.125.100	desktop2.google.com
+108.177.125.100	desktop3.google.com
+108.177.125.100	desktop4.google.com
+108.177.125.100	desktop5.google.com
+108.177.125.100	desktop6.google.com
+108.177.125.100	dns.google.com
+108.177.125.100	encrypted.google.com
+108.177.125.100	encrypted-tbn0.google.com
+108.177.125.100	encrypted-tbn1.google.com
+108.177.125.100	encrypted-tbn2.google.com
+108.177.125.100	encrypted-tbn3.google.com
+108.177.125.100	fi.google.com
+108.177.125.100	fit.google.com
+108.177.125.100	fiber.google.com
+108.177.125.100	fonts.google.com
+108.177.125.100	firebase.google.com
+108.177.125.100	goto.google.com
+108.177.125.100	gxc.google.com
+108.177.125.100	get.google.com
+108.177.125.100	gsuite.google.com
+108.177.125.100	history.google.com
+108.177.125.100	image.google.com
+108.177.125.100	investor.google.com
+108.177.125.100	isp.google.com
+108.177.125.100	issuetracker.google.com
+108.177.125.100	jmt0.google.com
+108.177.125.100	jmt17.google.com
+108.177.125.100	keep.google.com
+108.177.125.100	maven.google.com
+108.177.125.100	mapsengine.google.com
+108.177.125.100	myaccount.google.com
+108.177.125.100	myactivity.google.com
+108.177.125.100	opensource.google.com
+108.177.125.100	patents.google.com
+108.177.125.100	passwords.google.com
+108.177.125.100	peering.google.com
+108.177.125.100	places.google.com
+108.177.125.100	pki.google.com
+108.177.125.100	privacy.google.com
+108.177.125.100	relay.google.com
+108.177.125.100	script.google.com
+108.177.125.100	security.google.com
+108.177.125.100	services.google.com
+108.177.125.100	store.google.com
+108.177.125.100	support.google.com
+108.177.125.100	suggestqueries.google.com
+108.177.125.100	takeout.google.com
+108.177.125.100	upload.google.com
+108.177.125.100	video.google.com
+108.177.125.100	www.blog.google
+108.177.125.100	ipv4.google.com
+108.177.125.100	ghs-svc-https-sni.ghs-ssl.googlehosted.com
+# Google Service End
+
+# Google GoLang Start
+108.177.125.100	golang.org
+108.177.125.100	golang-consa.l.google.com
+# Google GoLang End
+
+# Googleusercontent Start
+216.58.199.225	android.googleblog.com
+216.58.199.225	androidstudio.googleblog.com
+216.58.199.225	androidmarket.googleusercontent.com
+216.58.199.225	android-developers.googleblog.com
+216.58.199.225	youtube.googleblog.com
+216.58.199.225	blogspot.l.googleusercontent.com
+216.58.199.225	yt3.ggpht.com
+216.58.199.225	photos-ugc.l.googleusercontent.com
+216.58.199.225	android-developers.blogspot.com
+216.58.199.225	android-developers.blogspot.hk
+216.58.199.225	officialandroid.blogspot.com
+# Googleusercontent End
+
+# Google Voice Start
+108.177.125.100	voice.google.com
+# Google Voice End
+
+# Google Zip Start
+64.233.170.114	check.googlezip.net
+216.58.221.108	proxy.googlezip.net
+216.58.221.108	compress.googlezip.net
+# Google Zip End
+
+# Heroku Start
+52.1.240.62	id.heroku.com
+# Heroku End
+
+# HumbleBundle Start
+54.250.252.63	humble.pubnub.com
+104.20.34.236	humblebundle.com
+203.69.81.33	humblebundle-a.akamaihd.net
+52.36.140.12	pubnub.com
+216.58.200.243	www.humblebundle.com
+# HumbleBundle End
+
+# imgur Start
+151.101.100.193	imgur.com
+151.101.100.193	m.imgur.com
+151.101.100.193	api.imgur.com
+151.101.100.193	www.imgur.com
+151.101.100.193	store.imgur.com
+151.101.100.193	s.imgur.com
+151.101.100.193	p.imgur.com
+151.101.100.193	i.imgur.com
+# imgur End
+
+# Ingress Start
+54.193.15.78	appload.ingest.crittercism.com
+54.193.15.78	api.crittercism.com
+54.193.253.0	txn.ingest.crittercism.com
+169.44.145.200	bootstrap.upsight-api.com
+169.44.145.200	single.upsight-api.com
+169.44.145.200	batch.upsight-api.com
+# Ingress End
+
+# Instagram Start
+52.45.94.103	instagram.com
+157.240.11.52	www.instagram.com
+157.240.11.52	badges.instagram.com
+157.240.11.52	scontent.cdninstagram.com
+157.240.11.52	scontent-b.cdninstagram.com
+157.240.11.52	graph.instagram.com
+31.13.70.52	logger.instagram.com
+31.13.70.52	maps.instagram.com
+31.13.77.52	scontent-a.cdninstagram.com
+52.45.94.103	i.instagram.com
+52.45.94.103	api.instagram.com
+31.13.76.84	help.instagram.com
+31.13.76.84	scontent-sea1-1.cdninstagram.com
+31.13.76.84	platform.instagram.com
+66.6.32.22	blog.instagram.com
+31.13.95.48	scontent-hkg3-1.cdninstagram.com
+157.240.15.63	scontent-hkg3-2.cdninstagram.com
+31.13.78.52	scontent-sit4-1.cdninstagram.com
+# Instagram End
+
+# issuu Start
+52.72.26.162	issuu.com
+52.72.26.162	www.issuu.com
+52.72.26.162	developers.issuu.com
+52.72.26.162	page.issuu.com
+66.6.32.22	blog.issuu.com
+54.80.162.85	pingback.issuu.com
+151.101.65.63	photo.issuu.com
+151.101.65.63	image.issuu.com
+151.101.65.63	content.issuu.com
+151.101.65.63	e.issuu.com
+151.101.65.63	static.issuu.com
+151.101.65.63	skin.issuu.com
+52.1.172.141	api.issuu.com
+34.205.198.51	help.issuu.com
+# issuu End
+
+# Kobo Start
+128.127.159.1	magazines-adf.kobo.com
+157.55.176.209	social.kobobooks.com
+191.236.35.232	storedownloads.kobo.com
+191.238.229.33	discovery.kobobooks.com
+204.87.189.12	images.kobobooks.com
+204.87.189.201	ftp.kobobooks.com
+204.87.189.51	kobobooks.com
+204.87.189.51	prod-www.kobobooks.com
+204.87.189.71	ecimagest.kobobooks.com
+204.87.189.87	prod-store.kobobooks.com
+204.87.189.92	kobo.com
+13.92.121.97	kobomaintenance.kobobooks.com
+23.227.38.64	au.kobobooks.com
+23.227.38.64	ca-fr.kobobooks.com
+23.227.38.64	ca.kobobooks.com
+23.227.38.64	corporate.kobobooks.com
+23.227.38.64	de.kobobooks.com
+23.227.38.64	es.kobobooks.com
+23.227.38.64	fr.kobobooks.com
+23.227.38.64	gl.kobobooks.com
+23.227.38.64	it.kobobooks.com
+23.227.38.64	nz.kobobooks.com
+23.227.38.64	pt.kobobooks.com
+23.227.38.64	uk.kobobooks.com
+23.227.38.64	us.kobobooks.com
+23.222.170.74	akimages.kobobooks.com
+23.222.170.74	api.kobobooks.com
+23.222.170.74	esmx.kobobooks.com
+23.222.170.74	esmxsecure.kobobooks.com
+23.222.170.74	merch.kobobooks.com
+23.222.170.74	mobile.kobobooks.com
+23.222.170.74	mobilepartner.kobobooks.com
+23.222.170.74	mobilestage.kobobooks.com
+23.222.170.74	partner.kobobooks.com
+23.222.170.74	ptbr.kobobooks.com
+23.222.170.74	ptbrsecure.kobobooks.com
+23.222.170.74	ratingsapi.kobobooks.com
+23.222.170.74	read.kobobooks.com
+23.222.170.74	secure.kobobooks.com
+23.222.170.74	services.kobobooks.com
+23.222.170.74	store.kobobooks.com
+23.222.170.74	tr.kobobooks.com
+23.222.170.74	webstore.kobobooks.com
+23.222.170.74	webstore2.kobobooks.com
+23.222.170.74	writinglife.kobobooks.com
+23.222.170.74	www.kobobooks.com
+23.222.171.40	assets.kobo.com
+23.222.171.40	de.kobo.com
+23.222.171.40	es.kobo.com
+23.222.171.40	fr.kobo.com
+23.222.171.40	it.kobo.com
+23.222.171.40	ja.kobo.com
+23.222.171.40	nl.kobo.com
+23.222.171.40	pt.kobo.com
+23.222.171.40	ptbr.kobo.com
+23.222.171.40	read.kobo.com
+23.222.171.40	rum.kobo.com
+23.222.171.40	stage.kobo.com
+23.222.171.40	storeapi.kobo.com
+23.222.171.40	tw.kobo.com
+23.66.137.9	www.kobo.com
+40.114.86.114	sorry.kobo.com
+75.98.196.99	media.kobobooks.com
+96.6.122.224	contentdownloads.kobobooks.com
+96.6.122.224	get.kobobooks.com
+96.6.122.224	ecimages.kobobooks.com
+96.6.122.224	ecmimages.kobobooks.com
+89.187.65.68	insiders.kobo.com
+# Kobo End
+
+# Pinterest Start
+151.101.0.84	pinterest.com
+151.101.0.84	www.pinterest.com
+151.101.0.84	about.pinterest.com
+151.101.0.84	blog.pinterest.com
+151.101.0.84	ads.pinterest.com
+151.101.0.84	api.pinterest.com
+151.101.0.84	analytics.pinterest.com
+151.101.0.84	br.pinterest.com
+151.101.0.84	business.pinterest.com
+151.101.0.84	canary.pinterest.com
+151.101.0.84	cz.pinterest.com
+151.101.0.84	de.pinterest.com
+151.101.0.84	dk.pinterest.com
+151.101.0.84	es.pinterest.com
+151.101.0.84	fi.pinterest.com
+151.101.0.84	fr.pinterest.com
+151.101.0.84	gb.pinterest.com
+151.101.0.84	gr.pinterest.com
+151.101.0.84	help.pinterest.com
+151.101.0.84	hu.pinterest.com
+151.101.0.84	id.pinterest.com
+151.101.0.84	in.pinterest.com
+151.101.0.84	it.pinterest.com
+151.101.0.84	jp.pinterest.com
+151.101.0.84	kr.pinterest.com
+151.101.0.84	media-cache-ec0.pinterest.com
+151.101.0.84	pl.pinterest.com
+151.101.0.84	pt.pinterest.com
+151.101.0.84	ro.pinterest.com
+151.101.0.84	ru.pinterest.com
+151.101.0.84	se.pinterest.com
+151.101.0.84	sk.pinterest.com
+151.101.0.84	tr.pinterest.com
+151.101.0.84	uk.pinterest.com
+151.101.0.84	no.pinterest.com
+151.101.0.84	nl.pinterest.com
+151.101.0.84	engineering.pinterest.com
+54.175.213.141	dev.pinterest.com
+34.213.142.132	post.pinterest.com
+52.22.159.107	trk.pinterest.com
+54.165.175.178	developers.pinterest.com
+# Pinterest End
+
+# Telegram Start
+149.154.166.138	telegram.org
+149.154.166.138	desktop.telegram.org
+149.154.166.138	core.telegram.org
+149.154.166.138	web.telegram.org
+149.154.167.216	api.telegram.org
+149.154.175.16	pluto.web.telegram.org
+149.154.175.16	pluto-1.web.telegram.org
+149.154.167.25	venus.web.telegram.org
+149.154.167.25	venus-1.web.telegram.org
+149.154.175.115	aurora.web.telegram.org
+149.154.175.115	aurora-1.web.telegram.org
+149.154.167.124	vesta.web.telegram.org
+149.154.167.124	vesta-1.web.telegram.org
+149.154.171.22	flora.web.telegram.org
+149.154.171.22	flora-1.web.telegram.org
+149.154.167.118	telegram.me
+149.154.167.118	t.me
+# Telegram End
+
+# Wikipedia Start
+198.35.26.96	www.wikipedia.org
+198.35.26.96	login.wikimedia.org
+198.35.26.96	wuu.wikipedia.org
+198.35.26.96	zh-yue.wikipedia.org
+198.35.26.96	zh.wikipedia.org
+198.35.26.96	zh.m.wikipedia.org
+198.35.26.112	upload.wikimedia.org
+# Wikipedia End
+
+# Youtube Start
+108.177.125.136	youtube.com
+108.177.125.136	au.youtube.com
+108.177.125.136	ca.youtube.com
+108.177.125.136	de.youtube.com
+108.177.125.136	jp.youtube.com
+108.177.125.136	ru.youtube.com
+108.177.125.136	tw.youtube.com
+108.177.125.136	uk.youtube.com
+108.177.125.136	www.youtube.com
+108.177.125.136	youtube-ui.l.google.com
+108.177.125.136	m.youtube.com
+108.177.125.136	ads.youtube.com
+108.177.125.136	accounts.youtube.com
+108.177.125.136	analytics.youtube.com
+108.177.125.136	apiblog.youtube.com
+108.177.125.136	creatoracademy.youtube.com
+108.177.125.136	s.youtube.com
+108.177.125.136	gdata.youtube.com
+108.177.125.136	gaming.youtube.com
+108.177.125.136	help.youtube.com
+108.177.125.136	img.youtube.com
+108.177.125.136	insight.youtube.com
+108.177.125.136	upload.youtube.com
+108.177.125.136	stage.gdata.youtube.com
+108.177.125.136	tv.youtube.com
+108.177.125.136	uploads.stage.gdata.youtube.com
+108.177.125.136	www.youtube-nocookie.com
+# Youtube End
 
 # Google Drive Start
 203.208.41.41	redirector.c.drive.google.com
@@ -1263,164 +1694,6 @@
 74.125.106.140	r6---sn-oguesnze.c.drive.google.com
 # Google Drive End
 
-# Google Search Country Start
-108.177.125.198	www.google.com
-108.177.125.198	www.google.com.af
-108.177.125.198	www.google.com.ag
-108.177.125.198	www.google.com.ai
-108.177.125.198	www.google.com.ar
-108.177.125.198	www.google.com.au
-108.177.125.198	www.google.com.bd
-108.177.125.198	www.google.com.bh
-108.177.125.198	www.google.com.bn
-108.177.125.198	www.google.com.bo
-108.177.125.198	www.google.com.br
-108.177.125.198	www.google.com.by
-108.177.125.198	www.google.com.bz
-108.177.125.198	www.google.com.co
-108.177.125.198	www.google.com.co.jp
-108.177.125.198	www.google.com.cu
-108.177.125.198	www.google.com.cy
-108.177.125.198	www.google.com.do
-108.177.125.198	www.google.com.ec
-108.177.125.198	www.google.com.eg
-108.177.125.198	www.google.com.et
-108.177.125.198	www.google.com.fj
-108.177.125.198	www.google.com.ge
-108.177.125.198	www.google.com.gh
-108.177.125.198	www.google.com.gi
-108.177.125.198	www.google.com.gr
-108.177.125.198	www.google.com.gt
-108.177.125.198	www.google.com.hk
-108.177.125.198	www.google.com.iq
-108.177.125.198	www.google.com.jm
-108.177.125.198	www.google.com.jo
-108.177.125.198	www.google.com.kh
-108.177.125.198	www.google.com.kw
-108.177.125.198	www.google.com.lb
-108.177.125.198	www.google.com.ly
-108.177.125.198	www.google.com.mm
-108.177.125.198	www.google.com.mt
-108.177.125.198	www.google.com.mx
-108.177.125.198	www.google.com.my
-108.177.125.198	www.google.com.na
-108.177.125.198	www.google.com.nf
-108.177.125.198	www.google.com.ng
-108.177.125.198	www.google.com.ni
-108.177.125.198	www.google.com.np
-108.177.125.198	www.google.com.nr
-108.177.125.198	www.google.com.om
-108.177.125.198	www.google.com.pa
-108.177.125.198	www.google.com.pe
-108.177.125.198	www.google.com.pg
-108.177.125.198	www.google.com.ph
-108.177.125.198	www.google.com.pk
-108.177.125.198	www.google.com.pr
-108.177.125.198	www.google.com.py
-108.177.125.198	www.google.com.qa
-108.177.125.198	www.google.com.ru
-108.177.125.198	www.google.com.sa
-108.177.125.198	www.google.com.sb
-108.177.125.198	www.google.com.sg
-108.177.125.198	www.google.com.sl
-108.177.125.198	www.google.com.sv
-108.177.125.198	www.google.com.tj
-108.177.125.198	www.google.com.tr
-108.177.125.198	www.google.com.tw
-108.177.125.198	www.google.com.ua
-108.177.125.198	www.google.com.uy
-108.177.125.198	www.google.com.vc
-108.177.125.198	www.google.com.vn
-# Google Search Country End
-
-# Google Service Start
-108.177.125.100	domains.google
-108.177.125.100	environment.google
-108.177.125.100	aboutme.google.com
-108.177.125.100	accounts.google.com
-108.177.125.100	accounts.google.cn
-108.177.125.100	ads.google.com
-108.177.125.100	admin.google.com
-108.177.125.100	apis.google.com
-108.177.125.100	assistant.google.com
-108.177.125.100	atap.google.com
-108.177.125.100	bpui0.google.com
-108.177.125.100	classroom.google.com
-108.177.125.100	client1.google.com
-108.177.125.100	client2.google.com
-108.177.125.100	client3.google.com
-108.177.125.100	client4.google.com
-108.177.125.100	client5.google.com
-108.177.125.100	client6.google.com
-108.177.125.100	clients1.google.com
-108.177.125.100	clients2.google.com
-108.177.125.100	clients3.google.com
-108.177.125.100	clients4.google.com
-108.177.125.100	clients5.google.com
-108.177.125.100	clients6.google.com
-108.177.125.100	contributor.google.com
-108.177.125.100	cse.google.com
-108.177.125.100	desktop.google.com
-108.177.125.100	desktop1.google.com
-108.177.125.100	desktop2.google.com
-108.177.125.100	desktop3.google.com
-108.177.125.100	desktop4.google.com
-108.177.125.100	desktop5.google.com
-108.177.125.100	desktop6.google.com
-108.177.125.100	dns.google.com
-108.177.125.100	encrypted.google.com
-108.177.125.100	encrypted-tbn0.google.com
-108.177.125.100	encrypted-tbn1.google.com
-108.177.125.100	encrypted-tbn2.google.com
-108.177.125.100	encrypted-tbn3.google.com
-108.177.125.100	fi.google.com
-108.177.125.100	fit.google.com
-108.177.125.100	fiber.google.com
-108.177.125.100	fonts.google.com
-108.177.125.100	firebase.google.com
-108.177.125.100	goto.google.com
-108.177.125.100	gxc.google.com
-108.177.125.100	get.google.com
-108.177.125.100	gsuite.google.com
-108.177.125.100	history.google.com
-108.177.125.100	image.google.com
-108.177.125.100	investor.google.com
-108.177.125.100	isp.google.com
-108.177.125.100	issuetracker.google.com
-108.177.125.100	jmt0.google.com
-108.177.125.100	jmt17.google.com
-108.177.125.100	keep.google.com
-108.177.125.100	maven.google.com
-108.177.125.100	mapsengine.google.com
-108.177.125.100	myaccount.google.com
-108.177.125.100	myactivity.google.com
-108.177.125.100	opensource.google.com
-108.177.125.100	patents.google.com
-108.177.125.100	passwords.google.com
-108.177.125.100	peering.google.com
-108.177.125.100	places.google.com
-108.177.125.100	pki.google.com
-108.177.125.100	privacy.google.com
-108.177.125.100	relay.google.com
-108.177.125.100	script.google.com
-108.177.125.100	security.google.com
-108.177.125.100	services.google.com
-108.177.125.100	store.google.com
-108.177.125.100	support.google.com
-108.177.125.100	suggestqueries.google.com
-108.177.125.100	takeout.google.com
-108.177.125.100	upload.google.com
-108.177.125.100	video.google.com
-108.177.125.100	www.blog.google
-108.177.125.100	ipv4.google.com
-108.177.125.100	ghs-svc-https-sni.ghs-ssl.googlehosted.com
-# Google Service End
-
-# Google GoLang Start
-108.177.125.100	golang.org
-108.177.125.100	golang-consa.l.google.com
-# Google GoLang End
-
 # Google PLay Start
 203.208.41.40	redirector.gvt1.com
 194.9.24.76	r1---sn-5uh5o-f5f6.gvt1.com
@@ -2125,275 +2398,6 @@
 74.125.106.139	r5---sn-oguesnze.gvt1.com
 74.125.106.140	r6---sn-oguesnze.gvt1.com
 # Google PLay End
-
-# Googleusercontent Start
-216.58.199.225	android.googleblog.com
-216.58.199.225	androidstudio.googleblog.com
-216.58.199.225	androidmarket.googleusercontent.com
-216.58.199.225	android-developers.googleblog.com
-216.58.199.225	youtube.googleblog.com
-216.58.199.225	blogspot.l.googleusercontent.com
-216.58.199.225	yt3.ggpht.com
-216.58.199.225	photos-ugc.l.googleusercontent.com
-216.58.199.225	android-developers.blogspot.com
-216.58.199.225	android-developers.blogspot.hk
-216.58.199.225	officialandroid.blogspot.com
-# Googleusercontent End
-
-# Google Voice Start
-108.177.125.100	voice.google.com
-# Google Voice End
-
-# Google Zip Start
-64.233.170.114	check.googlezip.net
-216.58.221.108	proxy.googlezip.net
-216.58.221.108	compress.googlezip.net
-# Google Zip End
-
-# Heroku Start
-52.1.240.62	id.heroku.com
-# Heroku End
-
-# HumbleBundle Start
-54.250.252.63	humble.pubnub.com
-104.20.34.236	humblebundle.com
-203.69.81.33	humblebundle-a.akamaihd.net
-52.36.140.12	pubnub.com
-216.58.200.243	www.humblebundle.com
-# HumbleBundle End
-
-# imgur Start
-151.101.100.193	imgur.com
-151.101.100.193	m.imgur.com
-151.101.100.193	api.imgur.com
-151.101.100.193	www.imgur.com
-151.101.100.193	store.imgur.com
-151.101.100.193	s.imgur.com
-151.101.100.193	p.imgur.com
-151.101.100.193	i.imgur.com
-# imgur End
-
-# Ingress Start
-54.193.15.78	appload.ingest.crittercism.com
-54.193.15.78	api.crittercism.com
-54.193.253.0	txn.ingest.crittercism.com
-169.44.145.200	bootstrap.upsight-api.com
-169.44.145.200	single.upsight-api.com
-169.44.145.200	batch.upsight-api.com
-# Ingress End
-
-# Instagram Start
-52.45.94.103	instagram.com
-157.240.11.52	www.instagram.com
-157.240.11.52	badges.instagram.com
-157.240.11.52	scontent.cdninstagram.com
-157.240.11.52	scontent-b.cdninstagram.com
-157.240.11.52	graph.instagram.com
-31.13.70.52	logger.instagram.com
-31.13.70.52	maps.instagram.com
-31.13.77.52	scontent-a.cdninstagram.com
-52.45.94.103	i.instagram.com
-52.45.94.103	api.instagram.com
-31.13.76.84	help.instagram.com
-31.13.76.84	scontent-sea1-1.cdninstagram.com
-31.13.76.84	platform.instagram.com
-66.6.32.22	blog.instagram.com
-31.13.95.48	scontent-hkg3-1.cdninstagram.com
-157.240.15.63	scontent-hkg3-2.cdninstagram.com
-31.13.78.52	scontent-sit4-1.cdninstagram.com
-# Instagram End
-
-# issuu Start
-52.72.26.162	issuu.com
-52.72.26.162	www.issuu.com
-52.72.26.162	developers.issuu.com
-52.72.26.162	page.issuu.com
-66.6.32.22	blog.issuu.com
-54.80.162.85	pingback.issuu.com
-151.101.65.63	photo.issuu.com
-151.101.65.63	image.issuu.com
-151.101.65.63	content.issuu.com
-151.101.65.63	e.issuu.com
-151.101.65.63	static.issuu.com
-151.101.65.63	skin.issuu.com
-52.1.172.141	api.issuu.com
-34.205.198.51	help.issuu.com
-# issuu End
-
-# Kobo Start
-128.127.159.1	magazines-adf.kobo.com
-157.55.176.209	social.kobobooks.com
-191.236.35.232	storedownloads.kobo.com
-191.238.229.33	discovery.kobobooks.com
-204.87.189.12	images.kobobooks.com
-204.87.189.201	ftp.kobobooks.com
-204.87.189.51	kobobooks.com
-204.87.189.51	prod-www.kobobooks.com
-204.87.189.71	ecimagest.kobobooks.com
-204.87.189.87	prod-store.kobobooks.com
-204.87.189.92	kobo.com
-13.92.121.97	kobomaintenance.kobobooks.com
-23.227.38.64	au.kobobooks.com
-23.227.38.64	ca-fr.kobobooks.com
-23.227.38.64	ca.kobobooks.com
-23.227.38.64	corporate.kobobooks.com
-23.227.38.64	de.kobobooks.com
-23.227.38.64	es.kobobooks.com
-23.227.38.64	fr.kobobooks.com
-23.227.38.64	gl.kobobooks.com
-23.227.38.64	it.kobobooks.com
-23.227.38.64	nz.kobobooks.com
-23.227.38.64	pt.kobobooks.com
-23.227.38.64	uk.kobobooks.com
-23.227.38.64	us.kobobooks.com
-23.222.170.74	akimages.kobobooks.com
-23.222.170.74	api.kobobooks.com
-23.222.170.74	esmx.kobobooks.com
-23.222.170.74	esmxsecure.kobobooks.com
-23.222.170.74	merch.kobobooks.com
-23.222.170.74	mobile.kobobooks.com
-23.222.170.74	mobilepartner.kobobooks.com
-23.222.170.74	mobilestage.kobobooks.com
-23.222.170.74	partner.kobobooks.com
-23.222.170.74	ptbr.kobobooks.com
-23.222.170.74	ptbrsecure.kobobooks.com
-23.222.170.74	ratingsapi.kobobooks.com
-23.222.170.74	read.kobobooks.com
-23.222.170.74	secure.kobobooks.com
-23.222.170.74	services.kobobooks.com
-23.222.170.74	store.kobobooks.com
-23.222.170.74	tr.kobobooks.com
-23.222.170.74	webstore.kobobooks.com
-23.222.170.74	webstore2.kobobooks.com
-23.222.170.74	writinglife.kobobooks.com
-23.222.170.74	www.kobobooks.com
-23.222.171.40	assets.kobo.com
-23.222.171.40	de.kobo.com
-23.222.171.40	es.kobo.com
-23.222.171.40	fr.kobo.com
-23.222.171.40	it.kobo.com
-23.222.171.40	ja.kobo.com
-23.222.171.40	nl.kobo.com
-23.222.171.40	pt.kobo.com
-23.222.171.40	ptbr.kobo.com
-23.222.171.40	read.kobo.com
-23.222.171.40	rum.kobo.com
-23.222.171.40	stage.kobo.com
-23.222.171.40	storeapi.kobo.com
-23.222.171.40	tw.kobo.com
-23.66.137.9	www.kobo.com
-40.114.86.114	sorry.kobo.com
-75.98.196.99	media.kobobooks.com
-96.6.122.224	contentdownloads.kobobooks.com
-96.6.122.224	get.kobobooks.com
-96.6.122.224	ecimages.kobobooks.com
-96.6.122.224	ecmimages.kobobooks.com
-89.187.65.68	insiders.kobo.com
-# Kobo End
-
-# Pinterest Start
-151.101.0.84	pinterest.com
-151.101.0.84	www.pinterest.com
-151.101.0.84	about.pinterest.com
-151.101.0.84	blog.pinterest.com
-151.101.0.84	ads.pinterest.com
-151.101.0.84	api.pinterest.com
-151.101.0.84	analytics.pinterest.com
-151.101.0.84	br.pinterest.com
-151.101.0.84	business.pinterest.com
-151.101.0.84	canary.pinterest.com
-151.101.0.84	cz.pinterest.com
-151.101.0.84	de.pinterest.com
-151.101.0.84	dk.pinterest.com
-151.101.0.84	es.pinterest.com
-151.101.0.84	fi.pinterest.com
-151.101.0.84	fr.pinterest.com
-151.101.0.84	gb.pinterest.com
-151.101.0.84	gr.pinterest.com
-151.101.0.84	help.pinterest.com
-151.101.0.84	hu.pinterest.com
-151.101.0.84	id.pinterest.com
-151.101.0.84	in.pinterest.com
-151.101.0.84	it.pinterest.com
-151.101.0.84	jp.pinterest.com
-151.101.0.84	kr.pinterest.com
-151.101.0.84	media-cache-ec0.pinterest.com
-151.101.0.84	pl.pinterest.com
-151.101.0.84	pt.pinterest.com
-151.101.0.84	ro.pinterest.com
-151.101.0.84	ru.pinterest.com
-151.101.0.84	se.pinterest.com
-151.101.0.84	sk.pinterest.com
-151.101.0.84	tr.pinterest.com
-151.101.0.84	uk.pinterest.com
-151.101.0.84	no.pinterest.com
-151.101.0.84	nl.pinterest.com
-151.101.0.84	engineering.pinterest.com
-54.175.213.141	dev.pinterest.com
-34.213.142.132	post.pinterest.com
-52.22.159.107	trk.pinterest.com
-54.165.175.178	developers.pinterest.com
-# Pinterest End
-
-# Telegram Start
-149.154.166.138	telegram.org
-149.154.166.138	desktop.telegram.org
-149.154.166.138	core.telegram.org
-149.154.166.138	web.telegram.org
-149.154.167.216	api.telegram.org
-149.154.175.16	pluto.web.telegram.org
-149.154.175.16	pluto-1.web.telegram.org
-149.154.167.25	venus.web.telegram.org
-149.154.167.25	venus-1.web.telegram.org
-149.154.175.115	aurora.web.telegram.org
-149.154.175.115	aurora-1.web.telegram.org
-149.154.167.124	vesta.web.telegram.org
-149.154.167.124	vesta-1.web.telegram.org
-149.154.171.22	flora.web.telegram.org
-149.154.171.22	flora-1.web.telegram.org
-149.154.167.118	telegram.me
-149.154.167.118	t.me
-# Telegram End
-
-# Wikipedia Start
-198.35.26.96	www.wikipedia.org
-198.35.26.96	login.wikimedia.org
-198.35.26.96	wuu.wikipedia.org
-198.35.26.96	zh-yue.wikipedia.org
-198.35.26.96	zh.wikipedia.org
-198.35.26.96	zh.m.wikipedia.org
-198.35.26.112	upload.wikimedia.org
-# Wikipedia End
-
-# Youtube Start
-108.177.125.136	youtube.com
-108.177.125.136	au.youtube.com
-108.177.125.136	ca.youtube.com
-108.177.125.136	de.youtube.com
-108.177.125.136	jp.youtube.com
-108.177.125.136	ru.youtube.com
-108.177.125.136	tw.youtube.com
-108.177.125.136	uk.youtube.com
-108.177.125.136	www.youtube.com
-108.177.125.136	youtube-ui.l.google.com
-108.177.125.136	m.youtube.com
-108.177.125.136	ads.youtube.com
-108.177.125.136	accounts.youtube.com
-108.177.125.136	analytics.youtube.com
-108.177.125.136	apiblog.youtube.com
-108.177.125.136	creatoracademy.youtube.com
-108.177.125.136	s.youtube.com
-108.177.125.136	gdata.youtube.com
-108.177.125.136	gaming.youtube.com
-108.177.125.136	help.youtube.com
-108.177.125.136	img.youtube.com
-108.177.125.136	insight.youtube.com
-108.177.125.136	upload.youtube.com
-108.177.125.136	stage.gdata.youtube.com
-108.177.125.136	tv.youtube.com
-108.177.125.136	uploads.stage.gdata.youtube.com
-108.177.125.136	www.youtube-nocookie.com
-# Youtube End
 
 # Google Video Start
 172.217.31.96	manifest.googlevideo.com
