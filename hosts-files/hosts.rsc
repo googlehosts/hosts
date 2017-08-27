@@ -690,6 +690,7 @@ add address=108.177.125.100 name=desktop4.google.com
 add address=108.177.125.100 name=desktop5.google.com
 add address=108.177.125.100 name=desktop6.google.com
 add address=108.177.125.100 name=dns.google.com
+add address=108.177.125.100 name=drive.google.com
 add address=108.177.125.100 name=encrypted.google.com
 add address=108.177.125.100 name=encrypted-tbn0.google.com
 add address=108.177.125.100 name=encrypted-tbn1.google.com
