@@ -665,6 +665,7 @@ add address=108.177.120.94 name=apis.google.com
 add address=108.177.120.94 name=assistant.google.com
 add address=108.177.120.94 name=atap.google.com
 add address=108.177.120.94 name=bpui0.google.com
+add address=108.177.120.94 name=calendar.google.com
 add address=108.177.120.94 name=classroom.google.com
 add address=108.177.120.94 name=client1.google.com
 add address=108.177.120.94 name=client2.google.com
