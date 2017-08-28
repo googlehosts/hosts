@@ -1115,6 +1115,7 @@ add address=108.177.125.136 name=stage.gdata.youtube.com
 add address=108.177.125.136 name=tv.youtube.com
 add address=108.177.125.136 name=uploads.stage.gdata.youtube.com
 add address=108.177.125.136 name=www.youtube-nocookie.com
+add address=108.177.125.136 name=i.ytimg.com
 # Youtube End
 
 # Google Drive Start
