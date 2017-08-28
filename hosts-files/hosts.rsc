@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-27
+# Last updated: 2017-08-28
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -586,73 +586,73 @@ add address=108.177.125.198 name=google.com.vn
 # Google Country End
 
 # Google Search Country Start
-add address=108.177.121.94 name=www.google.com
-add address=108.177.121.94 name=www.google.com.af
-add address=108.177.121.94 name=www.google.com.ag
-add address=108.177.121.94 name=www.google.com.ai
-add address=108.177.121.94 name=www.google.com.ar
-add address=108.177.121.94 name=www.google.com.au
-add address=108.177.121.94 name=www.google.com.bd
-add address=108.177.121.94 name=www.google.com.bh
-add address=108.177.121.94 name=www.google.com.bn
-add address=108.177.121.94 name=www.google.com.bo
-add address=108.177.121.94 name=www.google.com.br
-add address=108.177.121.94 name=www.google.com.by
-add address=108.177.121.94 name=www.google.com.bz
-add address=108.177.121.94 name=www.google.com.co
-add address=108.177.121.94 name=www.google.com.co.jp
-add address=108.177.121.94 name=www.google.com.cu
-add address=108.177.121.94 name=www.google.com.cy
-add address=108.177.121.94 name=www.google.com.do
-add address=108.177.121.94 name=www.google.com.ec
-add address=108.177.121.94 name=www.google.com.eg
-add address=108.177.121.94 name=www.google.com.et
-add address=108.177.121.94 name=www.google.com.fj
-add address=108.177.121.94 name=www.google.com.ge
-add address=108.177.121.94 name=www.google.com.gh
-add address=108.177.121.94 name=www.google.com.gi
-add address=108.177.121.94 name=www.google.com.gr
-add address=108.177.121.94 name=www.google.com.gt
-add address=108.177.121.94 name=www.google.com.hk
-add address=108.177.121.94 name=www.google.com.iq
-add address=108.177.121.94 name=www.google.com.jm
-add address=108.177.121.94 name=www.google.com.jo
-add address=108.177.121.94 name=www.google.com.kh
-add address=108.177.121.94 name=www.google.com.kw
-add address=108.177.121.94 name=www.google.com.lb
-add address=108.177.121.94 name=www.google.com.ly
-add address=108.177.121.94 name=www.google.com.mm
-add address=108.177.121.94 name=www.google.com.mt
-add address=108.177.121.94 name=www.google.com.mx
-add address=108.177.121.94 name=www.google.com.my
-add address=108.177.121.94 name=www.google.com.na
-add address=108.177.121.94 name=www.google.com.nf
-add address=108.177.121.94 name=www.google.com.ng
-add address=108.177.121.94 name=www.google.com.ni
-add address=108.177.121.94 name=www.google.com.np
-add address=108.177.121.94 name=www.google.com.nr
-add address=108.177.121.94 name=www.google.com.om
-add address=108.177.121.94 name=www.google.com.pa
-add address=108.177.121.94 name=www.google.com.pe
-add address=108.177.121.94 name=www.google.com.pg
-add address=108.177.121.94 name=www.google.com.ph
-add address=108.177.121.94 name=www.google.com.pk
-add address=108.177.121.94 name=www.google.com.pr
-add address=108.177.121.94 name=www.google.com.py
-add address=108.177.121.94 name=www.google.com.qa
-add address=108.177.121.94 name=www.google.com.ru
-add address=108.177.121.94 name=www.google.com.sa
-add address=108.177.121.94 name=www.google.com.sb
-add address=108.177.121.94 name=www.google.com.sg
-add address=108.177.121.94 name=www.google.com.sl
-add address=108.177.121.94 name=www.google.com.sv
-add address=108.177.121.94 name=www.google.com.tj
-add address=108.177.121.94 name=www.google.com.tr
-add address=108.177.121.94 name=www.google.com.tw
-add address=108.177.121.94 name=www.google.com.ua
-add address=108.177.121.94 name=www.google.com.uy
-add address=108.177.121.94 name=www.google.com.vc
-add address=108.177.121.94 name=www.google.com.vn
+add address=216.58.200.24 name=www.google.com
+add address=216.58.200.24 name=www.google.com.af
+add address=216.58.200.24 name=www.google.com.ag
+add address=216.58.200.24 name=www.google.com.ai
+add address=216.58.200.24 name=www.google.com.ar
+add address=216.58.200.24 name=www.google.com.au
+add address=216.58.200.24 name=www.google.com.bd
+add address=216.58.200.24 name=www.google.com.bh
+add address=216.58.200.24 name=www.google.com.bn
+add address=216.58.200.24 name=www.google.com.bo
+add address=216.58.200.24 name=www.google.com.br
+add address=216.58.200.24 name=www.google.com.by
+add address=216.58.200.24 name=www.google.com.bz
+add address=216.58.200.24 name=www.google.com.co
+add address=216.58.200.24 name=www.google.com.co.jp
+add address=216.58.200.24 name=www.google.com.cu
+add address=216.58.200.24 name=www.google.com.cy
+add address=216.58.200.24 name=www.google.com.do
+add address=216.58.200.24 name=www.google.com.ec
+add address=216.58.200.24 name=www.google.com.eg
+add address=216.58.200.24 name=www.google.com.et
+add address=216.58.200.24 name=www.google.com.fj
+add address=216.58.200.24 name=www.google.com.ge
+add address=216.58.200.24 name=www.google.com.gh
+add address=216.58.200.24 name=www.google.com.gi
+add address=216.58.200.24 name=www.google.com.gr
+add address=216.58.200.24 name=www.google.com.gt
+add address=216.58.200.24 name=www.google.com.hk
+add address=216.58.200.24 name=www.google.com.iq
+add address=216.58.200.24 name=www.google.com.jm
+add address=216.58.200.24 name=www.google.com.jo
+add address=216.58.200.24 name=www.google.com.kh
+add address=216.58.200.24 name=www.google.com.kw
+add address=216.58.200.24 name=www.google.com.lb
+add address=216.58.200.24 name=www.google.com.ly
+add address=216.58.200.24 name=www.google.com.mm
+add address=216.58.200.24 name=www.google.com.mt
+add address=216.58.200.24 name=www.google.com.mx
+add address=216.58.200.24 name=www.google.com.my
+add address=216.58.200.24 name=www.google.com.na
+add address=216.58.200.24 name=www.google.com.nf
+add address=216.58.200.24 name=www.google.com.ng
+add address=216.58.200.24 name=www.google.com.ni
+add address=216.58.200.24 name=www.google.com.np
+add address=216.58.200.24 name=www.google.com.nr
+add address=216.58.200.24 name=www.google.com.om
+add address=216.58.200.24 name=www.google.com.pa
+add address=216.58.200.24 name=www.google.com.pe
+add address=216.58.200.24 name=www.google.com.pg
+add address=216.58.200.24 name=www.google.com.ph
+add address=216.58.200.24 name=www.google.com.pk
+add address=216.58.200.24 name=www.google.com.pr
+add address=216.58.200.24 name=www.google.com.py
+add address=216.58.200.24 name=www.google.com.qa
+add address=216.58.200.24 name=www.google.com.ru
+add address=216.58.200.24 name=www.google.com.sa
+add address=216.58.200.24 name=www.google.com.sb
+add address=216.58.200.24 name=www.google.com.sg
+add address=216.58.200.24 name=www.google.com.sl
+add address=216.58.200.24 name=www.google.com.sv
+add address=216.58.200.24 name=www.google.com.tj
+add address=216.58.200.24 name=www.google.com.tr
+add address=216.58.200.24 name=www.google.com.tw
+add address=216.58.200.24 name=www.google.com.ua
+add address=216.58.200.24 name=www.google.com.uy
+add address=216.58.200.24 name=www.google.com.vc
+add address=216.58.200.24 name=www.google.com.vn
 # Google Search Country End
 
 # Google Service Start
