@@ -726,6 +726,7 @@ add address=108.177.120.94 name=places.google.com
 add address=108.177.120.94 name=pki.google.com
 add address=108.177.120.94 name=privacy.google.com
 add address=108.177.120.94 name=relay.google.com
+add address=108.177.120.94 name=scholar.l.google.com
 add address=108.177.120.94 name=script.google.com
 add address=108.177.120.94 name=security.google.com
 add address=108.177.120.94 name=services.google.com
