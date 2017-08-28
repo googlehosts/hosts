@@ -393,12 +393,12 @@ add address=108.177.121.201 name=youtubei.googleapis.com
 # Google Apis End
 
 # Google Code Start
-add address=108.177.125.82 name=android.googlecode.com
-add address=108.177.125.82 name=android.googlesource.com
-add address=108.177.125.82 name=chromium.googlesource.com
-add address=108.177.125.82 name=android-review.googlesource.com
-add address=108.177.125.82 name=gcr.io
-add address=108.177.125.82 name=www.gcr.io
+add address=173.194.76.82 name=android.googlecode.com
+add address=173.194.76.82 name=android.googlesource.com
+add address=173.194.76.82 name=chromium.googlesource.com
+add address=173.194.76.82 name=android-review.googlesource.com
+add address=173.194.76.82 name=gcr.io
+add address=173.194.76.82 name=www.gcr.io
 # Google Code End
 
 # Google Country Start
