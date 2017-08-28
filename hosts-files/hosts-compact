@@ -173,7 +173,9 @@
 # Google Apis End
 
 # Google Code Start
-173.194.76.82	android.googlecode.com android.googlesource.com chromium.googlesource.com android-review.googlesource.com gcr.io www.gcr.io
+173.194.198.82	android.googlecode.com android-review.googlesource.com gcr.io www.gcr.io
+173.194.76.82	chromium.googlesource.com
+173.194.198.82	android.googlesource.com
 # Google Code End
 
 # Google Country Start
