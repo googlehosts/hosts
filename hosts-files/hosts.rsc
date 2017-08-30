@@ -663,7 +663,6 @@ add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6ex
 add address=108.177.8.188 name=id.google.com
 add address=108.177.119.102 name=clients5.google.com
 add address=108.177.121.125 name=apis.google.com
-add address=108.177.97.107 name=apis.google.com
 add address=108.177.97.107 name=ogs.google.com
 # Google Search Home End
 
