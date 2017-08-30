@@ -655,13 +655,24 @@ add address=216.58.200.24 name=www.google.com.vc
 add address=216.58.200.24 name=www.google.com.vn
 # Google Search Country End
 
+# Google Search Home Start
+add address=108.177.97.107 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
+add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
+add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
+add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
+add address=108.177.8.188 name=id.google.com
+add address=108.177.119.102 name=clients5.google.com
+add address=108.177.121.125 name=apis.google.com
+add address=108.177.97.107 name=apis.google.com
+add address=108.177.97.107 name=ogs.google.com
+# Google Search Home End
+
 # Google Service Start
 add address=108.177.120.94 name=domains.google
 add address=108.177.120.94 name=environment.google
 add address=108.177.120.94 name=aboutme.google.com
 add address=108.177.120.94 name=ads.google.com
 add address=108.177.120.94 name=admin.google.com
-add address=108.177.120.94 name=apis.google.com
 add address=108.177.120.94 name=assistant.google.com
 add address=108.177.120.94 name=atap.google.com
 add address=108.177.120.94 name=bpui0.google.com
@@ -677,7 +688,6 @@ add address=108.177.120.94 name=clients1.google.com
 add address=108.177.120.94 name=clients2.google.com
 add address=108.177.120.94 name=clients3.google.com
 add address=108.177.120.94 name=clients4.google.com
-add address=108.177.120.94 name=clients5.google.com
 add address=108.177.120.94 name=clients6.google.com
 add address=108.177.120.94 name=contributor.google.com
 add address=108.177.120.94 name=console.firebase.google.com
@@ -1860,6 +1870,7 @@ add address=108.177.119.132 name=doc-0o-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-0s-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-10-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-14-cs-docs.googleusercontent.com
+add address=108.177.120.94 name=lh3.googleusercontent.com
 # Googleusercontent End
 
 # Google Voice Start
