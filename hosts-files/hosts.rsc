@@ -753,6 +753,7 @@ add address=108.177.120.94 name=video.google.com
 add address=108.177.120.94 name=www.blog.google
 add address=108.177.120.94 name=www.googlegroups.com
 add address=108.177.120.94 name=www.googlestore.com
+add address=108.177.120.94 name=www.googleapis.com
 add address=108.177.120.94 name=ipv4.google.com
 add address=108.177.120.94 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 add address=108.177.125.189 name=0.client-channel.google.com
