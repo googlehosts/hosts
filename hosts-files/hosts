@@ -364,7 +364,12 @@
 # Gmail SMTP/POP/IMAP End
 
 # Google Apis Start
+108.177.121.201	ajax.googleapis.com
 108.177.121.201	android.googleapis.com
+108.177.121.201	content.googleapis.com
+108.177.121.201	datasaver.googleapis.com
+108.177.121.201	youtube.googleapis.com
+108.177.121.201	youtubei.googleapis.com
 108.177.121.201	appengine.clients6.google.com
 108.177.121.201	bigtableadmin.clients6.google.com
 108.177.121.201	clouddebugger.clients6.google.com
@@ -384,11 +389,6 @@
 108.177.121.201	mobilecrashreporting.clients6.google.com
 108.177.121.201	mobilesdk-pa.clients6.google.com
 108.177.121.201	reminders-pa.clients6.google.com
-108.177.121.201	ajax.googleapis.com
-108.177.121.201	content.googleapis.com
-108.177.121.201	datasaver.googleapis.com
-108.177.121.201	youtube.googleapis.com
-108.177.121.201	youtubei.googleapis.com
 # Google Apis End
 
 # Google Code Start
@@ -722,11 +722,13 @@
 108.177.120.94	jmt0.google.com
 108.177.120.94	jmt17.google.com
 108.177.120.94	keep.google.com
+108.177.120.94	lh4.google.com
 108.177.120.94	linkhelp.clients.google.com
 108.177.120.94	maven.google.com
 108.177.120.94	mapsengine.google.com
 108.177.120.94	myaccount.google.com
 108.177.120.94	myactivity.google.com
+108.177.120.94	notifications.google.com
 108.177.120.94	opensource.google.com
 108.177.120.94	patents.google.com
 108.177.120.94	passwords.google.com
@@ -788,7 +790,6 @@
 172.217.3.207	uploads.clients.google.com
 172.217.3.207	upload.youtube.com
 172.217.3.207	uploads.stage.gdata.youtube.com
-172.217.3.207	upload.docs.google.com
 # Google Service End
 
 # Google Service:Accounts Start
@@ -813,25 +814,9 @@
 108.177.120.94	books.google.com.sg
 # Google Service:Books End
 
-# Google GoLang Start
-108.177.120.94	golang.org
-108.177.120.94	golang-consa.l.google.com
-# Google GoLang End
-
-# Googleusercontent Start
-108.177.119.132	android.googleblog.com
-108.177.119.132	androidstudio.googleblog.com
-108.177.119.132	androidmarket.googleusercontent.com
-108.177.119.132	android-developers.googleblog.com
-108.177.119.132	youtube.googleblog.com
-108.177.119.132	blogspot.l.googleusercontent.com
-108.177.119.132	yt3.ggpht.com
-108.177.119.132	photos-ugc.l.googleusercontent.com
-108.177.119.132	android-developers.blogspot.com
-108.177.119.132	android-developers.blogspot.hk
-108.177.119.132	officialandroid.blogspot.com
-108.177.119.132	a.orkut.gmodules.com
-108.177.119.132	ig.ig.gmodules.com
+# Google Service:Docs Start
+172.217.31.96	docs.google.com
+172.217.3.207	upload.docs.google.com
 108.177.119.132	doc-00-00-docs.googleusercontent.com
 108.177.119.132	doc-04-00-docs.googleusercontent.com
 108.177.119.132	doc-08-00-docs.googleusercontent.com
@@ -1872,6 +1857,29 @@
 108.177.119.132	doc-0s-cs-docs.googleusercontent.com
 108.177.119.132	doc-10-cs-docs.googleusercontent.com
 108.177.119.132	doc-14-cs-docs.googleusercontent.com
+172.217.31.103	browserchannel-docs.l.google.com
+172.217.31.103	0.docs.google.com
+# Google Service:Docs End
+
+# Google GoLang Start
+108.177.120.94	golang.org
+108.177.120.94	golang-consa.l.google.com
+# Google GoLang End
+
+# Googleusercontent Start
+108.177.119.132	android.googleblog.com
+108.177.119.132	androidstudio.googleblog.com
+108.177.119.132	androidmarket.googleusercontent.com
+108.177.119.132	android-developers.googleblog.com
+108.177.119.132	youtube.googleblog.com
+108.177.119.132	blogspot.l.googleusercontent.com
+108.177.119.132	yt3.ggpht.com
+108.177.119.132	photos-ugc.l.googleusercontent.com
+108.177.119.132	android-developers.blogspot.com
+108.177.119.132	android-developers.blogspot.hk
+108.177.119.132	officialandroid.blogspot.com
+108.177.119.132	a.orkut.gmodules.com
+108.177.119.132	ig.ig.gmodules.com
 108.177.120.94	lh3.googleusercontent.com
 # Googleusercontent End
 

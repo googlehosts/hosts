@@ -366,7 +366,12 @@ add address=108.177.112.109 name=gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
 
 # Google Apis Start
+add address=108.177.121.201 name=ajax.googleapis.com
 add address=108.177.121.201 name=android.googleapis.com
+add address=108.177.121.201 name=content.googleapis.com
+add address=108.177.121.201 name=datasaver.googleapis.com
+add address=108.177.121.201 name=youtube.googleapis.com
+add address=108.177.121.201 name=youtubei.googleapis.com
 add address=108.177.121.201 name=appengine.clients6.google.com
 add address=108.177.121.201 name=bigtableadmin.clients6.google.com
 add address=108.177.121.201 name=clouddebugger.clients6.google.com
@@ -386,11 +391,6 @@ add address=108.177.121.201 name=ml.clients6.google.com
 add address=108.177.121.201 name=mobilecrashreporting.clients6.google.com
 add address=108.177.121.201 name=mobilesdk-pa.clients6.google.com
 add address=108.177.121.201 name=reminders-pa.clients6.google.com
-add address=108.177.121.201 name=ajax.googleapis.com
-add address=108.177.121.201 name=content.googleapis.com
-add address=108.177.121.201 name=datasaver.googleapis.com
-add address=108.177.121.201 name=youtube.googleapis.com
-add address=108.177.121.201 name=youtubei.googleapis.com
 # Google Apis End
 
 # Google Code Start
@@ -724,11 +724,13 @@ add address=108.177.120.94 name=issuetracker.google.com
 add address=108.177.120.94 name=jmt0.google.com
 add address=108.177.120.94 name=jmt17.google.com
 add address=108.177.120.94 name=keep.google.com
+add address=108.177.120.94 name=lh4.google.com
 add address=108.177.120.94 name=linkhelp.clients.google.com
 add address=108.177.120.94 name=maven.google.com
 add address=108.177.120.94 name=mapsengine.google.com
 add address=108.177.120.94 name=myaccount.google.com
 add address=108.177.120.94 name=myactivity.google.com
+add address=108.177.120.94 name=notifications.google.com
 add address=108.177.120.94 name=opensource.google.com
 add address=108.177.120.94 name=patents.google.com
 add address=108.177.120.94 name=passwords.google.com
@@ -790,7 +792,6 @@ add address=172.217.3.207 name=upload.clients.google.com
 add address=172.217.3.207 name=uploads.clients.google.com
 add address=172.217.3.207 name=upload.youtube.com
 add address=172.217.3.207 name=uploads.stage.gdata.youtube.com
-add address=172.217.3.207 name=upload.docs.google.com
 # Google Service End
 
 # Google Service:Accounts Start
@@ -815,25 +816,9 @@ add address=108.177.120.94 name=books.google.com.tw
 add address=108.177.120.94 name=books.google.com.sg
 # Google Service:Books End
 
-# Google GoLang Start
-add address=108.177.120.94 name=golang.org
-add address=108.177.120.94 name=golang-consa.l.google.com
-# Google GoLang End
-
-# Googleusercontent Start
-add address=108.177.119.132 name=android.googleblog.com
-add address=108.177.119.132 name=androidstudio.googleblog.com
-add address=108.177.119.132 name=androidmarket.googleusercontent.com
-add address=108.177.119.132 name=android-developers.googleblog.com
-add address=108.177.119.132 name=youtube.googleblog.com
-add address=108.177.119.132 name=blogspot.l.googleusercontent.com
-add address=108.177.119.132 name=yt3.ggpht.com
-add address=108.177.119.132 name=photos-ugc.l.googleusercontent.com
-add address=108.177.119.132 name=android-developers.blogspot.com
-add address=108.177.119.132 name=android-developers.blogspot.hk
-add address=108.177.119.132 name=officialandroid.blogspot.com
-add address=108.177.119.132 name=a.orkut.gmodules.com
-add address=108.177.119.132 name=ig.ig.gmodules.com
+# Google Service:Docs Start
+add address=172.217.31.96 name=docs.google.com
+add address=172.217.3.207 name=upload.docs.google.com
 add address=108.177.119.132 name=doc-00-00-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-04-00-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-08-00-docs.googleusercontent.com
@@ -1874,6 +1859,29 @@ add address=108.177.119.132 name=doc-0o-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-0s-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-10-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-14-cs-docs.googleusercontent.com
+add address=172.217.31.103 name=browserchannel-docs.l.google.com
+add address=172.217.31.103 name=0.docs.google.com
+# Google Service:Docs End
+
+# Google GoLang Start
+add address=108.177.120.94 name=golang.org
+add address=108.177.120.94 name=golang-consa.l.google.com
+# Google GoLang End
+
+# Googleusercontent Start
+add address=108.177.119.132 name=android.googleblog.com
+add address=108.177.119.132 name=androidstudio.googleblog.com
+add address=108.177.119.132 name=androidmarket.googleusercontent.com
+add address=108.177.119.132 name=android-developers.googleblog.com
+add address=108.177.119.132 name=youtube.googleblog.com
+add address=108.177.119.132 name=blogspot.l.googleusercontent.com
+add address=108.177.119.132 name=yt3.ggpht.com
+add address=108.177.119.132 name=photos-ugc.l.googleusercontent.com
+add address=108.177.119.132 name=android-developers.blogspot.com
+add address=108.177.119.132 name=android-developers.blogspot.hk
+add address=108.177.119.132 name=officialandroid.blogspot.com
+add address=108.177.119.132 name=a.orkut.gmodules.com
+add address=108.177.119.132 name=ig.ig.gmodules.com
 add address=108.177.120.94 name=lh3.googleusercontent.com
 # Googleusercontent End
 
