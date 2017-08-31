@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-30
+# Last updated: 2017-08-31
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -744,10 +744,6 @@ add address=108.177.120.94 name=store.google.com
 add address=108.177.120.94 name=support.google.com
 add address=108.177.120.94 name=suggestqueries.google.com
 add address=108.177.120.94 name=takeout.google.com
-add address=108.177.120.94 name=upload.google.com
-add address=108.177.120.94 name=upload.video.google.com
-add address=108.177.120.94 name=upload.clients.google.com
-add address=108.177.120.94 name=uploads.clients.google.com
 add address=108.177.120.94 name=video.google.com
 add address=108.177.120.94 name=www.blog.google
 add address=108.177.120.94 name=www.googlegroups.com
@@ -787,6 +783,12 @@ add address=108.177.125.189 name=28.client-channel.google.com
 add address=108.177.125.189 name=29.client-channel.google.com
 add address=108.177.125.189 name=cello.client-channel.google.com
 add address=108.177.97.107 name=www.googlechinawebmaster.com
+add address=172.217.3.207 name=upload.google.com
+add address=172.217.3.207 name=upload.video.google.com
+add address=172.217.3.207 name=upload.clients.google.com
+add address=172.217.3.207 name=uploads.clients.google.com
+add address=172.217.3.207 name=upload.youtube.com
+add address=172.217.3.207 name=uploads.stage.gdata.youtube.com
 # Google Service End
 
 # Google Service:Accounts Start
@@ -2163,10 +2165,8 @@ add address=108.177.125.136 name=gaming.youtube.com
 add address=108.177.125.136 name=help.youtube.com
 add address=108.177.125.136 name=img.youtube.com
 add address=108.177.125.136 name=insight.youtube.com
-add address=108.177.125.136 name=upload.youtube.com
 add address=108.177.125.136 name=stage.gdata.youtube.com
 add address=108.177.125.136 name=tv.youtube.com
-add address=108.177.125.136 name=uploads.stage.gdata.youtube.com
 add address=108.177.125.136 name=www.youtube-nocookie.com
 add address=108.177.125.136 name=i.ytimg.com
 # Youtube End

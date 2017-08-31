@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-30
+# Last updated: 2017-08-31
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -742,10 +742,6 @@
 108.177.120.94	support.google.com
 108.177.120.94	suggestqueries.google.com
 108.177.120.94	takeout.google.com
-108.177.120.94	upload.google.com
-108.177.120.94	upload.video.google.com
-108.177.120.94	upload.clients.google.com
-108.177.120.94	uploads.clients.google.com
 108.177.120.94	video.google.com
 108.177.120.94	www.blog.google
 108.177.120.94	www.googlegroups.com
@@ -785,6 +781,12 @@
 108.177.125.189	29.client-channel.google.com
 108.177.125.189	cello.client-channel.google.com
 108.177.97.107	www.googlechinawebmaster.com
+172.217.3.207	upload.google.com
+172.217.3.207	upload.video.google.com
+172.217.3.207	upload.clients.google.com
+172.217.3.207	uploads.clients.google.com
+172.217.3.207	upload.youtube.com
+172.217.3.207	uploads.stage.gdata.youtube.com
 # Google Service End
 
 # Google Service:Accounts Start
@@ -2161,10 +2163,8 @@
 108.177.125.136	help.youtube.com
 108.177.125.136	img.youtube.com
 108.177.125.136	insight.youtube.com
-108.177.125.136	upload.youtube.com
 108.177.125.136	stage.gdata.youtube.com
 108.177.125.136	tv.youtube.com
-108.177.125.136	uploads.stage.gdata.youtube.com
 108.177.125.136	www.youtube-nocookie.com
 108.177.125.136	i.ytimg.com
 # Youtube End
