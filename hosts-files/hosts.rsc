@@ -387,6 +387,7 @@ add address=108.177.121.201 name=mobilecrashreporting.clients6.google.com
 add address=108.177.121.201 name=mobilesdk-pa.clients6.google.com
 add address=108.177.121.201 name=reminders-pa.clients6.google.com
 add address=108.177.121.201 name=ajax.googleapis.com
+add address=108.177.121.201 name=content.googleapis.com
 add address=108.177.121.201 name=datasaver.googleapis.com
 add address=108.177.121.201 name=youtube.googleapis.com
 add address=108.177.121.201 name=youtubei.googleapis.com
@@ -789,6 +790,7 @@ add address=172.217.3.207 name=upload.clients.google.com
 add address=172.217.3.207 name=uploads.clients.google.com
 add address=172.217.3.207 name=upload.youtube.com
 add address=172.217.3.207 name=uploads.stage.gdata.youtube.com
+add address=172.217.3.207 name=upload.docs.google.com
 # Google Service End
 
 # Google Service:Accounts Start
