@@ -587,7 +587,6 @@ add address=108.177.125.198 name=google.com.vn
 # Google Country End
 
 # Google Search Country Start
-add address=216.58.200.24 name=www.google.com
 add address=216.58.200.24 name=www.google.com.af
 add address=216.58.200.24 name=www.google.com.ag
 add address=216.58.200.24 name=www.google.com.ai
@@ -661,10 +660,11 @@ add address=108.177.97.107 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6ex
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
+add address=108.177.97.107 name=ogs.google.com
+add address=172.217.31.93 name=www.google.com
 add address=108.177.8.188 name=id.google.com
 add address=108.177.119.102 name=clients5.google.com
 add address=108.177.121.125 name=apis.google.com
-add address=108.177.97.107 name=ogs.google.com
 # Google Search Home End
 
 # Google Service Start
