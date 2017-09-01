@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-31
+# Last updated: 2017-09-01
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -420,11 +420,8 @@
 108.177.121.201	chart.googleapis.com
 108.177.121.201	chart.apis.google.com
 108.177.121.201	content.googleapis.com
-108.177.121.201	content-storage-download.googleapis.com
-108.177.121.201	content-storage-upload.googleapis.com
 108.177.121.201	datasaver.googleapis.com
 108.177.121.201	device-provisioning.googleapis.com
-108.177.121.201	explorer.apis.google.com
 108.177.121.201	youtube.googleapis.com
 108.177.121.201	youtubei.googleapis.com
 108.177.121.201	appengine.clients6.google.com
@@ -449,10 +446,6 @@
 108.177.121.201	maps.googleapis.com
 108.177.121.201	memcache.clients6.google.com
 108.177.121.201	ml.clients6.google.com
-108.177.121.201	mt0.googleapis.com
-108.177.121.201	mt1.googleapis.com
-108.177.121.201	mt2.googleapis.com
-108.177.121.201	mt3.googleapis.com
 108.177.121.201	mts0.googleapis.com
 108.177.121.201	mts1.googleapis.com
 108.177.121.201	mts2.googleapis.com
@@ -464,7 +457,6 @@
 108.177.121.201	play.googleapis.com
 108.177.121.201	plus.googleapis.com
 108.177.121.201	reminders-pa.clients6.google.com
-108.177.121.201	storage-download.googleapis.com
 108.177.121.201	securetoken.googleapis.com
 108.177.121.201	remoting-pa.googleapis.com
 108.177.121.201	personalsafety-pa.googleapis.com
@@ -473,12 +465,15 @@
 # Google Apis End
 
 # Googleapis:storage Start
-172.217.0.16	storage.googleapis.com
-172.217.0.16	commondatastorage.googleapis.com
-172.217.0.16	content-storage.googleapis.com
-172.217.0.16	appspot.com.storage.googleapis.com
-172.217.0.16	chromedriver.storage.googleapis.com
-172.217.0.16	static.panoramio.com.storage.googleapis.com
+172.217.3.240	storage.googleapis.com
+172.217.4.16	commondatastorage.googleapis.com
+172.217.4.144	content-storage.googleapis.com
+172.217.4.112	content-storage-download.googleapis.com
+172.217.4.240	content-storage-upload.googleapis.com
+172.217.5.80	appspot.com.storage.googleapis.com
+172.217.4.176	chromedriver.storage.googleapis.com
+172.217.5.112	static.panoramio.com.storage.googleapis.com
+172.217.5.208	storage-download.googleapis.com
 # Googleapis:storage End
 
 # Google:A-GPS Start
@@ -881,6 +876,7 @@
 108.177.120.94	dir.google.com
 108.177.120.94	earth.google.com
 108.177.120.94	events.google.com
+108.177.120.94	explorer.apis.google.com
 108.177.120.94	encrypted.google.com
 108.177.120.94	encrypted-tbn0.google.com
 108.177.120.94	encrypted-tbn1.google.com
@@ -991,6 +987,10 @@
 108.177.120.94	mt3.google.com
 108.177.120.94	gg.google.com
 108.177.120.94	id.google.com
+108.177.120.94	mt0.googleapis.com
+108.177.120.94	mt1.googleapis.com
+108.177.120.94	mt2.googleapis.com
+108.177.120.94	mt3.googleapis.com
 108.177.120.94	mts.google.com
 108.177.120.94	mts0.google.com
 108.177.120.94	mts1.google.com

@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-08-31
+# Last updated: 2017-09-01
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -422,11 +422,8 @@ add address=108.177.121.201 name=ct.googleapis.com
 add address=108.177.121.201 name=chart.googleapis.com
 add address=108.177.121.201 name=chart.apis.google.com
 add address=108.177.121.201 name=content.googleapis.com
-add address=108.177.121.201 name=content-storage-download.googleapis.com
-add address=108.177.121.201 name=content-storage-upload.googleapis.com
 add address=108.177.121.201 name=datasaver.googleapis.com
 add address=108.177.121.201 name=device-provisioning.googleapis.com
-add address=108.177.121.201 name=explorer.apis.google.com
 add address=108.177.121.201 name=youtube.googleapis.com
 add address=108.177.121.201 name=youtubei.googleapis.com
 add address=108.177.121.201 name=appengine.clients6.google.com
@@ -451,10 +448,6 @@ add address=108.177.121.201 name=logging.clients6.google.com
 add address=108.177.121.201 name=maps.googleapis.com
 add address=108.177.121.201 name=memcache.clients6.google.com
 add address=108.177.121.201 name=ml.clients6.google.com
-add address=108.177.121.201 name=mt0.googleapis.com
-add address=108.177.121.201 name=mt1.googleapis.com
-add address=108.177.121.201 name=mt2.googleapis.com
-add address=108.177.121.201 name=mt3.googleapis.com
 add address=108.177.121.201 name=mts0.googleapis.com
 add address=108.177.121.201 name=mts1.googleapis.com
 add address=108.177.121.201 name=mts2.googleapis.com
@@ -466,7 +459,6 @@ add address=108.177.121.201 name=photos.googleapis.com
 add address=108.177.121.201 name=play.googleapis.com
 add address=108.177.121.201 name=plus.googleapis.com
 add address=108.177.121.201 name=reminders-pa.clients6.google.com
-add address=108.177.121.201 name=storage-download.googleapis.com
 add address=108.177.121.201 name=securetoken.googleapis.com
 add address=108.177.121.201 name=remoting-pa.googleapis.com
 add address=108.177.121.201 name=personalsafety-pa.googleapis.com
@@ -475,12 +467,15 @@ add address=172.217.0.16 name=unfiltered.news
 # Google Apis End
 
 # Googleapis:storage Start
-add address=172.217.0.16 name=storage.googleapis.com
-add address=172.217.0.16 name=commondatastorage.googleapis.com
-add address=172.217.0.16 name=content-storage.googleapis.com
-add address=172.217.0.16 name=appspot.com.storage.googleapis.com
-add address=172.217.0.16 name=chromedriver.storage.googleapis.com
-add address=172.217.0.16 name=static.panoramio.com.storage.googleapis.com
+add address=172.217.3.240 name=storage.googleapis.com
+add address=172.217.4.16 name=commondatastorage.googleapis.com
+add address=172.217.4.144 name=content-storage.googleapis.com
+add address=172.217.4.112 name=content-storage-download.googleapis.com
+add address=172.217.4.240 name=content-storage-upload.googleapis.com
+add address=172.217.5.80 name=appspot.com.storage.googleapis.com
+add address=172.217.4.176 name=chromedriver.storage.googleapis.com
+add address=172.217.5.112 name=static.panoramio.com.storage.googleapis.com
+add address=172.217.5.208 name=storage-download.googleapis.com
 # Googleapis:storage End
 
 # Google:A-GPS Start
@@ -883,6 +878,7 @@ add address=108.177.120.94 name=directory.google.com
 add address=108.177.120.94 name=dir.google.com
 add address=108.177.120.94 name=earth.google.com
 add address=108.177.120.94 name=events.google.com
+add address=108.177.120.94 name=explorer.apis.google.com
 add address=108.177.120.94 name=encrypted.google.com
 add address=108.177.120.94 name=encrypted-tbn0.google.com
 add address=108.177.120.94 name=encrypted-tbn1.google.com
@@ -993,6 +989,10 @@ add address=108.177.120.94 name=mt2.google.com
 add address=108.177.120.94 name=mt3.google.com
 add address=108.177.120.94 name=gg.google.com
 add address=108.177.120.94 name=id.google.com
+add address=108.177.120.94 name=mt0.googleapis.com
+add address=108.177.120.94 name=mt1.googleapis.com
+add address=108.177.120.94 name=mt2.googleapis.com
+add address=108.177.120.94 name=mt3.googleapis.com
 add address=108.177.120.94 name=mts.google.com
 add address=108.177.120.94 name=mts0.google.com
 add address=108.177.120.94 name=mts1.google.com
