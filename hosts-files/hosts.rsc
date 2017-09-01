@@ -2801,10 +2801,9 @@ add address=54.165.175.178 name=developers.pinterest.com
 # Pinterest End
 
 # Telegram Start
-add address=149.154.166.138 name=telegram.org
-add address=149.154.166.138 name=desktop.telegram.org
-add address=149.154.166.138 name=core.telegram.org
-add address=149.154.166.138 name=web.telegram.org
+add address=149.154.166.206 name=telegram.org
+add address=149.154.166.206 name=desktop.telegram.org
+add address=149.154.166.206 name=core.telegram.org
 add address=149.154.167.216 name=api.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
@@ -2814,8 +2813,8 @@ add address=149.154.175.115 name=aurora.web.telegram.org
 add address=149.154.175.115 name=aurora-1.web.telegram.org
 add address=149.154.167.124 name=vesta.web.telegram.org
 add address=149.154.167.124 name=vesta-1.web.telegram.org
-add address=149.154.171.22 name=flora.web.telegram.org
-add address=149.154.171.22 name=flora-1.web.telegram.org
+add address=149.154.164.225 name=flora.web.telegram.org
+add address=149.154.164.225 name=flora-1.web.telegram.org
 add address=149.154.167.118 name=telegram.me
 add address=149.154.167.118 name=t.me
 # Telegram End
