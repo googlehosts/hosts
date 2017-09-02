@@ -376,6 +376,30 @@
 149.154.167.118	telegram.me t.me
 # Telegram End
 
+# Tor Start
+154.35.132.70	torproject.org www.torproject.org atlas.torproject.org bugs.torproject.org cloud.torproject.org consensus-health.torproject.org deb.torproject.org dist.torproject.org extra.torproject.org gettor.torproject.org help.torproject.org onion.torproject.org ooni.torproject.org research.torproject.org spec.torproject.org stem.torproject.org tb-manual.torproject.org wiki.torproject.org
+82.195.75.101	archive.torproject.org media.torproject.org
+23.185.0.2	blog.torproject.org
+78.47.38.229	bridges.torproject.org
+138.201.14.212	check.torproject.org
+138.201.14.216	collector.torproject.org
+38.229.72.20	compass.torproject.org
+94.130.28.196	db.torproject.org
+138.201.212.231	donate.torproject.org
+138.201.14.214	exonerator.torproject.org
+138.201.212.228	git.torproject.org gitweb.torproject.org
+161.47.6.182	labs.torproject.org
+138.201.14.202	lists.torproject.org
+94.130.28.195	metrics.torproject.org
+78.47.38.227	onionoo.torproject.org
+52.70.141.81	explorer.ooni.torproject.org
+138.201.14.203	people.torproject.org
+138.201.212.230	rt.torproject.org
+78.47.38.231	storm.torproject.org
+138.201.14.206	svn.torproject.org
+138.201.212.227	trac.torproject.org
+# Tor End
+
 # Wikipedia Start
 198.35.26.96	www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
