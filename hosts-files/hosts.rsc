@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-01
+# Last updated: 2017-09-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -463,6 +463,7 @@ add address=108.177.121.201 name=securetoken.googleapis.com
 add address=108.177.121.201 name=remoting-pa.googleapis.com
 add address=108.177.121.201 name=personalsafety-pa.googleapis.com
 add address=108.177.121.201 name=clientmetrics-pa.googleapis.com
+add address=108.177.121.201 name=music-pa.clients6.google.com
 add address=172.217.0.16 name=unfiltered.news
 # Google Apis End
 
@@ -800,10 +801,10 @@ add address=108.177.97.107 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6ex
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-add address=108.177.97.107 name=ogs.google.com
-add address=172.217.31.93 name=www.google.com
+add address=216.58.221.100 name=ogs.google.com
+add address=216.58.200.192 name=www.google.com
 add address=108.177.8.188 name=id.google.com
-add address=108.177.119.102 name=clients5.google.com
+add address=216.58.200.63 name=clients5.google.com
 add address=108.177.121.125 name=apis.google.com
 # Google Search Home End
 
