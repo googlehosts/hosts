@@ -13,6 +13,7 @@ glob.sync(path.join(process.argv[2], '*.yml')).forEach(function(specFile) {
 		specSuffix = `-${specName}`;
 	}
 	require('./check-structure')(data);
+	require('./check-duplicates')(data);
 	glob.sync(path.join(__dirname, 'generators/*.js')).forEach(function (genFile) {
 		var generator = require(genFile);
 		var outputPath = path.parse(path.join(process.argv[4], generator.fileName));
