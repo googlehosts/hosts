@@ -21,7 +21,6 @@ add address=23.201.102.89 name=a248.e.akamai.net
 add address=184.28.188.186 name=static.ak.instagram.com
 add address=184.28.188.201 name=images.ak.instagram.com
 add address=96.7.235.57 name=passets-cdn.pinterest.com
-add address=96.7.235.57 name=passets-cdn.pinterest.com
 add address=96.7.235.57 name=s.pinimg.com
 add address=96.7.235.57 name=i.pinimg.com
 add address=96.7.235.57 name=v.pinimg.com
@@ -101,7 +100,6 @@ add address=216.58.203.244 name=mission-author-dot-betaspike.appspot.com
 add address=216.58.203.244 name=drivenotepad.appspot.com
 add address=216.58.203.244 name=virustotalcloud.appspot.com
 add address=216.58.203.244 name=joinjoaomgcd.appspot.com
-add address=216.58.203.244 name=mission-author-dot-betaspike.appspot.com
 add address=216.58.203.244 name=m-dot-betaspike.appspot.com
 add address=216.58.203.244 name=download-chromium.appspot.com
 add address=216.58.203.244 name=google-developers.appspot.com
@@ -111,7 +109,6 @@ add address=216.58.203.244 name=apis-explorer.appspot.com
 add address=216.58.203.244 name=betaspike.appspot.com
 add address=216.58.203.244 name=hstspreload.appspot.com
 add address=216.58.203.244 name=lfe-alpo-gm.appspot.com
-add address=216.58.203.244 name=m-dot-betaspike.appspot.com
 # Appspotpreview End
 
 # Archive Start
@@ -350,7 +347,6 @@ add address=31.13.91.15 name=video-mrs1-3.xx.fbcdn.net
 add address=31.13.91.15 name=video-mrs1-4.xx.fbcdn.net
 add address=31.13.91.15 name=video-hkg3-1.xx.fbcdn.net
 add address=31.13.91.15 name=video-sit4-1.xx.fbcdn.net
-add address=31.13.91.15 name=video.xx.fbcdn.net
 add address=31.13.91.15 name=external.xx.fbcdn.net
 add address=192.0.66.2 name=messengerplatform.fb.com
 add address=192.0.66.2 name=threatexchange.fb.com
@@ -380,34 +376,11 @@ add address=108.177.125.114 name=m.gmail.com
 add address=108.177.125.114 name=m.googlemail.com
 add address=108.177.125.114 name=gmail.google.com
 add address=108.177.125.114 name=inbox.google.com
-add address=108.177.125.114 name=mail.google.com
 add address=108.177.125.114 name=mail-settings.google.com
 add address=108.177.125.114 name=chatenabled.mail.google.com
 add address=108.177.125.114 name=filetransferenabled.mail.google.com
 add address=108.177.125.114 name=isolated.mail.google.com
 # Gmail End
-
-# Gmail SMTP/POP/IMAP Start
-add address=64.233.188.14 name=gmr-smtp-in.l.google.com
-add address=64.233.188.14 name=gmail-smtp-in.l.google.com
-add address=64.233.188.14 name=alt1.gmail-smtp-in.l.google.com
-add address=64.233.188.14 name=alt2.gmail-smtp-in.l.google.com
-add address=64.233.188.14 name=alt3.gmail-smtp-in.l.google.com
-add address=64.233.188.14 name=alt4.gmail-smtp-in.l.google.com
-add address=64.233.188.14 name=googlemail-imap.l.google.com
-add address=64.233.188.14 name=googlemail-smtp.l.google.com
-add address=64.233.188.14 name=googlemail-pop.l.google.com
-add address=64.233.188.14 name=pop.googlemail.com
-add address=64.233.188.14 name=imap.googlemail.com
-add address=64.233.188.14 name=smtp.googlemail.com
-add address=203.208.41.181 name=gmail-imap.l.google.com
-add address=203.208.41.181 name=imap.gmail.com
-add address=203.208.41.181 name=googlemail-pop.l.google.com
-add address=203.208.41.181 name=pop.googlemail.com
-add address=203.208.41.181 name=gmail-smtp.l.google.com
-add address=108.177.112.109 name=smtp.gmail.com
-add address=108.177.112.109 name=gmail-smtp-msa.l.google.com
-# Gmail SMTP/POP/IMAP End
 
 # Google Apis Start
 add address=108.177.121.201 name=googleapis.com
@@ -821,7 +794,6 @@ add address=108.177.120.94 name=admin.google.com
 add address=108.177.120.94 name=atap.google.com
 add address=108.177.120.94 name=attribution.google.com
 add address=108.177.120.94 name=answers.google.com
-add address=108.177.120.94 name=android.clients.google.com
 add address=108.177.120.94 name=apps.google.com
 add address=108.177.120.94 name=appengine.google.com
 add address=108.177.120.94 name=bpui0.google.com
@@ -859,7 +831,6 @@ add address=108.177.120.94 name=desktop5.google.com
 add address=108.177.120.94 name=desktop6.google.com
 add address=108.177.120.94 name=dns.google.com
 add address=108.177.120.94 name=drive.google.com
-add address=108.177.120.94 name=docs.google.com
 add address=108.177.120.94 name=docs0.google.com
 add address=108.177.120.94 name=docs1.google.com
 add address=108.177.120.94 name=docs2.google.com
@@ -981,7 +952,6 @@ add address=108.177.120.94 name=cbks0.google.com
 add address=108.177.120.94 name=cbks1.google.com
 add address=108.177.120.94 name=cbks2.google.com
 add address=108.177.120.94 name=cbks3.google.com
-add address=108.177.120.94 name=ipv4.google.com
 add address=108.177.120.94 name=mw1.google.com
 add address=108.177.120.94 name=mw2.google.com
 add address=108.177.120.94 name=mt.google.com
@@ -990,7 +960,6 @@ add address=108.177.120.94 name=mt1.google.com
 add address=108.177.120.94 name=mt2.google.com
 add address=108.177.120.94 name=mt3.google.com
 add address=108.177.120.94 name=gg.google.com
-add address=108.177.120.94 name=id.google.com
 add address=108.177.120.94 name=mt0.googleapis.com
 add address=108.177.120.94 name=mt1.googleapis.com
 add address=108.177.120.94 name=mt2.googleapis.com
@@ -1128,17 +1097,14 @@ add address=108.177.120.94 name=desktop4.google.com
 add address=108.177.120.94 name=gxc.google.com
 add address=108.177.120.94 name=get.google.com
 add address=108.177.120.94 name=gsuite.google.com
-add address=108.177.120.94 name=groups.google.com
 add address=108.177.120.94 name=image.google.com
 add address=108.177.120.94 name=video.google.com
 add address=108.177.120.94 name=jmt17.google.com
-add address=108.177.120.94 name=lh4.google.com
 add address=108.177.120.94 name=maps.google.com
 add address=108.177.120.94 name=mobile.google.com
 add address=108.177.120.94 name=news.google.com
 add address=108.177.120.94 name=patents.google.com
 add address=108.177.120.94 name=places.google.com
-add address=108.177.120.94 name=picasaweb.google.com
 add address=108.177.120.94 name=privacy.google.com
 add address=108.177.120.94 name=translate.google.com
 add address=108.177.120.94 name=toolbarqueries.google.com
@@ -1198,7 +1164,6 @@ add address=108.177.120.94 name=places.google.com.tw
 add address=108.177.120.94 name=picasaweb.google.com.tw
 add address=108.177.120.94 name=privacy.google.com.tw
 add address=108.177.120.94 name=translate.google.com.tw
-add address=108.177.120.94 name=toolbar.google.com
 add address=108.177.120.94 name=toolbarqueries.google.com.tw
 add address=108.177.120.94 name=scholar.google.com.tw
 # Google Service:China Taiwan End
@@ -2247,7 +2212,6 @@ add address=108.177.119.132 name=doc-0s-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-10-cs-docs.googleusercontent.com
 add address=108.177.119.132 name=doc-14-cs-docs.googleusercontent.com
 add address=172.217.31.103 name=browserchannel-docs.l.google.com
-add address=172.217.31.103 name=0.docs.google.com
 # Google Service:Docs End
 
 # Google GoLang Start
@@ -2358,7 +2322,6 @@ add address=108.177.119.132 name=students.googleblog.com
 add address=108.177.119.132 name=publicpolicy.googleblog.com
 add address=108.177.119.132 name=apps.googleusercontent.com
 add address=108.177.119.132 name=blogspot.l.googleusercontent.com
-add address=108.177.119.132 name=yt3.ggpht.com
 add address=108.177.119.132 name=photos-ugc.l.googleusercontent.com
 add address=108.177.119.132 name=android-developers.blogspot.com
 add address=108.177.119.132 name=android-developers.blogspot.hk
@@ -2368,7 +2331,6 @@ add address=108.177.119.132 name=ig.ig.gmodules.com
 add address=108.177.119.132 name=googleweblight.com
 add address=108.177.119.132 name=markuphelper.googleusercontent.com
 add address=108.177.119.132 name=origin-commondatastorage.googleapis.com
-add address=108.177.119.132 name=photos-ugc.l.googleusercontent.com
 add address=108.177.119.132 name=storage.l.googleusercontent.com
 add address=108.177.119.132 name=storage-ugc.l.googleusercontent.com
 add address=108.177.119.132 name=a-fc-opensocial.googleusercontent.com
@@ -2568,7 +2530,6 @@ add address=108.177.119.132 name=37-wave-opensocial.googleusercontent.com
 add address=108.177.119.132 name=38-wave-opensocial.googleusercontent.com
 add address=108.177.119.132 name=39-wave-opensocial.googleusercontent.com
 add address=108.177.119.132 name=40-wave-opensocial.googleusercontent.com
-add address=108.177.120.94 name=lh3.googleusercontent.com
 # Googleusercontent End
 
 # Google Voice Start
@@ -2981,13 +2942,12 @@ add address=74.125.171.16 name=r11---sn-i3b7kner.c.drive.google.com
 add address=74.125.171.17 name=r12---sn-i3b7kner.c.drive.google.com
 add address=74.125.171.18 name=r13---sn-i3b7kner.c.drive.google.com
 add address=74.125.171.19 name=r14---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.20 name=r14---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.21 name=r15---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.22 name=r16---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.23 name=r17---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.24 name=r18---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.25 name=r19---sn-i3b7kner.c.drive.google.com
-add address=74.125.171.26 name=r20---sn-i3b7kner.c.drive.google.com
+add address=74.125.171.20 name=r15---sn-i3b7kner.c.drive.google.com
+add address=74.125.171.21 name=r16---sn-i3b7kner.c.drive.google.com
+add address=74.125.171.22 name=r17---sn-i3b7kner.c.drive.google.com
+add address=74.125.171.23 name=r18---sn-i3b7kner.c.drive.google.com
+add address=74.125.171.24 name=r19---sn-i3b7kner.c.drive.google.com
+add address=74.125.171.25 name=r20---sn-i3b7kner.c.drive.google.com
 add address=74.125.164.102 name=r1---sn-i3b7knes.c.drive.google.com
 add address=74.125.164.103 name=r2---sn-i3b7knes.c.drive.google.com
 add address=74.125.164.104 name=r3---sn-i3b7knes.c.drive.google.com
@@ -3160,12 +3120,6 @@ add address=74.125.102.105 name=r3---sn-i3b7kn76.c.drive.google.com
 add address=74.125.102.106 name=r4---sn-i3b7kn76.c.drive.google.com
 add address=74.125.102.107 name=r5---sn-i3b7kn76.c.drive.google.com
 add address=74.125.102.108 name=r6---sn-i3b7kn76.c.drive.google.com
-add address=74.125.102.103 name=r1---sn-i3b7kn76.c.drive.google.com
-add address=74.125.102.104 name=r2---sn-i3b7kn76.c.drive.google.com
-add address=74.125.102.105 name=r3---sn-i3b7kn76.c.drive.google.com
-add address=74.125.102.106 name=r4---sn-i3b7kn76.c.drive.google.com
-add address=74.125.102.107 name=r5---sn-i3b7kn76.c.drive.google.com
-add address=74.125.102.108 name=r6---sn-i3b7kn76.c.drive.google.com
 add address=74.125.106.23 name=r1---sn-i3b7kn7r.c.drive.google.com
 add address=74.125.106.24 name=r2---sn-i3b7kn7r.c.drive.google.com
 add address=74.125.106.25 name=r3---sn-i3b7kn7r.c.drive.google.com
@@ -3324,12 +3278,6 @@ add address=74.125.10.25 name=r3---sn-npoeene7.c.drive.google.com
 add address=74.125.10.26 name=r4---sn-npoeene7.c.drive.google.com
 add address=74.125.10.27 name=r5---sn-npoeene7.c.drive.google.com
 add address=74.125.10.28 name=r6---sn-npoeene7.c.drive.google.com
-add address=74.125.170.167 name=r1---sn-a5m7lnlz.c.drive.google.com
-add address=74.125.170.168 name=r2---sn-a5m7lnlz.c.drive.google.com
-add address=74.125.170.169 name=r3---sn-a5m7lnlz.c.drive.google.com
-add address=74.125.170.170 name=r4---sn-a5m7lnlz.c.drive.google.com
-add address=74.125.170.171 name=r5---sn-a5m7lnlz.c.drive.google.com
-add address=74.125.170.172 name=r6---sn-a5m7lnlz.c.drive.google.com
 add address=74.125.170.167 name=r1---sn-a5m7lnlz.c.drive.google.com
 add address=74.125.170.168 name=r2---sn-a5m7lnlz.c.drive.google.com
 add address=74.125.170.169 name=r3---sn-a5m7lnlz.c.drive.google.com
@@ -3686,13 +3634,12 @@ add address=74.125.171.16 name=r11---sn-i3b7kner.gvt1.com
 add address=74.125.171.17 name=r12---sn-i3b7kner.gvt1.com
 add address=74.125.171.18 name=r13---sn-i3b7kner.gvt1.com
 add address=74.125.171.19 name=r14---sn-i3b7kner.gvt1.com
-add address=74.125.171.20 name=r14---sn-i3b7kner.gvt1.com
-add address=74.125.171.21 name=r15---sn-i3b7kner.gvt1.com
-add address=74.125.171.22 name=r16---sn-i3b7kner.gvt1.com
-add address=74.125.171.23 name=r17---sn-i3b7kner.gvt1.com
-add address=74.125.171.24 name=r18---sn-i3b7kner.gvt1.com
-add address=74.125.171.25 name=r19---sn-i3b7kner.gvt1.com
-add address=74.125.171.26 name=r20---sn-i3b7kner.gvt1.com
+add address=74.125.171.20 name=r15---sn-i3b7kner.gvt1.com
+add address=74.125.171.21 name=r16---sn-i3b7kner.gvt1.com
+add address=74.125.171.22 name=r17---sn-i3b7kner.gvt1.com
+add address=74.125.171.23 name=r18---sn-i3b7kner.gvt1.com
+add address=74.125.171.24 name=r19---sn-i3b7kner.gvt1.com
+add address=74.125.171.25 name=r20---sn-i3b7kner.gvt1.com
 add address=74.125.164.102 name=r1---sn-i3b7knes.gvt1.com
 add address=74.125.164.103 name=r2---sn-i3b7knes.gvt1.com
 add address=74.125.164.104 name=r3---sn-i3b7knes.gvt1.com
@@ -3865,12 +3812,6 @@ add address=74.125.102.105 name=r3---sn-i3b7kn76.gvt1.com
 add address=74.125.102.106 name=r4---sn-i3b7kn76.gvt1.com
 add address=74.125.102.107 name=r5---sn-i3b7kn76.gvt1.com
 add address=74.125.102.108 name=r6---sn-i3b7kn76.gvt1.com
-add address=74.125.102.103 name=r1---sn-i3b7kn76.gvt1.com
-add address=74.125.102.104 name=r2---sn-i3b7kn76.gvt1.com
-add address=74.125.102.105 name=r3---sn-i3b7kn76.gvt1.com
-add address=74.125.102.106 name=r4---sn-i3b7kn76.gvt1.com
-add address=74.125.102.107 name=r5---sn-i3b7kn76.gvt1.com
-add address=74.125.102.108 name=r6---sn-i3b7kn76.gvt1.com
 add address=74.125.106.23 name=r1---sn-i3b7kn7r.gvt1.com
 add address=74.125.106.24 name=r2---sn-i3b7kn7r.gvt1.com
 add address=74.125.106.25 name=r3---sn-i3b7kn7r.gvt1.com
@@ -4029,12 +3970,6 @@ add address=74.125.10.25 name=r3---sn-npoeene7.gvt1.com
 add address=74.125.10.26 name=r4---sn-npoeene7.gvt1.com
 add address=74.125.10.27 name=r5---sn-npoeene7.gvt1.com
 add address=74.125.10.28 name=r6---sn-npoeene7.gvt1.com
-add address=74.125.170.167 name=r1---sn-a5m7lnlz.gvt1.com
-add address=74.125.170.168 name=r2---sn-a5m7lnlz.gvt1.com
-add address=74.125.170.169 name=r3---sn-a5m7lnlz.gvt1.com
-add address=74.125.170.170 name=r4---sn-a5m7lnlz.gvt1.com
-add address=74.125.170.171 name=r5---sn-a5m7lnlz.gvt1.com
-add address=74.125.170.172 name=r6---sn-a5m7lnlz.gvt1.com
 add address=74.125.170.167 name=r1---sn-a5m7lnlz.gvt1.com
 add address=74.125.170.168 name=r2---sn-a5m7lnlz.gvt1.com
 add address=74.125.170.169 name=r3---sn-a5m7lnlz.gvt1.com
@@ -4393,13 +4328,12 @@ add address=74.125.171.16 name=r11---sn-i3b7kner.googlevideo.com
 add address=74.125.171.17 name=r12---sn-i3b7kner.googlevideo.com
 add address=74.125.171.18 name=r13---sn-i3b7kner.googlevideo.com
 add address=74.125.171.19 name=r14---sn-i3b7kner.googlevideo.com
-add address=74.125.171.20 name=r14---sn-i3b7kner.googlevideo.com
-add address=74.125.171.21 name=r15---sn-i3b7kner.googlevideo.com
-add address=74.125.171.22 name=r16---sn-i3b7kner.googlevideo.com
-add address=74.125.171.23 name=r17---sn-i3b7kner.googlevideo.com
-add address=74.125.171.24 name=r18---sn-i3b7kner.googlevideo.com
-add address=74.125.171.25 name=r19---sn-i3b7kner.googlevideo.com
-add address=74.125.171.26 name=r20---sn-i3b7kner.googlevideo.com
+add address=74.125.171.20 name=r15---sn-i3b7kner.googlevideo.com
+add address=74.125.171.21 name=r16---sn-i3b7kner.googlevideo.com
+add address=74.125.171.22 name=r17---sn-i3b7kner.googlevideo.com
+add address=74.125.171.23 name=r18---sn-i3b7kner.googlevideo.com
+add address=74.125.171.24 name=r19---sn-i3b7kner.googlevideo.com
+add address=74.125.171.25 name=r20---sn-i3b7kner.googlevideo.com
 add address=74.125.164.102 name=r1---sn-i3b7knes.googlevideo.com
 add address=74.125.164.103 name=r2---sn-i3b7knes.googlevideo.com
 add address=74.125.164.104 name=r3---sn-i3b7knes.googlevideo.com
@@ -4572,12 +4506,6 @@ add address=74.125.102.105 name=r3---sn-i3b7kn76.googlevideo.com
 add address=74.125.102.106 name=r4---sn-i3b7kn76.googlevideo.com
 add address=74.125.102.107 name=r5---sn-i3b7kn76.googlevideo.com
 add address=74.125.102.108 name=r6---sn-i3b7kn76.googlevideo.com
-add address=74.125.102.103 name=r1---sn-i3b7kn76.googlevideo.com
-add address=74.125.102.104 name=r2---sn-i3b7kn76.googlevideo.com
-add address=74.125.102.105 name=r3---sn-i3b7kn76.googlevideo.com
-add address=74.125.102.106 name=r4---sn-i3b7kn76.googlevideo.com
-add address=74.125.102.107 name=r5---sn-i3b7kn76.googlevideo.com
-add address=74.125.102.108 name=r6---sn-i3b7kn76.googlevideo.com
 add address=74.125.106.23 name=r1---sn-i3b7kn7r.googlevideo.com
 add address=74.125.106.24 name=r2---sn-i3b7kn7r.googlevideo.com
 add address=74.125.106.25 name=r3---sn-i3b7kn7r.googlevideo.com
@@ -4736,12 +4664,6 @@ add address=74.125.10.25 name=r3---sn-npoeene7.googlevideo.com
 add address=74.125.10.26 name=r4---sn-npoeene7.googlevideo.com
 add address=74.125.10.27 name=r5---sn-npoeene7.googlevideo.com
 add address=74.125.10.28 name=r6---sn-npoeene7.googlevideo.com
-add address=74.125.170.167 name=r1---sn-a5m7lnlz.googlevideo.com
-add address=74.125.170.168 name=r2---sn-a5m7lnlz.googlevideo.com
-add address=74.125.170.169 name=r3---sn-a5m7lnlz.googlevideo.com
-add address=74.125.170.170 name=r4---sn-a5m7lnlz.googlevideo.com
-add address=74.125.170.171 name=r5---sn-a5m7lnlz.googlevideo.com
-add address=74.125.170.172 name=r6---sn-a5m7lnlz.googlevideo.com
 add address=74.125.170.167 name=r1---sn-a5m7lnlz.googlevideo.com
 add address=74.125.170.168 name=r2---sn-a5m7lnlz.googlevideo.com
 add address=74.125.170.169 name=r3---sn-a5m7lnlz.googlevideo.com
