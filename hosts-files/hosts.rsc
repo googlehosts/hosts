@@ -703,6 +703,7 @@ add address=209.85.235.200 name=google.com.vn
 # Google Country End
 
 # Google Search Country Start
+add address=216.58.200.24 name=www.goo.gl
 add address=216.58.200.24 name=www.google.com.af
 add address=216.58.200.24 name=www.google.com.ag
 add address=216.58.200.24 name=www.google.com.ai
