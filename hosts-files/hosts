@@ -800,8 +800,8 @@
 108.177.97.107	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 108.177.97.107	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 108.177.97.107	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
-108.177.97.107	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-216.58.221.100	ogs.google.com
+216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
+216.58.217.174	ogs.google.com
 216.58.200.192	www.google.com
 108.177.8.188	id.google.com
 216.239.38.121	clients5.google.com
@@ -943,7 +943,6 @@
 108.177.120.94	www.blog.google
 108.177.120.94	www.googlegroups.com
 108.177.120.94	www.googlestore.com
-108.177.120.94	www.googleapis.com
 108.177.120.94	www.tensorflow.org
 108.177.120.94	writely.google.com
 108.177.120.94	ipv4.google.com
@@ -2883,7 +2882,6 @@
 108.177.125.136	ru.youtube.com
 108.177.125.136	tw.youtube.com
 108.177.125.136	uk.youtube.com
-108.177.125.136	www.youtube.com
 108.177.125.136	youtube-ui.l.google.com
 108.177.125.136	m.youtube.com
 108.177.125.136	ads.youtube.com
@@ -2907,6 +2905,7 @@
 108.177.125.136	i4.ytimg.com
 108.177.125.136	i9.ytimg.com
 108.177.125.136	s.ytimg.com
+216.58.197.249	www.youtube.com
 # Youtube End
 
 # Google Drive Start

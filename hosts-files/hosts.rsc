@@ -802,8 +802,8 @@ add address=216.58.200.24 name=www.google.com.vn
 add address=108.177.97.107 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
-add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-add address=216.58.221.100 name=ogs.google.com
+add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
+add address=216.58.217.174 name=ogs.google.com
 add address=216.58.200.192 name=www.google.com
 add address=108.177.8.188 name=id.google.com
 add address=216.239.38.121 name=clients5.google.com
@@ -945,7 +945,6 @@ add address=108.177.120.94 name=wallet.google.com
 add address=108.177.120.94 name=www.blog.google
 add address=108.177.120.94 name=www.googlegroups.com
 add address=108.177.120.94 name=www.googlestore.com
-add address=108.177.120.94 name=www.googleapis.com
 add address=108.177.120.94 name=www.tensorflow.org
 add address=108.177.120.94 name=writely.google.com
 add address=108.177.120.94 name=ipv4.google.com
@@ -2885,7 +2884,6 @@ add address=108.177.125.136 name=jp.youtube.com
 add address=108.177.125.136 name=ru.youtube.com
 add address=108.177.125.136 name=tw.youtube.com
 add address=108.177.125.136 name=uk.youtube.com
-add address=108.177.125.136 name=www.youtube.com
 add address=108.177.125.136 name=youtube-ui.l.google.com
 add address=108.177.125.136 name=m.youtube.com
 add address=108.177.125.136 name=ads.youtube.com
@@ -2909,6 +2907,7 @@ add address=108.177.125.136 name=i3.ytimg.com
 add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
 add address=108.177.125.136 name=s.ytimg.com
+add address=216.58.197.249 name=www.youtube.com
 # Youtube End
 
 # Google Drive Start
