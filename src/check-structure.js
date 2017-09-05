@@ -2,7 +2,7 @@ var assert = require('assert');
 function checkType(obj, propName, typeName) {
 	var prop = obj[propName];
 	var actualTypeName = Array.isArray(prop) ? 'array' : typeof prop;
-	var msg = `"${propName}" must be of type: ${typeName}, but it is: ${actualTypeName} "${prop}".`;
+	var msg = `\x1b[31m"${propName}"\x1b[0m must be of type: \x1b[31m${typeName}\x1b[0m, but it is: \x1b[31m${actualTypeName} "${prop}"\x1b[0m.`;
 	assert(actualTypeName === typeName, msg);
 }
 module.exports = function (data) {

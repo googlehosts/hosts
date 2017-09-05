@@ -2,7 +2,7 @@
 
 set -e
 function echogr {
-	echo -e \\033[0\;32m$@\\033[0m
+	echo -e \\033[32m$@\\033[0m
 }
 
 echogr Generating hosts files.
