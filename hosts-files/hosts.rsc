@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-02
+# Last updated: 2017-09-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -465,6 +465,8 @@ add address=108.177.121.201 name=personalsafety-pa.googleapis.com
 add address=108.177.121.201 name=clientmetrics-pa.googleapis.com
 add address=108.177.121.201 name=music-pa.clients6.google.com
 add address=172.217.0.16 name=unfiltered.news
+add address=216.239.32.67 name=31061001.googleapis.com
+add address=216.239.32.67 name=26644787.googleapis.com
 # Google Apis End
 
 # Googleapis:storage Start
@@ -804,7 +806,7 @@ add address=108.177.97.107 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6ex
 add address=216.58.221.100 name=ogs.google.com
 add address=216.58.200.192 name=www.google.com
 add address=108.177.8.188 name=id.google.com
-add address=216.58.200.63 name=clients5.google.com
+add address=216.239.38.121 name=clients5.google.com
 add address=108.177.121.125 name=apis.google.com
 # Google Search Home End
 
