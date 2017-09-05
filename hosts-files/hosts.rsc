@@ -702,6 +702,10 @@ add address=209.85.235.200 name=google.com.vc
 add address=209.85.235.200 name=google.com.vn
 # Google Country End
 
+# Google Chrome/Chromium Start
+add address=172.217.25.220 name=chrome.google.com
+# Google Chrome/Chromium End
+
 # Google Search Country Start
 add address=216.58.200.24 name=www.goo.gl
 add address=216.58.200.24 name=www.google.com.af
