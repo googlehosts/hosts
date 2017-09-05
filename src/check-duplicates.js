@@ -3,7 +3,7 @@ var set = {};
 var detected = false;
 function checkDomain(domain) {
 	if (set[domain] && domain !== 'localhost') {
-		console.error(`${domain} has already been added.`);
+		console.error(`\x1b[31m${domain}\x1b[0m has already been added.`);
 		detected = true;
 	}
 	set[domain] = true;
