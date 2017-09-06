@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-05
+# Last updated: 2017-09-06
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -162,7 +162,8 @@
 # Gmail End
 
 # Google Apis Start
-108.177.121.201	googleapis.com www.googleapis.com ajax.googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com
+216.58.203.138	www.googleapis.com
+108.177.121.201	googleapis.com ajax.googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com
 172.217.0.16	unfiltered.news
 216.239.32.67	31061001.googleapis.com 26644787.googleapis.com
 # Google Apis End
@@ -367,6 +368,21 @@
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
 # Pinterest End
+
+# Tumblr Start
+66.6.33.31	tumblr.com www.tumblr.com
+107.23.241.99	tumblr.co
+107.23.241.99	api.tumblr.com
+216.115.100.126	vt.tumblr.com
+216.115.100.123	assets.tumblr.com secure.assets.tumblr.com
+216.115.100.125	media.tumblr.com vt.media.tumblr.com secure.static.tumblr.com
+66.6.32.21	cynicallys.tumblr.com
+93.184.216.97	mx.tumblr.com
+216.115.100.126	vtt.tumblr.com static.tumblr.com 24.media.tumblr.com 31.media.tumblr.com 33.media.tumblr.com 37.media.tumblr.com 38.media.tumblr.com 40.media.tumblr.com 49.media.tumblr.com 66.media.tumblr.com 90.media.tumblr.com
+66.6.32.162	ls.srvcs.tumblr.com px.srvcs.tumblr.com
+52.85.81.103	96.media.tumblr.com
+93.184.216.98	97.media.tumblr.com
+# Tumblr End
 
 # Telegram Start
 149.154.166.206	telegram.org desktop.telegram.org core.telegram.org

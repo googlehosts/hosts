@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-05
+# Last updated: 2017-09-06
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -383,8 +383,8 @@ add address=108.177.125.114 name=isolated.mail.google.com
 # Gmail End
 
 # Google Apis Start
+add address=216.58.203.138 name=www.googleapis.com
 add address=108.177.121.201 name=googleapis.com
-add address=108.177.121.201 name=www.googleapis.com
 add address=108.177.121.201 name=ajax.googleapis.com
 add address=108.177.121.201 name=android.googleapis.com
 add address=108.177.121.201 name=appinvite-pa.googleapis.com
@@ -2774,6 +2774,36 @@ add address=34.213.142.132 name=post.pinterest.com
 add address=52.22.159.107 name=trk.pinterest.com
 add address=54.165.175.178 name=developers.pinterest.com
 # Pinterest End
+
+# Tumblr Start
+add address=66.6.33.31 name=tumblr.com
+add address=66.6.33.31 name=www.tumblr.com
+add address=107.23.241.99 name=tumblr.co
+add address=107.23.241.99 name=api.tumblr.com
+add address=216.115.100.126 name=vt.tumblr.com
+add address=216.115.100.123 name=assets.tumblr.com
+add address=216.115.100.123 name=secure.assets.tumblr.com
+add address=216.115.100.125 name=media.tumblr.com
+add address=216.115.100.125 name=vt.media.tumblr.com
+add address=216.115.100.125 name=secure.static.tumblr.com
+add address=66.6.32.21 name=cynicallys.tumblr.com
+add address=93.184.216.97 name=mx.tumblr.com
+add address=216.115.100.126 name=vtt.tumblr.com
+add address=216.115.100.126 name=static.tumblr.com
+add address=216.115.100.126 name=24.media.tumblr.com
+add address=216.115.100.126 name=31.media.tumblr.com
+add address=216.115.100.126 name=33.media.tumblr.com
+add address=216.115.100.126 name=37.media.tumblr.com
+add address=216.115.100.126 name=38.media.tumblr.com
+add address=216.115.100.126 name=40.media.tumblr.com
+add address=216.115.100.126 name=49.media.tumblr.com
+add address=216.115.100.126 name=66.media.tumblr.com
+add address=216.115.100.126 name=90.media.tumblr.com
+add address=66.6.32.162 name=ls.srvcs.tumblr.com
+add address=66.6.32.162 name=px.srvcs.tumblr.com
+add address=52.85.81.103 name=96.media.tumblr.com
+add address=93.184.216.98 name=97.media.tumblr.com
+# Tumblr End
 
 # Telegram Start
 add address=149.154.166.206 name=telegram.org
