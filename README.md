@@ -1,6 +1,6 @@
 # Google Hosts
 
-|       [Telegram群][telegram-link]        | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
+|    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
 | [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge]][mirror-link] |
 
@@ -20,7 +20,7 @@
 
 ## 使用条款
 
-- 本项目的hosts，README，wiki等资源基于[CC BY-NC-SA 4.0][LICENSE]发布，这意味着你可以拷贝、再发行本项目的内容, 但是你将必须：
+- 本项目的hosts，README，wiki等资源基于(CC BY-NC-SA 4.0)[LICENSE]发布，这意味着你可以拷贝、再发行本项目的内容, 但是你将必须：
   - 使用**完全相同**的条款发布
   - 提供原作者信息以及协议声明
   - 同时你也**不能将本项目用于商业用途**，按照我们狭义的理解（即增加附属条款），凡是**任何盈利的活动皆属于商业用途**。
