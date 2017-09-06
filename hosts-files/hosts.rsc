@@ -924,7 +924,6 @@ add address=108.177.120.94 name=www.googlegroups.com
 add address=108.177.120.94 name=www.googlestore.com
 add address=108.177.120.94 name=www.tensorflow.org
 add address=108.177.120.94 name=writely.google.com
-add address=108.177.120.94 name=ipv4.google.com
 add address=108.177.120.94 name=auth.keyhole.com
 add address=108.177.120.94 name=mobile.l.google.com
 add address=108.177.120.94 name=talkgadget.l.google.com
@@ -1011,6 +1010,7 @@ add address=108.177.120.94 name=surveys.google.com
 add address=108.177.120.94 name=sketchup.google.com
 add address=108.177.120.94 name=tagmanager.google.com
 add address=108.177.120.94 name=talkgadget.google.com
+add address=209.85.235.188 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
