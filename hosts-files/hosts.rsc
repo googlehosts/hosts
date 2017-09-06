@@ -2903,13 +2903,13 @@ add address=108.177.125.136 name=insight.youtube.com
 add address=108.177.125.136 name=stage.gdata.youtube.com
 add address=108.177.125.136 name=tv.youtube.com
 add address=108.177.125.136 name=www.youtube-nocookie.com
-add address=108.177.125.136 name=i.ytimg.com
 add address=108.177.125.136 name=i1.ytimg.com
 add address=108.177.125.136 name=i2.ytimg.com
 add address=108.177.125.136 name=i3.ytimg.com
 add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
-add address=108.177.125.136 name=s.ytimg.com
+add address=216.58.195.238 name=i.ytimg.com
+add address=216.58.217.174 name=s.ytimg.com
 add address=216.58.197.249 name=www.youtube.com
 # Youtube End
 
