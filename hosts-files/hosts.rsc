@@ -2565,8 +2565,8 @@ add address=108.177.119.132 name=nt0.ggpht.com
 add address=108.177.119.132 name=nt1.ggpht.com
 add address=108.177.119.132 name=nt2.ggpht.com
 add address=108.177.119.132 name=nt3.ggpht.com
-add address=108.177.119.132 name=yt3.ggpht.com
 add address=108.177.119.132 name=yt4.ggpht.com
+add address=216.58.221.65 name=yt3.ggpht.com
 add address=108.177.120.94 name=accounts.gstatic.com
 add address=108.177.120.94 name=maps.gstatic.com
 add address=108.177.120.94 name=connectivitycheck.gstatic.com
