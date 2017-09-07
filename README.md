@@ -7,8 +7,8 @@
 [telegram-badge]: https://img.shields.io/badge/Google%20Hosts-Telegram-brightgreen.svg?style=flat-square
 [telegram-group-link]: https://t.me/googlehosts
 [telegram-channel-link]: https://t.me/googlehostsnews
-[travis-badge]: https://img.shields.io/travis/racaljk/hosts/hosts-source.svg?style=flat-square
-[travis-link]: https://travis-ci.org/racaljk/hosts
+[travis-badge]: https://img.shields.io/travis/googlehosts/hosts/hosts-source.svg?style=flat-square
+[travis-link]: https://travis-ci.org/googlehosts/hosts
 [mirror-badge]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
 [mirror-link]: https://coding.net/u/scaffrey/p/hosts/git
 
