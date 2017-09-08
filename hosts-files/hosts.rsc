@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-07
+# Last updated: 2017-09-08
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -704,6 +704,7 @@ add address=209.85.235.200 name=google.com.vn
 
 # Google Chrome/Chromium Start
 add address=172.217.25.220 name=chrome.google.com
+add address=74.125.248.73 name=git.chromium.org
 # Google Chrome/Chromium End
 
 # Google Search Country Start
@@ -2913,6 +2914,14 @@ add address=216.58.195.238 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
 add address=216.58.197.249 name=www.youtube.com
 # Youtube End
+
+# Google 1e100 Start
+add address=173.194.69.136 name=ef-in-f136.1e100.net
+add address=173.194.69.144 name=ef-in-f144.1e100.net
+add address=173.194.192.161 name=jc-in-f161.1e100.net
+add address=216.239.32.31 name=kul01s09-in-f31.1e100.net
+add address=216.239.32.32 name=kul01s10-in-f32.1e100.net
+# Google 1e100 End
 
 # Google 2mdn Start
 add address=203.208.41.41 name=redirector.c.2mdn.net
@@ -5680,6 +5689,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.docs.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.docs.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.docs.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.docs.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.docs.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.docs.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.docs.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.docs.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.docs.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.docs.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.docs.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.docs.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.docs.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.docs.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.docs.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.docs.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.docs.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.docs.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.docs.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.docs.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.docs.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.docs.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.docs.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.docs.google.com
 # Google Docs End
 
 # Google Usercontent Doc Start
@@ -6372,6 +6401,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.doc-0-0-sj.sj.googleuserconte
 add address=74.125.106.138 name=r4---sn-oguesnze.c.doc-0-0-sj.sj.googleusercontent.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.doc-0-0-sj.sj.googleusercontent.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
 # Google Usercontent Doc End
 
 # Google Drive Start
@@ -7064,6 +7113,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.drive.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.drive.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.drive.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.drive.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.drive.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.drive.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.drive.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.drive.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.drive.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.drive.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.drive.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.drive.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.drive.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.drive.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.drive.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.drive.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.drive.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.drive.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.drive.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.drive.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.drive.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.drive.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.drive.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.drive.google.com
 # Google Drive End
 
 # Google Inbox Start
@@ -7756,6 +7825,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.inbox.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.inbox.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.inbox.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.inbox.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.inbox.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.inbox.google.com
 # Google Inbox End
 
 # Google Mail Start
@@ -8448,6 +8537,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.mail.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.mail.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.mail.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.mail.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.mail.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.mail.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.mail.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.mail.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.mail.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.mail.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.mail.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.mail.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.mail.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.mail.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.mail.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.mail.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.mail.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.mail.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.mail.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.mail.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.mail.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.mail.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.mail.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.mail.google.com
 # Google Mail End
 
 # Google Map offline Start
@@ -9140,6 +9249,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.offline.maps.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.offline.maps.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.offline.maps.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.offline.maps.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.offline.maps.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.offline.maps.google.com
 # Google Map offline End
 
 # Google Pack Start
@@ -9832,6 +9961,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.pack.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.pack.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.pack.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.pack.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.pack.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.pack.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.pack.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.pack.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.pack.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.pack.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.pack.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.pack.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.pack.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.pack.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.pack.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.pack.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.pack.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.pack.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.pack.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.pack.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.pack.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.pack.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.pack.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.pack.google.com
 # Google Pack End
 
 # Google Play Start
@@ -10525,6 +10674,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.gvt1.com
 add address=74.125.106.138 name=r4---sn-oguesnze.gvt1.com
 add address=74.125.106.139 name=r5---sn-oguesnze.gvt1.com
 add address=74.125.106.140 name=r6---sn-oguesnze.gvt1.com
+add address=173.194.51.70 name=r1---sn-oguesnle.gvt1.com
+add address=173.194.51.71 name=r2---sn-oguesnle.gvt1.com
+add address=173.194.51.72 name=r3---sn-oguesnle.gvt1.com
+add address=173.194.51.73 name=r4---sn-oguesnle.gvt1.com
+add address=173.194.51.74 name=r5---sn-oguesnle.gvt1.com
+add address=173.194.51.75 name=r6---sn-oguesnle.gvt1.com
+add address=173.194.51.76 name=r7---sn-oguesnle.gvt1.com
+add address=173.194.51.77 name=r8---sn-oguesnle.gvt1.com
+add address=173.194.51.78 name=r9---sn-oguesnle.gvt1.com
+add address=173.194.51.79 name=r10---sn-oguesnle.gvt1.com
+add address=173.194.51.80 name=r11---sn-oguesnle.gvt1.com
+add address=173.194.51.81 name=r12---sn-oguesnle.gvt1.com
+add address=173.194.51.82 name=r13---sn-oguesnle.gvt1.com
+add address=173.194.51.83 name=r14---sn-oguesnle.gvt1.com
+add address=173.194.51.84 name=r15---sn-oguesnle.gvt1.com
+add address=173.194.51.85 name=r16---sn-oguesnle.gvt1.com
+add address=173.194.51.86 name=r17---sn-oguesnle.gvt1.com
+add address=173.194.51.87 name=r18---sn-oguesnle.gvt1.com
+add address=173.194.51.88 name=r19---sn-oguesnle.gvt1.com
+add address=173.194.51.89 name=r20---sn-oguesnle.gvt1.com
 add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.c.play.google.com
 add address=194.9.24.77 name=r2---sn-5uh5o-f5f6.c.play.google.com
 add address=194.9.24.78 name=r3---sn-5uh5o-f5f6.c.play.google.com
@@ -11213,11 +11382,31 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.play.google.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.play.google.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.play.google.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.play.google.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.play.google.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.play.google.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.play.google.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.play.google.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.play.google.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.play.google.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.play.google.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.play.google.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.play.google.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.play.google.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.play.google.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.play.google.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.play.google.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.play.google.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.play.google.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.play.google.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.play.google.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.play.google.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.play.google.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.play.google.com
 # Google Play End
 
 # Google Video Start
 add address=172.217.31.96 name=manifest.googlevideo.com
-add address=203.208.41.41 name=redirector.a1.googlevideo.com.
+add address=203.208.41.41 name=redirector.a1.googlevideo.com
 add address=203.208.41.41 name=redirector.c.video.google.com
 add address=203.208.41.41 name=redirector.googlevideo.com
 add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.googlevideo.com
@@ -11908,6 +12097,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.googlevideo.com
 add address=74.125.106.138 name=r4---sn-oguesnze.googlevideo.com
 add address=74.125.106.139 name=r5---sn-oguesnze.googlevideo.com
 add address=74.125.106.140 name=r6---sn-oguesnze.googlevideo.com
+add address=173.194.51.70 name=r1---sn-oguesnle.googlevideo.com
+add address=173.194.51.71 name=r2---sn-oguesnle.googlevideo.com
+add address=173.194.51.72 name=r3---sn-oguesnle.googlevideo.com
+add address=173.194.51.73 name=r4---sn-oguesnle.googlevideo.com
+add address=173.194.51.74 name=r5---sn-oguesnle.googlevideo.com
+add address=173.194.51.75 name=r6---sn-oguesnle.googlevideo.com
+add address=173.194.51.76 name=r7---sn-oguesnle.googlevideo.com
+add address=173.194.51.77 name=r8---sn-oguesnle.googlevideo.com
+add address=173.194.51.78 name=r9---sn-oguesnle.googlevideo.com
+add address=173.194.51.79 name=r10---sn-oguesnle.googlevideo.com
+add address=173.194.51.80 name=r11---sn-oguesnle.googlevideo.com
+add address=173.194.51.81 name=r12---sn-oguesnle.googlevideo.com
+add address=173.194.51.82 name=r13---sn-oguesnle.googlevideo.com
+add address=173.194.51.83 name=r14---sn-oguesnle.googlevideo.com
+add address=173.194.51.84 name=r15---sn-oguesnle.googlevideo.com
+add address=173.194.51.85 name=r16---sn-oguesnle.googlevideo.com
+add address=173.194.51.86 name=r17---sn-oguesnle.googlevideo.com
+add address=173.194.51.87 name=r18---sn-oguesnle.googlevideo.com
+add address=173.194.51.88 name=r19---sn-oguesnle.googlevideo.com
+add address=173.194.51.89 name=r20---sn-oguesnle.googlevideo.com
 add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.a1.googlevideo.com
 add address=194.9.24.77 name=r2---sn-5uh5o-f5f6.a1.googlevideo.com
 add address=194.9.24.78 name=r3---sn-5uh5o-f5f6.a1.googlevideo.com
@@ -12596,6 +12805,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.a1.googlevideo.com
 add address=74.125.106.138 name=r4---sn-oguesnze.a1.googlevideo.com
 add address=74.125.106.139 name=r5---sn-oguesnze.a1.googlevideo.com
 add address=74.125.106.140 name=r6---sn-oguesnze.a1.googlevideo.com
+add address=173.194.51.70 name=r1---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.71 name=r2---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.72 name=r3---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.73 name=r4---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.74 name=r5---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.75 name=r6---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.76 name=r7---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.77 name=r8---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.78 name=r9---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.79 name=r10---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.80 name=r11---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.81 name=r12---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.82 name=r13---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.83 name=r14---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.84 name=r15---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.85 name=r16---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.86 name=r17---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.87 name=r18---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.88 name=r19---sn-oguesnle.a1.googlevideo.com
+add address=173.194.51.89 name=r20---sn-oguesnle.a1.googlevideo.com
 add address=194.9.24.76 name=r1---sn-5uh5o-f5f6.c.video.google.com
 add address=194.9.24.77 name=r2---sn-5uh5o-f5f6.c.video.google.com
 add address=194.9.24.78 name=r3---sn-5uh5o-f5f6.c.video.google.com
@@ -13976,6 +14205,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.c.youtube.com
 add address=74.125.106.138 name=r4---sn-oguesnze.c.youtube.com
 add address=74.125.106.139 name=r5---sn-oguesnze.c.youtube.com
 add address=74.125.106.140 name=r6---sn-oguesnze.c.youtube.com
+add address=173.194.51.70 name=r1---sn-oguesnle.c.youtube.com
+add address=173.194.51.71 name=r2---sn-oguesnle.c.youtube.com
+add address=173.194.51.72 name=r3---sn-oguesnle.c.youtube.com
+add address=173.194.51.73 name=r4---sn-oguesnle.c.youtube.com
+add address=173.194.51.74 name=r5---sn-oguesnle.c.youtube.com
+add address=173.194.51.75 name=r6---sn-oguesnle.c.youtube.com
+add address=173.194.51.76 name=r7---sn-oguesnle.c.youtube.com
+add address=173.194.51.77 name=r8---sn-oguesnle.c.youtube.com
+add address=173.194.51.78 name=r9---sn-oguesnle.c.youtube.com
+add address=173.194.51.79 name=r10---sn-oguesnle.c.youtube.com
+add address=173.194.51.80 name=r11---sn-oguesnle.c.youtube.com
+add address=173.194.51.81 name=r12---sn-oguesnle.c.youtube.com
+add address=173.194.51.82 name=r13---sn-oguesnle.c.youtube.com
+add address=173.194.51.83 name=r14---sn-oguesnle.c.youtube.com
+add address=173.194.51.84 name=r15---sn-oguesnle.c.youtube.com
+add address=173.194.51.85 name=r16---sn-oguesnle.c.youtube.com
+add address=173.194.51.86 name=r17---sn-oguesnle.c.youtube.com
+add address=173.194.51.87 name=r18---sn-oguesnle.c.youtube.com
+add address=173.194.51.88 name=r19---sn-oguesnle.c.youtube.com
+add address=173.194.51.89 name=r20---sn-oguesnle.c.youtube.com
 # Youtube End
 
 # Google XN Start
@@ -14668,6 +14917,26 @@ add address=74.125.106.137 name=r3---sn-oguesnze.xn--ngstr-lra8j.com
 add address=74.125.106.138 name=r4---sn-oguesnze.xn--ngstr-lra8j.com
 add address=74.125.106.139 name=r5---sn-oguesnze.xn--ngstr-lra8j.com
 add address=74.125.106.140 name=r6---sn-oguesnze.xn--ngstr-lra8j.com
+add address=173.194.51.70 name=r1---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.71 name=r2---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.72 name=r3---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.73 name=r4---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.74 name=r5---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.75 name=r6---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.76 name=r7---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.77 name=r8---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.78 name=r9---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.79 name=r10---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.80 name=r11---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.81 name=r12---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.82 name=r13---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.83 name=r14---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.84 name=r15---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.85 name=r16---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.86 name=r17---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.87 name=r18---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.88 name=r19---sn-oguesnle.xn--ngstr-lra8j.com
+add address=173.194.51.89 name=r20---sn-oguesnle.xn--ngstr-lra8j.com
 # Google XN End
 
 # Modified Hosts End
