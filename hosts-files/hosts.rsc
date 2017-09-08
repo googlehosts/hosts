@@ -383,7 +383,7 @@ add address=108.177.125.114 name=isolated.mail.google.com
 # Gmail End
 
 # Google Apis Start
-add address=216.58.203.138 name=www.googleapis.com
+add address=74.125.197.95 name=www.googleapis.com
 add address=108.177.121.201 name=googleapis.com
 add address=108.177.121.201 name=ajax.googleapis.com
 add address=108.177.121.201 name=android.googleapis.com
