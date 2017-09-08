@@ -2926,6 +2926,10 @@ add address=216.239.34.27 name=ams15s21-in-f27.1e100.net
 add address=216.239.34.29 name=ams15s21-in-f29.1e100.net
 add address=216.239.34.30 name=ams15s21-in-f30.1e100.net
 add address=216.239.34.31 name=ams15s21-in-f31.1e100.net
+add address=74.125.67.1 name=ams15s22-in-f1.1e100.net
+add address=216.239.36.4 name=ams15s22-in-f4.1e100.net
+add address=216.239.36.5 name=ams15s22-in-f5.1e100.net
+add address=216.239.36.6 name=ams15s22-in-f7.1e100.net
 # Google 1e100 End
 
 # Google 2mdn Start
