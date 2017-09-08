@@ -805,7 +805,6 @@ add address=108.177.120.94 name=appengine.google.com
 add address=108.177.120.94 name=bpui0.google.com
 add address=108.177.120.94 name=buzz.google.com
 add address=108.177.120.94 name=calendar.google.com
-add address=108.177.120.94 name=checkout.google.com
 add address=108.177.120.94 name=classroom.google.com
 add address=108.177.120.94 name=cloud.google.com
 add address=108.177.120.94 name=packages.cloud.google.com
@@ -1011,6 +1010,7 @@ add address=108.177.120.94 name=surveys.google.com
 add address=108.177.120.94 name=sketchup.google.com
 add address=108.177.120.94 name=tagmanager.google.com
 add address=108.177.120.94 name=talkgadget.google.com
+add address=74.125.197.115 name=checkout.google.com
 add address=209.85.235.188 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
@@ -2912,7 +2912,7 @@ add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
 add address=216.58.195.238 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
-add address=64.233.160.125 name=www.youtube.com
+add address=216.58.197.249 name=www.youtube.com
 # Youtube End
 
 # Google 1e100 Start

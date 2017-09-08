@@ -803,7 +803,6 @@
 108.177.120.94	bpui0.google.com
 108.177.120.94	buzz.google.com
 108.177.120.94	calendar.google.com
-108.177.120.94	checkout.google.com
 108.177.120.94	classroom.google.com
 108.177.120.94	cloud.google.com
 108.177.120.94	packages.cloud.google.com
@@ -1009,6 +1008,7 @@
 108.177.120.94	sketchup.google.com
 108.177.120.94	tagmanager.google.com
 108.177.120.94	talkgadget.google.com
+74.125.197.115	checkout.google.com
 209.85.235.188	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
@@ -2910,7 +2910,7 @@
 108.177.125.136	i9.ytimg.com
 216.58.195.238	i.ytimg.com
 216.58.217.174	s.ytimg.com
-64.233.160.125	www.youtube.com
+216.58.197.249	www.youtube.com
 # Youtube End
 
 # Google 1e100 Start
