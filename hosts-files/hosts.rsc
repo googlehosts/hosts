@@ -2912,7 +2912,7 @@ add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
 add address=216.58.195.238 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
-add address=243.185.187.39 name=www.youtube.com
+add address=216.58.197.249 name=www.youtube.com
 # Youtube End
 
 # Google 1e100 Start
