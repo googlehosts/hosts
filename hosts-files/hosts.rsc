@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-08
+# Last updated: 2017-09-09
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -1011,7 +1011,7 @@ add address=108.177.120.94 name=sketchup.google.com
 add address=108.177.120.94 name=tagmanager.google.com
 add address=108.177.120.94 name=talkgadget.google.com
 add address=74.125.197.115 name=checkout.google.com
-add address=209.85.235.188 name=ipv4.google.com
+add address=172.217.3.188 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
@@ -2912,7 +2912,7 @@ add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
 add address=216.58.195.238 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
-add address=216.58.197.249 name=www.youtube.com
+add address=243.185.187.39 name=www.youtube.com
 # Youtube End
 
 # Google 1e100 Start

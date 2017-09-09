@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-08
+# Last updated: 2017-09-09
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -1009,7 +1009,7 @@
 108.177.120.94	tagmanager.google.com
 108.177.120.94	talkgadget.google.com
 74.125.197.115	checkout.google.com
-209.85.235.188	ipv4.google.com
+172.217.3.188	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
 108.177.125.189	2.client-channel.google.com
@@ -2910,7 +2910,7 @@
 108.177.125.136	i9.ytimg.com
 216.58.195.238	i.ytimg.com
 216.58.217.174	s.ytimg.com
-216.58.197.249	www.youtube.com
+243.185.187.39	www.youtube.com
 # Youtube End
 
 # Google 1e100 Start
