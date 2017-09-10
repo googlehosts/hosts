@@ -770,7 +770,7 @@ add address=216.58.200.24 name=www.google.com.sl
 add address=216.58.200.24 name=www.google.com.sv
 add address=216.58.200.24 name=www.google.com.tj
 add address=216.58.200.24 name=www.google.com.tr
-add address=64.233.188.125 name=www.google.com.tw
+add address=216.58.200.24 name=www.google.com.tw
 add address=216.58.200.24 name=www.google.com.ua
 add address=216.58.200.24 name=www.google.com.uy
 add address=216.58.200.24 name=www.google.com.vc
