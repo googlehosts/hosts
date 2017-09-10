@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-09
+# Last updated: 2017-09-10
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2910,7 +2910,7 @@
 108.177.125.136	i9.ytimg.com
 216.58.195.238	i.ytimg.com
 216.58.217.174	s.ytimg.com
-216.58.197.249	www.youtube.com
+172.217.4.99	www.youtube.com
 # Youtube End
 
 # Google 1e100 Start
