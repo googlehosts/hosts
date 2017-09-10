@@ -735,7 +735,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=216.58.200.24 name=www.google.com.hk
+add address=74.125.199.125 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -2912,7 +2912,7 @@ add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
 add address=216.58.195.238 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
-add address=172.217.4.99 name=www.youtube.com
+add address=216.58.200.62 name=www.youtube.com
 # Youtube End
 
 # Google 1e100 Start
