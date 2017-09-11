@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-10
+# Last updated: 2017-09-11
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -370,15 +370,16 @@ add address=192.30.253.118 name=gist.github.com
 # Gmail Start
 add address=216.58.203.191 name=gmail.com
 add address=216.58.203.184 name=www.gmail.com
+add address=216.58.203.184 name=googlemail.l.google.com
 add address=216.58.203.190 name=mail-settings.google.com
 add address=216.58.221.88 name=m.gmail.com
 add address=216.58.221.92 name=m.googlemail.com
 add address=216.58.221.89 name=gmail.google.com
-add address=216.58.200.24 name=inbox.google.com
-add address=216.58.200.24 name=mail.google.com
-add address=216.58.200.24 name=chatenabled.mail.google.com
-add address=216.58.200.24 name=filetransferenabled.mail.google.com
-add address=216.58.200.24 name=isolated.mail.google.com
+add address=216.58.199.101 name=inbox.google.com
+add address=216.58.199.101 name=mail.google.com
+add address=216.58.203.252 name=chatenabled.mail.google.com
+add address=216.58.221.93 name=filetransferenabled.mail.google.com
+add address=216.58.221.91 name=isolated.mail.google.com
 # Gmail End
 
 # Google Apis Start
@@ -2226,8 +2227,8 @@ add address=108.177.120.94 name=golang-consa.l.google.com
 
 # Google Service:Google Play Start
 add address=209.85.235.200 name=services.googleapis.cn
-add address=216.58.203.185 name=play.google.com
-add address=216.58.203.185 name=android.clients.google.com
+add address=216.58.203.251 name=play.google.com
+add address=216.58.203.251 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
 # Google Service:Google Play End
 

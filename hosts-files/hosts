@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-10
+# Last updated: 2017-09-11
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -368,15 +368,16 @@
 # Gmail Start
 216.58.203.191	gmail.com
 216.58.203.184	www.gmail.com
+216.58.203.184	googlemail.l.google.com
 216.58.203.190	mail-settings.google.com
 216.58.221.88	m.gmail.com
 216.58.221.92	m.googlemail.com
 216.58.221.89	gmail.google.com
-216.58.200.24	inbox.google.com
-216.58.200.24	mail.google.com
-216.58.200.24	chatenabled.mail.google.com
-216.58.200.24	filetransferenabled.mail.google.com
-216.58.200.24	isolated.mail.google.com
+216.58.199.101	inbox.google.com
+216.58.199.101	mail.google.com
+216.58.203.252	chatenabled.mail.google.com
+216.58.221.93	filetransferenabled.mail.google.com
+216.58.221.91	isolated.mail.google.com
 # Gmail End
 
 # Google Apis Start
@@ -2224,8 +2225,8 @@
 
 # Google Service:Google Play Start
 209.85.235.200	services.googleapis.cn
-216.58.203.185	play.google.com
-216.58.203.185	android.clients.google.com
+216.58.203.251	play.google.com
+216.58.203.251	android.clients.google.com
 108.177.121.201	play.googleapis.com
 # Google Service:Google Play End
 
