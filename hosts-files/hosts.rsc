@@ -1093,7 +1093,7 @@ add address=172.217.3.207 name=uploadsj.clients.google.com
 # Google Service End
 
 # Google Service:Ncr Start
-add address=216.58.203.237 name=accounts.google.com
+add address=216.58.199.109 name=accounts.google.com
 add address=108.177.120.94 name=assistant.google.com
 add address=108.177.120.94 name=books.google.com
 add address=108.177.120.94 name=blogsearch.google.com
