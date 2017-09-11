@@ -375,8 +375,8 @@ add address=216.58.203.190 name=mail-settings.google.com
 add address=216.58.221.88 name=m.gmail.com
 add address=216.58.221.92 name=m.googlemail.com
 add address=216.58.221.89 name=gmail.google.com
-add address=216.58.199.101 name=inbox.google.com
-add address=216.58.199.101 name=mail.google.com
+add address=216.58.221.71 name=mail.google.com
+add address=74.125.197.19 name=inbox.google.com
 add address=216.58.203.252 name=chatenabled.mail.google.com
 add address=216.58.221.93 name=filetransferenabled.mail.google.com
 add address=216.58.221.91 name=isolated.mail.google.com
@@ -770,7 +770,7 @@ add address=216.58.200.24 name=www.google.com.sl
 add address=216.58.200.24 name=www.google.com.sv
 add address=216.58.200.24 name=www.google.com.tj
 add address=216.58.200.24 name=www.google.com.tr
-add address=216.58.200.24 name=www.google.com.tw
+add address=108.177.8.125 name=www.google.com.tw
 add address=216.58.200.24 name=www.google.com.ua
 add address=216.58.200.24 name=www.google.com.uy
 add address=216.58.200.24 name=www.google.com.vc
@@ -2227,8 +2227,8 @@ add address=108.177.120.94 name=golang-consa.l.google.com
 
 # Google Service:Google Play Start
 add address=209.85.235.200 name=services.googleapis.cn
-add address=216.58.203.251 name=play.google.com
-add address=216.58.203.251 name=android.clients.google.com
+add address=216.58.221.78 name=play.google.com
+add address=216.58.221.78 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
 # Google Service:Google Play End
 
