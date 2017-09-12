@@ -375,7 +375,7 @@ add address=216.58.203.190 name=mail-settings.google.com
 add address=216.58.221.88 name=m.gmail.com
 add address=216.58.221.92 name=m.googlemail.com
 add address=216.58.221.89 name=gmail.google.com
-add address=216.58.221.71 name=mail.google.com
+add address=74.125.199.17 name=mail.google.com
 add address=74.125.197.19 name=inbox.google.com
 add address=216.58.203.252 name=chatenabled.mail.google.com
 add address=216.58.221.93 name=filetransferenabled.mail.google.com
