@@ -1,4 +1,4 @@
-module.exports = function (generateEntry, generateComment, compact = false) {
+module.exports = function (generateEntry, generateComment) {
 	return function (data) {
 		var output = '', blocks = [];
 		output += generateComment(data.header) + '\n';
@@ -10,7 +10,6 @@ module.exports = function (generateEntry, generateComment, compact = false) {
 					tmp += generateComment(item.comment);
 				} else {
 					if (item.domain !== undefined) tmp += generateEntry(item.ip, item.domain) + '\n';
-					else if (compact) tmp += generateEntry(item.ip, item.domains) + '\n';
 					else {
 						item.domains.forEach(function (domain) {
 							tmp += generateEntry(item.ip, domain) + '\n';
