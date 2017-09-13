@@ -44,9 +44,9 @@ add address=108.177.120.94 name=source.android.com
 add address=108.177.120.94 name=connectivitycheck.android.com
 add address=108.177.120.94 name=d.android.com
 add address=108.177.120.94 name=dev.android.com
-add address=108.177.120.94 name=developer.android.com
 add address=108.177.120.94 name=market.android.com
 add address=108.177.120.94 name=r.android.com
+add address=64.15.118.36 name=developer.android.com
 # Android End
 
 # Apkpure Start
