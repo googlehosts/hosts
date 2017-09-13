@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-12
+# Last updated: 2017-09-13
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2730,6 +2730,12 @@
 96.6.122.224	ecmimages.kobobooks.com
 89.187.65.68	insiders.kobo.com
 # Kobo End
+
+# OneDrive Start
+204.79.197.217	onedrive.live.com
+23.76.75.24	api.onedrive.live.com
+157.55.109.230;	skyapi.onedrive.live.com
+# OneDrive End
 
 # Pinterest Start
 151.101.0.84	pinterest.com

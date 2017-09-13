@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-12
+# Last updated: 2017-09-13
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2732,6 +2732,12 @@ add address=96.6.122.224 name=ecimages.kobobooks.com
 add address=96.6.122.224 name=ecmimages.kobobooks.com
 add address=89.187.65.68 name=insiders.kobo.com
 # Kobo End
+
+# OneDrive Start
+add address=204.79.197.217 name=onedrive.live.com
+add address=23.76.75.24 name=api.onedrive.live.com
+add address=157.55.109.230; name=skyapi.onedrive.live.com
+# OneDrive End
 
 # Pinterest Start
 add address=151.101.0.84 name=pinterest.com
