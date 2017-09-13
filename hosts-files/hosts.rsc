@@ -2733,6 +2733,14 @@ add address=96.6.122.224 name=ecmimages.kobobooks.com
 add address=89.187.65.68 name=insiders.kobo.com
 # Kobo End
 
+# Medium Start
+add address=104.16.120.127 name=medium.com
+add address=104.16.120.145 name=api.medium.com
+add address=104.16.120.145 name=cdn-static-1.medium.com
+add address=104.16.120.145 name=cdn-images-1.medium.com
+add address=104.16.120.145 name=cdn-images-2.medium.com
+# Medium End
+
 # OneDrive Start
 add address=204.79.197.217 name=onedrive.live.com
 add address=23.76.75.24 name=api.onedrive.live.com
