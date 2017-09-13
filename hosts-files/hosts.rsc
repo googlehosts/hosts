@@ -783,7 +783,7 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=216.58.200.187 name=ogs.google.com
-add address=216.58.200.192 name=www.google.com
+add address=64.15.118.39 name=www.google.com
 add address=108.177.8.188 name=id.google.com
 add address=216.239.38.121 name=clients5.google.com
 add address=108.177.121.125 name=apis.google.com
@@ -2230,6 +2230,15 @@ add address=209.85.235.200 name=services.googleapis.cn
 add address=216.58.221.78 name=play.google.com
 add address=216.58.221.78 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
+add address=108.177.121.201 name=mtalk4.google.com
+add address=108.177.121.201 name=alt1-mtalk.google.com
+add address=108.177.121.201 name=alt2-mtalk.google.com
+add address=108.177.121.201 name=alt3-mtalk.google.com
+add address=108.177.121.201 name=alt4-mtalk.google.com
+add address=108.177.121.201 name=alt5-mtalk.google.com
+add address=108.177.121.201 name=alt6-mtalk.google.com
+add address=108.177.121.201 name=alt7-mtalk.google.com
+add address=108.177.121.201 name=alt8-mtalk.google.com
 # Google Service:Google Play End
 
 # Google:gcm Start
@@ -2904,7 +2913,6 @@ add address=108.177.125.136 name=ru.youtube.com
 add address=108.177.125.136 name=tw.youtube.com
 add address=108.177.125.136 name=uk.youtube.com
 add address=108.177.125.136 name=youtube-ui.l.google.com
-add address=108.177.125.136 name=m.youtube.com
 add address=108.177.125.136 name=ads.youtube.com
 add address=108.177.125.136 name=accounts.youtube.com
 add address=108.177.125.136 name=analytics.youtube.com
@@ -2927,6 +2935,7 @@ add address=108.177.125.136 name=i9.ytimg.com
 add address=216.58.195.238 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
 add address=216.58.200.62 name=www.youtube.com
+add address=108.177.9.125 name=m.youtube.com
 # Youtube End
 
 # Google 1e100 Start

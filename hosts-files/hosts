@@ -781,7 +781,7 @@
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-216.58.200.192	www.google.com
+64.15.118.39	www.google.com
 108.177.8.188	id.google.com
 216.239.38.121	clients5.google.com
 108.177.121.125	apis.google.com
@@ -2228,6 +2228,15 @@
 216.58.221.78	play.google.com
 216.58.221.78	android.clients.google.com
 108.177.121.201	play.googleapis.com
+108.177.121.201	mtalk4.google.com
+108.177.121.201	alt1-mtalk.google.com
+108.177.121.201	alt2-mtalk.google.com
+108.177.121.201	alt3-mtalk.google.com
+108.177.121.201	alt4-mtalk.google.com
+108.177.121.201	alt5-mtalk.google.com
+108.177.121.201	alt6-mtalk.google.com
+108.177.121.201	alt7-mtalk.google.com
+108.177.121.201	alt8-mtalk.google.com
 # Google Service:Google Play End
 
 # Google:gcm Start
@@ -2902,7 +2911,6 @@
 108.177.125.136	tw.youtube.com
 108.177.125.136	uk.youtube.com
 108.177.125.136	youtube-ui.l.google.com
-108.177.125.136	m.youtube.com
 108.177.125.136	ads.youtube.com
 108.177.125.136	accounts.youtube.com
 108.177.125.136	analytics.youtube.com
@@ -2925,6 +2933,7 @@
 216.58.195.238	i.ytimg.com
 216.58.217.174	s.ytimg.com
 216.58.200.62	www.youtube.com
+108.177.9.125	m.youtube.com
 # Youtube End
 
 # Google 1e100 Start
