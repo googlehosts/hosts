@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-13
+# Last updated: 2017-09-16
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -735,7 +735,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=216.58.197.122 name=www.google.com.hk
+add address=64.15.126.82 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -770,7 +770,7 @@ add address=216.58.200.24 name=www.google.com.sl
 add address=216.58.200.24 name=www.google.com.sv
 add address=216.58.200.24 name=www.google.com.tj
 add address=216.58.200.24 name=www.google.com.tr
-add address=108.177.8.125 name=www.google.com.tw
+add address=64.15.126.92 name=www.google.com.tw
 add address=216.58.200.24 name=www.google.com.ua
 add address=216.58.200.24 name=www.google.com.uy
 add address=216.58.200.24 name=www.google.com.vc
@@ -835,7 +835,6 @@ add address=108.177.120.94 name=desktop3.google.com
 add address=108.177.120.94 name=desktop5.google.com
 add address=108.177.120.94 name=desktop6.google.com
 add address=108.177.120.94 name=dns.google.com
-add address=108.177.120.94 name=drive.google.com
 add address=108.177.120.94 name=docs0.google.com
 add address=108.177.120.94 name=docs1.google.com
 add address=108.177.120.94 name=docs2.google.com
@@ -1011,7 +1010,8 @@ add address=108.177.120.94 name=sketchup.google.com
 add address=108.177.120.94 name=tagmanager.google.com
 add address=108.177.120.94 name=talkgadget.google.com
 add address=74.125.197.115 name=checkout.google.com
-add address=172.217.3.188 name=ipv4.google.com
+add address=64.15.126.80 name=drive.google.com
+add address=64.15.126.78 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
@@ -1114,7 +1114,7 @@ add address=108.177.120.94 name=places.google.com
 add address=108.177.120.94 name=privacy.google.com
 add address=108.177.120.94 name=translate.google.com
 add address=108.177.120.94 name=toolbarqueries.google.com
-add address=108.177.120.94 name=scholar.google.com
+add address=64.15.126.90 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
@@ -2227,23 +2227,16 @@ add address=108.177.120.94 name=golang-consa.l.google.com
 
 # Google Service:Google Play Start
 add address=209.85.235.200 name=services.googleapis.cn
-add address=216.58.221.78 name=play.google.com
-add address=216.58.221.78 name=android.clients.google.com
+add address=64.15.126.86 name=play.google.com
+add address=64.15.126.86 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
-add address=108.177.121.201 name=mtalk4.google.com
-add address=108.177.121.201 name=alt1-mtalk.google.com
-add address=108.177.121.201 name=alt2-mtalk.google.com
-add address=108.177.121.201 name=alt3-mtalk.google.com
-add address=108.177.121.201 name=alt4-mtalk.google.com
-add address=108.177.121.201 name=alt5-mtalk.google.com
-add address=108.177.121.201 name=alt6-mtalk.google.com
-add address=108.177.121.201 name=alt7-mtalk.google.com
-add address=108.177.121.201 name=alt8-mtalk.google.com
+add address=203.208.39.99 name=alt7-mtalk.google.com
 # Google Service:Google Play End
 
 # Google:gcm Start
 add address=108.177.97.188 name=mobile-gtalk.l.google.com
 add address=108.177.97.188 name=mtalk.google.com
+add address=108.177.97.188 name=mtalk4.google.com
 add address=108.177.97.188 name=gcm.googleapis.com
 add address=108.177.97.188 name=gcm.l.google.com
 add address=108.177.97.188 name=gcm-xmpp.googleapis.com

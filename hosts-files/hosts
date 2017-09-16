@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-13
+# Last updated: 2017-09-16
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -733,7 +733,7 @@
 216.58.200.24	www.google.com.gi
 216.58.200.24	www.google.com.gr
 216.58.200.24	www.google.com.gt
-216.58.197.122	www.google.com.hk
+64.15.126.82	www.google.com.hk
 216.58.200.24	www.google.com.iq
 216.58.200.24	www.google.com.jm
 216.58.200.24	www.google.com.jo
@@ -768,7 +768,7 @@
 216.58.200.24	www.google.com.sv
 216.58.200.24	www.google.com.tj
 216.58.200.24	www.google.com.tr
-108.177.8.125	www.google.com.tw
+64.15.126.92	www.google.com.tw
 216.58.200.24	www.google.com.ua
 216.58.200.24	www.google.com.uy
 216.58.200.24	www.google.com.vc
@@ -833,7 +833,6 @@
 108.177.120.94	desktop5.google.com
 108.177.120.94	desktop6.google.com
 108.177.120.94	dns.google.com
-108.177.120.94	drive.google.com
 108.177.120.94	docs0.google.com
 108.177.120.94	docs1.google.com
 108.177.120.94	docs2.google.com
@@ -1009,7 +1008,8 @@
 108.177.120.94	tagmanager.google.com
 108.177.120.94	talkgadget.google.com
 74.125.197.115	checkout.google.com
-172.217.3.188	ipv4.google.com
+64.15.126.80	drive.google.com
+64.15.126.78	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
 108.177.125.189	2.client-channel.google.com
@@ -1112,7 +1112,7 @@
 108.177.120.94	privacy.google.com
 108.177.120.94	translate.google.com
 108.177.120.94	toolbarqueries.google.com
-108.177.120.94	scholar.google.com
+64.15.126.90	scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
@@ -2225,23 +2225,16 @@
 
 # Google Service:Google Play Start
 209.85.235.200	services.googleapis.cn
-216.58.221.78	play.google.com
-216.58.221.78	android.clients.google.com
+64.15.126.86	play.google.com
+64.15.126.86	android.clients.google.com
 108.177.121.201	play.googleapis.com
-108.177.121.201	mtalk4.google.com
-108.177.121.201	alt1-mtalk.google.com
-108.177.121.201	alt2-mtalk.google.com
-108.177.121.201	alt3-mtalk.google.com
-108.177.121.201	alt4-mtalk.google.com
-108.177.121.201	alt5-mtalk.google.com
-108.177.121.201	alt6-mtalk.google.com
-108.177.121.201	alt7-mtalk.google.com
-108.177.121.201	alt8-mtalk.google.com
+203.208.39.99	alt7-mtalk.google.com
 # Google Service:Google Play End
 
 # Google:gcm Start
 108.177.97.188	mobile-gtalk.l.google.com
 108.177.97.188	mtalk.google.com
+108.177.97.188	mtalk4.google.com
 108.177.97.188	gcm.googleapis.com
 108.177.97.188	gcm.l.google.com
 108.177.97.188	gcm-xmpp.googleapis.com
