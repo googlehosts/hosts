@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-19
+# Last updated: 2017-09-20
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2795,6 +2795,8 @@ add address=54.165.175.178 name=developers.pinterest.com
 
 # Pixiv Start
 add address=210.129.120.55 name=www.pixiv.net
+add address=210.140.131.146 name=source.pixiv.net
+add address=210.129.120.41 name=accounts.pixiv.net
 # Pixiv End
 
 # Tumblr Start

@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-19
+# Last updated: 2017-09-20
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -213,6 +213,8 @@
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
 210.129.120.55	www.pixiv.net
+210.140.131.146	source.pixiv.net
+210.129.120.41	accounts.pixiv.net
 66.6.33.31	tumblr.com www.tumblr.com
 107.23.241.99	tumblr.co api.tumblr.com
 216.115.100.126	vt.tumblr.com vtt.tumblr.com static.tumblr.com 24.media.tumblr.com 31.media.tumblr.com 33.media.tumblr.com 37.media.tumblr.com 38.media.tumblr.com 40.media.tumblr.com 49.media.tumblr.com 66.media.tumblr.com 90.media.tumblr.com
