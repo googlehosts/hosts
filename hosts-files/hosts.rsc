@@ -2797,6 +2797,7 @@ add address=54.165.175.178 name=developers.pinterest.com
 add address=210.129.120.55 name=www.pixiv.net
 add address=210.140.131.146 name=source.pixiv.net
 add address=210.129.120.41 name=accounts.pixiv.net
+add address=210.140.131.147 name=imgaz.pixiv.net
 # Pixiv End
 
 # Tumblr Start
