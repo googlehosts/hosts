@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-16
+# Last updated: 2017-09-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2792,6 +2792,10 @@ add address=34.213.142.132 name=post.pinterest.com
 add address=52.22.159.107 name=trk.pinterest.com
 add address=54.165.175.178 name=developers.pinterest.com
 # Pinterest End
+
+# Pixiv Start
+add address=210.129.120.55 name=www.pixiv.net
+# Pixiv End
 
 # Tumblr Start
 add address=66.6.33.31 name=tumblr.com
@@ -11430,7 +11434,6 @@ add address=173.194.51.89 name=r20---sn-oguesnle.c.play.google.com
 # Google Play End
 
 # Google Video Start
-add address=172.217.31.96 name=manifest.googlevideo.com
 add address=203.208.41.41 name=redirector.a1.googlevideo.com
 add address=203.208.41.41 name=redirector.c.video.google.com
 add address=203.208.41.41 name=redirector.googlevideo.com

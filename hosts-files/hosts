@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-16
+# Last updated: 2017-09-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2790,6 +2790,10 @@
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
 # Pinterest End
+
+# Pixiv Start
+210.129.120.55	www.pixiv.net
+# Pixiv End
 
 # Tumblr Start
 66.6.33.31	tumblr.com
@@ -11428,7 +11432,6 @@
 # Google Play End
 
 # Google Video Start
-172.217.31.96	manifest.googlevideo.com
 203.208.41.41	redirector.a1.googlevideo.com
 203.208.41.41	redirector.c.video.google.com
 203.208.41.41	redirector.googlevideo.com

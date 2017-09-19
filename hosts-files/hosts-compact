@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-16
+# Last updated: 2017-09-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -25,7 +25,7 @@
 207.241.225.186	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
 68.232.44.39	agi.armorgames.com
 192.229.179.107	armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
-172.217.31.96	www.autodraw.com embed.culturalspot.org docs.google.com manifest.googlevideo.com
+172.217.31.96	www.autodraw.com embed.culturalspot.org docs.google.com
 104.20.6.63	bandwagonhost.com
 107.152.25.196	box.com
 107.152.24.198	app.box.com
@@ -212,6 +212,7 @@
 34.213.142.132	post.pinterest.com
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
+210.129.120.55	www.pixiv.net
 66.6.33.31	tumblr.com www.tumblr.com
 107.23.241.99	tumblr.co api.tumblr.com
 216.115.100.126	vt.tumblr.com vtt.tumblr.com static.tumblr.com 24.media.tumblr.com 31.media.tumblr.com 33.media.tumblr.com 37.media.tumblr.com 38.media.tumblr.com 40.media.tumblr.com 49.media.tumblr.com 66.media.tumblr.com 90.media.tumblr.com
