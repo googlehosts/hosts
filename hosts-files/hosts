@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-20
+# Last updated: 2017-09-23
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -234,9 +234,9 @@
 # Disqus End
 
 # Facebook Start
+157.240.2.14	www.facebook.com
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
-157.240.7.35	www.facebook.com
 157.240.7.35	api.facebook.com
 157.240.7.35	apps.facebook.com
 157.240.7.35	attachments.facebook.com
@@ -2799,6 +2799,14 @@
 210.140.131.147	imgaz.pixiv.net
 210.129.120.44	app-api.pixiv.net
 210.129.120.48	oauth.secure.pixiv.net
+210.129.120.54	dic.pixiv.net
+210.140.131.145	comic.pixiv.net
+210.129.120.53	factory.pixiv.net
+74.120.148.205	g-client-proxy.pixiv.net
+210.140.170.179	sketch.pixiv.net
+210.129.120.52	payment.pixiv.net
+210.129.120.51	sensei.pixiv.net
+210.140.131.144	novel.pixiv.net
 # Pixiv End
 
 # Tumblr Start

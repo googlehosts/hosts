@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-20
+# Last updated: 2017-09-23
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -236,9 +236,9 @@ add address=151.101.24.249 name=a.disquscdn.com
 # Disqus End
 
 # Facebook Start
+add address=157.240.2.14 name=www.facebook.com
 add address=157.240.7.35 name=fb.me
 add address=157.240.7.35 name=facebook.com
-add address=157.240.7.35 name=www.facebook.com
 add address=157.240.7.35 name=api.facebook.com
 add address=157.240.7.35 name=apps.facebook.com
 add address=157.240.7.35 name=attachments.facebook.com
@@ -2801,6 +2801,14 @@ add address=210.129.120.41 name=accounts.pixiv.net
 add address=210.140.131.147 name=imgaz.pixiv.net
 add address=210.129.120.44 name=app-api.pixiv.net
 add address=210.129.120.48 name=oauth.secure.pixiv.net
+add address=210.129.120.54 name=dic.pixiv.net
+add address=210.140.131.145 name=comic.pixiv.net
+add address=210.129.120.53 name=factory.pixiv.net
+add address=74.120.148.205 name=g-client-proxy.pixiv.net
+add address=210.140.170.179 name=sketch.pixiv.net
+add address=210.129.120.52 name=payment.pixiv.net
+add address=210.129.120.51 name=sensei.pixiv.net
+add address=210.140.131.144 name=novel.pixiv.net
 # Pixiv End
 
 # Tumblr Start
