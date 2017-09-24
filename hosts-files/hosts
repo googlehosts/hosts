@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-23
+# Last updated: 2017-09-24
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2807,6 +2807,7 @@
 210.129.120.52	payment.pixiv.net
 210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
+210.129.120.49	ssl.pixiv.net
 # Pixiv End
 
 # Tumblr Start
