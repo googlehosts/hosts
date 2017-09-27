@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-27
+# Last updated: 2017-09-28
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2811,6 +2811,10 @@ add address=210.129.120.51 name=sensei.pixiv.net
 add address=210.140.131.144 name=novel.pixiv.net
 add address=210.129.120.49 name=ssl.pixiv.net
 # Pixiv End
+
+# Soundcloud Start
+add address=68.232.44.127 name=soundcloud.com
+# Soundcloud End
 
 # Tumblr Start
 add address=66.6.33.31 name=tumblr.com
