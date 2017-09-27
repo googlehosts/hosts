@@ -2758,7 +2758,7 @@ add address=203.104.160.12 name=gd2u.line.naver.jp
 add address=203.104.160.11 name=gd2s.line.naver.jp
 add address=203.104.174.20 name=gd2v.line.naver.jp
 add address=125.209.252.18 name=gd2g.line.naver.jp
-add address=125.209.252.17 name=gd2i.line.naver.jp
+add address=125.209.252.17 name=gd2i.line.naver.jpstatic.sxzhchina.com
 add address=125.209.222.59 name=gd2k.line.naver.jp
 add address=125.209.222.202 name=gd2w.line.naver.jp
 add address=125.209.222.202 name=gww.line.naver.jp
@@ -2779,6 +2779,34 @@ add address=104.16.120.145 name=cdn-static-1.medium.com
 add address=104.16.120.145 name=cdn-images-1.medium.com
 add address=104.16.120.145 name=cdn-images-2.medium.com
 # Medium End
+
+# Nytimes Start
+add address=34.225.58.16 name=messaging-sub.api.nytimes.com
+add address=23.21.73.215 name=nytab.nytimes.com
+add address=34.224.132.29 name=et.nytimes.com
+add address=54.249.25.75 name=sso.nytcn.me
+add address=23.23.198.251 name=tagx.nytimes.com
+add address=34.233.208.93 name=rec.api.nytimes.com
+add address=54.182.1.92 name=static.sxzhchina.com
+add address=31.13.64.40 name=l0.cn.nytimes.com
+add address=208.100.17.183 name=ic.tynt.com
+add address=54.182.4.208 name=m.cn.nytstyle.com
+add address=151.101.77.164 name=www.nytimes.com
+add address=151.101.77.164 name=graphics8.nytimes.com
+add address=151.101.77.164 name=typeface.nytimes.com
+add address=151.101.77.164 name=typeface.nyt.com
+add address=151.101.77.164 name=static01.nyt.com
+add address=151.101.77.164 name=static02.nyt.com
+add address=151.101.77.164 name=js.nyt.com
+add address=151.101.77.164 name=css.nyt.com
+add address=151.101.77.164 name=int.nyt.com
+add address=54.182.4.198 name=cn.nytimes.com
+add address=35.186.231.252 name=m.cn.nytimes.com
+add address=151.101.1.164 name=json8.nytimes.com
+add address=151.101.65.164 name=a1.nyt.com
+add address=151.101.129.164 name=s1.nyt.com
+add address=151.101.193.164 name=i1.nyt.com
+# Nytimes End
 
 # OneDrive Start
 add address=204.79.197.217 name=onedrive.live.com

@@ -222,7 +222,7 @@
 203.104.160.11	gd2s.line.naver.jp
 203.104.174.20	gd2v.line.naver.jp
 125.209.252.18	gd2g.line.naver.jp
-125.209.252.17	gd2i.line.naver.jp
+125.209.252.17	gd2i.line.naver.jpstatic.sxzhchina.com
 125.209.222.59	gd2k.line.naver.jp
 125.209.222.202	gd2w.line.naver.jp gww.line.naver.jp
 203.104.174.18	gwx.line.naver.jp
@@ -232,6 +232,23 @@
 31.216.148.12	mega.nz
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com cdn-static-1.medium.com cdn-images-1.medium.com cdn-images-2.medium.com
+34.225.58.16	messaging-sub.api.nytimes.com
+23.21.73.215	nytab.nytimes.com
+34.224.132.29	et.nytimes.com
+54.249.25.75	sso.nytcn.me
+23.23.198.251	tagx.nytimes.com
+34.233.208.93	rec.api.nytimes.com
+54.182.1.92	static.sxzhchina.com
+31.13.64.40	l0.cn.nytimes.com
+208.100.17.183	ic.tynt.com
+54.182.4.208	m.cn.nytstyle.com
+151.101.77.164	www.nytimes.com graphics8.nytimes.com typeface.nytimes.com typeface.nyt.com static01.nyt.com static02.nyt.com js.nyt.com css.nyt.com int.nyt.com
+54.182.4.198	cn.nytimes.com
+35.186.231.252	m.cn.nytimes.com
+151.101.1.164	json8.nytimes.com
+151.101.65.164	a1.nyt.com
+151.101.129.164	s1.nyt.com
+151.101.193.164	i1.nyt.com
 204.79.197.217	onedrive.live.com
 23.76.75.24	api.onedrive.live.com
 157.55.109.230	skyapi.onedrive.live.com
