@@ -2733,6 +2733,43 @@
 89.187.65.68	insiders.kobo.com
 # Kobo End
 
+# Logmein Start
+64.95.128.149	secure.logmein.com
+# Logmein End
+
+# Line Start
+203.104.138.138	line.me
+125.209.210.239	lcp-checkout.line.me
+223.119.202.208	scdn.line-apps.com
+104.124.225.74	lan.line.me
+23.40.108.79	w.line.me
+203.104.150.46	obs.line-apps.com
+125.209.238.181	obs-cn.line-apps.com
+203.104.153.6	obs-tw.line-apps.com
+125.209.238.186	xcdn-cn.line-apps.com
+125.209.238.186	xcdn-cn-prf.line-apps.com
+125.209.238.186	xcdn-cn-shp.line-apps.com
+125.209.238.186	xcdn-cn-stk.line-apps.com
+203.104.150.2	gd2.line.naver.jp
+203.104.153.129	gw.line.naver.jp
+203.104.160.12	gd2u.line.naver.jp
+203.104.160.11	gd2s.line.naver.jp
+203.104.174.20	gd2v.line.naver.jp
+125.209.252.18	gd2g.line.naver.jp
+125.209.252.17	gd2i.line.naver.jp
+125.209.222.59	gd2k.line.naver.jp
+125.209.222.202	gd2w.line.naver.jp
+125.209.222.202	gww.line.naver.jp
+203.104.174.18	gwx.line.naver.jp
+223.119.50.146	dl.profile.line.naver.jp
+223.119.50.144	dl.stickershop.line.naver.jp
+203.104.150.35	static.line.naver.jp
+# Line End
+
+# MEGA Start
+31.216.148.12	mega.nz
+# MEGA End
+
 # Medium Start
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com
@@ -2813,10 +2850,30 @@
 # Soundcloud Start
 68.232.44.127	soundcloud.com
 68.232.44.127	api-v2.soundcloud.com
-68.232.44.127	l9bjkkhaycw6f8f4.soundcloud.com
-68.232.44.127	api.soundcloud.com
-68.232.44.127	promoted.soundcloud.com
+68.232.44.127	telemetry.soundcloud.com
+72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com
+72.21.81.127	api.soundcloud.com
+72.21.81.127	eventgateway.soundcloud.com
+72.21.91.127	promoted.soundcloud.com
+72.21.91.127	m.soundcloud.com
+72.21.91.127	on.soundcloud.com
+72.21.91.127	visuals.soundcloud.com
+104.196.1.106	blog.soundcloud.com
+68.232.45.67	ec-media.soundcloud.com
+72.21.81.77	ec-rtmp-media.soundcloud.com
+68.232.45.77	ec-media.sndcdn.com
+72.21.91.96	a1.sndcdn.com
+72.21.91.96	a-v2.sndcdn.com
+72.21.91.96	ec-preview-media.sndcdn.com
+72.21.91.96	style.sndcdn.com
+72.21.91.96	va.sndcdn.com
 # Soundcloud End
+
+# Theinitium Start
+52.76.148.61	stigma.theinitium.com
+52.221.46.214	theinitium.com
+52.221.46.214	api.theinitium.com
+# Theinitium End
 
 # Tumblr Start
 66.6.33.31	tumblr.com
@@ -2909,6 +2966,27 @@
 138.201.14.206	svn.torproject.org
 138.201.212.227	trac.torproject.org
 # Tor End
+
+# Vimeo Start
+151.101.0.217	vimeo.com
+151.101.192.217	api.vimeo.com
+151.101.64.217	www.vimeo.com
+151.101.128.217	player.vimeo.com
+151.101.78.109	i.vimeocdn.com
+151.101.2.109	f.vimeocdn.com
+151.101.64.249	vimeo-hp-videos.global.ssl.fastly.net
+198.245.92.39	click.email.vimeo.com
+# Vimeo End
+
+# Voa Start
+23.41.77.13	www.voachinese.com
+23.41.77.13	av.voanews.com
+23.66.39.94	gdb.voanews.com
+# Voa End
+
+# Wikinews Start
+198.35.26.96	zh.m.wikinews.org
+# Wikinews End
 
 # Wikipedia Start
 198.35.26.96	www.wikipedia.org

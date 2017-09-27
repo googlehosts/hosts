@@ -2735,6 +2735,43 @@ add address=96.6.122.224 name=ecmimages.kobobooks.com
 add address=89.187.65.68 name=insiders.kobo.com
 # Kobo End
 
+# Logmein Start
+add address=64.95.128.149 name=secure.logmein.com
+# Logmein End
+
+# Line Start
+add address=203.104.138.138 name=line.me
+add address=125.209.210.239 name=lcp-checkout.line.me
+add address=223.119.202.208 name=scdn.line-apps.com
+add address=104.124.225.74 name=lan.line.me
+add address=23.40.108.79 name=w.line.me
+add address=203.104.150.46 name=obs.line-apps.com
+add address=125.209.238.181 name=obs-cn.line-apps.com
+add address=203.104.153.6 name=obs-tw.line-apps.com
+add address=125.209.238.186 name=xcdn-cn.line-apps.com
+add address=125.209.238.186 name=xcdn-cn-prf.line-apps.com
+add address=125.209.238.186 name=xcdn-cn-shp.line-apps.com
+add address=125.209.238.186 name=xcdn-cn-stk.line-apps.com
+add address=203.104.150.2 name=gd2.line.naver.jp
+add address=203.104.153.129 name=gw.line.naver.jp
+add address=203.104.160.12 name=gd2u.line.naver.jp
+add address=203.104.160.11 name=gd2s.line.naver.jp
+add address=203.104.174.20 name=gd2v.line.naver.jp
+add address=125.209.252.18 name=gd2g.line.naver.jp
+add address=125.209.252.17 name=gd2i.line.naver.jp
+add address=125.209.222.59 name=gd2k.line.naver.jp
+add address=125.209.222.202 name=gd2w.line.naver.jp
+add address=125.209.222.202 name=gww.line.naver.jp
+add address=203.104.174.18 name=gwx.line.naver.jp
+add address=223.119.50.146 name=dl.profile.line.naver.jp
+add address=223.119.50.144 name=dl.stickershop.line.naver.jp
+add address=203.104.150.35 name=static.line.naver.jp
+# Line End
+
+# MEGA Start
+add address=31.216.148.12 name=mega.nz
+# MEGA End
+
 # Medium Start
 add address=104.16.120.127 name=medium.com
 add address=104.16.120.145 name=api.medium.com
@@ -2815,10 +2852,30 @@ add address=210.129.120.49 name=ssl.pixiv.net
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
 add address=68.232.44.127 name=api-v2.soundcloud.com
-add address=68.232.44.127 name=l9bjkkhaycw6f8f4.soundcloud.com
-add address=68.232.44.127 name=api.soundcloud.com
-add address=68.232.44.127 name=promoted.soundcloud.com
+add address=68.232.44.127 name=telemetry.soundcloud.com
+add address=72.21.81.127 name=l9bjkkhaycw6f8f4.soundcloud.com
+add address=72.21.81.127 name=api.soundcloud.com
+add address=72.21.81.127 name=eventgateway.soundcloud.com
+add address=72.21.91.127 name=promoted.soundcloud.com
+add address=72.21.91.127 name=m.soundcloud.com
+add address=72.21.91.127 name=on.soundcloud.com
+add address=72.21.91.127 name=visuals.soundcloud.com
+add address=104.196.1.106 name=blog.soundcloud.com
+add address=68.232.45.67 name=ec-media.soundcloud.com
+add address=72.21.81.77 name=ec-rtmp-media.soundcloud.com
+add address=68.232.45.77 name=ec-media.sndcdn.com
+add address=72.21.91.96 name=a1.sndcdn.com
+add address=72.21.91.96 name=a-v2.sndcdn.com
+add address=72.21.91.96 name=ec-preview-media.sndcdn.com
+add address=72.21.91.96 name=style.sndcdn.com
+add address=72.21.91.96 name=va.sndcdn.com
 # Soundcloud End
+
+# Theinitium Start
+add address=52.76.148.61 name=stigma.theinitium.com
+add address=52.221.46.214 name=theinitium.com
+add address=52.221.46.214 name=api.theinitium.com
+# Theinitium End
 
 # Tumblr Start
 add address=66.6.33.31 name=tumblr.com
@@ -2911,6 +2968,27 @@ add address=78.47.38.231 name=storm.torproject.org
 add address=138.201.14.206 name=svn.torproject.org
 add address=138.201.212.227 name=trac.torproject.org
 # Tor End
+
+# Vimeo Start
+add address=151.101.0.217 name=vimeo.com
+add address=151.101.192.217 name=api.vimeo.com
+add address=151.101.64.217 name=www.vimeo.com
+add address=151.101.128.217 name=player.vimeo.com
+add address=151.101.78.109 name=i.vimeocdn.com
+add address=151.101.2.109 name=f.vimeocdn.com
+add address=151.101.64.249 name=vimeo-hp-videos.global.ssl.fastly.net
+add address=198.245.92.39 name=click.email.vimeo.com
+# Vimeo End
+
+# Voa Start
+add address=23.41.77.13 name=www.voachinese.com
+add address=23.41.77.13 name=av.voanews.com
+add address=23.66.39.94 name=gdb.voanews.com
+# Voa End
+
+# Wikinews Start
+add address=198.35.26.96 name=zh.m.wikinews.org
+# Wikinews End
 
 # Wikipedia Start
 add address=198.35.26.96 name=www.wikipedia.org

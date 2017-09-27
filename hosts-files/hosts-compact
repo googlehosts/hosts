@@ -206,6 +206,30 @@
 75.98.196.99	media.kobobooks.com
 96.6.122.224	contentdownloads.kobobooks.com get.kobobooks.com ecimages.kobobooks.com ecmimages.kobobooks.com
 89.187.65.68	insiders.kobo.com
+64.95.128.149	secure.logmein.com
+203.104.138.138	line.me
+125.209.210.239	lcp-checkout.line.me
+223.119.202.208	scdn.line-apps.com
+104.124.225.74	lan.line.me
+23.40.108.79	w.line.me
+203.104.150.46	obs.line-apps.com
+125.209.238.181	obs-cn.line-apps.com
+203.104.153.6	obs-tw.line-apps.com
+125.209.238.186	xcdn-cn.line-apps.com xcdn-cn-prf.line-apps.com xcdn-cn-shp.line-apps.com xcdn-cn-stk.line-apps.com
+203.104.150.2	gd2.line.naver.jp
+203.104.153.129	gw.line.naver.jp
+203.104.160.12	gd2u.line.naver.jp
+203.104.160.11	gd2s.line.naver.jp
+203.104.174.20	gd2v.line.naver.jp
+125.209.252.18	gd2g.line.naver.jp
+125.209.252.17	gd2i.line.naver.jp
+125.209.222.59	gd2k.line.naver.jp
+125.209.222.202	gd2w.line.naver.jp gww.line.naver.jp
+203.104.174.18	gwx.line.naver.jp
+223.119.50.146	dl.profile.line.naver.jp
+223.119.50.144	dl.stickershop.line.naver.jp
+203.104.150.35	static.line.naver.jp
+31.216.148.12	mega.nz
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com cdn-static-1.medium.com cdn-images-1.medium.com cdn-images-2.medium.com
 204.79.197.217	onedrive.live.com
@@ -232,7 +256,16 @@
 210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
 210.129.120.49	ssl.pixiv.net
-68.232.44.127	soundcloud.com api-v2.soundcloud.com l9bjkkhaycw6f8f4.soundcloud.com api.soundcloud.com promoted.soundcloud.com
+68.232.44.127	soundcloud.com api-v2.soundcloud.com telemetry.soundcloud.com
+72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com api.soundcloud.com eventgateway.soundcloud.com
+72.21.91.127	promoted.soundcloud.com m.soundcloud.com on.soundcloud.com visuals.soundcloud.com
+104.196.1.106	blog.soundcloud.com
+68.232.45.67	ec-media.soundcloud.com
+72.21.81.77	ec-rtmp-media.soundcloud.com
+68.232.45.77	ec-media.sndcdn.com
+72.21.91.96	a1.sndcdn.com a-v2.sndcdn.com ec-preview-media.sndcdn.com style.sndcdn.com va.sndcdn.com
+52.76.148.61	stigma.theinitium.com
+52.221.46.214	theinitium.com api.theinitium.com
 66.6.33.31	tumblr.com www.tumblr.com
 107.23.241.99	tumblr.co api.tumblr.com
 216.115.100.126	vt.tumblr.com vtt.tumblr.com static.tumblr.com 24.media.tumblr.com 31.media.tumblr.com 33.media.tumblr.com 37.media.tumblr.com 38.media.tumblr.com 40.media.tumblr.com 49.media.tumblr.com 66.media.tumblr.com 90.media.tumblr.com
@@ -272,7 +305,17 @@
 78.47.38.231	storm.torproject.org
 138.201.14.206	svn.torproject.org
 138.201.212.227	trac.torproject.org
-198.35.26.96	www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org
+151.101.0.217	vimeo.com
+151.101.192.217	api.vimeo.com
+151.101.64.217	www.vimeo.com
+151.101.128.217	player.vimeo.com
+151.101.78.109	i.vimeocdn.com
+151.101.2.109	f.vimeocdn.com
+151.101.64.249	vimeo-hp-videos.global.ssl.fastly.net
+198.245.92.39	click.email.vimeo.com
+23.41.77.13	www.voachinese.com av.voanews.com
+23.66.39.94	gdb.voanews.com
+198.35.26.96	zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 108.177.125.136	youtube.com youtu.be au.youtube.com ca.youtube.com de.youtube.com jp.youtube.com ru.youtube.com tw.youtube.com uk.youtube.com youtube-ui.l.google.com ads.youtube.com accounts.youtube.com analytics.youtube.com apiblog.youtube.com creatoracademy.youtube.com s.youtube.com gdata.youtube.com gaming.youtube.com help.youtube.com img.youtube.com insight.youtube.com stage.gdata.youtube.com tv.youtube.com www.youtube-nocookie.com i1.ytimg.com i2.ytimg.com i3.ytimg.com i4.ytimg.com i9.ytimg.com
 64.15.118.37	i.ytimg.com
