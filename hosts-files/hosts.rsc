@@ -2814,6 +2814,9 @@ add address=210.129.120.49 name=ssl.pixiv.net
 
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
+add address=68.232.44.127 name=api-v2.soundcloud.com
+add address=68.232.44.127 name=l9bjkkhaycw6f8f4.soundcloud.com
+add address=68.232.44.127 name=api.soundcloud.com
 # Soundcloud End
 
 # Tumblr Start
