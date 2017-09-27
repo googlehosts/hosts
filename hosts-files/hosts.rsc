@@ -2809,9 +2809,12 @@ add address=151.101.193.164 name=i1.nyt.com
 # Nytimes End
 
 # OneDrive Start
-add address=204.79.197.217 name=onedrive.live.com
+add address=204.79.197.213 name=api.onedrive.com
 add address=23.76.75.24 name=api.onedrive.live.com
-add address=157.55.109.230 name=skyapi.onedrive.live.com
+add address=204.79.197.217 name=onedrive.live.com
+add address=204.79.197.217 name=webedgegeo.skyprod.akadns.net
+add address=131.253.14.230 name=skyapi.onedrive.live.com
+add address=134.170.104.157 name=skyweb.skyprod.akadns.net
 # OneDrive End
 
 # Pinterest Start
