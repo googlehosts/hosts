@@ -2911,6 +2911,16 @@
 198.232.125.81	cdn.rawgit.com
 # RawGit End
 
+# Resilio Sync Start
+54.192.75.139	getsync.com
+54.192.75.23	download-cdn.getsync.com
+52.20.43.156	update.getsync.com
+54.192.75.197	www.getsync.com
+54.192.75.46	config.resilio.com
+54.192.75.27	www.resilio.com
+54.82.227.39	new-bench.resilio.com
+# Resilio Sync End
+
 # Soundcloud Start
 68.232.44.127	soundcloud.com
 68.232.44.127	api-v2.soundcloud.com
@@ -2932,6 +2942,31 @@
 72.21.91.96	style.sndcdn.com
 72.21.91.96	va.sndcdn.com
 # Soundcloud End
+
+# Slideshare Start
+144.2.3.20	www.slideshare.net
+144.2.3.20	de.slideshare.net
+144.2.3.20	es.slideshare.net
+144.2.3.20	fr.slideshare.net
+144.2.3.20	pt.slideshare.net
+108.174.10.14	engineering.slideshare.net
+108.174.10.14	blog.slideshare.net
+108.174.10.19	slideshare.net
+# Slideshare End
+
+# Smartdnsproxy Start
+45.64.64.96	www.smartdnsproxy.com
+54.215.198.167	support.smartdnsproxy.com
+# Smartdnsproxy End
+
+# Startpage & Ixquick Start
+216.218.239.62	startpage.com
+216.218.239.22	www.startpage.com
+64.71.175.181	www.ixquick.com
+64.71.175.181	ixquick.com
+64.71.134.122	support.startpage.com
+64.71.134.121	support.ixquick.com
+# Startpage & Ixquick End
 
 # Theinitium Start
 52.76.148.61	stigma.theinitium.com

@@ -2913,6 +2913,16 @@ add address=104.20.38.14 name=www.psiphon.ca
 add address=198.232.125.81 name=cdn.rawgit.com
 # RawGit End
 
+# Resilio Sync Start
+add address=54.192.75.139 name=getsync.com
+add address=54.192.75.23 name=download-cdn.getsync.com
+add address=52.20.43.156 name=update.getsync.com
+add address=54.192.75.197 name=www.getsync.com
+add address=54.192.75.46 name=config.resilio.com
+add address=54.192.75.27 name=www.resilio.com
+add address=54.82.227.39 name=new-bench.resilio.com
+# Resilio Sync End
+
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
 add address=68.232.44.127 name=api-v2.soundcloud.com
@@ -2934,6 +2944,31 @@ add address=72.21.91.96 name=ec-preview-media.sndcdn.com
 add address=72.21.91.96 name=style.sndcdn.com
 add address=72.21.91.96 name=va.sndcdn.com
 # Soundcloud End
+
+# Slideshare Start
+add address=144.2.3.20 name=www.slideshare.net
+add address=144.2.3.20 name=de.slideshare.net
+add address=144.2.3.20 name=es.slideshare.net
+add address=144.2.3.20 name=fr.slideshare.net
+add address=144.2.3.20 name=pt.slideshare.net
+add address=108.174.10.14 name=engineering.slideshare.net
+add address=108.174.10.14 name=blog.slideshare.net
+add address=108.174.10.19 name=slideshare.net
+# Slideshare End
+
+# Smartdnsproxy Start
+add address=45.64.64.96 name=www.smartdnsproxy.com
+add address=54.215.198.167 name=support.smartdnsproxy.com
+# Smartdnsproxy End
+
+# Startpage & Ixquick Start
+add address=216.218.239.62 name=startpage.com
+add address=216.218.239.22 name=www.startpage.com
+add address=64.71.175.181 name=www.ixquick.com
+add address=64.71.175.181 name=ixquick.com
+add address=64.71.134.122 name=support.startpage.com
+add address=64.71.134.121 name=support.ixquick.com
+# Startpage & Ixquick End
 
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com
