@@ -177,7 +177,7 @@
 31.13.70.52	logger.instagram.com maps.instagram.com
 31.13.77.52	scontent-a.cdninstagram.com
 31.13.76.84	help.instagram.com scontent-sea1-1.cdninstagram.com platform.instagram.com
-66.6.32.22	blog.instagram.com blog.issuu.com
+66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
 31.13.95.48	scontent-hkg3-1.cdninstagram.com
 157.240.15.63	scontent-hkg3-2.cdninstagram.com
 31.13.78.52	scontent-sit4-1.cdninstagram.com
@@ -262,7 +262,7 @@
 210.129.120.43	touch.pixiv.net
 210.140.131.146	source.pixiv.net
 210.129.120.41	accounts.pixiv.net
-210.140.131.147	imgaz.pixiv.net
+210.140.131.147	imgaz.pixiv.net i1.pixiv.net
 210.129.120.44	app-api.pixiv.net
 210.129.120.48	oauth.secure.pixiv.net
 210.129.120.54	dic.pixiv.net
@@ -273,7 +273,20 @@
 210.129.120.52	payment.pixiv.net
 210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
-210.129.120.49	ssl.pixiv.net
+210.129.120.49	ssl.pixiv.net pixiv.net
+210.129.120.50	recruit.pixiv.net
+113.33.39.198	p2.pixiv.net blog.pixiv.net
+210.129.120.47	matsuri.pixiv.net
+210.129.120.46	m.pixiv.net
+52.85.87.254	iracon.pixiv.net
+52.69.82.228	inside.pixiv.net
+153.120.23.207	help.pixiv.net
+52.219.4.58	goods.pixiv.net
+210.129.120.40	genepixiv.pr.pixiv.net
+52.85.87.122	festa.pixiv.net
+210.129.120.45	en.dic.pixiv.net
+52.219.4.114	dev.pixiv.net
+210.129.120.42	chat.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
 35.160.65.192	channels.pscp.tv

@@ -2878,6 +2878,23 @@ add address=210.129.120.52 name=payment.pixiv.net
 add address=210.129.120.51 name=sensei.pixiv.net
 add address=210.140.131.144 name=novel.pixiv.net
 add address=210.129.120.49 name=ssl.pixiv.net
+add address=66.6.32.22 name=times.pixiv.net
+add address=210.129.120.50 name=recruit.pixiv.net
+add address=210.129.120.49 name=pixiv.net
+add address=113.33.39.198 name=p2.pixiv.net
+add address=210.129.120.47 name=matsuri.pixiv.net
+add address=210.129.120.46 name=m.pixiv.net
+add address=52.85.87.254 name=iracon.pixiv.net
+add address=52.69.82.228 name=inside.pixiv.net
+add address=210.140.131.147 name=i1.pixiv.net
+add address=153.120.23.207 name=help.pixiv.net
+add address=52.219.4.58 name=goods.pixiv.net
+add address=210.129.120.40 name=genepixiv.pr.pixiv.net
+add address=52.85.87.122 name=festa.pixiv.net
+add address=210.129.120.45 name=en.dic.pixiv.net
+add address=52.219.4.114 name=dev.pixiv.net
+add address=210.129.120.42 name=chat.pixiv.net
+add address=113.33.39.198 name=blog.pixiv.net
 # Pixiv End
 
 # Periscope Start
