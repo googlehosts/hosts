@@ -2977,8 +2977,8 @@ add address=52.221.46.214 name=api.theinitium.com
 # Theinitium End
 
 # Tumblr Start
-add address=66.6.33.31 name=tumblr.com
-add address=66.6.33.31 name=www.tumblr.com
+add address=119.161.14.19 name=tumblr.com
+add address=119.161.14.20 name=www.tumblr.com
 add address=107.23.241.99 name=tumblr.co
 add address=107.23.241.99 name=api.tumblr.com
 add address=216.115.100.126 name=vt.tumblr.com
