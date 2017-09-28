@@ -275,6 +275,24 @@
 210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
 210.129.120.49	ssl.pixiv.net
+52.76.20.17	pscp.tv
+52.220.143.156	www.pscp.tv
+35.160.65.192	channels.pscp.tv
+35.164.70.108	proxsee.pscp.tv
+54.192.73.58	assets.pscp.tv prod-profile.pscp.tv prod-thumbnail.pscp.tv
+151.101.2.164	prod-video-ap-northeast-1.pscp.tv prod-video-ap-southeast-1.pscp.tv
+151.101.66.164	prod-video-ap-southeast-2.pscp.tv prod-video-eu-central-1.pscp.tv
+151.101.130.164	prod-video-us-east-1.pscp.tv
+151.101.194.164	prod-video-sa-east-1.pscp.tv prod-video-us-west-2.pscp.tv
+151.101.78.164	prod-video-us-west-1.pscp.tv prod-video-eu-west-1.pscp.tv
+18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
+34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
+35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+54.192.75.124	psiphon3.com
+54.192.75.50	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.38.14	www.psiphon.ca
+198.232.125.81	cdn.rawgit.com
 68.232.44.127	soundcloud.com api-v2.soundcloud.com telemetry.soundcloud.com
 72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com api.soundcloud.com eventgateway.soundcloud.com
 72.21.91.127	promoted.soundcloud.com m.soundcloud.com on.soundcloud.com visuals.soundcloud.com
@@ -336,6 +354,22 @@
 23.66.39.94	gdb.voanews.com
 198.35.26.96	zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
+106.10.231.23	static.flickr.com
+69.147.88.7	flickr.com
+119.161.14.18	m.flickr.com
+69.147.76.173	secure.flickr.com
+124.108.101.10	www.flickr.com heartbeat.flickr.com
+209.73.190.11	api.flickr.com
+209.73.190.12	up.flickr.com
+68.142.242.184	downloadr.flickr.com
+124.108.101.57	tw.answers.yahoo.com
+116.214.10.132	tw.bid.yahoo.com
+124.108.112.57	tw.finance.yahoo.com
+180.222.100.23	tw.news.yahoo.com hk.news.yahoo.com tw.mobi.yahoo.com
+46.51.218.82	duckduckgo-owned-server.yahoo.net
+119.160.242.137	tw.mall.yahoo.com
+208.71.45.11	hk.search.yahoo.com
+27.123.200.67	tw.search.yahoo.com
 108.177.125.136	youtube.com youtu.be au.youtube.com ca.youtube.com de.youtube.com jp.youtube.com ru.youtube.com tw.youtube.com uk.youtube.com youtube-ui.l.google.com ads.youtube.com accounts.youtube.com analytics.youtube.com apiblog.youtube.com creatoracademy.youtube.com s.youtube.com gdata.youtube.com gaming.youtube.com help.youtube.com img.youtube.com insight.youtube.com stage.gdata.youtube.com tv.youtube.com www.youtube-nocookie.com i1.ytimg.com i2.ytimg.com i3.ytimg.com i4.ytimg.com i9.ytimg.com
 64.15.118.37	i.ytimg.com
 216.58.217.174	s.ytimg.com

@@ -2880,6 +2880,39 @@ add address=210.140.131.144 name=novel.pixiv.net
 add address=210.129.120.49 name=ssl.pixiv.net
 # Pixiv End
 
+# Periscope Start
+add address=52.76.20.17 name=pscp.tv
+add address=52.220.143.156 name=www.pscp.tv
+add address=35.160.65.192 name=channels.pscp.tv
+add address=35.164.70.108 name=proxsee.pscp.tv
+add address=54.192.73.58 name=assets.pscp.tv
+add address=54.192.73.58 name=prod-profile.pscp.tv
+add address=54.192.73.58 name=prod-thumbnail.pscp.tv
+add address=151.101.2.164 name=prod-video-ap-northeast-1.pscp.tv
+add address=151.101.2.164 name=prod-video-ap-southeast-1.pscp.tv
+add address=151.101.66.164 name=prod-video-ap-southeast-2.pscp.tv
+add address=151.101.66.164 name=prod-video-eu-central-1.pscp.tv
+add address=151.101.130.164 name=prod-video-us-east-1.pscp.tv
+add address=151.101.194.164 name=prod-video-sa-east-1.pscp.tv
+add address=151.101.194.164 name=prod-video-us-west-2.pscp.tv
+add address=151.101.78.164 name=prod-video-us-west-1.pscp.tv
+add address=151.101.78.164 name=prod-video-eu-west-1.pscp.tv
+add address=18.194.108.2 name=prod-chatman-ancillary-eu-central-1.pscp.tv
+add address=34.233.63.45 name=prod-chatman-ancillary-us-east-1.pscp.tv
+add address=35.160.28.174 name=prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
+# Psiphon Start
+add address=54.192.75.124 name=psiphon3.com
+add address=54.192.75.50 name=www.psiphon3.com
+add address=104.20.39.14 name=psiphon.ca
+add address=104.20.38.14 name=www.psiphon.ca
+# Psiphon End
+
+# RawGit Start
+add address=198.232.125.81 name=cdn.rawgit.com
+# RawGit End
+
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
 add address=68.232.44.127 name=api-v2.soundcloud.com
@@ -3030,6 +3063,28 @@ add address=198.35.26.96 name=zh.wikipedia.org
 add address=198.35.26.96 name=zh.m.wikipedia.org
 add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
+
+# Yahoo Start
+add address=106.10.231.23 name=static.flickr.com
+add address=69.147.88.7 name=flickr.com
+add address=119.161.14.18 name=m.flickr.com
+add address=69.147.76.173 name=secure.flickr.com
+add address=124.108.101.10 name=www.flickr.com
+add address=124.108.101.10 name=heartbeat.flickr.com
+add address=209.73.190.11 name=api.flickr.com
+add address=209.73.190.12 name=up.flickr.com
+add address=68.142.242.184 name=downloadr.flickr.com
+add address=124.108.101.57 name=tw.answers.yahoo.com
+add address=116.214.10.132 name=tw.bid.yahoo.com
+add address=124.108.112.57 name=tw.finance.yahoo.com
+add address=180.222.100.23 name=tw.news.yahoo.com
+add address=180.222.100.23 name=hk.news.yahoo.com
+add address=180.222.100.23 name=tw.mobi.yahoo.com
+add address=46.51.218.82 name=duckduckgo-owned-server.yahoo.net
+add address=119.160.242.137 name=tw.mall.yahoo.com
+add address=208.71.45.11 name=hk.search.yahoo.com
+add address=27.123.200.67 name=tw.search.yahoo.com
+# Yahoo End
 
 # Youtube Start
 add address=108.177.125.136 name=youtube.com

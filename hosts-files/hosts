@@ -2878,6 +2878,39 @@
 210.129.120.49	ssl.pixiv.net
 # Pixiv End
 
+# Periscope Start
+52.76.20.17	pscp.tv
+52.220.143.156	www.pscp.tv
+35.160.65.192	channels.pscp.tv
+35.164.70.108	proxsee.pscp.tv
+54.192.73.58	assets.pscp.tv
+54.192.73.58	prod-profile.pscp.tv
+54.192.73.58	prod-thumbnail.pscp.tv
+151.101.2.164	prod-video-ap-northeast-1.pscp.tv
+151.101.2.164	prod-video-ap-southeast-1.pscp.tv
+151.101.66.164	prod-video-ap-southeast-2.pscp.tv
+151.101.66.164	prod-video-eu-central-1.pscp.tv
+151.101.130.164	prod-video-us-east-1.pscp.tv
+151.101.194.164	prod-video-sa-east-1.pscp.tv
+151.101.194.164	prod-video-us-west-2.pscp.tv
+151.101.78.164	prod-video-us-west-1.pscp.tv
+151.101.78.164	prod-video-eu-west-1.pscp.tv
+18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
+34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
+35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
+# Psiphon Start
+54.192.75.124	psiphon3.com
+54.192.75.50	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.38.14	www.psiphon.ca
+# Psiphon End
+
+# RawGit Start
+198.232.125.81	cdn.rawgit.com
+# RawGit End
+
 # Soundcloud Start
 68.232.44.127	soundcloud.com
 68.232.44.127	api-v2.soundcloud.com
@@ -3028,6 +3061,28 @@
 198.35.26.96	zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
+
+# Yahoo Start
+106.10.231.23	static.flickr.com
+69.147.88.7	flickr.com
+119.161.14.18	m.flickr.com
+69.147.76.173	secure.flickr.com
+124.108.101.10	www.flickr.com
+124.108.101.10	heartbeat.flickr.com
+209.73.190.11	api.flickr.com
+209.73.190.12	up.flickr.com
+68.142.242.184	downloadr.flickr.com
+124.108.101.57	tw.answers.yahoo.com
+116.214.10.132	tw.bid.yahoo.com
+124.108.112.57	tw.finance.yahoo.com
+180.222.100.23	tw.news.yahoo.com
+180.222.100.23	hk.news.yahoo.com
+180.222.100.23	tw.mobi.yahoo.com
+46.51.218.82	duckduckgo-owned-server.yahoo.net
+119.160.242.137	tw.mall.yahoo.com
+208.71.45.11	hk.search.yahoo.com
+27.123.200.67	tw.search.yahoo.com
+# Yahoo End
 
 # Youtube Start
 108.177.125.136	youtube.com
