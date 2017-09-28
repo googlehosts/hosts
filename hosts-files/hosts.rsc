@@ -236,7 +236,7 @@ add address=151.101.24.249 name=a.disquscdn.com
 # Disqus End
 
 # Facebook Start
-add address=157.240.2.14 name=www.facebook.com
+add address=157.240.7.35 name=www.facebook.com
 add address=157.240.7.35 name=fb.me
 add address=157.240.7.35 name=facebook.com
 add address=157.240.7.35 name=api.facebook.com
