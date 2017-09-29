@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-28
+# Last updated: 2017-09-29
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2303,7 +2303,7 @@ add address=64.233.177.127 name=alt5.stun.l.google.com
 # Google:stun Server End
 
 # Googleusercontent Start
-add address=108.177.119.132 name=www.googleusercontent.com
+add address=108.177.127.197 name=www.googleusercontent.com
 add address=108.177.119.132 name=apidata.googleusercontent.com
 add address=108.177.119.132 name=analytics.googleblog.com
 add address=108.177.119.132 name=android.googleblog.com
