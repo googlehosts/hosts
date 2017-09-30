@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-23
+# Last updated: 2017-09-29
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -32,19 +32,19 @@
 # Amazon AWS End
 
 # Android Start
-108.177.120.94	android.com
-108.177.120.94	www.android.com
 108.177.120.94	a.android.com
 108.177.120.94	b.android.com
 108.177.120.94	m.android.com
-108.177.120.94	tools.android.com
-108.177.120.94	source.android.com
 108.177.120.94	connectivitycheck.android.com
 108.177.120.94	d.android.com
 108.177.120.94	dev.android.com
 108.177.120.94	market.android.com
 108.177.120.94	r.android.com
-64.15.118.36	developer.android.com
+172.217.60.51	android.com
+172.217.60.47	www.android.com
+172.217.60.74	source.android.com
+172.217.60.162	tools.android.com
+172.217.60.97	developer.android.com
 # Android End
 
 # Apkpure Start
@@ -234,7 +234,7 @@
 # Disqus End
 
 # Facebook Start
-157.240.2.14	www.facebook.com
+157.240.7.35	www.facebook.com
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
 157.240.7.35	api.facebook.com
@@ -733,7 +733,7 @@
 216.58.200.24	www.google.com.gi
 216.58.200.24	www.google.com.gr
 216.58.200.24	www.google.com.gt
-64.15.126.82	www.google.com.hk
+172.217.60.148	www.google.com.hk
 216.58.200.24	www.google.com.iq
 216.58.200.24	www.google.com.jm
 216.58.200.24	www.google.com.jo
@@ -768,7 +768,7 @@
 216.58.200.24	www.google.com.sv
 216.58.200.24	www.google.com.tj
 216.58.200.24	www.google.com.tr
-64.15.126.92	www.google.com.tw
+172.217.60.221	www.google.com.tw
 216.58.200.24	www.google.com.ua
 216.58.200.24	www.google.com.uy
 216.58.200.24	www.google.com.vc
@@ -781,10 +781,10 @@
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-64.15.118.39	www.google.com
-108.177.8.188	id.google.com
-216.239.38.121	clients5.google.com
-108.177.121.125	apis.google.com
+172.217.60.241	www.google.com
+172.217.60.148	id.google.com
+172.217.60.89	clients5.google.com
+172.217.60.185	apis.google.com
 # Google Search Home End
 
 # Google Service Start
@@ -2301,7 +2301,7 @@
 # Google:stun Server End
 
 # Googleusercontent Start
-108.177.119.132	www.googleusercontent.com
+108.177.127.197	www.googleusercontent.com
 108.177.119.132	apidata.googleusercontent.com
 108.177.119.132	analytics.googleblog.com
 108.177.119.132	android.googleblog.com
@@ -2733,6 +2733,43 @@
 89.187.65.68	insiders.kobo.com
 # Kobo End
 
+# Logmein Start
+64.95.128.149	secure.logmein.com
+# Logmein End
+
+# Line Start
+203.104.138.138	line.me
+125.209.210.239	lcp-checkout.line.me
+223.119.202.208	scdn.line-apps.com
+104.124.225.74	lan.line.me
+23.40.108.79	w.line.me
+203.104.150.46	obs.line-apps.com
+125.209.238.181	obs-cn.line-apps.com
+203.104.153.6	obs-tw.line-apps.com
+125.209.238.186	xcdn-cn.line-apps.com
+125.209.238.186	xcdn-cn-prf.line-apps.com
+125.209.238.186	xcdn-cn-shp.line-apps.com
+125.209.238.186	xcdn-cn-stk.line-apps.com
+203.104.150.2	gd2.line.naver.jp
+203.104.153.129	gw.line.naver.jp
+203.104.160.12	gd2u.line.naver.jp
+203.104.160.11	gd2s.line.naver.jp
+203.104.174.20	gd2v.line.naver.jp
+125.209.252.18	gd2g.line.naver.jp
+125.209.252.17	gd2i.line.naver.jpstatic.sxzhchina.com
+125.209.222.59	gd2k.line.naver.jp
+125.209.222.202	gd2w.line.naver.jp
+125.209.222.202	gww.line.naver.jp
+203.104.174.18	gwx.line.naver.jp
+223.119.50.146	dl.profile.line.naver.jp
+223.119.50.144	dl.stickershop.line.naver.jp
+203.104.150.35	static.line.naver.jp
+# Line End
+
+# MEGA Start
+31.216.148.12	mega.nz
+# MEGA End
+
 # Medium Start
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com
@@ -2741,10 +2778,41 @@
 104.16.120.145	cdn-images-2.medium.com
 # Medium End
 
+# Nytimes Start
+34.225.58.16	messaging-sub.api.nytimes.com
+23.21.73.215	nytab.nytimes.com
+34.224.132.29	et.nytimes.com
+54.249.25.75	sso.nytcn.me
+23.23.198.251	tagx.nytimes.com
+34.233.208.93	rec.api.nytimes.com
+54.182.1.92	static.sxzhchina.com
+31.13.64.40	l0.cn.nytimes.com
+208.100.17.183	ic.tynt.com
+54.182.4.208	m.cn.nytstyle.com
+151.101.77.164	www.nytimes.com
+151.101.77.164	graphics8.nytimes.com
+151.101.77.164	typeface.nytimes.com
+151.101.77.164	typeface.nyt.com
+151.101.77.164	static01.nyt.com
+151.101.77.164	static02.nyt.com
+151.101.77.164	js.nyt.com
+151.101.77.164	css.nyt.com
+151.101.77.164	int.nyt.com
+54.182.4.198	cn.nytimes.com
+35.186.231.252	m.cn.nytimes.com
+151.101.1.164	json8.nytimes.com
+151.101.65.164	a1.nyt.com
+151.101.129.164	s1.nyt.com
+151.101.193.164	i1.nyt.com
+# Nytimes End
+
 # OneDrive Start
-204.79.197.217	onedrive.live.com
+204.79.197.213	api.onedrive.com
 23.76.75.24	api.onedrive.live.com
-157.55.109.230	skyapi.onedrive.live.com
+204.79.197.217	onedrive.live.com
+204.79.197.217	webedgegeo.skyprod.akadns.net
+131.253.14.230	skyapi.onedrive.live.com
+134.170.104.157	skyweb.skyprod.akadns.net
 # OneDrive End
 
 # Pinterest Start
@@ -2807,36 +2875,150 @@
 210.129.120.52	payment.pixiv.net
 210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
+210.129.120.49	ssl.pixiv.net
+66.6.32.22	times.pixiv.net
+210.129.120.50	recruit.pixiv.net
+210.129.120.49	pixiv.net
+113.33.39.198	p2.pixiv.net
+210.129.120.47	matsuri.pixiv.net
+210.129.120.46	m.pixiv.net
+52.85.87.254	iracon.pixiv.net
+52.69.82.228	inside.pixiv.net
+210.140.131.147	i1.pixiv.net
+153.120.23.207	help.pixiv.net
+52.219.4.58	goods.pixiv.net
+210.129.120.40	genepixiv.pr.pixiv.net
+52.85.87.122	festa.pixiv.net
+210.129.120.45	en.dic.pixiv.net
+52.219.4.114	dev.pixiv.net
+210.129.120.42	chat.pixiv.net
+113.33.39.198	blog.pixiv.net
 # Pixiv End
 
+# Periscope Start
+52.76.20.17	pscp.tv
+52.220.143.156	www.pscp.tv
+35.160.65.192	channels.pscp.tv
+35.164.70.108	proxsee.pscp.tv
+54.192.73.58	assets.pscp.tv
+54.192.73.58	prod-profile.pscp.tv
+54.192.73.58	prod-thumbnail.pscp.tv
+151.101.2.164	prod-video-ap-northeast-1.pscp.tv
+151.101.2.164	prod-video-ap-southeast-1.pscp.tv
+151.101.66.164	prod-video-ap-southeast-2.pscp.tv
+151.101.66.164	prod-video-eu-central-1.pscp.tv
+151.101.130.164	prod-video-us-east-1.pscp.tv
+151.101.194.164	prod-video-sa-east-1.pscp.tv
+151.101.194.164	prod-video-us-west-2.pscp.tv
+151.101.78.164	prod-video-us-west-1.pscp.tv
+151.101.78.164	prod-video-eu-west-1.pscp.tv
+18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
+34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
+35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
+# Psiphon Start
+54.192.75.124	psiphon3.com
+54.192.75.50	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.38.14	www.psiphon.ca
+# Psiphon End
+
+# RawGit Start
+198.232.125.81	cdn.rawgit.com
+# RawGit End
+
+# Resilio Sync Start
+54.192.75.139	getsync.com
+54.192.75.23	download-cdn.getsync.com
+52.20.43.156	update.getsync.com
+54.192.75.197	www.getsync.com
+54.192.75.46	config.resilio.com
+54.192.75.27	www.resilio.com
+54.82.227.39	new-bench.resilio.com
+# Resilio Sync End
+
+# Soundcloud Start
+68.232.44.127	soundcloud.com
+68.232.44.127	api-v2.soundcloud.com
+68.232.44.127	telemetry.soundcloud.com
+72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com
+72.21.81.127	api.soundcloud.com
+72.21.81.127	eventgateway.soundcloud.com
+72.21.91.127	promoted.soundcloud.com
+72.21.91.127	m.soundcloud.com
+72.21.91.127	on.soundcloud.com
+72.21.91.127	visuals.soundcloud.com
+104.196.1.106	blog.soundcloud.com
+68.232.45.67	ec-media.soundcloud.com
+72.21.81.77	ec-rtmp-media.soundcloud.com
+68.232.45.77	ec-media.sndcdn.com
+72.21.91.96	a1.sndcdn.com
+72.21.91.96	a-v2.sndcdn.com
+72.21.91.96	ec-preview-media.sndcdn.com
+72.21.91.96	style.sndcdn.com
+72.21.91.96	va.sndcdn.com
+# Soundcloud End
+
+# Slideshare Start
+144.2.3.20	www.slideshare.net
+144.2.3.20	de.slideshare.net
+144.2.3.20	es.slideshare.net
+144.2.3.20	fr.slideshare.net
+144.2.3.20	pt.slideshare.net
+108.174.10.14	engineering.slideshare.net
+108.174.10.14	blog.slideshare.net
+108.174.10.19	slideshare.net
+# Slideshare End
+
+# Smartdnsproxy Start
+45.64.64.96	www.smartdnsproxy.com
+54.215.198.167	support.smartdnsproxy.com
+# Smartdnsproxy End
+
+# Startpage & Ixquick Start
+216.218.239.62	startpage.com
+216.218.239.22	www.startpage.com
+64.71.175.181	www.ixquick.com
+64.71.175.181	ixquick.com
+64.71.134.122	support.startpage.com
+64.71.134.121	support.ixquick.com
+# Startpage & Ixquick End
+
+# Theinitium Start
+52.76.148.61	stigma.theinitium.com
+52.221.46.214	theinitium.com
+52.221.46.214	api.theinitium.com
+# Theinitium End
+
 # Tumblr Start
-66.6.33.31	tumblr.com
-66.6.33.31	www.tumblr.com
+119.161.14.19	tumblr.com
+119.161.14.20	www.tumblr.com
 107.23.241.99	tumblr.co
-107.23.241.99	api.tumblr.com
-216.115.100.126	vt.tumblr.com
-216.115.100.123	assets.tumblr.com
-216.115.100.123	secure.assets.tumblr.com
-216.115.100.125	media.tumblr.com
-216.115.100.125	vt.media.tumblr.com
-216.115.100.125	secure.static.tumblr.com
+124.108.101.59	api.tumblr.com
+124.108.101.59	secure.static.tumblr.com
+124.108.101.59	vt.media.tumblr.com
+124.108.101.31	assets.tumblr.com
+124.108.101.31	secure.assets.tumblr.com
+69.147.88.9	media.tumblr.com
+69.147.88.9	vt.tumblr.com
+69.147.88.9	vtt.tumblr.com
 66.6.32.21	cynicallys.tumblr.com
-93.184.216.97	mx.tumblr.com
-216.115.100.126	vtt.tumblr.com
-216.115.100.126	static.tumblr.com
-216.115.100.126	24.media.tumblr.com
-216.115.100.126	31.media.tumblr.com
-216.115.100.126	33.media.tumblr.com
-216.115.100.126	37.media.tumblr.com
-216.115.100.126	38.media.tumblr.com
-216.115.100.126	40.media.tumblr.com
-216.115.100.126	49.media.tumblr.com
-216.115.100.126	66.media.tumblr.com
-216.115.100.126	90.media.tumblr.com
+192.229.237.97	mx.tumblr.com
+124.108.101.58	static.tumblr.com
+124.108.101.58	24.media.tumblr.com
+124.108.101.58	31.media.tumblr.com
+124.108.101.58	33.media.tumblr.com
+124.108.101.58	37.media.tumblr.com
+124.108.101.58	38.media.tumblr.com
+124.108.101.58	40.media.tumblr.com
+124.108.101.58	49.media.tumblr.com
+124.108.101.58	66.media.tumblr.com
+124.108.101.58	90.media.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
-52.85.81.103	96.media.tumblr.com
-93.184.216.98	97.media.tumblr.com
+52.85.155.165	96.media.tumblr.com
+192.229.237.98	97.media.tumblr.com
 # Tumblr End
 
 # Telegram Start
@@ -2901,6 +3083,27 @@
 138.201.212.227	trac.torproject.org
 # Tor End
 
+# Vimeo Start
+151.101.0.217	vimeo.com
+151.101.192.217	api.vimeo.com
+151.101.64.217	www.vimeo.com
+151.101.128.217	player.vimeo.com
+151.101.78.109	i.vimeocdn.com
+151.101.2.109	f.vimeocdn.com
+151.101.64.249	vimeo-hp-videos.global.ssl.fastly.net
+198.245.92.39	click.email.vimeo.com
+# Vimeo End
+
+# Voa Start
+23.41.77.13	www.voachinese.com
+23.41.77.13	av.voanews.com
+23.66.39.94	gdb.voanews.com
+# Voa End
+
+# Wikinews Start
+198.35.26.96	zh.m.wikinews.org
+# Wikinews End
+
 # Wikipedia Start
 198.35.26.96	www.wikipedia.org
 198.35.26.96	login.wikimedia.org
@@ -2910,6 +3113,28 @@
 198.35.26.96	zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
+
+# Yahoo Start
+106.10.231.23	static.flickr.com
+69.147.88.7	flickr.com
+119.161.14.18	m.flickr.com
+69.147.76.173	secure.flickr.com
+124.108.101.10	www.flickr.com
+124.108.101.10	heartbeat.flickr.com
+209.73.190.11	api.flickr.com
+209.73.190.12	up.flickr.com
+68.142.242.184	downloadr.flickr.com
+124.108.101.57	tw.answers.yahoo.com
+116.214.10.132	tw.bid.yahoo.com
+124.108.112.57	tw.finance.yahoo.com
+180.222.100.23	tw.news.yahoo.com
+180.222.100.23	hk.news.yahoo.com
+180.222.100.23	tw.mobi.yahoo.com
+46.51.218.82	duckduckgo-owned-server.yahoo.net
+119.160.242.137	tw.mall.yahoo.com
+208.71.45.11	hk.search.yahoo.com
+27.123.200.67	tw.search.yahoo.com
+# Yahoo End
 
 # Youtube Start
 108.177.125.136	youtube.com
