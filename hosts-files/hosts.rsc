@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-09-29
+# Last updated: 2017-10-01
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3009,14 +3009,23 @@ add address=66.6.32.21 name=cynicallys.tumblr.com
 add address=192.229.237.97 name=mx.tumblr.com
 add address=124.108.101.58 name=static.tumblr.com
 add address=124.108.101.58 name=24.media.tumblr.com
+add address=124.108.101.58 name=25.media.tumblr.com
 add address=124.108.101.58 name=31.media.tumblr.com
 add address=124.108.101.58 name=33.media.tumblr.com
 add address=124.108.101.58 name=37.media.tumblr.com
 add address=124.108.101.58 name=38.media.tumblr.com
 add address=124.108.101.58 name=40.media.tumblr.com
 add address=124.108.101.58 name=49.media.tumblr.com
+add address=124.108.101.58 name=55.media.tumblr.com
+add address=124.108.101.58 name=56.media.tumblr.com
+add address=124.108.101.58 name=57.media.tumblr.com
+add address=124.108.101.58 name=58.media.tumblr.com
 add address=124.108.101.58 name=66.media.tumblr.com
+add address=124.108.101.58 name=68.media.tumblr.com
+add address=124.108.101.58 name=78.media.tumblr.com
 add address=124.108.101.58 name=90.media.tumblr.com
+add address=124.108.101.58 name=91.media.tumblr.com
+add address=124.108.101.58 name=92.media.tumblr.com
 add address=66.6.32.162 name=ls.srvcs.tumblr.com
 add address=66.6.32.162 name=px.srvcs.tumblr.com
 add address=52.85.155.165 name=96.media.tumblr.com
