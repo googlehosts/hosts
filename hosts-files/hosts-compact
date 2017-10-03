@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-01
+# Last updated: 2017-10-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -187,6 +187,7 @@
 151.101.65.63	photo.issuu.com image.issuu.com content.issuu.com e.issuu.com static.issuu.com skin.issuu.com
 52.1.172.141	api.issuu.com
 34.205.198.51	help.issuu.com
+192.237.150.27	www.kik.com
 128.127.159.1	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
 191.236.35.232	storedownloads.kobo.com
@@ -242,11 +243,10 @@
 31.13.64.40	l0.cn.nytimes.com
 208.100.17.183	ic.tynt.com
 54.182.4.208	m.cn.nytstyle.com
-151.101.77.164	www.nytimes.com graphics8.nytimes.com typeface.nytimes.com typeface.nyt.com static01.nyt.com static02.nyt.com js.nyt.com css.nyt.com int.nyt.com
+151.101.65.164	www.nytimes.com graphics8.nytimes.com typeface.nytimes.com typeface.nyt.com static01.nyt.com static02.nyt.com js.nyt.com css.nyt.com int.nyt.com a1.nyt.com
 54.182.4.198	cn.nytimes.com
 35.186.231.252	m.cn.nytimes.com
 151.101.1.164	json8.nytimes.com
-151.101.65.164	a1.nyt.com
 151.101.129.164	s1.nyt.com
 151.101.193.164	i1.nyt.com
 204.79.197.213	api.onedrive.com

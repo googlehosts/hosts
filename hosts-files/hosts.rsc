@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-01
+# Last updated: 2017-10-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2664,6 +2664,10 @@ add address=52.1.172.141 name=api.issuu.com
 add address=34.205.198.51 name=help.issuu.com
 # issuu End
 
+# Kik Start
+add address=192.237.150.27 name=www.kik.com
+# Kik End
+
 # Kobo Start
 add address=128.127.159.1 name=magazines-adf.kobo.com
 add address=157.55.176.209 name=social.kobobooks.com
@@ -2791,15 +2795,15 @@ add address=54.182.1.92 name=static.sxzhchina.com
 add address=31.13.64.40 name=l0.cn.nytimes.com
 add address=208.100.17.183 name=ic.tynt.com
 add address=54.182.4.208 name=m.cn.nytstyle.com
-add address=151.101.77.164 name=www.nytimes.com
-add address=151.101.77.164 name=graphics8.nytimes.com
-add address=151.101.77.164 name=typeface.nytimes.com
-add address=151.101.77.164 name=typeface.nyt.com
-add address=151.101.77.164 name=static01.nyt.com
-add address=151.101.77.164 name=static02.nyt.com
-add address=151.101.77.164 name=js.nyt.com
-add address=151.101.77.164 name=css.nyt.com
-add address=151.101.77.164 name=int.nyt.com
+add address=151.101.65.164 name=www.nytimes.com
+add address=151.101.65.164 name=graphics8.nytimes.com
+add address=151.101.65.164 name=typeface.nytimes.com
+add address=151.101.65.164 name=typeface.nyt.com
+add address=151.101.65.164 name=static01.nyt.com
+add address=151.101.65.164 name=static02.nyt.com
+add address=151.101.65.164 name=js.nyt.com
+add address=151.101.65.164 name=css.nyt.com
+add address=151.101.65.164 name=int.nyt.com
 add address=54.182.4.198 name=cn.nytimes.com
 add address=35.186.231.252 name=m.cn.nytimes.com
 add address=151.101.1.164 name=json8.nytimes.com

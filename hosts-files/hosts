@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-01
+# Last updated: 2017-10-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2662,6 +2662,10 @@
 34.205.198.51	help.issuu.com
 # issuu End
 
+# Kik Start
+192.237.150.27	www.kik.com
+# Kik End
+
 # Kobo Start
 128.127.159.1	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
@@ -2789,15 +2793,15 @@
 31.13.64.40	l0.cn.nytimes.com
 208.100.17.183	ic.tynt.com
 54.182.4.208	m.cn.nytstyle.com
-151.101.77.164	www.nytimes.com
-151.101.77.164	graphics8.nytimes.com
-151.101.77.164	typeface.nytimes.com
-151.101.77.164	typeface.nyt.com
-151.101.77.164	static01.nyt.com
-151.101.77.164	static02.nyt.com
-151.101.77.164	js.nyt.com
-151.101.77.164	css.nyt.com
-151.101.77.164	int.nyt.com
+151.101.65.164	www.nytimes.com
+151.101.65.164	graphics8.nytimes.com
+151.101.65.164	typeface.nytimes.com
+151.101.65.164	typeface.nyt.com
+151.101.65.164	static01.nyt.com
+151.101.65.164	static02.nyt.com
+151.101.65.164	js.nyt.com
+151.101.65.164	css.nyt.com
+151.101.65.164	int.nyt.com
 54.182.4.198	cn.nytimes.com
 35.186.231.252	m.cn.nytimes.com
 151.101.1.164	json8.nytimes.com
