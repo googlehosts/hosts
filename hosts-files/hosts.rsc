@@ -2665,7 +2665,7 @@ add address=34.205.198.51 name=help.issuu.com
 # issuu End
 
 # Kik Start
-add address=192.237.150.27 name=www.kik.com
+add address=104.20.171.40 name=www.kik.com
 # Kik End
 
 # Kobo Start
