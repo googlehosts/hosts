@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-04
+# Last updated: 2017-10-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -25,6 +25,7 @@ add address=96.7.235.57 name=s.pinimg.com
 add address=96.7.235.57 name=i.pinimg.com
 add address=96.7.235.57 name=v.pinimg.com
 add address=96.7.235.57 name=s-media-cache-ak0.pinimg.com
+add address=23.56.25.171 name=blogthumb.pstatic.net
 # Akamai End
 
 # Amazon AWS Start
@@ -2762,7 +2763,7 @@ add address=203.104.160.12 name=gd2u.line.naver.jp
 add address=203.104.160.11 name=gd2s.line.naver.jp
 add address=203.104.174.20 name=gd2v.line.naver.jp
 add address=125.209.252.18 name=gd2g.line.naver.jp
-add address=125.209.252.17 name=gd2i.line.naver.jpstatic.sxzhchina.com
+add address=125.209.252.17 name=gd2i.line.naver.jp
 add address=125.209.222.59 name=gd2k.line.naver.jp
 add address=125.209.222.202 name=gd2w.line.naver.jp
 add address=125.209.222.202 name=gww.line.naver.jp

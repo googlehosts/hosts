@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-04
+# Last updated: 2017-10-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,6 +13,7 @@
 184.28.188.186	static.ak.instagram.com
 184.28.188.201	images.ak.instagram.com
 96.7.235.57	passets-cdn.pinterest.com s.pinimg.com i.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
+23.56.25.171	blogthumb.pstatic.net
 54.239.38.117	eu-west-1.console.aws.amazon.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.251.21	s3-ap-southeast-2.amazonaws.com
@@ -223,7 +224,7 @@
 203.104.160.11	gd2s.line.naver.jp
 203.104.174.20	gd2v.line.naver.jp
 125.209.252.18	gd2g.line.naver.jp
-125.209.252.17	gd2i.line.naver.jpstatic.sxzhchina.com
+125.209.252.17	gd2i.line.naver.jp
 125.209.222.59	gd2k.line.naver.jp
 125.209.222.202	gd2w.line.naver.jp gww.line.naver.jp
 203.104.174.18	gwx.line.naver.jp
