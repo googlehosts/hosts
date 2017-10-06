@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-05
+# Last updated: 2017-10-06
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3115,6 +3115,11 @@ add address=23.41.77.13 name=www.voachinese.com
 add address=23.41.77.13 name=av.voanews.com
 add address=23.66.39.94 name=gdb.voanews.com
 # Voa End
+
+# Web.de Start
+add address=82.165.229.94 name=suche.web.de
+add address=54.93.172.67 name=lokale.suche.web.de
+# Web.de End
 
 # Wikinews Start
 add address=198.35.26.96 name=zh.m.wikinews.org

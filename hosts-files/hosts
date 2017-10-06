@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-05
+# Last updated: 2017-10-06
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3113,6 +3113,11 @@
 23.41.77.13	av.voanews.com
 23.66.39.94	gdb.voanews.com
 # Voa End
+
+# Web.de Start
+82.165.229.94	suche.web.de
+54.93.172.67	lokale.suche.web.de
+# Web.de End
 
 # Wikinews Start
 198.35.26.96	zh.m.wikinews.org
