@@ -35,6 +35,8 @@
 107.152.25.196	box.com
 107.152.24.198	app.box.com
 107.152.24.197	account.box.com upload.box.com m.box.com
+104.16.5.13	www.change.org assets.change.org
+104.16.4.13	change.org assets-fe.change.org
 52.84.167.78	d3c33hcgiwev3.cloudfront.net
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
