@@ -2,8 +2,8 @@ language: node_js
 node_js: node
 
 branches:
-  only:
-    - hosts-source
+  except:
+    - master
 
 script:
-  - ./deploy.sh
+  - ./build.sh
