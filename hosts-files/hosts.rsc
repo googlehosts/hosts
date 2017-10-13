@@ -390,6 +390,10 @@ add address=216.58.221.93 name=filetransferenabled.mail.google.com
 add address=216.58.221.91 name=isolated.mail.google.com
 # Gmail End
 
+# Gmx Start
+add address=82.165.230.43 name=search.gmx.com
+# Gmx End
+
 # Google Apis Start
 add address=216.58.221.74 name=www.googleapis.com
 add address=216.58.203.170 name=ajax.googleapis.com

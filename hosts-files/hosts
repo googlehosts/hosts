@@ -388,6 +388,10 @@
 216.58.221.91	isolated.mail.google.com
 # Gmail End
 
+# Gmx Start
+82.165.230.43	search.gmx.com
+# Gmx End
+
 # Google Apis Start
 216.58.221.74	www.googleapis.com
 216.58.203.170	ajax.googleapis.com
