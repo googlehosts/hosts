@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-10
+# Last updated: 2017-10-14
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -450,7 +450,7 @@ add address=216.239.32.67 name=26644787.googleapis.com
 # Google Apis End
 
 # Googleapis:storage Start
-add address=172.217.3.240 name=storage.googleapis.com
+add address=172.217.24.16 name=storage.googleapis.com
 add address=172.217.4.16 name=commondatastorage.googleapis.com
 add address=172.217.4.144 name=content-storage.googleapis.com
 add address=172.217.4.112 name=content-storage-download.googleapis.com
