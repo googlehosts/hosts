@@ -7,6 +7,14 @@ module.exports = {
 		var generateComment = function (data) {
 			return data.replace(/^(.)/gm, '# $1');
 		};
-		return `[Host]\n\n${require('../generate-helper')(generateEntry, generateComment)(data)}`;
+		var surgeHeader =
+`#!MANAGED-CONFIG https://github.com/googlehosts/hosts/raw/master/hosts-files/surge.conf
+[Rule]
+FINAL,DIRECT
+[Host]
+
+
+`
+		return surgeHeader + `${require('../generate-helper')(generateEntry, generateComment)(data)}`;
 	}
 };
