@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-10
+# Last updated: 2017-10-15
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -112,12 +112,13 @@
 216.58.203.252	chatenabled.mail.google.com
 216.58.221.93	filetransferenabled.mail.google.com
 216.58.221.91	isolated.mail.google.com
+82.165.230.43	search.gmx.com
 216.58.221.74	www.googleapis.com
 216.58.203.170	ajax.googleapis.com
 108.177.121.201	googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com play.googleapis.com
 172.217.0.16	unfiltered.news
 216.239.32.67	31061001.googleapis.com 26644787.googleapis.com
-172.217.3.240	storage.googleapis.com
+172.217.24.16	storage.googleapis.com
 172.217.4.16	commondatastorage.googleapis.com
 172.217.4.144	content-storage.googleapis.com
 172.217.4.112	content-storage-download.googleapis.com
@@ -254,7 +255,7 @@
 151.101.193.164	i1.nyt.com
 204.79.197.213	api.onedrive.com
 23.76.75.24	api.onedrive.live.com
-204.79.197.217	onedrive.live.com webedgegeo.skyprod.akadns.net
+131.253.33.217	onedrive.live.com webedgegeo.skyprod.akadns.net
 131.253.14.230	skyapi.onedrive.live.com
 134.170.104.157	skyweb.skyprod.akadns.net
 151.101.0.84	pinterest.com www.pinterest.com about.pinterest.com blog.pinterest.com ads.pinterest.com api.pinterest.com analytics.pinterest.com br.pinterest.com business.pinterest.com canary.pinterest.com cz.pinterest.com de.pinterest.com dk.pinterest.com es.pinterest.com fi.pinterest.com fr.pinterest.com gb.pinterest.com gr.pinterest.com help.pinterest.com hu.pinterest.com id.pinterest.com in.pinterest.com it.pinterest.com jp.pinterest.com kr.pinterest.com media-cache-ec0.pinterest.com pl.pinterest.com pt.pinterest.com ro.pinterest.com ru.pinterest.com se.pinterest.com sk.pinterest.com tr.pinterest.com uk.pinterest.com no.pinterest.com nl.pinterest.com engineering.pinterest.com

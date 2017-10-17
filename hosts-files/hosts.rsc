@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-10
+# Last updated: 2017-10-15
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -390,6 +390,10 @@ add address=216.58.221.93 name=filetransferenabled.mail.google.com
 add address=216.58.221.91 name=isolated.mail.google.com
 # Gmail End
 
+# Gmx Start
+add address=82.165.230.43 name=search.gmx.com
+# Gmx End
+
 # Google Apis Start
 add address=216.58.221.74 name=www.googleapis.com
 add address=216.58.203.170 name=ajax.googleapis.com
@@ -450,7 +454,7 @@ add address=216.239.32.67 name=26644787.googleapis.com
 # Google Apis End
 
 # Googleapis:storage Start
-add address=172.217.3.240 name=storage.googleapis.com
+add address=172.217.24.16 name=storage.googleapis.com
 add address=172.217.4.16 name=commondatastorage.googleapis.com
 add address=172.217.4.144 name=content-storage.googleapis.com
 add address=172.217.4.112 name=content-storage-download.googleapis.com
@@ -2823,8 +2827,8 @@ add address=151.101.193.164 name=i1.nyt.com
 # OneDrive Start
 add address=204.79.197.213 name=api.onedrive.com
 add address=23.76.75.24 name=api.onedrive.live.com
-add address=204.79.197.217 name=onedrive.live.com
-add address=204.79.197.217 name=webedgegeo.skyprod.akadns.net
+add address=131.253.33.217 name=onedrive.live.com
+add address=131.253.33.217 name=webedgegeo.skyprod.akadns.net
 add address=131.253.14.230 name=skyapi.onedrive.live.com
 add address=134.170.104.157 name=skyweb.skyprod.akadns.net
 # OneDrive End

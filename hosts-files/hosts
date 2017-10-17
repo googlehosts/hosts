@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-10
+# Last updated: 2017-10-15
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -388,6 +388,10 @@
 216.58.221.91	isolated.mail.google.com
 # Gmail End
 
+# Gmx Start
+82.165.230.43	search.gmx.com
+# Gmx End
+
 # Google Apis Start
 216.58.221.74	www.googleapis.com
 216.58.203.170	ajax.googleapis.com
@@ -448,7 +452,7 @@
 # Google Apis End
 
 # Googleapis:storage Start
-172.217.3.240	storage.googleapis.com
+172.217.24.16	storage.googleapis.com
 172.217.4.16	commondatastorage.googleapis.com
 172.217.4.144	content-storage.googleapis.com
 172.217.4.112	content-storage-download.googleapis.com
@@ -2821,8 +2825,8 @@
 # OneDrive Start
 204.79.197.213	api.onedrive.com
 23.76.75.24	api.onedrive.live.com
-204.79.197.217	onedrive.live.com
-204.79.197.217	webedgegeo.skyprod.akadns.net
+131.253.33.217	onedrive.live.com
+131.253.33.217	webedgegeo.skyprod.akadns.net
 131.253.14.230	skyapi.onedrive.live.com
 134.170.104.157	skyweb.skyprod.akadns.net
 # OneDrive End
