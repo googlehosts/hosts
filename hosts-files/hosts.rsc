@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-15
+# Last updated: 2017-10-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -59,6 +59,10 @@ add address=104.20.82.194 name=i.apkpure.com
 add address=104.20.82.194 name=static.apkpure.com
 add address=104.20.82.194 name=translate.apkpure.com
 # Apkpure End
+
+# Apkmirror Start
+add address=104.19.133.58 name=www.apkmirror.com
+# Apkmirror End
 
 # Appspot Start
 add address=64.233.188.151 name=www.appspot.com

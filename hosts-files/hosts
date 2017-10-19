@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-15
+# Last updated: 2017-10-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -57,6 +57,10 @@
 104.20.82.194	static.apkpure.com
 104.20.82.194	translate.apkpure.com
 # Apkpure End
+
+# Apkmirror Start
+104.19.133.58	www.apkmirror.com
+# Apkmirror End
 
 # Appspot Start
 64.233.188.151	www.appspot.com
