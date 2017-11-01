@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-10-19
+# Last updated: 2017-11-01
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2836,6 +2836,10 @@ add address=131.253.33.217 name=webedgegeo.skyprod.akadns.net
 add address=131.253.14.230 name=skyapi.onedrive.live.com
 add address=134.170.104.157 name=skyweb.skyprod.akadns.net
 # OneDrive End
+
+# Pcloud Start
+add address=74.120.8.13 name=my.pcloud.com
+# Pcloud End
 
 # Pinterest Start
 add address=151.101.0.84 name=pinterest.com
