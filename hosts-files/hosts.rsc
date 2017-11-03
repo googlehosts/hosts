@@ -3137,6 +3137,11 @@ add address=23.66.39.94 name=gdb.voanews.com
 
 # Whatsapp Start
 add address=157.240.1.53 name=www-cdn.whatsapp.net
+add address=169.45.182.115 name=c.whatsapp.net
+add address=158.85.5.217 name=m.whatsapp.net
+add address=173.192.219.135 name=p.whatsapp.net
+add address=50.22.210.33 name=r.whatsapp.net
+add address=169.44.80.10 name=v.whatsapp.net
 # Whatsapp End
 
 # Web.de Start
