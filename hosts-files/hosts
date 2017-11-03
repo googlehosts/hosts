@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-01
+# Last updated: 2017-11-03
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3132,6 +3132,10 @@
 23.41.77.13	av.voanews.com
 23.66.39.94	gdb.voanews.com
 # Voa End
+
+# Whatsapp Start
+157.240.1.53	web.whatsapp.com
+# Whatsapp End
 
 # Web.de Start
 82.165.229.94	suche.web.de

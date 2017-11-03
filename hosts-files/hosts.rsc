@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-01
+# Last updated: 2017-11-03
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3134,6 +3134,10 @@ add address=23.41.77.13 name=www.voachinese.com
 add address=23.41.77.13 name=av.voanews.com
 add address=23.66.39.94 name=gdb.voanews.com
 # Voa End
+
+# Whatsapp Start
+add address=157.240.1.53 name=web.whatsapp.com
+# Whatsapp End
 
 # Web.de Start
 add address=82.165.229.94 name=suche.web.de
