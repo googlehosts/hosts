@@ -3135,10 +3135,6 @@ add address=23.41.77.13 name=av.voanews.com
 add address=23.66.39.94 name=gdb.voanews.com
 # Voa End
 
-# Whatsapp Start
-add address=157.240.1.53 name=web.whatsapp.com
-# Whatsapp End
-
 # Web.de Start
 add address=82.165.229.94 name=suche.web.de
 add address=54.93.172.67 name=lokale.suche.web.de
