@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-03
+# Last updated: 2017-11-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2953,6 +2953,14 @@ add address=104.20.38.14 name=www.psiphon.ca
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com
 # RawGit End
+
+# Reuters Start
+add address=52.2.61.110 name=reuters.com
+add address=52.85.158.178 name=www.reuters.com
+add address=52.85.158.181 name=static.reuters.com
+add address=52.85.158.228 name=uk.reuters.com
+add address=52.85.158.61 name=cn.reuters.com
+# Reuters End
 
 # Resilio Sync Start
 add address=54.192.75.139 name=getsync.com

@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-03
+# Last updated: 2017-11-05
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -312,6 +312,11 @@
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
 198.232.125.81	cdn.rawgit.com
+52.2.61.110	reuters.com
+52.85.158.178	www.reuters.com
+52.85.158.181	static.reuters.com
+52.85.158.228	uk.reuters.com
+52.85.158.61	cn.reuters.com
 54.192.75.139	getsync.com
 54.192.75.23	download-cdn.getsync.com
 52.20.43.156	update.getsync.com
