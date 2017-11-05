@@ -2957,8 +2957,27 @@ add address=198.232.125.81 name=cdn.rawgit.com
 # Reuters Start
 add address=52.2.61.110 name=reuters.com
 add address=52.85.158.178 name=www.reuters.com
+add address=184.26.117.115 name=agency.reuters.com
+add address=184.26.117.115 name=plus.reuters.com
+add address=34.203.177.148 name=liaison.reuters.com
+add address=134.213.2.143 name=widerimage.reuters.com
 add address=52.85.158.181 name=static.reuters.com
+add address=206.135.6.134 name=us.reuters.com
 add address=52.85.158.228 name=uk.reuters.com
+add address=52.85.158.16 name=de.reuters.com
+add address=52.85.158.87 name=fr.reuters.com
+add address=52.85.158.144 name=it.reuters.com
+add address=52.85.158.237 name=es.reuters.com
+add address=52.85.158.253 name=ru.reuters.com
+add address=52.85.158.240 name=jp.reuters.com
+add address=52.85.158.168 name=lta.reuters.com
+add address=52.85.158.126 name=af.reuters.com
+add address=52.85.158.20 name=ara.reuters.com
+add address=52.85.158.111 name=ar.reuters.com
+add address=52.85.158.159 name=br.reuters.com
+add address=52.85.158.37 name=ca.reuters.com
+add address=52.85.158.222 name=in.reuters.com
+add address=52.85.158.239 name=mx.reuters.com
 add address=52.85.158.61 name=cn.reuters.com
 # Reuters End
 
