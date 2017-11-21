@@ -807,7 +807,6 @@
 108.177.120.94	domains.google
 108.177.120.94	domains.google.com
 108.177.120.94	environment.google
-108.177.120.94	aboutme.google.com
 108.177.120.94	ads.google.com
 108.177.120.94	abc.xyz
 108.177.120.94	admin.google.com
@@ -1108,6 +1107,7 @@
 
 # Google Service:Ncr Start
 216.58.199.109	accounts.google.com
+108.177.120.94	aboutme.google.com
 108.177.120.94	assistant.google.com
 108.177.120.94	books.google.com
 108.177.120.94	blogsearch.google.com
@@ -1132,6 +1132,7 @@
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
+108.177.120.94	aboutme.google.com.hk
 108.177.120.94	accounts.google.com.hk
 108.177.120.94	assistant.google.com.hk
 108.177.120.94	books.google.com.hk
@@ -1161,6 +1162,7 @@
 # Google Service:China Hongkong End
 
 # Google Service:China Taiwan Start
+108.177.120.94	aboutme.google.com.tw
 108.177.120.94	accounts.google.com.tw
 108.177.120.94	assistant.google.com.tw
 108.177.120.94	books.google.com.tw
