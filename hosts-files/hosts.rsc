@@ -822,6 +822,7 @@ add address=108.177.120.94 name=bpui0.google.com
 add address=108.177.120.94 name=buzz.google.com
 add address=108.177.120.94 name=calendar.google.com
 add address=108.177.120.94 name=classroom.google.com
+add address=108.177.120.94 name=classroom.google.ca
 add address=108.177.120.94 name=cloud.google.com
 add address=108.177.120.94 name=packages.cloud.google.com
 add address=108.177.120.94 name=ssh.cloud.google.com
@@ -1145,6 +1146,7 @@ add address=108.177.120.94 name=gxc.google.com.hk
 add address=108.177.120.94 name=get.google.com.hk
 add address=108.177.120.94 name=gsuite.google.com.hk
 add address=108.177.120.94 name=groups.google.com.hk
+add address=108.177.120.94 name=id.google.com.hk
 add address=108.177.120.94 name=image.google.com.hk
 add address=108.177.120.94 name=video.google.com.hk
 add address=108.177.120.94 name=jmt17.google.com.hk
@@ -1175,6 +1177,7 @@ add address=108.177.120.94 name=get.google.com.tw
 add address=108.177.120.94 name=gsuite.google.com.tw
 add address=108.177.120.94 name=groups.google.com.tw
 add address=108.177.120.94 name=image.google.com.tw
+add address=108.177.120.94 name=id.google.com.tw
 add address=108.177.120.94 name=video.google.com.tw
 add address=108.177.120.94 name=jmt17.google.com.tw
 add address=108.177.120.94 name=lh4.google.com.tw
