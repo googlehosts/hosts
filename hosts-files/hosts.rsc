@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-05
+# Last updated: 2017-11-21
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2308,6 +2308,11 @@ add address=216.239.38.21 name=www.madewithcode.com
 add address=172.217.27.4 name=googlemashups.com
 add address=172.217.27.4 name=www.googlemashups.com
 # Google Mashups End
+
+# Google Misc Start
+add address=216.239.32.27 name=certificate-transparency.org
+add address=216.239.32.27 name=www.certificate-transparency.org
+# Google Misc End
 
 # Google:stun Server Start
 add address=64.233.177.127 name=stun.l.google.com

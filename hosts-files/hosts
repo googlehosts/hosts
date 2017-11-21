@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-05
+# Last updated: 2017-11-21
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2306,6 +2306,11 @@
 172.217.27.4	googlemashups.com
 172.217.27.4	www.googlemashups.com
 # Google Mashups End
+
+# Google Misc Start
+216.239.32.27	certificate-transparency.org
+216.239.32.27	www.certificate-transparency.org
+# Google Misc End
 
 # Google:stun Server Start
 64.233.177.127	stun.l.google.com
