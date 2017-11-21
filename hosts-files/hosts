@@ -808,7 +808,6 @@
 108.177.120.94	domains.google.com
 108.177.120.94	environment.google
 108.177.120.94	abc.xyz
-108.177.120.94	atap.google.com
 108.177.120.94	attribution.google.com
 108.177.120.94	answers.google.com
 108.177.120.94	apps.google.com
@@ -1109,6 +1108,7 @@
 108.177.120.94	ads.google.com
 108.177.120.94	admin.google.com
 108.177.120.94	assistant.google.com
+108.177.120.94	atap.google.com
 108.177.120.94	books.google.com
 108.177.120.94	blogsearch.google.com
 108.177.120.94	clients1.google.com
@@ -1137,6 +1137,7 @@
 108.177.120.94	ads.google.com.hk
 108.177.120.94	admin.google.com.hk
 108.177.120.94	assistant.google.com.hk
+108.177.120.94	atap.google.com.hk
 108.177.120.94	books.google.com.hk
 108.177.120.94	blogsearch.google.com.hk
 108.177.120.94	clients1.google.com.hk
@@ -1169,6 +1170,7 @@
 108.177.120.94	ads.google.com.tw
 108.177.120.94	admin.google.com.tw
 108.177.120.94	assistant.google.com.tw
+108.177.120.94	atap.google.com.tw
 108.177.120.94	books.google.com.tw
 108.177.120.94	blogsearch.google.com.tw
 108.177.120.94	clients1.google.com.tw
