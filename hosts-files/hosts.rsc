@@ -809,7 +809,6 @@ add address=172.217.60.185 name=apis.google.com
 add address=108.177.120.94 name=domains.google
 add address=108.177.120.94 name=domains.google.com
 add address=108.177.120.94 name=environment.google
-add address=108.177.120.94 name=ads.google.com
 add address=108.177.120.94 name=abc.xyz
 add address=108.177.120.94 name=admin.google.com
 add address=108.177.120.94 name=atap.google.com
@@ -1110,6 +1109,7 @@ add address=172.217.3.207 name=uploadsj.clients.google.com
 # Google Service:Ncr Start
 add address=216.58.199.109 name=accounts.google.com
 add address=108.177.120.94 name=aboutme.google.com
+add address=108.177.120.94 name=ads.google.com
 add address=108.177.120.94 name=assistant.google.com
 add address=108.177.120.94 name=books.google.com
 add address=108.177.120.94 name=blogsearch.google.com
@@ -1136,6 +1136,7 @@ add address=64.15.126.90 name=scholar.google.com
 # Google Service:China Hongkong Start
 add address=108.177.120.94 name=aboutme.google.com.hk
 add address=108.177.120.94 name=accounts.google.com.hk
+add address=108.177.120.94 name=ads.google.com.hk
 add address=108.177.120.94 name=assistant.google.com.hk
 add address=108.177.120.94 name=books.google.com.hk
 add address=108.177.120.94 name=blogsearch.google.com.hk
@@ -1166,6 +1167,7 @@ add address=108.177.120.94 name=scholar.google.com.hk
 # Google Service:China Taiwan Start
 add address=108.177.120.94 name=aboutme.google.com.tw
 add address=108.177.120.94 name=accounts.google.com.tw
+add address=108.177.120.94 name=ads.google.com.tw
 add address=108.177.120.94 name=assistant.google.com.tw
 add address=108.177.120.94 name=books.google.com.tw
 add address=108.177.120.94 name=blogsearch.google.com.tw
