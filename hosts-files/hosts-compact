@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-21
+# Last updated: 2017-12-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -343,6 +343,7 @@
 54.192.75.46	config.resilio.com
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
+104.28.18.85	shadowsocks.org
 68.232.44.127	soundcloud.com api-v2.soundcloud.com telemetry.soundcloud.com
 72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com api.soundcloud.com eventgateway.soundcloud.com
 72.21.91.127	promoted.soundcloud.com m.soundcloud.com on.soundcloud.com visuals.soundcloud.com

@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-21
+# Last updated: 2017-12-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2996,6 +2996,10 @@
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
 # Resilio Sync End
+
+# Shadowsocks Start
+104.28.18.85	shadowsocks.org
+# Shadowsocks End
 
 # Soundcloud Start
 68.232.44.127	soundcloud.com

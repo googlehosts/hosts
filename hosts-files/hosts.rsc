@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-21
+# Last updated: 2017-12-02
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2998,6 +2998,10 @@ add address=54.192.75.46 name=config.resilio.com
 add address=54.192.75.27 name=www.resilio.com
 add address=54.82.227.39 name=new-bench.resilio.com
 # Resilio Sync End
+
+# Shadowsocks Start
+add address=104.28.18.85 name=shadowsocks.org
+# Shadowsocks End
 
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
