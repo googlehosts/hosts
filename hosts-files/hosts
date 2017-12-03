@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-02
+# Last updated: 2017-12-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2615,6 +2615,10 @@
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
 # Gstatic End
+
+# Hinet Start
+211.20.148.228	hichannel.hinet.net
+# Hinet End
 
 # Heroku Start
 52.1.240.62	id.heroku.com

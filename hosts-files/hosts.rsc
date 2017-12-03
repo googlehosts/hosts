@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-02
+# Last updated: 2017-12-04
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2617,6 +2617,10 @@ add address=108.177.120.94 name=mt5.gstatic.com
 add address=108.177.120.94 name=mt6.gstatic.com
 add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
+
+# Hinet Start
+add address=211.20.148.228 name=hichannel.hinet.net
+# Hinet End
 
 # Heroku Start
 add address=52.1.240.62 name=id.heroku.com
