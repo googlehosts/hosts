@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-04
+# Last updated: 2017-12-10
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3098,6 +3098,10 @@ add address=66.6.32.162 name=px.srvcs.tumblr.com
 add address=52.85.155.165 name=96.media.tumblr.com
 add address=192.229.237.98 name=97.media.tumblr.com
 # Tumblr End
+
+# Tutanota Start
+add address=81.3.6.162 name=app.tutanota.com
+# Tutanota End
 
 # Telegram Start
 add address=149.154.166.206 name=telegram.org

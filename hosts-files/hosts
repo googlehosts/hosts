@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-04
+# Last updated: 2017-12-10
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3096,6 +3096,10 @@
 52.85.155.165	96.media.tumblr.com
 192.229.237.98	97.media.tumblr.com
 # Tumblr End
+
+# Tutanota Start
+81.3.6.162	app.tutanota.com
+# Tutanota End
 
 # Telegram Start
 149.154.166.206	telegram.org
