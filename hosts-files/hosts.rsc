@@ -2931,6 +2931,8 @@ add address=210.129.120.45 name=en.dic.pixiv.net
 add address=52.219.4.114 name=dev.pixiv.net
 add address=210.129.120.42 name=chat.pixiv.net
 add address=113.33.39.198 name=blog.pixiv.net
+add address=210.129.120.43 name=embed.pixiv.net
+add address=210.129.120.44 name=comic-api.pixiv.net
 # Pixiv End
 
 # Periscope Start
