@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-10
+# Last updated: 2017-12-15
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -136,16 +136,15 @@
 172.217.25.220	chrome.google.com
 74.125.248.73	git.chromium.org
 216.58.200.24	www.goo.gl www.google.com.af www.google.com.ag www.google.com.ai www.google.com.ar www.google.com.au www.google.com.bd www.google.com.bh www.google.com.bn www.google.com.bo www.google.com.br www.google.com.by www.google.com.bz www.google.com.co www.google.com.co.jp www.google.com.cu www.google.com.cy www.google.com.do www.google.com.ec www.google.com.eg www.google.com.et www.google.com.fj www.google.com.ge www.google.com.gh www.google.com.gi www.google.com.gr www.google.com.gt www.google.com.iq www.google.com.jm www.google.com.jo www.google.com.kh www.google.com.kw www.google.com.lb www.google.com.ly www.google.com.mm www.google.com.mt www.google.com.mx www.google.com.my www.google.com.na www.google.com.nf www.google.com.ng www.google.com.ni www.google.com.np www.google.com.nr www.google.com.om www.google.com.pa www.google.com.pe www.google.com.pg www.google.com.ph www.google.com.pk www.google.com.pr www.google.com.py www.google.com.qa www.google.com.ru www.google.com.sa www.google.com.sb www.google.com.sg www.google.com.sl www.google.com.sv www.google.com.tj www.google.com.tr www.google.com.ua www.google.com.uy www.google.com.vc www.google.com.vn
-172.217.60.148	www.google.com.hk id.google.com
+172.217.60.148	www.google.com.hk
 172.217.60.221	www.google.com.tw
 172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-172.217.60.241	www.google.com
-172.217.60.89	clients5.google.com
-172.217.60.185	apis.google.com
+216.58.203.14	www.google.com clients5.google.com apis.google.com
+216.58.203.35	id.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
 64.15.126.78	ipv4.google.com

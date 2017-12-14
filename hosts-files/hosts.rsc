@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-10
+# Last updated: 2017-12-15
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -799,10 +799,10 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=216.58.200.187 name=ogs.google.com
-add address=172.217.60.241 name=www.google.com
-add address=172.217.60.148 name=id.google.com
-add address=172.217.60.89 name=clients5.google.com
-add address=172.217.60.185 name=apis.google.com
+add address=216.58.203.14 name=www.google.com
+add address=216.58.203.35 name=id.google.com
+add address=216.58.203.14 name=clients5.google.com
+add address=216.58.203.14 name=apis.google.com
 # Google Search Home End
 
 # Google Service Start
