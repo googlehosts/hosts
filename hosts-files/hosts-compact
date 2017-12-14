@@ -39,6 +39,10 @@
 104.16.5.13	www.change.org assets.change.org
 104.16.4.13	change.org assets-fe.change.org
 52.84.167.78	d3c33hcgiwev3.cloudfront.net
+157.7.225.122	cp.conoha.jp
+103.3.190.48	www.conoha.jp
+157.7.225.117	app.conoha.jp
+157.7.225.120	manage.conoha.jp
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
 162.125.32.135	api-d.dropbox.com
@@ -416,6 +420,7 @@
 198.245.92.39	click.email.vimeo.com
 23.41.77.13	www.voachinese.com av.voanews.com
 23.66.39.94	gdb.voanews.com
+149.56.30.149	vnet.link
 157.240.1.53	www-cdn.whatsapp.net
 169.45.182.115	c.whatsapp.net
 158.85.5.217	m.whatsapp.net

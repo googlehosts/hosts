@@ -165,6 +165,13 @@ add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
 add address=172.217.31.96 name=embed.culturalspot.org
 # Culturalspot End
 
+# Conoha Start
+add address=157.7.225.122 name=cp.conoha.jp
+add address=103.3.190.48 name=www.conoha.jp
+add address=157.7.225.117 name=app.conoha.jp
+add address=157.7.225.120 name=manage.conoha.jp
+# Conoha End
+
 # Dropbox Start
 add address=162.125.248.2 name=db.tt
 add address=162.125.248.1 name=www.dropbox.com
@@ -3183,6 +3190,10 @@ add address=23.41.77.13 name=www.voachinese.com
 add address=23.41.77.13 name=av.voanews.com
 add address=23.66.39.94 name=gdb.voanews.com
 # Voa End
+
+# Vnet Start
+add address=149.56.30.149 name=vnet.link
+# Vnet End
 
 # Whatsapp Start
 add address=157.240.1.53 name=www-cdn.whatsapp.net

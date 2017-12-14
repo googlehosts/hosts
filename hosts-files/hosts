@@ -163,6 +163,13 @@
 172.217.31.96	embed.culturalspot.org
 # Culturalspot End
 
+# Conoha Start
+157.7.225.122	cp.conoha.jp
+103.3.190.48	www.conoha.jp
+157.7.225.117	app.conoha.jp
+157.7.225.120	manage.conoha.jp
+# Conoha End
+
 # Dropbox Start
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com
@@ -3181,6 +3188,10 @@
 23.41.77.13	av.voanews.com
 23.66.39.94	gdb.voanews.com
 # Voa End
+
+# Vnet Start
+149.56.30.149	vnet.link
+# Vnet End
 
 # Whatsapp Start
 157.240.1.53	www-cdn.whatsapp.net
