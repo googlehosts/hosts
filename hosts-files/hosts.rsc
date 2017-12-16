@@ -3068,6 +3068,7 @@ add address=223.119.217.234 name=steamcommunity.com
 add address=223.119.217.234 name=store.steampowered.com
 add address=223.119.50.137 name=steamcommunity-a.akamaihd.net
 add address=223.119.248.8 name=steamuserimages-a.akamaihd.net
+add address=223.119.50.139 name=steamcdn-a.akamaihd.net
 # Steam End
 
 # Theinitium Start
