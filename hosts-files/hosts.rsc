@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-15
+# Last updated: 2017-12-16
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3062,6 +3062,10 @@ add address=64.71.175.181 name=ixquick.com
 add address=64.71.134.122 name=support.startpage.com
 add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
+
+# Steam Start
+add address=104.78.74.220 name=steamcommunity.com
+# Steam End
 
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com

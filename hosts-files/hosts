@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-15
+# Last updated: 2017-12-16
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -3060,6 +3060,10 @@
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
 # Startpage & Ixquick End
+
+# Steam Start
+104.78.74.220	steamcommunity.com
+# Steam End
 
 # Theinitium Start
 52.76.148.61	stigma.theinitium.com
