@@ -3064,7 +3064,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=104.78.74.220 name=steamcommunity.com
+add address=223.119.217.234 name=steamcommunity.com
 add address=223.119.217.234 name=store.steampowered.com
 # Steam End
 
