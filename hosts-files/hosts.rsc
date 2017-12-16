@@ -3110,6 +3110,7 @@ add address=66.6.32.162 name=ls.srvcs.tumblr.com
 add address=66.6.32.162 name=px.srvcs.tumblr.com
 add address=52.85.155.165 name=96.media.tumblr.com
 add address=192.229.237.98 name=97.media.tumblr.com
+add address=124.108.101.59 name=api-http2.tumblr.com
 # Tumblr End
 
 # Tutanota Start
