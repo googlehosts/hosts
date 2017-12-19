@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-16
+# Last updated: 2017-12-19
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -2931,7 +2931,7 @@ add address=52.85.87.254 name=iracon.pixiv.net
 add address=52.69.82.228 name=inside.pixiv.net
 add address=210.140.131.147 name=i1.pixiv.net
 add address=153.120.23.207 name=help.pixiv.net
-add address=52.219.4.58 name=goods.pixiv.net
+add address=210.129.120.43 name=goods.pixiv.net
 add address=210.129.120.40 name=genepixiv.pr.pixiv.net
 add address=52.85.87.122 name=festa.pixiv.net
 add address=210.129.120.45 name=en.dic.pixiv.net
