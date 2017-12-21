@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-19
+# Last updated: 2017-12-21
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -49,6 +49,10 @@ add address=172.217.60.74 name=source.android.com
 add address=172.217.60.162 name=tools.android.com
 add address=172.217.60.97 name=developer.android.com
 # Android End
+
+# Androidfilehost Start
+add address=151.139.240.14 name=androidfilehost.com
+# Androidfilehost End
 
 # Apkpure Start
 add address=104.20.82.194 name=apkpure.com
