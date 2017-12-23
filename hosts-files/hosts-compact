@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-21
+# Last updated: 2017-12-23
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -271,34 +271,22 @@
 34.213.142.132	post.pinterest.com
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
-210.129.120.55	www.pixiv.net
-210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
-210.140.131.146	source.pixiv.net
-210.129.120.41	accounts.pixiv.net
+210.129.120.41	www.pixiv.net accounts.pixiv.net oauth.secure.pixiv.net sensei.pixiv.net pixiv.net en.dic.pixiv.net
+210.129.120.43	touch.pixiv.net payment.pixiv.net ssl.pixiv.net m.pixiv.net goods.pixiv.net embed.pixiv.net
+210.140.131.153	source.pixiv.net
 210.140.131.147	imgaz.pixiv.net i1.pixiv.net
-210.129.120.44	app-api.pixiv.net comic-api.pixiv.net
-210.129.120.48	oauth.secure.pixiv.net
-210.129.120.54	dic.pixiv.net
+210.129.120.44	app-api.pixiv.net dic.pixiv.net factory.pixiv.net recruit.pixiv.net genepixiv.pr.pixiv.net chat.pixiv.net comic-api.pixiv.net
 210.140.131.145	comic.pixiv.net
-210.129.120.53	factory.pixiv.net
 74.120.148.205	g-client-proxy.pixiv.net
 210.140.170.179	sketch.pixiv.net
-210.129.120.52	payment.pixiv.net
-210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
-210.129.120.49	ssl.pixiv.net pixiv.net
-210.129.120.50	recruit.pixiv.net
-113.33.39.198	p2.pixiv.net blog.pixiv.net
+122.208.114.218	p2.pixiv.net blog.pixiv.net
 210.129.120.47	matsuri.pixiv.net
-210.129.120.46	m.pixiv.net
 52.85.87.254	iracon.pixiv.net
 52.69.82.228	inside.pixiv.net
 153.120.23.207	help.pixiv.net
-210.129.120.40	genepixiv.pr.pixiv.net
 52.85.87.122	festa.pixiv.net
-210.129.120.45	en.dic.pixiv.net
 52.219.4.114	dev.pixiv.net
-210.129.120.42	chat.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
 35.160.65.192	channels.pscp.tv
