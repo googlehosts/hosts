@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-27
+# Last updated: 2017-12-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3233,6 +3233,8 @@
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
+198.35.26.96	ja.wikipedia.org
+198.35.26.96	ja.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
 
