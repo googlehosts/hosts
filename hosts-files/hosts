@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-28
+# Last updated: 2017-12-31
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2665,11 +2665,11 @@
 
 # Instagram Start
 52.45.94.103	instagram.com
-157.240.11.52	www.instagram.com
-157.240.11.52	badges.instagram.com
-157.240.11.52	scontent.cdninstagram.com
-157.240.11.52	scontent-b.cdninstagram.com
-157.240.11.52	graph.instagram.com
+157.240.11.172	www.instagram.com
+157.240.11.172	badges.instagram.com
+157.240.11.172	scontent.cdninstagram.com
+157.240.11.172	scontent-b.cdninstagram.com
+157.240.11.172	graph.instagram.com
 31.13.70.52	logger.instagram.com
 31.13.70.52	maps.instagram.com
 31.13.77.52	scontent-a.cdninstagram.com

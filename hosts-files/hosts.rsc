@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-28
+# Last updated: 2017-12-31
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2667,11 +2667,11 @@ add address=169.44.145.200 name=batch.upsight-api.com
 
 # Instagram Start
 add address=52.45.94.103 name=instagram.com
-add address=157.240.11.52 name=www.instagram.com
-add address=157.240.11.52 name=badges.instagram.com
-add address=157.240.11.52 name=scontent.cdninstagram.com
-add address=157.240.11.52 name=scontent-b.cdninstagram.com
-add address=157.240.11.52 name=graph.instagram.com
+add address=157.240.11.172 name=www.instagram.com
+add address=157.240.11.172 name=badges.instagram.com
+add address=157.240.11.172 name=scontent.cdninstagram.com
+add address=157.240.11.172 name=scontent-b.cdninstagram.com
+add address=157.240.11.172 name=graph.instagram.com
 add address=31.13.70.52 name=logger.instagram.com
 add address=31.13.70.52 name=maps.instagram.com
 add address=31.13.77.52 name=scontent-a.cdninstagram.com

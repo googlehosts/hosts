@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-28
+# Last updated: 2017-12-31
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -185,7 +185,7 @@
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.200	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
 52.45.94.103	instagram.com i.instagram.com api.instagram.com
-157.240.11.52	www.instagram.com badges.instagram.com scontent.cdninstagram.com scontent-b.cdninstagram.com graph.instagram.com
+157.240.11.172	www.instagram.com badges.instagram.com scontent.cdninstagram.com scontent-b.cdninstagram.com graph.instagram.com
 31.13.70.52	logger.instagram.com maps.instagram.com
 31.13.77.52	scontent-a.cdninstagram.com
 31.13.76.84	help.instagram.com scontent-sea1-1.cdninstagram.com platform.instagram.com
