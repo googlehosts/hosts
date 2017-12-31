@@ -1,4 +1,8 @@
 # Google Hosts
+[![doodle]][doodle-story]
+
+[doodle]: https://www.google.com/logos/doodles/2017/new-years-eve-2017-5093547849023488-2xa.gif "新年快乐!"
+[doodle-story]: https://www.google.com/search?ie=UTF-8&q=New%20Year%27s%20Eve%202017&oi=ddle&ct=new-years-eve-2017-5093547849023488-lawcta&hl=en&kgmid=%2Fm%2F01pl3y
 
 |    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
