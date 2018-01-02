@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-01
+# Last updated: 2018-01-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -316,6 +316,7 @@
 54.192.75.50	www.psiphon3.com
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
+140.112.172.1	ptt.cc
 198.232.125.81	cdn.rawgit.com
 52.2.61.110	reuters.com
 52.85.158.178	www.reuters.com

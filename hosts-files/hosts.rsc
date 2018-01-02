@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-01
+# Last updated: 2018-01-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2974,6 +2974,10 @@ add address=54.192.75.50 name=www.psiphon3.com
 add address=104.20.39.14 name=psiphon.ca
 add address=104.20.38.14 name=www.psiphon.ca
 # Psiphon End
+
+# Ptt Start
+add address=140.112.172.1 name=ptt.cc
+# Ptt End
 
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com
