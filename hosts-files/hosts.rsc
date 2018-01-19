@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-02
+# Last updated: 2018-01-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3241,6 +3241,8 @@ add address=198.35.26.96 name=zh.wikipedia.org
 add address=198.35.26.96 name=zh.m.wikipedia.org
 add address=198.35.26.96 name=ja.wikipedia.org
 add address=198.35.26.96 name=ja.m.wikipedia.org
+add address=198.35.26.96 name=ug.wikipedia.org
+add address=198.35.26.96 name=ug.m.wikipedia.org
 add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
 
