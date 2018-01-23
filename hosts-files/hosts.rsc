@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-19
+# Last updated: 2018-01-23
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2809,6 +2809,7 @@ add address=203.104.174.18 name=gwx.line.naver.jp
 add address=223.119.50.146 name=dl.profile.line.naver.jp
 add address=223.119.50.144 name=dl.stickershop.line.naver.jp
 add address=203.104.150.35 name=static.line.naver.jp
+add address=23.42.190.204 name=access.line.me
 # Line End
 
 # MEGA Start

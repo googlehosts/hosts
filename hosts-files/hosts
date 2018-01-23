@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-19
+# Last updated: 2018-01-23
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2807,6 +2807,7 @@
 223.119.50.146	dl.profile.line.naver.jp
 223.119.50.144	dl.stickershop.line.naver.jp
 203.104.150.35	static.line.naver.jp
+23.42.190.204	access.line.me
 # Line End
 
 # MEGA Start
