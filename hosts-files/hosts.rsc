@@ -2811,6 +2811,7 @@ add address=223.119.50.144 name=dl.stickershop.line.naver.jp
 add address=203.104.150.35 name=static.line.naver.jp
 add address=23.42.190.204 name=access.line.me
 add address=shop.line-scdn.net name=104.111.208.121
+add address=stickershop.line-scdn.net name=104.102.162.148
 # Line End
 
 # MEGA Start
