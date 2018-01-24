@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-24
+# Last updated: 2018-01-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -329,7 +329,6 @@ add address=157.240.7.35 name=scontent-a-lax.xx.fbcdn.net
 add address=157.240.7.35 name=scontent-a-sin.xx.fbcdn.net
 add address=157.240.7.35 name=scontent-b-lax.xx.fbcdn.net
 add address=157.240.7.35 name=scontent-b-sin.xx.fbcdn.net
-add address=157.240.7.35 name=static.xx.fbcdn.net
 add address=157.240.7.35 name=static.thefacebook.com
 add address=157.240.7.35 name=attachment.fbsbx.com
 add address=157.240.7.35 name=messenger.com
@@ -352,6 +351,7 @@ add address=192.0.78.13 name=nonprofits.fb.com
 add address=192.0.78.13 name=rightsmanager.fb.com
 add address=192.0.78.13 name=techprep.fb.com
 add address=192.0.78.13 name=work.fb.com
+add address=31.13.91.15 name=static.xx.fbcdn.net
 add address=31.13.91.15 name=scontent-lax3-1.xx.fbcdn.net
 add address=31.13.91.15 name=scontent-lax3-2.xx.fbcdn.net
 add address=31.13.91.15 name=scontent-lax3-3.xx.fbcdn.net
@@ -2676,13 +2676,13 @@ add address=31.13.70.52 name=maps.instagram.com
 add address=31.13.77.52 name=scontent-a.cdninstagram.com
 add address=52.45.94.103 name=i.instagram.com
 add address=52.45.94.103 name=api.instagram.com
-add address=31.13.76.84 name=help.instagram.com
-add address=31.13.76.84 name=scontent-sea1-1.cdninstagram.com
-add address=31.13.76.84 name=platform.instagram.com
+add address=31.13.76.172 name=help.instagram.com
+add address=31.13.76.172 name=scontent-sea1-1.cdninstagram.com
+add address=31.13.76.172 name=platform.instagram.com
 add address=66.6.32.22 name=blog.instagram.com
 add address=31.13.95.48 name=scontent-hkg3-1.cdninstagram.com
 add address=157.240.15.63 name=scontent-hkg3-2.cdninstagram.com
-add address=31.13.78.52 name=scontent-sit4-1.cdninstagram.com
+add address=31.13.78.174 name=scontent-sit4-1.cdninstagram.com
 # Instagram End
 
 # issuu Start
