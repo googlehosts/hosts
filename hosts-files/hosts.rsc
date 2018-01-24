@@ -2813,6 +2813,7 @@ add address=2.17.50.95 name=help.line.me
 add address=104.111.208.121 name=shop.line-scdn.net
 add address=104.102.162.148 name=stickershop.line-scdn.net
 add address=23.211.98.191 name=obs.line-scdn.net
+add address=2.17.56.25 name=profile.line-scdn.net
 # Line End
 
 # MEGA Start
