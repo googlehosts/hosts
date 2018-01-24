@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-23
+# Last updated: 2018-01-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -446,7 +446,7 @@
 69.147.88.7	flickr.com
 119.161.14.18	m.flickr.com
 69.147.76.173	secure.flickr.com
-124.108.101.10	www.flickr.com heartbeat.flickr.com
+119.161.14.17	www.flickr.com heartbeat.flickr.com
 209.73.190.11	api.flickr.com
 209.73.190.12	up.flickr.com
 68.142.242.184	downloadr.flickr.com

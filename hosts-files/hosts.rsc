@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-23
+# Last updated: 2018-01-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3255,8 +3255,8 @@ add address=106.10.231.23 name=static.flickr.com
 add address=69.147.88.7 name=flickr.com
 add address=119.161.14.18 name=m.flickr.com
 add address=69.147.76.173 name=secure.flickr.com
-add address=124.108.101.10 name=www.flickr.com
-add address=124.108.101.10 name=heartbeat.flickr.com
+add address=119.161.14.17 name=www.flickr.com
+add address=119.161.14.17 name=heartbeat.flickr.com
 add address=209.73.190.11 name=api.flickr.com
 add address=209.73.190.12 name=up.flickr.com
 add address=68.142.242.184 name=downloadr.flickr.com
