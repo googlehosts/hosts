@@ -2801,13 +2801,16 @@ add address=203.104.160.11 name=gd2s.line.naver.jp
 add address=203.104.174.20 name=gd2v.line.naver.jp
 add address=125.209.252.18 name=gd2g.line.naver.jp
 add address=125.209.252.17 name=gd2i.line.naver.jp
-add address=125.209.222.59 name=gd2k.line.naver.jp
 add address=125.209.222.70 name=gd2w.line.naver.jp
 add address=125.209.222.70 name=gww.line.naver.jp
+add address=125.209.222.70 name=ga2w.line.naver.jp
+add address=125.209.222.70 name=gd2k.line.naver.jp
+add address=125.209.222.70 name=ga2k.line.naver.jp
 add address=203.104.174.18 name=gwx.line.naver.jp
 add address=223.119.50.146 name=dl.profile.line.naver.jp
 add address=223.119.50.144 name=dl.stickershop.line.naver.jp
 add address=203.104.150.35 name=static.line.naver.jp
+add address=125.209.222.75 name=poker.line.naver.jp
 add address=23.42.190.204 name=access.line.me
 add address=2.17.50.95 name=help.line.me
 add address=104.111.208.121 name=shop.line-scdn.net
