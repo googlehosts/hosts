@@ -2790,6 +2790,7 @@ add address=23.40.108.79 name=w.line.me
 add address=203.104.150.46 name=obs.line-apps.com
 add address=125.209.238.181 name=obs-cn.line-apps.com
 add address=203.104.153.6 name=obs-tw.line-apps.com
+add address=203.104.129.165 name=line-bot-cms-app-web.line-apps.com
 add address=125.209.238.186 name=xcdn-cn.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-prf.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-shp.line-apps.com
