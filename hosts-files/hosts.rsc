@@ -2683,6 +2683,7 @@ add address=66.6.32.22 name=blog.instagram.com
 add address=31.13.95.48 name=scontent-hkg3-1.cdninstagram.com
 add address=157.240.15.63 name=scontent-hkg3-2.cdninstagram.com
 add address=31.13.78.174 name=scontent-sit4-1.cdninstagram.com
+add address=157.240.22.63 name=scontent-sjc3-1.cdninstagram.com
 # Instagram End
 
 # issuu Start
