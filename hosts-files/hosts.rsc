@@ -2794,6 +2794,7 @@ add address=125.209.238.186 name=xcdn-cn.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-prf.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-shp.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-stk.line-apps.com
+add address=203.104.129.195 name=line.naver.jp
 add address=203.104.150.2 name=gd2.line.naver.jp
 add address=203.104.153.129 name=gw.line.naver.jp
 add address=203.104.160.12 name=gd2u.line.naver.jp
@@ -2811,6 +2812,18 @@ add address=223.119.50.146 name=dl.profile.line.naver.jp
 add address=223.119.50.144 name=dl.stickershop.line.naver.jp
 add address=203.104.150.35 name=static.line.naver.jp
 add address=125.209.222.75 name=poker.line.naver.jp
+add address=203.104.153.184 name=channel.line.naver.jp
+add address=184.50.87.74 name=dl.appresource.line.naver.jp
+add address=184.50.87.41 name=dl.shop.line.naver.jp
+add address=203.104.174.13 name=ga2v.line.naver.jp
+add address=203.104.174.12 name=ga2s.line.naver.jp
+add address=203.104.153.1 name=ga2.line.naver.jp
+add address=184.50.87.51 name=dl.os.line.naver.jp
+add address=125.209.238.207 name=timeline.line.naver.jp
+add address=125.209.238.172 name=myhome.line.naver.jp
+add address=125.209.222.57 name=homeapi.line.naver.jp
+add address=125.209.238.185 name=noteapi.line.naver.jp
+add address=125.209.238.185 name=cafeapi.line.naver.jp
 add address=23.42.190.204 name=access.line.me
 add address=2.17.50.95 name=help.line.me
 add address=104.111.208.121 name=shop.line-scdn.net

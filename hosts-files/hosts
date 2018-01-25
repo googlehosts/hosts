@@ -2792,6 +2792,7 @@
 125.209.238.186	xcdn-cn-prf.line-apps.com
 125.209.238.186	xcdn-cn-shp.line-apps.com
 125.209.238.186	xcdn-cn-stk.line-apps.com
+203.104.129.195	line.naver.jp
 203.104.150.2	gd2.line.naver.jp
 203.104.153.129	gw.line.naver.jp
 203.104.160.12	gd2u.line.naver.jp
@@ -2809,6 +2810,18 @@
 223.119.50.144	dl.stickershop.line.naver.jp
 203.104.150.35	static.line.naver.jp
 125.209.222.75	poker.line.naver.jp
+203.104.153.184	channel.line.naver.jp
+184.50.87.74	dl.appresource.line.naver.jp
+184.50.87.41	dl.shop.line.naver.jp
+203.104.174.13	ga2v.line.naver.jp
+203.104.174.12	ga2s.line.naver.jp
+203.104.153.1	ga2.line.naver.jp
+184.50.87.51	dl.os.line.naver.jp
+125.209.238.207	timeline.line.naver.jp
+125.209.238.172	myhome.line.naver.jp
+125.209.222.57	homeapi.line.naver.jp
+125.209.238.185	noteapi.line.naver.jp
+125.209.238.185	cafeapi.line.naver.jp
 23.42.190.204	access.line.me
 2.17.50.95	help.line.me
 104.111.208.121	shop.line-scdn.net
