@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-25
+# Last updated: 2018-01-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3235,14 +3235,15 @@
 149.56.30.149	vnet.link
 # Vnet End
 
-# Whatsapp Start
-157.240.1.53	www-cdn.whatsapp.net
+# WhatsApp Start
+54.196.75.55	www-cdn.whatsapp.net
 169.45.182.115	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
 173.192.219.135	p.whatsapp.net
 50.22.210.33	r.whatsapp.net
 169.44.80.10	v.whatsapp.net
-# Whatsapp End
+158.85.224.174	www.whatsapp.com
+# WhatsApp End
 
 # Web.de Start
 82.165.229.94	suche.web.de

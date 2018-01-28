@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-25
+# Last updated: 2018-01-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -447,12 +447,13 @@
 23.41.77.13	www.voachinese.com av.voanews.com
 23.66.39.94	gdb.voanews.com
 149.56.30.149	vnet.link
-157.240.1.53	www-cdn.whatsapp.net
+54.196.75.55	www-cdn.whatsapp.net
 169.45.182.115	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
 173.192.219.135	p.whatsapp.net
 50.22.210.33	r.whatsapp.net
 169.44.80.10	v.whatsapp.net
+158.85.224.174	www.whatsapp.com
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
 198.35.26.96	zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org ja.wikipedia.org ja.m.wikipedia.org ug.wikipedia.org ug.m.wikipedia.org

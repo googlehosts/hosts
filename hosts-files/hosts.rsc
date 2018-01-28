@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-25
+# Last updated: 2018-01-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3237,14 +3237,15 @@ add address=23.66.39.94 name=gdb.voanews.com
 add address=149.56.30.149 name=vnet.link
 # Vnet End
 
-# Whatsapp Start
-add address=157.240.1.53 name=www-cdn.whatsapp.net
+# WhatsApp Start
+add address=54.196.75.55 name=www-cdn.whatsapp.net
 add address=169.45.182.115 name=c.whatsapp.net
 add address=158.85.5.217 name=m.whatsapp.net
 add address=173.192.219.135 name=p.whatsapp.net
 add address=50.22.210.33 name=r.whatsapp.net
 add address=169.44.80.10 name=v.whatsapp.net
-# Whatsapp End
+add address=158.85.224.174 name=www.whatsapp.com
+# WhatsApp End
 
 # Web.de Start
 add address=82.165.229.94 name=suche.web.de
