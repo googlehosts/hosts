@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-29
+# Last updated: 2018-01-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2663,8 +2663,8 @@
 # Ingress End
 
 # Instagram Start
-52.45.94.103	instagram.com
-157.240.11.172	www.instagram.com
+31.13.82.172	instagram.com
+31.13.82.174	www.instagram.com
 157.240.11.172	badges.instagram.com
 157.240.11.172	scontent.cdninstagram.com
 157.240.11.172	scontent-b.cdninstagram.com
