@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-30
+# Last updated: 2018-02-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -43,11 +43,10 @@ add address=108.177.120.94 name=d.android.com
 add address=108.177.120.94 name=dev.android.com
 add address=108.177.120.94 name=market.android.com
 add address=108.177.120.94 name=r.android.com
-add address=172.217.60.51 name=android.com
-add address=172.217.60.47 name=www.android.com
-add address=172.217.60.74 name=source.android.com
-add address=172.217.60.162 name=tools.android.com
-add address=172.217.60.97 name=developer.android.com
+add address=216.58.217.196 name=android.com
+add address=172.217.4.174 name=www.android.com
+add address=172.217.4.174 name=source.android.com
+add address=172.217.4.174 name=developer.android.com
 # Android End
 
 # Androidfilehost Start
@@ -762,7 +761,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=172.217.60.148 name=www.google.com.hk
+add address=172.217.4.163 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -797,7 +796,7 @@ add address=216.58.200.24 name=www.google.com.sl
 add address=216.58.200.24 name=www.google.com.sv
 add address=216.58.200.24 name=www.google.com.tj
 add address=216.58.200.24 name=www.google.com.tr
-add address=172.217.60.221 name=www.google.com.tw
+add address=172.217.4.163 name=www.google.com.tw
 add address=216.58.200.24 name=www.google.com.ua
 add address=216.58.200.24 name=www.google.com.uy
 add address=216.58.200.24 name=www.google.com.vc
@@ -2311,6 +2310,7 @@ add address=216.239.38.21 name=dartpad.dartlang.org
 add address=216.239.38.21 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 add address=216.239.38.21 name=polymer-project.org
 add address=216.239.38.21 name=material.io
+add address=172.217.4.179 name=tools.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start

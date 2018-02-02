@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-01-30
+# Last updated: 2018-02-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -41,11 +41,10 @@
 108.177.120.94	dev.android.com
 108.177.120.94	market.android.com
 108.177.120.94	r.android.com
-172.217.60.51	android.com
-172.217.60.47	www.android.com
-172.217.60.74	source.android.com
-172.217.60.162	tools.android.com
-172.217.60.97	developer.android.com
+216.58.217.196	android.com
+172.217.4.174	www.android.com
+172.217.4.174	source.android.com
+172.217.4.174	developer.android.com
 # Android End
 
 # Androidfilehost Start
@@ -760,7 +759,7 @@
 216.58.200.24	www.google.com.gi
 216.58.200.24	www.google.com.gr
 216.58.200.24	www.google.com.gt
-172.217.60.148	www.google.com.hk
+172.217.4.163	www.google.com.hk
 216.58.200.24	www.google.com.iq
 216.58.200.24	www.google.com.jm
 216.58.200.24	www.google.com.jo
@@ -795,7 +794,7 @@
 216.58.200.24	www.google.com.sv
 216.58.200.24	www.google.com.tj
 216.58.200.24	www.google.com.tr
-172.217.60.221	www.google.com.tw
+172.217.4.163	www.google.com.tw
 216.58.200.24	www.google.com.ua
 216.58.200.24	www.google.com.uy
 216.58.200.24	www.google.com.vc
@@ -2309,6 +2308,7 @@
 216.239.38.21	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 216.239.38.21	polymer-project.org
 216.239.38.21	material.io
+172.217.4.179	tools.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start
