@@ -377,16 +377,6 @@ add address=192.0.66.2 name=threatexchange.fb.com
 add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
-# FlipBoard Start
-add address=52.222.211.250 name=s.flipboard.com
-add address=54.230.242.42 name=cdn.flipboard.com
-add address=34.193.207.226 name=ue.flipboard.com
-add address=34.192.210.197 name=beacon.flipboard.com
-add address=52.44.196.4 name=flipboard.com
-add address=52.204.24.196 name=fbprod.flipboard.com
-add address=50.18.47.33 name=flipboard.helpshift.com
-# FlipBoard End
-
 # Github Start
 add address=192.30.253.118 name=gist.github.com
 # Github End
