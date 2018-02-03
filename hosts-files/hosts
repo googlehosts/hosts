@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-02
+# Last updated: 2018-02-03
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -230,7 +230,9 @@
 50.18.192.250	duckduckgo.com
 50.18.192.250	www.duckduckgo.com
 50.18.192.250	ac.duckduckgo.com
+50.18.192.250	start.duckduckgo.com
 54.229.110.205	icons.duckduckgo.com
+54.229.110.205	proxy.duckduckgo.com
 54.229.110.205	images.duckduckgo.com
 96.45.82.134	help.duckduckgo.com
 # DuckDuckGo End

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-02
+# Last updated: 2018-02-03
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -73,8 +73,8 @@
 104.16.100.29	cfl.dropboxstatic.com
 54.230.125.126	cf.dropboxstatic.com
 162.125.82.2	log.getdropbox.com
-50.18.192.250	duckduckgo.com www.duckduckgo.com ac.duckduckgo.com
-54.229.110.205	icons.duckduckgo.com images.duckduckgo.com
+50.18.192.250	duckduckgo.com www.duckduckgo.com ac.duckduckgo.com start.duckduckgo.com
+54.229.110.205	icons.duckduckgo.com proxy.duckduckgo.com images.duckduckgo.com
 96.45.82.134	help.duckduckgo.com
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com dropbox.disqus.com nytchinese.disqus.com

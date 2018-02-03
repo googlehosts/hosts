@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-02
+# Last updated: 2018-02-03
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -232,7 +232,9 @@ add address=162.125.82.2 name=log.getdropbox.com
 add address=50.18.192.250 name=duckduckgo.com
 add address=50.18.192.250 name=www.duckduckgo.com
 add address=50.18.192.250 name=ac.duckduckgo.com
+add address=50.18.192.250 name=start.duckduckgo.com
 add address=54.229.110.205 name=icons.duckduckgo.com
+add address=54.229.110.205 name=proxy.duckduckgo.com
 add address=54.229.110.205 name=images.duckduckgo.com
 add address=96.45.82.134 name=help.duckduckgo.com
 # DuckDuckGo End
