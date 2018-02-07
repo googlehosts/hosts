@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-05
+# Last updated: 2018-02-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -439,12 +439,17 @@
 23.41.77.13	www.voachinese.com av.voanews.com
 23.66.39.94	gdb.voanews.com
 149.56.30.149	vnet.link
-157.240.1.53	www-cdn.whatsapp.net
-169.45.182.115	c.whatsapp.net
+107.23.234.123	www-cdn.whatsapp.net faq.whatsapp.com crashlogs.whatsapp.net
+54.210.50.132	mmg-fna.whatsapp.net mmh.whatsapp.net
+169.44.82.102	whatsapp.com www.whatsapp.com blog.whatsapp.com
+169.44.82.120	web.whatsapp.com dyn.web.whatsapp.com w1.web.whatsapp.com w2.web.whatsapp.com w3.web.whatsapp.com w4.web.whatsapp.com w5.web.whatsapp.com w6.web.whatsapp.com w7.web.whatsapp.com w8.web.whatsapp.com
+169.54.222.149	mms.whatsapp.net
+169.55.75.106	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
-173.192.219.135	p.whatsapp.net
+174.37.243.84	p.whatsapp.net
 50.22.210.33	r.whatsapp.net
 169.44.80.10	v.whatsapp.net
+169.63.73.124	e1.whatsapp.net e2.whatsapp.net e3.whatsapp.net e4.whatsapp.net e5.whatsapp.net e6.whatsapp.net e7.whatsapp.net e8.whatsapp.net e9.whatsapp.net e10.whatsapp.net e11.whatsapp.net e12.whatsapp.net e13.whatsapp.net e14.whatsapp.net e15.whatsapp.net e16.whatsapp.net
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
 198.35.26.96	zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org ja.wikipedia.org ja.m.wikipedia.org ug.wikipedia.org ug.m.wikipedia.org

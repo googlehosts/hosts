@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-05
+# Last updated: 2018-02-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3230,12 +3230,46 @@ add address=149.56.30.149 name=vnet.link
 # Vnet End
 
 # Whatsapp Start
-add address=157.240.1.53 name=www-cdn.whatsapp.net
-add address=169.45.182.115 name=c.whatsapp.net
+add address=107.23.234.123 name=www-cdn.whatsapp.net
+add address=107.23.234.123 name=faq.whatsapp.com
+add address=107.23.234.123 name=crashlogs.whatsapp.net
+add address=54.210.50.132 name=mmg-fna.whatsapp.net
+add address=54.210.50.132 name=mmh.whatsapp.net
+add address=169.44.82.102 name=whatsapp.com
+add address=169.44.82.102 name=www.whatsapp.com
+add address=169.44.82.102 name=blog.whatsapp.com
+add address=169.44.82.120 name=web.whatsapp.com
+add address=169.44.82.120 name=dyn.web.whatsapp.com
+add address=169.44.82.120 name=w1.web.whatsapp.com
+add address=169.44.82.120 name=w2.web.whatsapp.com
+add address=169.44.82.120 name=w3.web.whatsapp.com
+add address=169.44.82.120 name=w4.web.whatsapp.com
+add address=169.44.82.120 name=w5.web.whatsapp.com
+add address=169.44.82.120 name=w6.web.whatsapp.com
+add address=169.44.82.120 name=w7.web.whatsapp.com
+add address=169.44.82.120 name=w8.web.whatsapp.com
+add address=169.54.222.149 name=mms.whatsapp.net
+add address=169.55.75.106 name=c.whatsapp.net
 add address=158.85.5.217 name=m.whatsapp.net
-add address=173.192.219.135 name=p.whatsapp.net
+add address=174.37.243.84 name=p.whatsapp.net
 add address=50.22.210.33 name=r.whatsapp.net
 add address=169.44.80.10 name=v.whatsapp.net
+add address=169.63.73.124 name=e1.whatsapp.net
+add address=169.63.73.124 name=e2.whatsapp.net
+add address=169.63.73.124 name=e3.whatsapp.net
+add address=169.63.73.124 name=e4.whatsapp.net
+add address=169.63.73.124 name=e5.whatsapp.net
+add address=169.63.73.124 name=e6.whatsapp.net
+add address=169.63.73.124 name=e7.whatsapp.net
+add address=169.63.73.124 name=e8.whatsapp.net
+add address=169.63.73.124 name=e9.whatsapp.net
+add address=169.63.73.124 name=e10.whatsapp.net
+add address=169.63.73.124 name=e11.whatsapp.net
+add address=169.63.73.124 name=e12.whatsapp.net
+add address=169.63.73.124 name=e13.whatsapp.net
+add address=169.63.73.124 name=e14.whatsapp.net
+add address=169.63.73.124 name=e15.whatsapp.net
+add address=169.63.73.124 name=e16.whatsapp.net
 # Whatsapp End
 
 # Web.de Start
