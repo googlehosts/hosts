@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-07
+# Last updated: 2018-02-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3150,6 +3150,7 @@ add address=81.3.6.162 name=app.tutanota.com
 add address=149.154.166.206 name=telegram.org
 add address=149.154.166.206 name=desktop.telegram.org
 add address=149.154.166.206 name=core.telegram.org
+add address=149.154.166.206 name=oauth.telegram.org
 add address=149.154.167.216 name=api.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-07
+# Last updated: 2018-02-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3148,6 +3148,7 @@
 149.154.166.206	telegram.org
 149.154.166.206	desktop.telegram.org
 149.154.166.206	core.telegram.org
+149.154.166.206	oauth.telegram.org
 149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org
 149.154.175.16	pluto-1.web.telegram.org
