@@ -3233,6 +3233,10 @@ gdb.voanews.com	23.66.39.94
 vnet.link	149.56.30.149
 # Vnet End
 
+# W3schools Start
+www.w3schools.com	192.229.173.207
+# W3schools End
+
 # Whatsapp Start
 www-cdn.whatsapp.net	107.23.234.123
 faq.whatsapp.com	107.23.234.123

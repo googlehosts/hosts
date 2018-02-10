@@ -3235,6 +3235,10 @@ add address=23.66.39.94 name=gdb.voanews.com
 add address=149.56.30.149 name=vnet.link
 # Vnet End
 
+# W3schools Start
+add address=192.229.173.207 name=www.w3schools.com
+# W3schools End
+
 # Whatsapp Start
 add address=107.23.234.123 name=www-cdn.whatsapp.net
 add address=107.23.234.123 name=faq.whatsapp.com
