@@ -1,4 +1,5 @@
 var assert = require('assert');
+var ip = require('ip');
 var set = {};
 var ok = true;
 function checkType(obj, propName, typeName) {
@@ -33,7 +34,12 @@ module.exports = function (data) {
 					if (item.comment !== undefined) {
 						checkType(item, 'comment', 'string')
 					} else {
-						checkType(item, 'ip', 'string');
+						if (checkType(item, 'ip', 'string')) {
+							if (!ip.isV4Format(item.ip) && !ip.isV6Format(item.ip)) {
+								console.error(`Invalid IP address: \x1b[31m${item.ip}\x1b[0m.`);
+								ok = false;
+							}
+						}
 						if (item.domain !== undefined) {
 							if (checkType(item, 'domain', 'string')) {
 								checkDomain(item.domain);
