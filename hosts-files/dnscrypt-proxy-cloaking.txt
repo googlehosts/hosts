@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-09
+# Last updated: 2018-02-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -374,6 +374,11 @@ messengerplatform.fb.com	192.0.66.2
 threatexchange.fb.com	192.0.66.2
 video.xx.fbcdn.net	157.240.11.18
 # Facebook End
+
+# FlipBoard Start
+beacon.flipboard.com	52.44.186.59
+fbprod.flipboard.com	52.205.51.238
+# FlipBoard End
 
 # Github Start
 gist.github.com	192.30.253.118

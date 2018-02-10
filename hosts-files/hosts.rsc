@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-09
+# Last updated: 2018-02-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -376,6 +376,11 @@ add address=192.0.66.2 name=messengerplatform.fb.com
 add address=192.0.66.2 name=threatexchange.fb.com
 add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
+
+# FlipBoard Start
+add address=52.44.186.59 name=beacon.flipboard.com
+add address=52.205.51.238 name=fbprod.flipboard.com
+# FlipBoard End
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com

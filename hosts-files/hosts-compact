@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-09
+# Last updated: 2018-02-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -96,6 +96,8 @@
 31.13.91.15	static.xx.fbcdn.net scontent-lax3-1.xx.fbcdn.net scontent-lax3-2.xx.fbcdn.net scontent-lax3-3.xx.fbcdn.net scontent-lax3-4.xx.fbcdn.net scontent-hkg3-1.xx.fbcdn.net scontent-hkg3-2.xx.fbcdn.net scontent-hkg3-3.xx.fbcdn.net z-1-scontent.xx.fbcdn.net video-lax3-1.xx.fbcdn.net video-lax3-2.xx.fbcdn.net video-lax3-3.xx.fbcdn.net video-lax3-4.xx.fbcdn.net video-mrs1-1.xx.fbcdn.net video-mrs1-2.xx.fbcdn.net video-mrs1-3.xx.fbcdn.net video-mrs1-4.xx.fbcdn.net video-hkg3-1.xx.fbcdn.net video-sit4-1.xx.fbcdn.net external.xx.fbcdn.net
 192.0.66.2	messengerplatform.fb.com threatexchange.fb.com
 157.240.11.18	video.xx.fbcdn.net
+52.44.186.59	beacon.flipboard.com
+52.205.51.238	fbprod.flipboard.com
 192.30.253.118	gist.github.com
 216.58.203.191	gmail.com
 216.58.203.184	www.gmail.com googlemail.l.google.com
