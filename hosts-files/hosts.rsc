@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-10
+# Last updated: 2018-02-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2681,6 +2681,7 @@ add address=31.13.95.48 name=scontent-hkg3-1.cdninstagram.com
 add address=157.240.15.63 name=scontent-hkg3-2.cdninstagram.com
 add address=31.13.78.174 name=scontent-sit4-1.cdninstagram.com
 add address=157.240.22.63 name=scontent-sjc3-1.cdninstagram.com
+add address=157.240.13.172 name=scontent-sin6-2.cdninstagram.com
 # Instagram End
 
 # issuu Start
