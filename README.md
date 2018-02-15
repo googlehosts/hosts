@@ -1,7 +1,7 @@
 # Google Hosts
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2017/new-years-eve-2017-5093547849023488-2xa.gif "新春快乐!"
+[doodle]: https://www.google.com/logos/doodles/2018/lunar-new-year-2018-6583503285125120-2x.png "新春快乐!"
 [doodle-story]: https://www.google.com/logos/doodles/2018/lunar-new-year-2018-6583503285125120-2x.png
 
 |    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
