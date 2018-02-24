@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-11
+# Last updated: 2018-02-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -456,7 +456,7 @@
 169.63.73.124	e1.whatsapp.net e2.whatsapp.net e3.whatsapp.net e4.whatsapp.net e5.whatsapp.net e6.whatsapp.net e7.whatsapp.net e8.whatsapp.net e9.whatsapp.net e10.whatsapp.net e11.whatsapp.net e12.whatsapp.net e13.whatsapp.net e14.whatsapp.net e15.whatsapp.net e16.whatsapp.net
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
-198.35.26.96	zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org ja.wikipedia.org ja.m.wikipedia.org ug.wikipedia.org ug.m.wikipedia.org
+198.35.26.96	zh.wikinews.org zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org ja.wikipedia.org ja.m.wikipedia.org ug.wikipedia.org ug.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 106.10.231.23	static.flickr.com
 69.147.88.7	flickr.com

@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-11
+# Last updated: 2018-02-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3289,6 +3289,7 @@ add address=54.93.172.67 name=lokale.suche.web.de
 # Web.de End
 
 # Wikinews Start
+add address=198.35.26.96 name=zh.wikinews.org
 add address=198.35.26.96 name=zh.m.wikinews.org
 # Wikinews End
 
