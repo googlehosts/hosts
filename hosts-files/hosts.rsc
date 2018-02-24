@@ -3361,7 +3361,7 @@ add address=108.177.125.136 name=i4.ytimg.com
 add address=108.177.125.136 name=i9.ytimg.com
 add address=64.15.118.37 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
-add address=64.15.118.42 name=www.youtube.com
+add address=216.58.194.46 name=www.youtube.com
 add address=108.177.9.125 name=m.youtube.com
 # Youtube End
 
