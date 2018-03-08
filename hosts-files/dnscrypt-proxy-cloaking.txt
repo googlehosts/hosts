@@ -27,7 +27,6 @@ blogthumb.pstatic.net	23.51.209.100
 # Akamai End
 
 # Amazon AWS Start
-eu-west-1.console.aws.amazon.com	54.239.38.117
 s3-ap-northeast-1.amazonaws.com	52.219.0.4
 s3-ap-southeast-2.amazonaws.com	54.231.249.17
 # Amazon AWS End

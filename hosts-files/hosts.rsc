@@ -29,7 +29,6 @@ add address=23.51.209.100 name=blogthumb.pstatic.net
 # Akamai End
 
 # Amazon AWS Start
-add address=54.239.38.117 name=eu-west-1.console.aws.amazon.com
 add address=52.219.0.4 name=s3-ap-northeast-1.amazonaws.com
 add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
