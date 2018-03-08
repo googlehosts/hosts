@@ -25,7 +25,7 @@ add address=104.71.149.138 name=s.pinimg.com
 add address=104.71.149.138 name=i.pinimg.com
 add address=104.71.149.138 name=v.pinimg.com
 add address=104.71.149.138 name=s-media-cache-ak0.pinimg.com
-add address=23.56.25.171 name=blogthumb.pstatic.net
+add address=23.51.209.100 name=blogthumb.pstatic.net
 # Akamai End
 
 # Amazon AWS Start
