@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-24
+# Last updated: 2018-03-08
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -9,10 +9,11 @@
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
-23.201.102.89	a248.e.akamai.net
-184.28.188.186	static.ak.instagram.com
-184.28.188.201	images.ak.instagram.com
-96.7.235.57	passets-cdn.pinterest.com s.pinimg.com i.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
+23.32.241.9	a248.e.akamai.net
+23.32.241.16	static.ak.instagram.com
+184.51.15.69	images.ak.instagram.com
+104.77.23.93	passets-cdn.pinterest.com
+104.71.149.138	s.pinimg.com i.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
 23.56.25.171	blogthumb.pstatic.net
 54.239.38.117	eu-west-1.console.aws.amazon.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com

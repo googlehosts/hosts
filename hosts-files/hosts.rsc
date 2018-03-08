@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-24
+# Last updated: 2018-03-08
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -17,14 +17,14 @@ add address=::1 name=ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
 # Akamai Start
-add address=23.201.102.89 name=a248.e.akamai.net
-add address=184.28.188.186 name=static.ak.instagram.com
-add address=184.28.188.201 name=images.ak.instagram.com
-add address=96.7.235.57 name=passets-cdn.pinterest.com
-add address=96.7.235.57 name=s.pinimg.com
-add address=96.7.235.57 name=i.pinimg.com
-add address=96.7.235.57 name=v.pinimg.com
-add address=96.7.235.57 name=s-media-cache-ak0.pinimg.com
+add address=23.32.241.9 name=a248.e.akamai.net
+add address=23.32.241.16 name=static.ak.instagram.com
+add address=184.51.15.69 name=images.ak.instagram.com
+add address=104.77.23.93 name=passets-cdn.pinterest.com
+add address=104.71.149.138 name=s.pinimg.com
+add address=104.71.149.138 name=i.pinimg.com
+add address=104.71.149.138 name=v.pinimg.com
+add address=104.71.149.138 name=s-media-cache-ak0.pinimg.com
 add address=23.56.25.171 name=blogthumb.pstatic.net
 # Akamai End
 

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-02-24
+# Last updated: 2018-03-08
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15,14 +15,14 @@ ip6-loopback	::1
 # Localhost (DO NOT REMOVE) End
 
 # Akamai Start
-a248.e.akamai.net	23.201.102.89
-static.ak.instagram.com	184.28.188.186
-images.ak.instagram.com	184.28.188.201
-passets-cdn.pinterest.com	96.7.235.57
-s.pinimg.com	96.7.235.57
-i.pinimg.com	96.7.235.57
-v.pinimg.com	96.7.235.57
-s-media-cache-ak0.pinimg.com	96.7.235.57
+a248.e.akamai.net	23.32.241.9
+static.ak.instagram.com	23.32.241.16
+images.ak.instagram.com	184.51.15.69
+passets-cdn.pinterest.com	104.77.23.93
+s.pinimg.com	104.71.149.138
+i.pinimg.com	104.71.149.138
+v.pinimg.com	104.71.149.138
+s-media-cache-ak0.pinimg.com	104.71.149.138
 blogthumb.pstatic.net	23.56.25.171
 # Akamai End
 
