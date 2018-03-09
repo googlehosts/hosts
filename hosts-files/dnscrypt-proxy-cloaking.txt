@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-09
+# Last updated: 2018-03-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -124,14 +124,15 @@ ia802704.us.archive.org	207.241.225.95
 web-beta.archive.org	207.241.225.186
 wwwb-sentry.us.archive.org	207.241.225.186
 web.archive.org	207.241.225.186
+mail.archive.org	207.241.224.6
 # Archive End
 
 # Armorgames Start
-agi.armorgames.com	68.232.44.39
-armatars.armorgames.com	192.229.179.107
-cache.armorgames.com	192.229.179.107
-gamemedia.armorgames.com	192.229.179.107
-quests.armorgames.com	192.229.179.107
+agi.armorgames.com	192.229.173.251
+armatars.armorgames.com	192.229.173.251
+cache.armorgames.com	192.229.173.251
+gamemedia.armorgames.com	192.229.173.251
+quests.armorgames.com	192.229.173.251
 # Armorgames End
 
 # Autodraw Start

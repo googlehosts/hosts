@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-09
+# Last updated: 2018-03-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -27,8 +27,8 @@
 216.58.203.244	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
 207.241.225.95	archive.org www.archive.org analytics.archive.org ia802704.us.archive.org
 207.241.225.186	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
-68.232.44.39	agi.armorgames.com
-192.229.179.107	armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
+207.241.224.6	mail.archive.org
+192.229.173.251	agi.armorgames.com armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
 172.217.31.96	www.autodraw.com embed.culturalspot.org docs.google.com
 104.20.6.63	bandwagonhost.com
 107.152.25.196	box.com
