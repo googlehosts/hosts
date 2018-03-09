@@ -156,11 +156,13 @@
 203.208.39.99	alt7-mtalk.google.com
 108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
-216.239.38.21	ghs.google.com ghs46.google.com ghs.l.google.com ghs46.l.google.com www.nianticlabs.com gsamplemaps.googlepages.com javascript-blocker.toggleable.com goto.ext.google.com webrtc.org www.webrtc.org chromeexperiments.com www.chromeexperiments.com vr.chromeexperiments.com globe.chromeexperiments.com workshop.chromeexperiments.com www.gwtproject.org www.html5rocks.com slides.html5rocks.com playground.html5rocks.com studio.html5rocks.com lists.webmproject.org www.waveprotocol.org www.20thingsilearned.com www.creativelab5.com blog.webmproject.org www.agoogleaday.com www.gosetsuden.jp www.thegooglepuzzle.com www.thegobridgeoglepuzzle.com www.googlezeitgeist.com news.dartlang.org dartpad.dartlang.org ghs-svc-https-sni.ghs-ssl.googlehosted.com polymer-project.org material.io madewithcode.com www.madewithcode.com
+216.239.38.21	ghs.google.com ghs46.google.com ghs.l.google.com ghs46.l.google.com www.nianticlabs.com gsamplemaps.googlepages.com javascript-blocker.toggleable.com goto.ext.google.com webrtc.org www.webrtc.org chromeexperiments.com www.chromeexperiments.com vr.chromeexperiments.com globe.chromeexperiments.com workshop.chromeexperiments.com www.gwtproject.org www.html5rocks.com slides.html5rocks.com playground.html5rocks.com studio.html5rocks.com lists.webmproject.org www.waveprotocol.org www.20thingsilearned.com www.creativelab5.com blog.webmproject.org www.agoogleaday.com www.gosetsuden.jp www.thegooglepuzzle.com www.thegobridgeoglepuzzle.com www.googlezeitgeist.com news.dartlang.org dartpad.dartlang.org ghs-svc-https-sni.ghs-ssl.googlehosted.com polymer-project.org material.io madewithcode.com www.madewithcode.com 220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 172.217.4.179	tools.android.com
 172.217.27.4	googlemashups.com www.googlemashups.com
 216.239.32.27	certificate-transparency.org www.certificate-transparency.org
 64.233.177.127	stun.l.google.com alt1.stun.l.google.com alt2.stun.l.google.com alt3.stun.l.google.com alt4.stun.l.google.com alt5.stun.l.google.com
+172.217.31.179	1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
+216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 108.177.127.197	www.googleusercontent.com
 64.233.170.114	check.googlezip.net
 216.58.221.108	proxy.googlezip.net compress.googlezip.net proxy-dev.googlezip.net

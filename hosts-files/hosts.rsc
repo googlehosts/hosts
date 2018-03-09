@@ -2333,6 +2333,12 @@ add address=64.233.177.127 name=alt4.stun.l.google.com
 add address=64.233.177.127 name=alt5.stun.l.google.com
 # Google:stun Server End
 
+# Google:npf base Start
+add address=172.217.31.179 name=1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
+add address=216.239.38.21 name=220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
+add address=216.239.34.21 name=3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
+# Google:npf base End
+
 # Googleusercontent Start
 add address=108.177.127.197 name=www.googleusercontent.com
 add address=108.177.119.132 name=apidata.googleusercontent.com

@@ -2331,6 +2331,12 @@
 64.233.177.127	alt5.stun.l.google.com
 # Google:stun Server End
 
+# Google:npf base Start
+172.217.31.179	1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
+216.239.38.21	220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
+216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
+# Google:npf base End
+
 # Googleusercontent Start
 108.177.127.197	www.googleusercontent.com
 108.177.119.132	apidata.googleusercontent.com
