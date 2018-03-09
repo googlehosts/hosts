@@ -136,10 +136,6 @@
 192.229.173.251	quests.armorgames.com
 # Armorgames End
 
-# Autodraw Start
-172.217.31.96	www.autodraw.com
-# Autodraw End
-
 # Bandwagonhost Start
 104.20.6.63	bandwagonhost.com
 # Bandwagonhost End
@@ -2306,6 +2302,7 @@
 216.239.38.21	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 216.239.38.21	polymer-project.org
 216.239.38.21	material.io
+216.239.38.21	www.autodraw.com
 172.217.4.179	tools.android.com
 # Google:ghs End
 

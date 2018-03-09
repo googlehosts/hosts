@@ -138,10 +138,6 @@ add address=192.229.173.251 name=gamemedia.armorgames.com
 add address=192.229.173.251 name=quests.armorgames.com
 # Armorgames End
 
-# Autodraw Start
-add address=172.217.31.96 name=www.autodraw.com
-# Autodraw End
-
 # Bandwagonhost Start
 add address=104.20.6.63 name=bandwagonhost.com
 # Bandwagonhost End
@@ -2308,6 +2304,7 @@ add address=216.239.38.21 name=dartpad.dartlang.org
 add address=216.239.38.21 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 add address=216.239.38.21 name=polymer-project.org
 add address=216.239.38.21 name=material.io
+add address=216.239.38.21 name=www.autodraw.com
 add address=172.217.4.179 name=tools.android.com
 # Google:ghs End
 
