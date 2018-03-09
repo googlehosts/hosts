@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-08
+# Last updated: 2018-03-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -25,7 +25,7 @@
 104.19.133.58	www.apkmirror.com
 64.233.188.151	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
 216.58.203.244	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
-207.241.224.22	archive.org www.archive.org analytics.archive.org ia802704.us.archive.org
+207.241.224.2	archive.org www.archive.org analytics.archive.org ia802704.us.archive.org
 207.241.225.186	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
 68.232.44.39	agi.armorgames.com
 192.229.179.107	armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
@@ -410,23 +410,24 @@
 149.154.167.124	vesta.web.telegram.org vesta-1.web.telegram.org
 149.154.164.225	flora.web.telegram.org flora-1.web.telegram.org
 149.154.167.118	telegram.me t.me
-154.35.132.70	torproject.org www.torproject.org atlas.torproject.org bugs.torproject.org cloud.torproject.org consensus-health.torproject.org deb.torproject.org dist.torproject.org extra.torproject.org gettor.torproject.org help.torproject.org onion.torproject.org ooni.torproject.org research.torproject.org spec.torproject.org stem.torproject.org tb-manual.torproject.org wiki.torproject.org
-82.195.75.101	archive.torproject.org media.torproject.org
+38.229.72.17	torproject.org
+154.35.175.245	www.torproject.org
+78.47.38.226	dist.torproject.org
+138.201.14.197	atlas.torproject.org bugs.torproject.org cloud.torproject.org consensus-health.torproject.org deb.torproject.org extra.torproject.org gettor.torproject.org help.torproject.org onion.torproject.org ooni.torproject.org research.torproject.org spec.torproject.org stem.torproject.org tb-manual.torproject.org wiki.torproject.org
+94.130.28.200	archive.torproject.org
+82.195.75.101	media.torproject.org
 23.185.0.2	blog.torproject.org
 78.47.38.229	bridges.torproject.org
 138.201.14.212	check.torproject.org
-138.201.14.216	collector.torproject.org
-38.229.72.20	compass.torproject.org
+195.201.54.247	collector.torproject.org exonerator.torproject.org
 94.130.28.196	db.torproject.org
 138.201.212.231	donate.torproject.org
-138.201.14.214	exonerator.torproject.org
 138.201.212.228	git.torproject.org gitweb.torproject.org
 161.47.6.182	labs.torproject.org
-138.201.14.202	lists.torproject.org
-94.130.28.195	metrics.torproject.org
-78.47.38.227	onionoo.torproject.org
-52.70.141.81	explorer.ooni.torproject.org
-138.201.14.203	people.torproject.org
+94.130.28.202	lists.torproject.org metrics.torproject.org
+154.35.132.148	onionoo.torproject.org
+37.218.242.173	explorer.ooni.torproject.org
+195.201.54.244	people.torproject.org
 138.201.212.230	rt.torproject.org
 78.47.38.231	storm.torproject.org
 138.201.14.206	svn.torproject.org

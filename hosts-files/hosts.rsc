@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-08
+# Last updated: 2018-03-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -119,10 +119,10 @@ add address=216.58.203.244 name=lfe-alpo-gm.appspot.com
 # Appspotpreview End
 
 # Archive Start
-add address=207.241.224.22 name=archive.org
-add address=207.241.224.22 name=www.archive.org
-add address=207.241.224.22 name=analytics.archive.org
-add address=207.241.224.22 name=ia802704.us.archive.org
+add address=207.241.224.2 name=archive.org
+add address=207.241.224.2 name=www.archive.org
+add address=207.241.224.2 name=analytics.archive.org
+add address=207.241.224.2 name=ia802704.us.archive.org
 add address=207.241.225.186 name=web-beta.archive.org
 add address=207.241.225.186 name=wwwb-sentry.us.archive.org
 add address=207.241.225.186 name=web.archive.org
@@ -3172,42 +3172,41 @@ add address=149.154.167.118 name=t.me
 # Telegram End
 
 # Tor Start
-add address=154.35.132.70 name=torproject.org
-add address=154.35.132.70 name=www.torproject.org
-add address=154.35.132.70 name=atlas.torproject.org
-add address=154.35.132.70 name=bugs.torproject.org
-add address=154.35.132.70 name=cloud.torproject.org
-add address=154.35.132.70 name=consensus-health.torproject.org
-add address=154.35.132.70 name=deb.torproject.org
-add address=154.35.132.70 name=dist.torproject.org
-add address=154.35.132.70 name=extra.torproject.org
-add address=154.35.132.70 name=gettor.torproject.org
-add address=154.35.132.70 name=help.torproject.org
-add address=154.35.132.70 name=onion.torproject.org
-add address=154.35.132.70 name=ooni.torproject.org
-add address=154.35.132.70 name=research.torproject.org
-add address=154.35.132.70 name=spec.torproject.org
-add address=154.35.132.70 name=stem.torproject.org
-add address=154.35.132.70 name=tb-manual.torproject.org
-add address=154.35.132.70 name=wiki.torproject.org
-add address=82.195.75.101 name=archive.torproject.org
+add address=38.229.72.17 name=torproject.org
+add address=154.35.175.245 name=www.torproject.org
+add address=78.47.38.226 name=dist.torproject.org
+add address=138.201.14.197 name=atlas.torproject.org
+add address=138.201.14.197 name=bugs.torproject.org
+add address=138.201.14.197 name=cloud.torproject.org
+add address=138.201.14.197 name=consensus-health.torproject.org
+add address=138.201.14.197 name=deb.torproject.org
+add address=138.201.14.197 name=extra.torproject.org
+add address=138.201.14.197 name=gettor.torproject.org
+add address=138.201.14.197 name=help.torproject.org
+add address=138.201.14.197 name=onion.torproject.org
+add address=138.201.14.197 name=ooni.torproject.org
+add address=138.201.14.197 name=research.torproject.org
+add address=138.201.14.197 name=spec.torproject.org
+add address=138.201.14.197 name=stem.torproject.org
+add address=138.201.14.197 name=tb-manual.torproject.org
+add address=138.201.14.197 name=wiki.torproject.org
+add address=94.130.28.200 name=archive.torproject.org
 add address=82.195.75.101 name=media.torproject.org
 add address=23.185.0.2 name=blog.torproject.org
 add address=78.47.38.229 name=bridges.torproject.org
 add address=138.201.14.212 name=check.torproject.org
-add address=138.201.14.216 name=collector.torproject.org
-add address=38.229.72.20 name=compass.torproject.org
+add address=195.201.54.247 name=collector.torproject.org
+add address=195.201.54.247 name=exonerator.torproject.org
 add address=94.130.28.196 name=db.torproject.org
 add address=138.201.212.231 name=donate.torproject.org
-add address=138.201.14.214 name=exonerator.torproject.org
 add address=138.201.212.228 name=git.torproject.org
 add address=138.201.212.228 name=gitweb.torproject.org
 add address=161.47.6.182 name=labs.torproject.org
-add address=138.201.14.202 name=lists.torproject.org
-add address=94.130.28.195 name=metrics.torproject.org
-add address=78.47.38.227 name=onionoo.torproject.org
-add address=52.70.141.81 name=explorer.ooni.torproject.org
-add address=138.201.14.203 name=people.torproject.org
+add address=94.130.28.202 name=lists.torproject.org
+add address=94.130.28.202 name=metrics.torproject.org
+add address=154.35.132.148 name=onionoo.torproject.org
+add address=37.218.242.173 name=explorer.ooni.torproject.org
+add address=195.201.54.244 name=people.torproject.org
 add address=138.201.212.230 name=rt.torproject.org
 add address=78.47.38.231 name=storm.torproject.org
 add address=138.201.14.206 name=svn.torproject.org
