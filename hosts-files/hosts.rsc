@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-10
+# Last updated: 2018-03-13
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3119,37 +3119,36 @@ add address=107.23.241.99 name=tumblr.co
 add address=124.108.101.59 name=api.tumblr.com
 add address=124.108.101.59 name=secure.static.tumblr.com
 add address=124.108.101.59 name=vt.media.tumblr.com
+add address=124.108.101.59 name=api-http2.tumblr.com
 add address=124.108.101.31 name=assets.tumblr.com
-add address=124.108.101.31 name=secure.assets.tumblr.com
-add address=69.147.88.9 name=media.tumblr.com
-add address=69.147.88.9 name=vt.tumblr.com
-add address=69.147.88.9 name=vtt.tumblr.com
+add address=119.161.4.32 name=secure.assets.tumblr.com
+add address=119.161.4.42 name=static.tumblr.com
+add address=119.161.4.42 name=media.tumblr.com
+add address=119.161.4.42 name=vt.tumblr.com
+add address=119.161.4.42 name=vtt.tumblr.com
 add address=66.6.32.21 name=cynicallys.tumblr.com
-add address=192.229.237.97 name=mx.tumblr.com
-add address=124.108.101.58 name=static.tumblr.com
-add address=124.108.101.58 name=24.media.tumblr.com
-add address=124.108.101.58 name=25.media.tumblr.com
-add address=124.108.101.58 name=31.media.tumblr.com
-add address=124.108.101.58 name=33.media.tumblr.com
-add address=124.108.101.58 name=37.media.tumblr.com
-add address=124.108.101.58 name=38.media.tumblr.com
-add address=124.108.101.58 name=40.media.tumblr.com
-add address=124.108.101.58 name=49.media.tumblr.com
-add address=124.108.101.58 name=55.media.tumblr.com
-add address=124.108.101.58 name=56.media.tumblr.com
-add address=124.108.101.58 name=57.media.tumblr.com
+add address=152.195.57.79 name=mx.tumblr.com
+add address=66.6.33.21 name=24.media.tumblr.com
+add address=66.6.33.21 name=25.media.tumblr.com
+add address=66.6.33.21 name=31.media.tumblr.com
+add address=66.6.33.21 name=33.media.tumblr.com
+add address=66.6.33.21 name=37.media.tumblr.com
+add address=66.6.33.21 name=38.media.tumblr.com
+add address=66.6.33.21 name=40.media.tumblr.com
+add address=66.6.33.21 name=49.media.tumblr.com
+add address=66.6.33.21 name=55.media.tumblr.com
+add address=66.6.33.21 name=56.media.tumblr.com
+add address=66.6.33.21 name=57.media.tumblr.com
+add address=66.6.33.21 name=66.media.tumblr.com
 add address=124.108.101.58 name=58.media.tumblr.com
-add address=124.108.101.58 name=66.media.tumblr.com
 add address=124.108.101.58 name=68.media.tumblr.com
 add address=124.108.101.58 name=78.media.tumblr.com
 add address=124.108.101.58 name=90.media.tumblr.com
-add address=124.108.101.58 name=91.media.tumblr.com
 add address=124.108.101.58 name=92.media.tumblr.com
 add address=66.6.32.162 name=ls.srvcs.tumblr.com
 add address=66.6.32.162 name=px.srvcs.tumblr.com
-add address=52.85.155.165 name=96.media.tumblr.com
-add address=192.229.237.98 name=97.media.tumblr.com
-add address=124.108.101.59 name=api-http2.tumblr.com
+add address=54.192.109.252 name=96.media.tumblr.com
+add address=152.199.38.136 name=97.media.tumblr.com
 # Tumblr End
 
 # Tutanota Start
