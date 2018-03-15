@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-13
+# Last updated: 2018-03-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -243,15 +243,15 @@ glitter.services.disqus.com	151.101.24.64
 links.services.disqus.com	151.101.52.64
 realtime.services.disqus.com	173.192.82.196
 help.disqus.com	50.18.252.168
-apkpure.disqus.com	151.101.52.134
 content.disqus.com	151.101.52.134
 referrer.disqus.com	151.101.52.134
 docs.disqus.com	151.101.40.134
+apkpure.disqus.com	151.101.40.134
 about.disqus.com	96.7.54.196
 blog.disqus.com	96.7.54.200
 publishers.disqus.com	96.7.54.198
 c.disquscdn.com	104.16.80.166
-a.disquscdn.com	151.101.24.249
+a.disquscdn.com	151.101.26.49
 # Disqus End
 
 # Facebook Start
@@ -374,7 +374,7 @@ video.xx.fbcdn.net	157.240.11.18
 
 # FlipBoard Start
 beacon.flipboard.com	52.44.186.59
-fbprod.flipboard.com	52.205.51.238
+fbprod.flipboard.com	34.201.185.200
 # FlipBoard End
 
 # Github Start

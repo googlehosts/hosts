@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-13
+# Last updated: 2018-03-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -245,15 +245,15 @@ add address=151.101.24.64 name=glitter.services.disqus.com
 add address=151.101.52.64 name=links.services.disqus.com
 add address=173.192.82.196 name=realtime.services.disqus.com
 add address=50.18.252.168 name=help.disqus.com
-add address=151.101.52.134 name=apkpure.disqus.com
 add address=151.101.52.134 name=content.disqus.com
 add address=151.101.52.134 name=referrer.disqus.com
 add address=151.101.40.134 name=docs.disqus.com
+add address=151.101.40.134 name=apkpure.disqus.com
 add address=96.7.54.196 name=about.disqus.com
 add address=96.7.54.200 name=blog.disqus.com
 add address=96.7.54.198 name=publishers.disqus.com
 add address=104.16.80.166 name=c.disquscdn.com
-add address=151.101.24.249 name=a.disquscdn.com
+add address=151.101.26.49 name=a.disquscdn.com
 # Disqus End
 
 # Facebook Start
@@ -376,7 +376,7 @@ add address=157.240.11.18 name=video.xx.fbcdn.net
 
 # FlipBoard Start
 add address=52.44.186.59 name=beacon.flipboard.com
-add address=52.205.51.238 name=fbprod.flipboard.com
+add address=34.201.185.200 name=fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start
