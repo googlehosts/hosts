@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-15
+# Last updated: 2018-03-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -143,7 +143,7 @@
 216.58.203.35	id.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.15.126.78	ipv4.google.com
+172.217.161.164	ipv4.google.com
 108.177.125.189	0.client-channel.google.com 1.client-channel.google.com 2.client-channel.google.com 3.client-channel.google.com 4.client-channel.google.com 5.client-channel.google.com 6.client-channel.google.com 7.client-channel.google.com 8.client-channel.google.com 9.client-channel.google.com 10.client-channel.google.com 11.client-channel.google.com 12.client-channel.google.com 13.client-channel.google.com 14.client-channel.google.com 15.client-channel.google.com 16.client-channel.google.com 17.client-channel.google.com 18.client-channel.google.com 19.client-channel.google.com 20.client-channel.google.com 21.client-channel.google.com 22.client-channel.google.com 23.client-channel.google.com 24.client-channel.google.com 25.client-channel.google.com 26.client-channel.google.com 27.client-channel.google.com 28.client-channel.google.com 29.client-channel.google.com cello.client-channel.google.com 0.docs.google.com 1.docs.google.com 2.docs.google.com 3.docs.google.com 4.docs.google.com 5.docs.google.com 6.docs.google.com 7.docs.google.com 8.docs.google.com 9.docs.google.com 10.docs.google.com 11.docs.google.com 12.docs.google.com 13.docs.google.com 14.docs.google.com 15.docs.google.com 16.docs.google.com 0.drive.google.com 1.drive.google.com 2.drive.google.com 3.drive.google.com 4.drive.google.com 5.drive.google.com 6.drive.google.com 7.drive.google.com 8.drive.google.com 9.drive.google.com 10.drive.google.com 11.drive.google.com 12.drive.google.com 13.drive.google.com 14.drive.google.com 15.drive.google.com 16.drive.google.com chromoting-oauth.talkgadget.google.com chromoting-host.talkgadget.google.com chromoting-client.talkgadget.google.com 0.talkgadget.google.com
 108.177.97.107	www.googlechinawebmaster.com t0.gstatic.com t1.gstatic.com t2.gstatic.com t3.gstatic.com
 172.217.3.207	upload.google.com upload.video.google.com upload.clients.google.com uploads.clients.google.com upload.drive.google.com upload.youtube.com uploads.stage.gdata.youtube.com uploadsj.clients.google.com upload.docs.google.com

@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-15
+# Last updated: 2018-03-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1032,7 +1032,7 @@ add address=108.177.120.94 name=tagmanager.google.com
 add address=108.177.120.94 name=talkgadget.google.com
 add address=74.125.197.115 name=checkout.google.com
 add address=64.15.126.80 name=drive.google.com
-add address=64.15.126.78 name=ipv4.google.com
+add address=172.217.161.164 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
