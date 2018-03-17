@@ -224,14 +224,14 @@ log.getdropbox.com	162.125.82.2
 # Dropbox End
 
 # DuckDuckGo Start
-duckduckgo.com	46.51.218.82
-www.duckduckgo.com	46.51.218.82
-ac.duckduckgo.com	46.51.218.82
-start.duckduckgo.com	46.51.218.82
-help.duckduckgo.com	46.51.218.82
-icons.duckduckgo.com	54.229.110.205
-proxy.duckduckgo.com	54.229.110.205
-images.duckduckgo.com	54.229.110.205
+duckduckgo.com	13.210.167.213
+www.duckduckgo.com	13.210.167.213
+ac.duckduckgo.com	13.210.167.213
+start.duckduckgo.com	13.210.167.213
+help.duckduckgo.com	13.210.167.213
+icons.duckduckgo.com	13.210.184.136
+proxy.duckduckgo.com	13.210.184.136
+images.duckduckgo.com	13.210.184.136
 # DuckDuckGo End
 
 # Disqus Start
