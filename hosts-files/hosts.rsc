@@ -3098,12 +3098,12 @@ add address=64.71.134.121 name=support.ixquick.com
 
 # Steam Start
 add address=223.119.217.234 name=steamcommunity.com
-add address=223.119.217.234 name=store.steampowered.com
-add address=223.119.217.234 name=help.steampowered.com
-add address=223.119.50.137 name=steamcommunity-a.akamaihd.net
-add address=223.119.248.8 name=steamuserimages-a.akamaihd.net
-add address=223.119.50.139 name=steamcdn-a.akamaihd.net
-add address=223.119.248.26 name=cdn.akamai.steamstatic.com
+add address=173.223.87.13 name=store.steampowered.com
+add address=184.25.146.65 name=help.steampowered.com
+add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
+add address=205.197.140.161 name=steamuserimages-a.akamaihd.net
+add address=184.25.205.16 name=steamcdn-a.akamaihd.net
+add address=184.25.205.19 name=cdn.akamai.steamstatic.com
 # Steam End
 
 # Theinitium Start
