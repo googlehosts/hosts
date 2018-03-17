@@ -3096,12 +3096,12 @@
 
 # Steam Start
 223.119.217.234	steamcommunity.com
-223.119.217.234	store.steampowered.com
-223.119.217.234	help.steampowered.com
-223.119.50.137	steamcommunity-a.akamaihd.net
-223.119.248.8	steamuserimages-a.akamaihd.net
-223.119.50.139	steamcdn-a.akamaihd.net
-223.119.248.26	cdn.akamai.steamstatic.com
+173.223.87.13	store.steampowered.com
+184.25.146.65	help.steampowered.com
+23.4.240.26		steamcommunity-a.akamaihd.net
+205.197.140.161	steamuserimages-a.akamaihd.net
+184.25.205.16	steamcdn-a.akamaihd.net
+184.25.205.19	cdn.akamai.steamstatic.com
 # Steam End
 
 # Theinitium Start
