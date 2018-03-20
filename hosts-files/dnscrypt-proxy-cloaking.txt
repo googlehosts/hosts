@@ -509,8 +509,6 @@ googleblog.blogspot.com	172.217.27.169
 googleforstudents.blogspot.com	172.217.27.169
 chrome.blogspot.com	172.217.27.169
 googlepublicpolicy.blogspot.com	172.217.27.169
-googleadservices.com	172.217.27.169
-www.googleadservices.com	172.217.27.169
 google-latlong.blogspot.com	172.217.27.169
 insidesearch.blogspot.com	172.217.27.169
 googleadsdeveloper.blogspot.com	172.217.27.169

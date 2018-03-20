@@ -511,8 +511,6 @@ add address=172.217.27.169 name=googleblog.blogspot.com
 add address=172.217.27.169 name=googleforstudents.blogspot.com
 add address=172.217.27.169 name=chrome.blogspot.com
 add address=172.217.27.169 name=googlepublicpolicy.blogspot.com
-add address=172.217.27.169 name=googleadservices.com
-add address=172.217.27.169 name=www.googleadservices.com
 add address=172.217.27.169 name=google-latlong.blogspot.com
 add address=172.217.27.169 name=insidesearch.blogspot.com
 add address=172.217.27.169 name=googleadsdeveloper.blogspot.com
