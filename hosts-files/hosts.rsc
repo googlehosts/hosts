@@ -381,6 +381,8 @@ add address=34.201.185.200 name=fbprod.flipboard.com
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
+add address=192.30.253.112 name=github.com
+add address=192.30.253.112 name=www.github.com
 # Github End
 
 # Gmail Start
