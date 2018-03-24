@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-03-20
+# Last updated: 2018-03-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -159,6 +159,7 @@ add address=104.16.4.13 name=assets-fe.change.org
 
 # Cloudfront Start
 add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
+add address=52.84.167.78 name=d3njjcbhbojbot.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
