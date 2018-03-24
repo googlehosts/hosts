@@ -138,6 +138,10 @@ add address=192.229.173.251 name=gamemedia.armorgames.com
 add address=192.229.173.251 name=quests.armorgames.com
 # Armorgames End
 
+# Arukas Start
+add address=27.133.136.8 name=app.arukas.io
+# Arukas End
+
 # Bandwagonhost Start
 add address=104.20.6.63 name=bandwagonhost.com
 # Bandwagonhost End
