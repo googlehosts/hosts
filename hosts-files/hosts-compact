@@ -1,44 +1,48 @@
-# Copyright (c) 2017, googlehosts members.
+# Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-05
+# Last updated: 2018-03-24
 
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
 
 # Modified Hosts Start
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
-23.201.102.89	a248.e.akamai.net
-184.28.188.186	static.ak.instagram.com
-184.28.188.201	images.ak.instagram.com
-96.7.235.57	passets-cdn.pinterest.com s.pinimg.com i.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
-23.56.25.171	blogthumb.pstatic.net
-54.239.38.117	eu-west-1.console.aws.amazon.com
+23.32.241.9	a248.e.akamai.net
+23.32.241.16	static.ak.instagram.com
+184.51.15.69	images.ak.instagram.com
+104.77.23.93	passets-cdn.pinterest.com
+104.71.149.138	s.pinimg.com i.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
+23.51.209.100	blogthumb.pstatic.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
-54.231.251.21	s3-ap-southeast-2.amazonaws.com
-108.177.120.94	a.android.com b.android.com m.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com domains.google domains.google.com environment.google aboutme.google.com ads.google.com abc.xyz admin.google.com atap.google.com attribution.google.com answers.google.com apps.google.com appengine.google.com bpui0.google.com buzz.google.com calendar.google.com classroom.google.com cloud.google.com packages.cloud.google.com ssh.cloud.google.com status.cloud.google.com storage.cloud.google.com console.cloud.google.com contributor.google.com console.firebase.google.com contacts.google.com code.google.com cse.google.com client-channel.google.com client1.google.com client2.google.com client3.google.com client4.google.com client5.google.com client6.google.com clients2.google.com clients3.google.com clients4.google.com clients6.google.com toolbarqueries.clients.google.com desktop1.google.com desktop2.google.com desktop3.google.com desktop5.google.com desktop6.google.com dns.google.com docs0.google.com docs1.google.com docs2.google.com docs3.google.com docs4.google.com docs5.google.com docs6.google.com docs7.google.com docs8.google.com docs9.google.com developers.google.com dl-ssl.google.com cloudssh.developers.google.com codelabs.developers.google.com console.developers.google.com source.developers.google.com cla.developers.google.com design.google.com directory.google.com dir.google.com earth.google.com events.google.com explorer.apis.google.com encrypted.google.com encrypted-tbn0.google.com encrypted-tbn1.google.com encrypted-tbn2.google.com encrypted-tbn3.google.com fi.google.com fit.google.com fiber.google.com fonts.google.com firebase.google.com finance.google.com fusion.google.com fusiontables.google.com groups.google.com groups-beta.google.com goto.google.com geoauth.google.com history.google.com investor.google.com isp.google.com issuetracker.google.com jmt0.google.com jigsaw.google.com keep.google.com linkhelp.clients.google.com landing.google.com maven.google.com material.google.com mapsengine.google.com myaccount.google.com myactivity.google.com notifications.google.com opensource.google.com productforums.google.com passwords.google.com peering.google.com pki.google.com relay.google.com scholar.l.google.com script.google.com security.google.com services.google.com store.google.com spreadsheet.google.com spreadsheets.google.com spreadsheets0.google.com spreadsheets1.google.com spreadsheets2.google.com spreadsheets3.google.com spreadsheets4.google.com spreadsheets5.google.com spreadsheets6.google.com spreadsheets7.google.com spreadsheets8.google.com spreadsheets9.google.com support.google.com suggestqueries.google.com takeout.google.com v3.cache1.c.docs.google.com wallet.google.com www.blog.google www.googlegroups.com www.googlestore.com www.tensorflow.org writely.google.com auth.keyhole.com mobile.l.google.com talkgadget.l.google.com hangouts.google.com hangout.google.com payments.google.com health.google.com images.google.com tbn0.google.com tbn1.google.com tbn2.google.com tbn3.google.com inputtools.google.com knol.google.com mars.google.com local.google.com ditu.google.com maps-api-ssl.google.com map.google.com cbk0.google.com cbk1.google.com cbk2.google.com cbk3.google.com khms.google.com khms0.google.com khms1.google.com khms2.google.com khms3.google.com cbks0.google.com cbks1.google.com cbks2.google.com cbks3.google.com mw1.google.com mw2.google.com mt.google.com mt0.google.com mt1.google.com mt2.google.com mt3.google.com gg.google.com mt0.googleapis.com mt1.googleapis.com mt2.googleapis.com mt3.googleapis.com mts.google.com mts0.google.com mts1.google.com mts2.google.com mts3.google.com mobilemaps.clients.google.com music.google.com pack.google.com photos.google.com picasa.google.com picasaweb.google.com lh2.google.com lh3.google.com lh4.google.com lh5.google.com lh6.google.com upload.photos.google.com profiles.google.com plusone.google.com plus.google.com plus.url.google.com spaces.google.com pixel.google.com madeby.google.com vr.google.com reader.google.com research.google.com sb.google.com sb-ssl.google.com safebrowsing.google.com search.google.com alt1-safebrowsing.google.com alt2-safebrowsing.google.com safebrowsing.clients.google.com safebrowsing-cache.google.com sandbox.google.com googleapis.sandbox.google.com sites.google.com surveys.google.com sketchup.google.com tagmanager.google.com talkgadget.google.com assistant.google.com books.google.com blogsearch.google.com clients1.google.com desktop.google.com desktop4.google.com gxc.google.com get.google.com gsuite.google.com image.google.com video.google.com jmt17.google.com maps.google.com mobile.google.com news.google.com patents.google.com places.google.com privacy.google.com translate.google.com toolbarqueries.google.com accounts.google.com.hk assistant.google.com.hk books.google.com.hk blogsearch.google.com.hk clients1.google.com.hk desktop.google.com.hk desktop4.google.com.hk gxc.google.com.hk get.google.com.hk gsuite.google.com.hk groups.google.com.hk image.google.com.hk video.google.com.hk jmt17.google.com.hk lh4.google.com.hk maps.google.com.hk mobile.google.com.hk news.google.com.hk patents.google.com.hk places.google.com.hk picasaweb.google.com.hk privacy.google.com.hk toolbar.google.com translate.google.com.hk toolbarqueries.google.com.hk scholar.google.com.hk accounts.google.com.tw assistant.google.com.tw books.google.com.tw blogsearch.google.com.tw clients1.google.com.tw desktop.google.com.tw desktop4.google.com.tw gxc.google.com.tw get.google.com.tw gsuite.google.com.tw groups.google.com.tw image.google.com.tw video.google.com.tw jmt17.google.com.tw lh4.google.com.tw maps.google.com.tw mobile.google.com.tw news.google.com.tw patents.google.com.tw places.google.com.tw picasaweb.google.com.tw privacy.google.com.tw translate.google.com.tw toolbarqueries.google.com.tw scholar.google.com.tw golang.org golang-consa.l.google.com voice.google.com accounts.gstatic.com maps.gstatic.com connectivitycheck.gstatic.com play-music.gstatic.com cdn.ampproject.org encrypted-tbn0.gstatic.com encrypted-tbn1.gstatic.com encrypted-tbn2.gstatic.com encrypted-tbn3.gstatic.com mt0.gstatic.com mt1.gstatic.com mt2.gstatic.com mt3.gstatic.com mt4.gstatic.com mt5.gstatic.com mt6.gstatic.com mt7.gstatic.com
-172.217.60.51	android.com
-172.217.60.47	www.android.com
-172.217.60.74	source.android.com
-172.217.60.162	tools.android.com
-172.217.60.97	developer.android.com
+54.231.249.17	s3-ap-southeast-2.amazonaws.com
+108.177.120.94	a.android.com b.android.com m.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com domains.google domains.google.com environment.google aboutme.google.com ads.google.com abc.xyz admin.google.com atap.google.com attribution.google.com answers.google.com apps.google.com appengine.google.com bpui0.google.com buzz.google.com calendar.google.com classroom.google.com classroom.google.ca cloud.google.com packages.cloud.google.com ssh.cloud.google.com status.cloud.google.com storage.cloud.google.com console.cloud.google.com contributor.google.com console.firebase.google.com contacts.google.com code.google.com cse.google.com client-channel.google.com client1.google.com client2.google.com client3.google.com client4.google.com client5.google.com client6.google.com clients2.google.com clients3.google.com clients4.google.com clients6.google.com toolbarqueries.clients.google.com desktop1.google.com desktop2.google.com desktop3.google.com desktop5.google.com desktop6.google.com dns.google.com docs0.google.com docs1.google.com docs2.google.com docs3.google.com docs4.google.com docs5.google.com docs6.google.com docs7.google.com docs8.google.com docs9.google.com developers.google.com dl-ssl.google.com cloudssh.developers.google.com codelabs.developers.google.com console.developers.google.com source.developers.google.com cla.developers.google.com design.google.com directory.google.com dir.google.com earth.google.com events.google.com explorer.apis.google.com encrypted.google.com encrypted-tbn0.google.com encrypted-tbn1.google.com encrypted-tbn2.google.com encrypted-tbn3.google.com fi.google.com fit.google.com fiber.google.com fonts.google.com firebase.google.com finance.google.com fusion.google.com fusiontables.google.com groups.google.com groups-beta.google.com goto.google.com geoauth.google.com history.google.com investor.google.com isp.google.com issuetracker.google.com jmt0.google.com jigsaw.google.com keep.google.com linkhelp.clients.google.com landing.google.com maven.google.com material.google.com mapsengine.google.com myaccount.google.com myactivity.google.com notifications.google.com opensource.google.com productforums.google.com passwords.google.com peering.google.com pki.google.com relay.google.com scholar.l.google.com script.google.com security.google.com services.google.com store.google.com spreadsheet.google.com spreadsheets.google.com spreadsheets0.google.com spreadsheets1.google.com spreadsheets2.google.com spreadsheets3.google.com spreadsheets4.google.com spreadsheets5.google.com spreadsheets6.google.com spreadsheets7.google.com spreadsheets8.google.com spreadsheets9.google.com support.google.com suggestqueries.google.com takeout.google.com v3.cache1.c.docs.google.com wallet.google.com www.blog.google www.googlegroups.com www.googlestore.com www.tensorflow.org writely.google.com auth.keyhole.com mobile.l.google.com talkgadget.l.google.com hangouts.google.com hangout.google.com payments.google.com health.google.com images.google.com tbn0.google.com tbn1.google.com tbn2.google.com tbn3.google.com inputtools.google.com knol.google.com mars.google.com local.google.com ditu.google.com maps-api-ssl.google.com map.google.com cbk0.google.com cbk1.google.com cbk2.google.com cbk3.google.com khms.google.com khms0.google.com khms1.google.com khms2.google.com khms3.google.com cbks0.google.com cbks1.google.com cbks2.google.com cbks3.google.com mw1.google.com mw2.google.com mt.google.com mt0.google.com mt1.google.com mt2.google.com mt3.google.com gg.google.com mt0.googleapis.com mt1.googleapis.com mt2.googleapis.com mt3.googleapis.com mts.google.com mts0.google.com mts1.google.com mts2.google.com mts3.google.com mobilemaps.clients.google.com music.google.com pack.google.com photos.google.com picasa.google.com picasaweb.google.com lh2.google.com lh3.google.com lh4.google.com lh5.google.com lh6.google.com upload.photos.google.com profiles.google.com plusone.google.com plus.google.com plus.url.google.com spaces.google.com pixel.google.com madeby.google.com vr.google.com reader.google.com research.google.com sb.google.com sb-ssl.google.com safebrowsing.google.com search.google.com alt1-safebrowsing.google.com alt2-safebrowsing.google.com safebrowsing.clients.google.com safebrowsing-cache.google.com sandbox.google.com googleapis.sandbox.google.com sites.google.com surveys.google.com sketchup.google.com tagmanager.google.com talkgadget.google.com assistant.google.com books.google.com blogsearch.google.com clients1.google.com desktop.google.com desktop4.google.com gxc.google.com get.google.com gsuite.google.com image.google.com video.google.com jmt17.google.com maps.google.com mobile.google.com news.google.com patents.google.com places.google.com privacy.google.com translate.google.com toolbarqueries.google.com accounts.google.com.hk assistant.google.com.hk books.google.com.hk blogsearch.google.com.hk clients1.google.com.hk desktop.google.com.hk desktop4.google.com.hk gxc.google.com.hk get.google.com.hk gsuite.google.com.hk groups.google.com.hk id.google.com.hk image.google.com.hk video.google.com.hk jmt17.google.com.hk lh4.google.com.hk maps.google.com.hk mobile.google.com.hk news.google.com.hk patents.google.com.hk places.google.com.hk picasaweb.google.com.hk privacy.google.com.hk toolbar.google.com translate.google.com.hk toolbarqueries.google.com.hk scholar.google.com.hk accounts.google.com.tw assistant.google.com.tw books.google.com.tw blogsearch.google.com.tw clients1.google.com.tw desktop.google.com.tw desktop4.google.com.tw gxc.google.com.tw get.google.com.tw gsuite.google.com.tw groups.google.com.tw image.google.com.tw id.google.com.tw video.google.com.tw jmt17.google.com.tw lh4.google.com.tw maps.google.com.tw mobile.google.com.tw news.google.com.tw patents.google.com.tw places.google.com.tw picasaweb.google.com.tw privacy.google.com.tw translate.google.com.tw toolbarqueries.google.com.tw scholar.google.com.tw golang.org golang-consa.l.google.com voice.google.com accounts.gstatic.com maps.gstatic.com play-music.gstatic.com cdn.ampproject.org encrypted-tbn0.gstatic.com encrypted-tbn1.gstatic.com encrypted-tbn2.gstatic.com encrypted-tbn3.gstatic.com mt0.gstatic.com mt1.gstatic.com mt2.gstatic.com mt3.gstatic.com mt4.gstatic.com mt5.gstatic.com mt6.gstatic.com mt7.gstatic.com
+216.58.217.196	android.com
+172.217.4.174	www.android.com source.android.com developer.android.com
+151.139.240.14	androidfilehost.com
 104.20.82.194	apkpure.com a.apkpure.com download.apkpure.com m.apkpure.com i.apkpure.com static.apkpure.com translate.apkpure.com
 104.19.133.58	www.apkmirror.com
 64.233.188.151	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
 216.58.203.244	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
-207.241.224.22	archive.org www.archive.org analytics.archive.org ia802704.us.archive.org
-207.241.225.186	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
-68.232.44.39	agi.armorgames.com
-192.229.179.107	armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
-172.217.31.96	www.autodraw.com embed.culturalspot.org docs.google.com
+207.241.225.95	archive.org www.archive.org analytics.archive.org ia802704.us.archive.org
+207.241.224.19	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
+207.241.224.6	mail.archive.org
+207.241.224.21	books-general.archive.org
+192.229.173.251	agi.armorgames.com armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
+27.133.136.8	app.arukas.io
 104.20.6.63	bandwagonhost.com
 107.152.25.196	box.com
 107.152.24.198	app.box.com
 107.152.24.197	account.box.com upload.box.com m.box.com
 104.16.5.13	www.change.org assets.change.org
 104.16.4.13	change.org assets-fe.change.org
-52.84.167.78	d3c33hcgiwev3.cloudfront.net
+52.84.167.78	d3c33hcgiwev3.cloudfront.net d3njjcbhbojbot.cloudfront.net
+172.217.31.96	embed.culturalspot.org docs.google.com
+157.7.225.122	cp.conoha.jp
+103.3.190.48	www.conoha.jp
+157.7.225.117	app.conoha.jp
+157.7.225.120	manage.conoha.jp
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
 162.125.32.135	api-d.dropbox.com
@@ -71,37 +75,32 @@
 104.16.100.29	cfl.dropboxstatic.com
 54.230.125.126	cf.dropboxstatic.com
 162.125.82.2	log.getdropbox.com
-50.18.192.250	duckduckgo.com www.duckduckgo.com ac.duckduckgo.com
-54.229.110.205	icons.duckduckgo.com images.duckduckgo.com
-96.45.82.134	help.duckduckgo.com
+13.210.167.213	duckduckgo.com www.duckduckgo.com ac.duckduckgo.com start.duckduckgo.com help.duckduckgo.com
+13.210.184.136	icons.duckduckgo.com proxy.duckduckgo.com images.duckduckgo.com
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com dropbox.disqus.com nytchinese.disqus.com
 151.101.24.64	glitter.services.disqus.com
 151.101.52.64	links.services.disqus.com
 173.192.82.196	realtime.services.disqus.com
 50.18.252.168	help.disqus.com
-151.101.52.134	apkpure.disqus.com content.disqus.com referrer.disqus.com
-151.101.40.134	docs.disqus.com
+151.101.52.134	content.disqus.com referrer.disqus.com
+151.101.40.134	docs.disqus.com apkpure.disqus.com
 96.7.54.196	about.disqus.com
 96.7.54.200	blog.disqus.com
 96.7.54.198	publishers.disqus.com
 104.16.80.166	c.disquscdn.com
-151.101.24.249	a.disquscdn.com
-157.240.7.35	www.facebook.com fb.me facebook.com api.facebook.com apps.facebook.com attachments.facebook.com business.facebook.com bigzipfiles.facebook.com code.facebook.com check4.facebook.com check6.facebook.com connect.facebook.com d.facebook.com developers.facebook.com graph.facebook.com l.facebook.com login.facebook.com m.facebook.com mtouch.facebook.com mqtt.facebook.com mqtt-mini.facebook.com orcart.facebook.com pixel.facebook.com scontent.facebook.com ssl.facebook.com star.facebook.com secure.facebook.com staticxx.facebook.com touch.facebook.com upload.facebook.com vupload.facebook.com vupload2.facebook.com api-read.facebook.com b-api.facebook.com b-graph.facebook.com s-static.facebook.com zh-cn.facebook.com zh-tw.facebook.com edge-chat.facebook.com 0-edge-chat.facebook.com 1-edge-chat.facebook.com 2-edge-chat.facebook.com 3-edge-chat.facebook.com 4-edge-chat.facebook.com 5-edge-chat.facebook.com 6-edge-chat.facebook.com channel-ecmp-05-ash3.facebook.com channel-staging-ecmp-05-ash3.facebook.com channel-testing-ecmp-05-ash3.facebook.com beta-chat-01-05-ash3.facebook.com s-static.ak.facebook.com star.c10r.facebook.com fbcdn.net connect.facebook.net ent-a.xx.fbcdn.net ent-b.xx.fbcdn.net ent-c.xx.fbcdn.net ent-d.xx.fbcdn.net ent-e.xx.fbcdn.net scontent.xx.fbcdn.net scontent-a.xx.fbcdn.net scontent-b.xx.fbcdn.net scontent-c.xx.fbcdn.net scontent-d.xx.fbcdn.net scontent-e.xx.fbcdn.net scontent-mxp.xx.fbcdn.net scontent-a-lax.xx.fbcdn.net scontent-a-sin.xx.fbcdn.net scontent-b-lax.xx.fbcdn.net scontent-b-sin.xx.fbcdn.net static.xx.fbcdn.net static.thefacebook.com attachment.fbsbx.com messenger.com www.messenger.com 0-edge-chat.messenger.com 1-edge-chat.messenger.com 2-edge-chat.messenger.com 3-edge-chat.messenger.com 4-edge-chat.messenger.com 5-edge-chat.messenger.com 6-edge-chat.messenger.com
+151.101.26.49	a.disquscdn.com
+157.240.7.35	www.facebook.com fb.me facebook.com api.facebook.com apps.facebook.com attachments.facebook.com business.facebook.com bigzipfiles.facebook.com code.facebook.com check4.facebook.com check6.facebook.com connect.facebook.com d.facebook.com developers.facebook.com graph.facebook.com l.facebook.com login.facebook.com m.facebook.com mtouch.facebook.com mqtt.facebook.com mqtt-mini.facebook.com orcart.facebook.com pixel.facebook.com scontent.facebook.com ssl.facebook.com star.facebook.com secure.facebook.com staticxx.facebook.com touch.facebook.com upload.facebook.com vupload.facebook.com vupload2.facebook.com api-read.facebook.com b-api.facebook.com b-graph.facebook.com s-static.facebook.com zh-cn.facebook.com zh-tw.facebook.com edge-chat.facebook.com 0-edge-chat.facebook.com 1-edge-chat.facebook.com 2-edge-chat.facebook.com 3-edge-chat.facebook.com 4-edge-chat.facebook.com 5-edge-chat.facebook.com 6-edge-chat.facebook.com channel-ecmp-05-ash3.facebook.com channel-staging-ecmp-05-ash3.facebook.com channel-testing-ecmp-05-ash3.facebook.com beta-chat-01-05-ash3.facebook.com s-static.ak.facebook.com star.c10r.facebook.com fbcdn.net connect.facebook.net ent-a.xx.fbcdn.net ent-b.xx.fbcdn.net ent-c.xx.fbcdn.net ent-d.xx.fbcdn.net ent-e.xx.fbcdn.net scontent.xx.fbcdn.net scontent-a.xx.fbcdn.net scontent-b.xx.fbcdn.net scontent-c.xx.fbcdn.net scontent-d.xx.fbcdn.net scontent-e.xx.fbcdn.net scontent-mxp.xx.fbcdn.net scontent-a-lax.xx.fbcdn.net scontent-a-sin.xx.fbcdn.net scontent-b-lax.xx.fbcdn.net scontent-b-sin.xx.fbcdn.net static.thefacebook.com attachment.fbsbx.com messenger.com www.messenger.com 0-edge-chat.messenger.com 1-edge-chat.messenger.com 2-edge-chat.messenger.com 3-edge-chat.messenger.com 4-edge-chat.messenger.com 5-edge-chat.messenger.com 6-edge-chat.messenger.com
 31.13.95.33	snaptu-z.facebook.com snaptu-p1.facebook.com snaptu-p2.facebook.com
 31.13.95.5	edge-mqtt.facebook.com
 192.0.78.13	instantarticles.fb.com live.fb.com managingbias.fb.com nonprofits.fb.com rightsmanager.fb.com techprep.fb.com work.fb.com
-31.13.91.15	scontent-lax3-1.xx.fbcdn.net scontent-lax3-2.xx.fbcdn.net scontent-lax3-3.xx.fbcdn.net scontent-lax3-4.xx.fbcdn.net scontent-hkg3-1.xx.fbcdn.net scontent-hkg3-2.xx.fbcdn.net scontent-hkg3-3.xx.fbcdn.net z-1-scontent.xx.fbcdn.net video-lax3-1.xx.fbcdn.net video-lax3-2.xx.fbcdn.net video-lax3-3.xx.fbcdn.net video-lax3-4.xx.fbcdn.net video-mrs1-1.xx.fbcdn.net video-mrs1-2.xx.fbcdn.net video-mrs1-3.xx.fbcdn.net video-mrs1-4.xx.fbcdn.net video-hkg3-1.xx.fbcdn.net video-sit4-1.xx.fbcdn.net external.xx.fbcdn.net
+31.13.91.15	static.xx.fbcdn.net scontent-lax3-1.xx.fbcdn.net scontent-lax3-2.xx.fbcdn.net scontent-lax3-3.xx.fbcdn.net scontent-lax3-4.xx.fbcdn.net scontent-hkg3-1.xx.fbcdn.net scontent-hkg3-2.xx.fbcdn.net scontent-hkg3-3.xx.fbcdn.net z-1-scontent.xx.fbcdn.net video-lax3-1.xx.fbcdn.net video-lax3-2.xx.fbcdn.net video-lax3-3.xx.fbcdn.net video-lax3-4.xx.fbcdn.net video-mrs1-1.xx.fbcdn.net video-mrs1-2.xx.fbcdn.net video-mrs1-3.xx.fbcdn.net video-mrs1-4.xx.fbcdn.net video-hkg3-1.xx.fbcdn.net video-sit4-1.xx.fbcdn.net external.xx.fbcdn.net
 192.0.66.2	messengerplatform.fb.com threatexchange.fb.com
 157.240.11.18	video.xx.fbcdn.net
-52.222.211.250	s.flipboard.com
-54.230.242.42	cdn.flipboard.com
-34.193.207.226	ue.flipboard.com
-34.192.210.197	beacon.flipboard.com
-52.44.196.4	flipboard.com
-52.204.24.196	fbprod.flipboard.com
-50.18.47.33	flipboard.helpshift.com
+52.44.186.59	beacon.flipboard.com
+34.201.185.200	fbprod.flipboard.com
 192.30.253.118	gist.github.com
+192.30.253.112	github.com www.github.com
 216.58.203.191	gmail.com
 216.58.203.184	www.gmail.com googlemail.l.google.com
 216.58.203.190	mail-settings.google.com
@@ -129,26 +128,24 @@
 172.217.5.112	static.panoramio.com.storage.googleapis.com
 172.217.5.208	storage-download.googleapis.com
 64.233.171.192	supl.google.com
-172.217.27.169	www.blogger.com www.blogblog.com www1.blogblog.com www2.blogblog.com blogger.com blogger.google.com accounts.blogger.com beta.blogger.com buttons.blogger.com buzz.blogger.com draft.blogger.com status.blogger.com help.blogger.com photos1.blogger.com bp0.blogger.com bp1.blogger.com bp2.blogger.com bp3.blogger.com img.blogblog.com img1.blogblog.com img2.blogblog.com resources.blogblog.com www.blogspot.com blogspot.com bp.blogspot.com 1.bp.blogspot.com 2.bp.blogspot.com 3.bp.blogspot.com 4.bp.blogspot.com googleblog.blogspot.com googleforstudents.blogspot.com chrome.blogspot.com googlepublicpolicy.blogspot.com googleadservices.com www.googleadservices.com google-latlong.blogspot.com insidesearch.blogspot.com googleadsdeveloper.blogspot.com googledevelopers.blogspot.com
+172.217.27.169	www.blogger.com www.blogblog.com www1.blogblog.com www2.blogblog.com blogger.com blogger.google.com accounts.blogger.com beta.blogger.com buttons.blogger.com buzz.blogger.com draft.blogger.com status.blogger.com help.blogger.com photos1.blogger.com bp0.blogger.com bp1.blogger.com bp2.blogger.com bp3.blogger.com img.blogblog.com img1.blogblog.com img2.blogblog.com resources.blogblog.com www.blogspot.com blogspot.com bp.blogspot.com 1.bp.blogspot.com 2.bp.blogspot.com 3.bp.blogspot.com 4.bp.blogspot.com googleblog.blogspot.com googleforstudents.blogspot.com chrome.blogspot.com googlepublicpolicy.blogspot.com google-latlong.blogspot.com insidesearch.blogspot.com googleadsdeveloper.blogspot.com googledevelopers.blogspot.com
 173.194.198.82	www.googlesource.com googlesource.com code.googlesource.com fuchsia.googlesource.com boringssl.googlesource.com gerrit.googlesource.com gerrit-review.googlesource.com kernel.googlesource.com uploads.code.google.com gwt.googlesource.com skia.googlesource.com android-review.googlesource.com gcr.io www.gcr.io android.googlesource.com
 173.194.76.82	chromium.googlesource.com
 216.58.200.23	com.google google.ac google.ad google.ae google.af google.ag google.ai google.al google.am google.as google.at google.az google.ba google.be google.bf google.bg google.bi google.bj google.bs google.bt google.by google.bo google.ca google.cat google.cc google.cd google.cf google.cg google.ch google.ci google.cl google.cm google.co google.cv google.cz google.co.ao google.co.bw google.co.ck google.co.cr google.co.hu google.co.id google.co.il google.co.im google.co.in google.co.je google.co.jp google.co.ke google.co.kr google.co.ls google.co.ma google.co.mz google.co.nz google.co.th google.co.tz google.co.ug google.co.uk google.co.uz google.co.ve google.co.vi google.co.za google.co.zm google.co.zw google.de google.dj google.dk google.dm google.do google.dz google.ec google.ee google.es google.eg google.hk google.mx google.ng google.ni google.ph google.pk google.pl google.pn google.ps google.pt google.qa google.ro google.rs google.ru google.rw google.sa google.sc google.se google.sh google.si google.sk google.sm google.sn google.so google.st google.sg google.sl google.td google.tg google.tw google.tk google.tl google.tm google.tn google.to google.tt google.ua google.uy google.vg google.vn google.vu google.ws google.com google.com.af google.com.ag google.com.ai google.com.ar google.com.au google.com.bd google.com.bh google.com.bn google.com.bo google.com.br google.com.by google.com.bz google.com.co google.com.co.jp google.com.cu google.com.cy google.com.do google.com.ec google.com.eg google.com.et google.com.fj google.com.ge google.com.gh google.com.gi google.com.gr google.com.gt google.com.hk google.com.iq google.com.jm google.com.jo google.com.kh google.com.kw google.com.lb google.com.ly google.com.mm google.com.mt google.com.mx google.com.my google.com.na google.com.nf google.com.ng google.com.ni google.com.np google.com.nr google.com.om google.com.pa google.com.pe google.com.pg google.com.ph google.com.pk google.com.pr google.com.py google.com.qa google.com.ru google.com.sa google.com.sb google.com.sg google.com.sl google.com.sv google.com.tj google.com.tr google.com.tw google.com.ua google.com.uy google.com.vc google.com.vn
 172.217.25.220	chrome.google.com
 74.125.248.73	git.chromium.org
 216.58.200.24	www.goo.gl www.google.com.af www.google.com.ag www.google.com.ai www.google.com.ar www.google.com.au www.google.com.bd www.google.com.bh www.google.com.bn www.google.com.bo www.google.com.br www.google.com.by www.google.com.bz www.google.com.co www.google.com.co.jp www.google.com.cu www.google.com.cy www.google.com.do www.google.com.ec www.google.com.eg www.google.com.et www.google.com.fj www.google.com.ge www.google.com.gh www.google.com.gi www.google.com.gr www.google.com.gt www.google.com.iq www.google.com.jm www.google.com.jo www.google.com.kh www.google.com.kw www.google.com.lb www.google.com.ly www.google.com.mm www.google.com.mt www.google.com.mx www.google.com.my www.google.com.na www.google.com.nf www.google.com.ng www.google.com.ni www.google.com.np www.google.com.nr www.google.com.om www.google.com.pa www.google.com.pe www.google.com.pg www.google.com.ph www.google.com.pk www.google.com.pr www.google.com.py www.google.com.qa www.google.com.ru www.google.com.sa www.google.com.sb www.google.com.sg www.google.com.sl www.google.com.sv www.google.com.tj www.google.com.tr www.google.com.ua www.google.com.uy www.google.com.vc www.google.com.vn
-172.217.60.148	www.google.com.hk id.google.com
-172.217.60.221	www.google.com.tw
+172.217.4.163	www.google.com.hk www.google.com.tw
 172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-172.217.60.241	www.google.com
-172.217.60.89	clients5.google.com
-172.217.60.185	apis.google.com
+216.58.203.14	www.google.com clients5.google.com apis.google.com
+216.58.203.35	id.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.15.126.78	ipv4.google.com
+172.217.161.164	ipv4.google.com
 108.177.125.189	0.client-channel.google.com 1.client-channel.google.com 2.client-channel.google.com 3.client-channel.google.com 4.client-channel.google.com 5.client-channel.google.com 6.client-channel.google.com 7.client-channel.google.com 8.client-channel.google.com 9.client-channel.google.com 10.client-channel.google.com 11.client-channel.google.com 12.client-channel.google.com 13.client-channel.google.com 14.client-channel.google.com 15.client-channel.google.com 16.client-channel.google.com 17.client-channel.google.com 18.client-channel.google.com 19.client-channel.google.com 20.client-channel.google.com 21.client-channel.google.com 22.client-channel.google.com 23.client-channel.google.com 24.client-channel.google.com 25.client-channel.google.com 26.client-channel.google.com 27.client-channel.google.com 28.client-channel.google.com 29.client-channel.google.com cello.client-channel.google.com 0.docs.google.com 1.docs.google.com 2.docs.google.com 3.docs.google.com 4.docs.google.com 5.docs.google.com 6.docs.google.com 7.docs.google.com 8.docs.google.com 9.docs.google.com 10.docs.google.com 11.docs.google.com 12.docs.google.com 13.docs.google.com 14.docs.google.com 15.docs.google.com 16.docs.google.com 0.drive.google.com 1.drive.google.com 2.drive.google.com 3.drive.google.com 4.drive.google.com 5.drive.google.com 6.drive.google.com 7.drive.google.com 8.drive.google.com 9.drive.google.com 10.drive.google.com 11.drive.google.com 12.drive.google.com 13.drive.google.com 14.drive.google.com 15.drive.google.com 16.drive.google.com chromoting-oauth.talkgadget.google.com chromoting-host.talkgadget.google.com chromoting-client.talkgadget.google.com 0.talkgadget.google.com
 108.177.97.107	www.googlechinawebmaster.com t0.gstatic.com t1.gstatic.com t2.gstatic.com t3.gstatic.com
 172.217.3.207	upload.google.com upload.video.google.com upload.clients.google.com uploads.clients.google.com upload.drive.google.com upload.youtube.com uploads.stage.gdata.youtube.com uploadsj.clients.google.com upload.docs.google.com
@@ -161,13 +158,18 @@
 203.208.39.99	alt7-mtalk.google.com
 108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
-216.239.38.21	ghs.google.com ghs46.google.com ghs.l.google.com ghs46.l.google.com www.nianticlabs.com gsamplemaps.googlepages.com javascript-blocker.toggleable.com goto.ext.google.com webrtc.org www.webrtc.org chromeexperiments.com www.chromeexperiments.com vr.chromeexperiments.com globe.chromeexperiments.com workshop.chromeexperiments.com www.gwtproject.org www.html5rocks.com slides.html5rocks.com playground.html5rocks.com studio.html5rocks.com lists.webmproject.org www.waveprotocol.org www.20thingsilearned.com www.creativelab5.com blog.webmproject.org www.agoogleaday.com www.gosetsuden.jp www.thegooglepuzzle.com www.thegobridgeoglepuzzle.com www.googlezeitgeist.com news.dartlang.org dartpad.dartlang.org ghs-svc-https-sni.ghs-ssl.googlehosted.com polymer-project.org material.io madewithcode.com www.madewithcode.com
+216.239.38.21	ghs.google.com ghs46.google.com ghs.l.google.com ghs46.l.google.com www.nianticlabs.com gsamplemaps.googlepages.com javascript-blocker.toggleable.com goto.ext.google.com webrtc.org www.webrtc.org chromeexperiments.com www.chromeexperiments.com vr.chromeexperiments.com globe.chromeexperiments.com workshop.chromeexperiments.com www.gwtproject.org www.html5rocks.com slides.html5rocks.com playground.html5rocks.com studio.html5rocks.com lists.webmproject.org www.waveprotocol.org www.20thingsilearned.com www.creativelab5.com blog.webmproject.org www.agoogleaday.com www.gosetsuden.jp www.thegooglepuzzle.com www.thegobridgeoglepuzzle.com www.googlezeitgeist.com news.dartlang.org dartpad.dartlang.org ghs-svc-https-sni.ghs-ssl.googlehosted.com polymer-project.org material.io www.autodraw.com madewithcode.com www.madewithcode.com 220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
+172.217.4.179	tools.android.com
 172.217.27.4	googlemashups.com www.googlemashups.com
+216.239.32.27	certificate-transparency.org www.certificate-transparency.org
 64.233.177.127	stun.l.google.com alt1.stun.l.google.com alt2.stun.l.google.com alt3.stun.l.google.com alt4.stun.l.google.com alt5.stun.l.google.com
+172.217.31.179	1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
+216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 108.177.127.197	www.googleusercontent.com
 64.233.170.114	check.googlezip.net
 216.58.221.108	proxy.googlezip.net compress.googlezip.net proxy-dev.googlezip.net
 216.58.221.65	yt3.ggpht.com
+211.20.148.228	hichannel.hinet.net
 52.1.240.62	id.heroku.com
 54.250.252.63	humble.pubnub.com
 104.20.34.236	humblebundle.com
@@ -178,15 +180,15 @@
 54.193.15.78	appload.ingest.crittercism.com api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.200	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
-52.45.94.103	instagram.com i.instagram.com api.instagram.com
-157.240.11.52	www.instagram.com badges.instagram.com scontent.cdninstagram.com scontent-b.cdninstagram.com graph.instagram.com
+31.13.82.172	instagram.com
+31.13.82.174	www.instagram.com
+157.240.11.172	badges.instagram.com scontent.cdninstagram.com scontent-b.cdninstagram.com graph.instagram.com
 31.13.70.52	logger.instagram.com maps.instagram.com
 31.13.77.52	scontent-a.cdninstagram.com
-31.13.76.84	help.instagram.com scontent-sea1-1.cdninstagram.com platform.instagram.com
+52.45.94.103	i.instagram.com api.instagram.com
+31.13.76.172	help.instagram.com platform.instagram.com
 66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
-31.13.95.48	scontent-hkg3-1.cdninstagram.com
-157.240.15.63	scontent-hkg3-2.cdninstagram.com
-31.13.78.52	scontent-sit4-1.cdninstagram.com
+31.13.76.174	scontent-sea1-1.cdninstagram.com scontent-hkg3-1.cdninstagram.com scontent-hkg3-2.cdninstagram.com scontent-sit4-1.cdninstagram.com scontent-sjc3-1.cdninstagram.com scontent-sin6-2.cdninstagram.com
 52.72.26.162	issuu.com www.issuu.com developers.issuu.com page.issuu.com
 54.80.162.85	pingback.issuu.com
 151.101.65.63	photo.issuu.com image.issuu.com content.issuu.com e.issuu.com static.issuu.com skin.issuu.com
@@ -221,7 +223,9 @@
 203.104.150.46	obs.line-apps.com
 125.209.238.181	obs-cn.line-apps.com
 203.104.153.6	obs-tw.line-apps.com
+203.104.129.165	line-bot-cms-app-web.line-apps.com
 125.209.238.186	xcdn-cn.line-apps.com xcdn-cn-prf.line-apps.com xcdn-cn-shp.line-apps.com xcdn-cn-stk.line-apps.com
+203.104.129.195	line.naver.jp
 203.104.150.2	gd2.line.naver.jp
 203.104.153.129	gw.line.naver.jp
 203.104.160.12	gd2u.line.naver.jp
@@ -229,12 +233,29 @@
 203.104.174.20	gd2v.line.naver.jp
 125.209.252.18	gd2g.line.naver.jp
 125.209.252.17	gd2i.line.naver.jp
-125.209.222.59	gd2k.line.naver.jp
-125.209.222.202	gd2w.line.naver.jp gww.line.naver.jp
+125.209.222.70	gd2w.line.naver.jp gww.line.naver.jp ga2w.line.naver.jp gd2k.line.naver.jp ga2k.line.naver.jp
 203.104.174.18	gwx.line.naver.jp
 223.119.50.146	dl.profile.line.naver.jp
 223.119.50.144	dl.stickershop.line.naver.jp
 203.104.150.35	static.line.naver.jp
+125.209.222.75	poker.line.naver.jp
+203.104.153.184	channel.line.naver.jp
+184.50.87.74	dl.appresource.line.naver.jp
+184.50.87.41	dl.shop.line.naver.jp
+203.104.174.13	ga2v.line.naver.jp
+203.104.174.12	ga2s.line.naver.jp
+203.104.153.1	ga2.line.naver.jp
+184.50.87.51	dl.os.line.naver.jp
+125.209.238.207	timeline.line.naver.jp
+125.209.238.172	myhome.line.naver.jp
+125.209.222.57	homeapi.line.naver.jp
+125.209.238.185	noteapi.line.naver.jp cafeapi.line.naver.jp
+23.42.190.204	access.line.me
+2.17.50.95	help.line.me
+104.111.208.121	shop.line-scdn.net
+104.102.162.148	stickershop.line-scdn.net
+23.211.98.191	obs.line-scdn.net
+2.17.56.25	profile.line-scdn.net
 31.216.148.12	mega.nz
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com cdn-static-1.medium.com cdn-images-1.medium.com cdn-images-2.medium.com
@@ -266,11 +287,11 @@
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
 210.129.120.55	www.pixiv.net
-210.129.120.43	touch.pixiv.net
+210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
 210.140.131.146	source.pixiv.net
 210.129.120.41	accounts.pixiv.net
 210.140.131.147	imgaz.pixiv.net i1.pixiv.net
-210.129.120.44	app-api.pixiv.net
+210.129.120.44	app-api.pixiv.net comic-api.pixiv.net
 210.129.120.48	oauth.secure.pixiv.net
 210.129.120.54	dic.pixiv.net
 210.140.131.145	comic.pixiv.net
@@ -282,17 +303,16 @@
 210.140.131.144	novel.pixiv.net
 210.129.120.49	ssl.pixiv.net pixiv.net
 210.129.120.50	recruit.pixiv.net
-113.33.39.198	p2.pixiv.net blog.pixiv.net
-210.129.120.47	matsuri.pixiv.net
+122.208.114.218	p2.pixiv.net blog.pixiv.net
+52.84.203.238	matsuri.pixiv.net
 210.129.120.46	m.pixiv.net
-52.85.87.254	iracon.pixiv.net
+52.84.203.163	iracon.pixiv.net
 52.69.82.228	inside.pixiv.net
 153.120.23.207	help.pixiv.net
-52.219.4.58	goods.pixiv.net
 210.129.120.40	genepixiv.pr.pixiv.net
-52.85.87.122	festa.pixiv.net
+52.84.203.136	festa.pixiv.net
 210.129.120.45	en.dic.pixiv.net
-52.219.4.114	dev.pixiv.net
+52.219.68.134	dev.pixiv.net
 210.129.120.42	chat.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
@@ -311,6 +331,7 @@
 54.192.75.50	www.psiphon3.com
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
+140.112.172.1	ptt.cc
 198.232.125.81	cdn.rawgit.com
 52.2.61.110	reuters.com
 52.85.158.178	www.reuters.com
@@ -342,6 +363,7 @@
 54.192.75.46	config.resilio.com
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
+104.28.18.85	shadowsocks.org
 68.232.44.127	soundcloud.com api-v2.soundcloud.com telemetry.soundcloud.com
 72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com api.soundcloud.com eventgateway.soundcloud.com
 72.21.91.127	promoted.soundcloud.com m.soundcloud.com on.soundcloud.com visuals.soundcloud.com
@@ -360,21 +382,31 @@
 64.71.175.181	www.ixquick.com ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
+223.119.217.234	steamcommunity.com
+173.223.87.13	help.steampowered.com
+104.116.5.247	store.steampowered.com
+23.4.240.26	steamcommunity-a.akamaihd.net
+184.28.218.74	steamuserimages-a.akamaihd.net
+184.25.205.16	steamcdn-a.akamaihd.net
+184.25.205.19	cdn.akamai.steamstatic.com
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com api.theinitium.com
 119.161.14.19	tumblr.com
 119.161.14.20	www.tumblr.com
 107.23.241.99	tumblr.co
-124.108.101.59	api.tumblr.com secure.static.tumblr.com vt.media.tumblr.com
-124.108.101.31	assets.tumblr.com secure.assets.tumblr.com
-69.147.88.9	media.tumblr.com vt.tumblr.com vtt.tumblr.com
+124.108.101.59	api.tumblr.com secure.static.tumblr.com vt.media.tumblr.com api-http2.tumblr.com
+124.108.101.31	assets.tumblr.com
+119.161.4.32	secure.assets.tumblr.com
+119.161.4.42	static.tumblr.com media.tumblr.com vt.tumblr.com vtt.tumblr.com
 66.6.32.21	cynicallys.tumblr.com
-192.229.237.97	mx.tumblr.com
-124.108.101.58	static.tumblr.com 24.media.tumblr.com 25.media.tumblr.com 31.media.tumblr.com 33.media.tumblr.com 37.media.tumblr.com 38.media.tumblr.com 40.media.tumblr.com 49.media.tumblr.com 55.media.tumblr.com 56.media.tumblr.com 57.media.tumblr.com 58.media.tumblr.com 66.media.tumblr.com 68.media.tumblr.com 78.media.tumblr.com 90.media.tumblr.com 91.media.tumblr.com 92.media.tumblr.com
+152.195.57.79	mx.tumblr.com
+66.6.33.21	24.media.tumblr.com 25.media.tumblr.com 31.media.tumblr.com 33.media.tumblr.com 37.media.tumblr.com 38.media.tumblr.com 40.media.tumblr.com 49.media.tumblr.com 55.media.tumblr.com 56.media.tumblr.com 57.media.tumblr.com 66.media.tumblr.com
+124.108.101.58	58.media.tumblr.com 68.media.tumblr.com 78.media.tumblr.com 90.media.tumblr.com 92.media.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com px.srvcs.tumblr.com
-52.85.155.165	96.media.tumblr.com
-192.229.237.98	97.media.tumblr.com
-149.154.166.206	telegram.org desktop.telegram.org core.telegram.org
+54.192.109.252	96.media.tumblr.com
+152.199.38.136	97.media.tumblr.com
+81.3.6.162	app.tutanota.com
+149.154.166.206	telegram.org desktop.telegram.org core.telegram.org oauth.telegram.org
 149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org pluto-1.web.telegram.org
 149.154.167.25	venus.web.telegram.org venus-1.web.telegram.org
@@ -382,23 +414,24 @@
 149.154.167.124	vesta.web.telegram.org vesta-1.web.telegram.org
 149.154.164.225	flora.web.telegram.org flora-1.web.telegram.org
 149.154.167.118	telegram.me t.me
-154.35.132.70	torproject.org www.torproject.org atlas.torproject.org bugs.torproject.org cloud.torproject.org consensus-health.torproject.org deb.torproject.org dist.torproject.org extra.torproject.org gettor.torproject.org help.torproject.org onion.torproject.org ooni.torproject.org research.torproject.org spec.torproject.org stem.torproject.org tb-manual.torproject.org wiki.torproject.org
-82.195.75.101	archive.torproject.org media.torproject.org
+38.229.72.17	torproject.org
+154.35.175.245	www.torproject.org
+78.47.38.226	dist.torproject.org
+138.201.14.197	atlas.torproject.org bugs.torproject.org cloud.torproject.org consensus-health.torproject.org deb.torproject.org extra.torproject.org gettor.torproject.org help.torproject.org onion.torproject.org ooni.torproject.org research.torproject.org spec.torproject.org stem.torproject.org tb-manual.torproject.org wiki.torproject.org
+94.130.28.200	archive.torproject.org
+82.195.75.101	media.torproject.org
 23.185.0.2	blog.torproject.org
 78.47.38.229	bridges.torproject.org
 138.201.14.212	check.torproject.org
-138.201.14.216	collector.torproject.org
-38.229.72.20	compass.torproject.org
+195.201.54.247	collector.torproject.org exonerator.torproject.org
 94.130.28.196	db.torproject.org
 138.201.212.231	donate.torproject.org
-138.201.14.214	exonerator.torproject.org
 138.201.212.228	git.torproject.org gitweb.torproject.org
 161.47.6.182	labs.torproject.org
-138.201.14.202	lists.torproject.org
-94.130.28.195	metrics.torproject.org
-78.47.38.227	onionoo.torproject.org
-52.70.141.81	explorer.ooni.torproject.org
-138.201.14.203	people.torproject.org
+94.130.28.202	lists.torproject.org metrics.torproject.org
+154.35.132.148	onionoo.torproject.org
+37.218.242.173	explorer.ooni.torproject.org
+195.201.54.244	people.torproject.org
 138.201.212.230	rt.torproject.org
 78.47.38.231	storm.torproject.org
 138.201.14.206	svn.torproject.org
@@ -413,21 +446,28 @@
 198.245.92.39	click.email.vimeo.com
 23.41.77.13	www.voachinese.com av.voanews.com
 23.66.39.94	gdb.voanews.com
-157.240.1.53	www-cdn.whatsapp.net
-169.45.182.115	c.whatsapp.net
+149.56.30.149	vnet.link
+192.229.173.207	www.w3schools.com
+107.23.234.123	www-cdn.whatsapp.net faq.whatsapp.com crashlogs.whatsapp.net
+54.210.50.132	mmg-fna.whatsapp.net mmh.whatsapp.net
+169.44.82.102	whatsapp.com www.whatsapp.com blog.whatsapp.com
+169.44.82.120	web.whatsapp.com dyn.web.whatsapp.com w1.web.whatsapp.com w2.web.whatsapp.com w3.web.whatsapp.com w4.web.whatsapp.com w5.web.whatsapp.com w6.web.whatsapp.com w7.web.whatsapp.com w8.web.whatsapp.com
+169.54.222.149	mms.whatsapp.net
+169.55.75.106	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
-173.192.219.135	p.whatsapp.net
+174.37.243.84	p.whatsapp.net
 50.22.210.33	r.whatsapp.net
 169.44.80.10	v.whatsapp.net
+169.63.73.124	e1.whatsapp.net e2.whatsapp.net e3.whatsapp.net e4.whatsapp.net e5.whatsapp.net e6.whatsapp.net e7.whatsapp.net e8.whatsapp.net e9.whatsapp.net e10.whatsapp.net e11.whatsapp.net e12.whatsapp.net e13.whatsapp.net e14.whatsapp.net e15.whatsapp.net e16.whatsapp.net
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
-198.35.26.96	zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org
+198.35.26.96	zh.wikinews.org zh.m.wikinews.org www.wikipedia.org login.wikimedia.org wuu.wikipedia.org zh-yue.wikipedia.org zh.wikipedia.org zh.m.wikipedia.org ja.wikipedia.org ja.m.wikipedia.org ug.wikipedia.org ug.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 106.10.231.23	static.flickr.com
 69.147.88.7	flickr.com
 119.161.14.18	m.flickr.com
 69.147.76.173	secure.flickr.com
-124.108.101.10	www.flickr.com heartbeat.flickr.com
+119.161.14.17	www.flickr.com heartbeat.flickr.com
 209.73.190.11	api.flickr.com
 209.73.190.12	up.flickr.com
 68.142.242.184	downloadr.flickr.com
@@ -443,7 +483,7 @@
 64.15.118.37	i.ytimg.com
 216.58.217.174	s.ytimg.com
 64.15.118.42	www.youtube.com
-108.177.9.125	m.youtube.com
+216.58.194.46	m.youtube.com
 74.125.67.1	ams15s21-in-f1.1e100.net ams15s22-in-f1.1e100.net
 216.239.36.4	ams15s21-in-f4.1e100.net ams15s22-in-f4.1e100.net
 216.239.36.5	ams15s21-in-f5.1e100.net ams15s21-in-f6.1e100.net ams15s22-in-f5.1e100.net

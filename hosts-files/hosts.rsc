@@ -1,11 +1,11 @@
 /ip dns static
 
-# Copyright (c) 2017, googlehosts members.
+# Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-05
+# Last updated: 2018-03-24
 
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
 
 # Modified Hosts Start
 
@@ -17,21 +17,20 @@ add address=::1 name=ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
 # Akamai Start
-add address=23.201.102.89 name=a248.e.akamai.net
-add address=184.28.188.186 name=static.ak.instagram.com
-add address=184.28.188.201 name=images.ak.instagram.com
-add address=96.7.235.57 name=passets-cdn.pinterest.com
-add address=96.7.235.57 name=s.pinimg.com
-add address=96.7.235.57 name=i.pinimg.com
-add address=96.7.235.57 name=v.pinimg.com
-add address=96.7.235.57 name=s-media-cache-ak0.pinimg.com
-add address=23.56.25.171 name=blogthumb.pstatic.net
+add address=23.32.241.9 name=a248.e.akamai.net
+add address=23.32.241.16 name=static.ak.instagram.com
+add address=184.51.15.69 name=images.ak.instagram.com
+add address=104.77.23.93 name=passets-cdn.pinterest.com
+add address=104.71.149.138 name=s.pinimg.com
+add address=104.71.149.138 name=i.pinimg.com
+add address=104.71.149.138 name=v.pinimg.com
+add address=104.71.149.138 name=s-media-cache-ak0.pinimg.com
+add address=23.51.209.100 name=blogthumb.pstatic.net
 # Akamai End
 
 # Amazon AWS Start
-add address=54.239.38.117 name=eu-west-1.console.aws.amazon.com
 add address=52.219.0.4 name=s3-ap-northeast-1.amazonaws.com
-add address=54.231.251.21 name=s3-ap-southeast-2.amazonaws.com
+add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
 # Android Start
@@ -43,12 +42,15 @@ add address=108.177.120.94 name=d.android.com
 add address=108.177.120.94 name=dev.android.com
 add address=108.177.120.94 name=market.android.com
 add address=108.177.120.94 name=r.android.com
-add address=172.217.60.51 name=android.com
-add address=172.217.60.47 name=www.android.com
-add address=172.217.60.74 name=source.android.com
-add address=172.217.60.162 name=tools.android.com
-add address=172.217.60.97 name=developer.android.com
+add address=216.58.217.196 name=android.com
+add address=172.217.4.174 name=www.android.com
+add address=172.217.4.174 name=source.android.com
+add address=172.217.4.174 name=developer.android.com
 # Android End
+
+# Androidfilehost Start
+add address=151.139.240.14 name=androidfilehost.com
+# Androidfilehost End
 
 # Apkpure Start
 add address=104.20.82.194 name=apkpure.com
@@ -117,26 +119,28 @@ add address=216.58.203.244 name=lfe-alpo-gm.appspot.com
 # Appspotpreview End
 
 # Archive Start
-add address=207.241.224.22 name=archive.org
-add address=207.241.224.22 name=www.archive.org
-add address=207.241.224.22 name=analytics.archive.org
-add address=207.241.224.22 name=ia802704.us.archive.org
-add address=207.241.225.186 name=web-beta.archive.org
-add address=207.241.225.186 name=wwwb-sentry.us.archive.org
-add address=207.241.225.186 name=web.archive.org
+add address=207.241.225.95 name=archive.org
+add address=207.241.225.95 name=www.archive.org
+add address=207.241.225.95 name=analytics.archive.org
+add address=207.241.225.95 name=ia802704.us.archive.org
+add address=207.241.224.19 name=web-beta.archive.org
+add address=207.241.224.19 name=wwwb-sentry.us.archive.org
+add address=207.241.224.19 name=web.archive.org
+add address=207.241.224.6 name=mail.archive.org
+add address=207.241.224.21 name=books-general.archive.org
 # Archive End
 
 # Armorgames Start
-add address=68.232.44.39 name=agi.armorgames.com
-add address=192.229.179.107 name=armatars.armorgames.com
-add address=192.229.179.107 name=cache.armorgames.com
-add address=192.229.179.107 name=gamemedia.armorgames.com
-add address=192.229.179.107 name=quests.armorgames.com
+add address=192.229.173.251 name=agi.armorgames.com
+add address=192.229.173.251 name=armatars.armorgames.com
+add address=192.229.173.251 name=cache.armorgames.com
+add address=192.229.173.251 name=gamemedia.armorgames.com
+add address=192.229.173.251 name=quests.armorgames.com
 # Armorgames End
 
-# Autodraw Start
-add address=172.217.31.96 name=www.autodraw.com
-# Autodraw End
+# Arukas Start
+add address=27.133.136.8 name=app.arukas.io
+# Arukas End
 
 # Bandwagonhost Start
 add address=104.20.6.63 name=bandwagonhost.com
@@ -159,11 +163,19 @@ add address=104.16.4.13 name=assets-fe.change.org
 
 # Cloudfront Start
 add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
+add address=52.84.167.78 name=d3njjcbhbojbot.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
 add address=172.217.31.96 name=embed.culturalspot.org
 # Culturalspot End
+
+# Conoha Start
+add address=157.7.225.122 name=cp.conoha.jp
+add address=103.3.190.48 name=www.conoha.jp
+add address=157.7.225.117 name=app.conoha.jp
+add address=157.7.225.120 name=manage.conoha.jp
+# Conoha End
 
 # Dropbox Start
 add address=162.125.248.2 name=db.tt
@@ -219,12 +231,14 @@ add address=162.125.82.2 name=log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
-add address=50.18.192.250 name=duckduckgo.com
-add address=50.18.192.250 name=www.duckduckgo.com
-add address=50.18.192.250 name=ac.duckduckgo.com
-add address=54.229.110.205 name=icons.duckduckgo.com
-add address=54.229.110.205 name=images.duckduckgo.com
-add address=96.45.82.134 name=help.duckduckgo.com
+add address=13.210.167.213 name=duckduckgo.com
+add address=13.210.167.213 name=www.duckduckgo.com
+add address=13.210.167.213 name=ac.duckduckgo.com
+add address=13.210.167.213 name=start.duckduckgo.com
+add address=13.210.167.213 name=help.duckduckgo.com
+add address=13.210.184.136 name=icons.duckduckgo.com
+add address=13.210.184.136 name=proxy.duckduckgo.com
+add address=13.210.184.136 name=images.duckduckgo.com
 # DuckDuckGo End
 
 # Disqus Start
@@ -236,15 +250,15 @@ add address=151.101.24.64 name=glitter.services.disqus.com
 add address=151.101.52.64 name=links.services.disqus.com
 add address=173.192.82.196 name=realtime.services.disqus.com
 add address=50.18.252.168 name=help.disqus.com
-add address=151.101.52.134 name=apkpure.disqus.com
 add address=151.101.52.134 name=content.disqus.com
 add address=151.101.52.134 name=referrer.disqus.com
 add address=151.101.40.134 name=docs.disqus.com
+add address=151.101.40.134 name=apkpure.disqus.com
 add address=96.7.54.196 name=about.disqus.com
 add address=96.7.54.200 name=blog.disqus.com
 add address=96.7.54.198 name=publishers.disqus.com
 add address=104.16.80.166 name=c.disquscdn.com
-add address=151.101.24.249 name=a.disquscdn.com
+add address=151.101.26.49 name=a.disquscdn.com
 # Disqus End
 
 # Facebook Start
@@ -318,7 +332,6 @@ add address=157.240.7.35 name=scontent-a-lax.xx.fbcdn.net
 add address=157.240.7.35 name=scontent-a-sin.xx.fbcdn.net
 add address=157.240.7.35 name=scontent-b-lax.xx.fbcdn.net
 add address=157.240.7.35 name=scontent-b-sin.xx.fbcdn.net
-add address=157.240.7.35 name=static.xx.fbcdn.net
 add address=157.240.7.35 name=static.thefacebook.com
 add address=157.240.7.35 name=attachment.fbsbx.com
 add address=157.240.7.35 name=messenger.com
@@ -341,6 +354,7 @@ add address=192.0.78.13 name=nonprofits.fb.com
 add address=192.0.78.13 name=rightsmanager.fb.com
 add address=192.0.78.13 name=techprep.fb.com
 add address=192.0.78.13 name=work.fb.com
+add address=31.13.91.15 name=static.xx.fbcdn.net
 add address=31.13.91.15 name=scontent-lax3-1.xx.fbcdn.net
 add address=31.13.91.15 name=scontent-lax3-2.xx.fbcdn.net
 add address=31.13.91.15 name=scontent-lax3-3.xx.fbcdn.net
@@ -366,17 +380,14 @@ add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
 # FlipBoard Start
-add address=52.222.211.250 name=s.flipboard.com
-add address=54.230.242.42 name=cdn.flipboard.com
-add address=34.193.207.226 name=ue.flipboard.com
-add address=34.192.210.197 name=beacon.flipboard.com
-add address=52.44.196.4 name=flipboard.com
-add address=52.204.24.196 name=fbprod.flipboard.com
-add address=50.18.47.33 name=flipboard.helpshift.com
+add address=52.44.186.59 name=beacon.flipboard.com
+add address=34.201.185.200 name=fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
+add address=192.30.253.112 name=github.com
+add address=192.30.253.112 name=www.github.com
 # Github End
 
 # Gmail Start
@@ -507,8 +518,6 @@ add address=172.217.27.169 name=googleblog.blogspot.com
 add address=172.217.27.169 name=googleforstudents.blogspot.com
 add address=172.217.27.169 name=chrome.blogspot.com
 add address=172.217.27.169 name=googlepublicpolicy.blogspot.com
-add address=172.217.27.169 name=googleadservices.com
-add address=172.217.27.169 name=www.googleadservices.com
 add address=172.217.27.169 name=google-latlong.blogspot.com
 add address=172.217.27.169 name=insidesearch.blogspot.com
 add address=172.217.27.169 name=googleadsdeveloper.blogspot.com
@@ -751,7 +760,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=172.217.60.148 name=www.google.com.hk
+add address=172.217.4.163 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -786,7 +795,7 @@ add address=216.58.200.24 name=www.google.com.sl
 add address=216.58.200.24 name=www.google.com.sv
 add address=216.58.200.24 name=www.google.com.tj
 add address=216.58.200.24 name=www.google.com.tr
-add address=172.217.60.221 name=www.google.com.tw
+add address=172.217.4.163 name=www.google.com.tw
 add address=216.58.200.24 name=www.google.com.ua
 add address=216.58.200.24 name=www.google.com.uy
 add address=216.58.200.24 name=www.google.com.vc
@@ -799,10 +808,10 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=216.58.200.187 name=ogs.google.com
-add address=172.217.60.241 name=www.google.com
-add address=172.217.60.148 name=id.google.com
-add address=172.217.60.89 name=clients5.google.com
-add address=172.217.60.185 name=apis.google.com
+add address=216.58.203.14 name=www.google.com
+add address=216.58.203.35 name=id.google.com
+add address=216.58.203.14 name=clients5.google.com
+add address=216.58.203.14 name=apis.google.com
 # Google Search Home End
 
 # Google Service Start
@@ -822,6 +831,7 @@ add address=108.177.120.94 name=bpui0.google.com
 add address=108.177.120.94 name=buzz.google.com
 add address=108.177.120.94 name=calendar.google.com
 add address=108.177.120.94 name=classroom.google.com
+add address=108.177.120.94 name=classroom.google.ca
 add address=108.177.120.94 name=cloud.google.com
 add address=108.177.120.94 name=packages.cloud.google.com
 add address=108.177.120.94 name=ssh.cloud.google.com
@@ -1027,7 +1037,7 @@ add address=108.177.120.94 name=tagmanager.google.com
 add address=108.177.120.94 name=talkgadget.google.com
 add address=74.125.197.115 name=checkout.google.com
 add address=64.15.126.80 name=drive.google.com
-add address=64.15.126.78 name=ipv4.google.com
+add address=172.217.161.164 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
@@ -1145,6 +1155,7 @@ add address=108.177.120.94 name=gxc.google.com.hk
 add address=108.177.120.94 name=get.google.com.hk
 add address=108.177.120.94 name=gsuite.google.com.hk
 add address=108.177.120.94 name=groups.google.com.hk
+add address=108.177.120.94 name=id.google.com.hk
 add address=108.177.120.94 name=image.google.com.hk
 add address=108.177.120.94 name=video.google.com.hk
 add address=108.177.120.94 name=jmt17.google.com.hk
@@ -1175,6 +1186,7 @@ add address=108.177.120.94 name=get.google.com.tw
 add address=108.177.120.94 name=gsuite.google.com.tw
 add address=108.177.120.94 name=groups.google.com.tw
 add address=108.177.120.94 name=image.google.com.tw
+add address=108.177.120.94 name=id.google.com.tw
 add address=108.177.120.94 name=video.google.com.tw
 add address=108.177.120.94 name=jmt17.google.com.tw
 add address=108.177.120.94 name=lh4.google.com.tw
@@ -2297,6 +2309,8 @@ add address=216.239.38.21 name=dartpad.dartlang.org
 add address=216.239.38.21 name=ghs-svc-https-sni.ghs-ssl.googlehosted.com
 add address=216.239.38.21 name=polymer-project.org
 add address=216.239.38.21 name=material.io
+add address=216.239.38.21 name=www.autodraw.com
+add address=172.217.4.179 name=tools.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start
@@ -2309,6 +2323,11 @@ add address=172.217.27.4 name=googlemashups.com
 add address=172.217.27.4 name=www.googlemashups.com
 # Google Mashups End
 
+# Google Misc Start
+add address=216.239.32.27 name=certificate-transparency.org
+add address=216.239.32.27 name=www.certificate-transparency.org
+# Google Misc End
+
 # Google:stun Server Start
 add address=64.233.177.127 name=stun.l.google.com
 add address=64.233.177.127 name=alt1.stun.l.google.com
@@ -2317,6 +2336,12 @@ add address=64.233.177.127 name=alt3.stun.l.google.com
 add address=64.233.177.127 name=alt4.stun.l.google.com
 add address=64.233.177.127 name=alt5.stun.l.google.com
 # Google:stun Server End
+
+# Google:npf base Start
+add address=172.217.31.179 name=1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
+add address=216.239.38.21 name=220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
+add address=216.239.34.21 name=3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
+# Google:npf base End
 
 # Googleusercontent Start
 add address=108.177.127.197 name=www.googleusercontent.com
@@ -2589,7 +2614,6 @@ add address=108.177.119.132 name=yt4.ggpht.com
 add address=216.58.221.65 name=yt3.ggpht.com
 add address=108.177.120.94 name=accounts.gstatic.com
 add address=108.177.120.94 name=maps.gstatic.com
-add address=108.177.120.94 name=connectivitycheck.gstatic.com
 add address=108.177.120.94 name=play-music.gstatic.com
 add address=108.177.120.94 name=cdn.ampproject.org
 add address=108.177.97.107 name=t0.gstatic.com
@@ -2609,6 +2633,10 @@ add address=108.177.120.94 name=mt5.gstatic.com
 add address=108.177.120.94 name=mt6.gstatic.com
 add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
+
+# Hinet Start
+add address=211.20.148.228 name=hichannel.hinet.net
+# Hinet End
 
 # Heroku Start
 add address=52.1.240.62 name=id.heroku.com
@@ -2643,24 +2671,26 @@ add address=169.44.145.200 name=batch.upsight-api.com
 # Ingress End
 
 # Instagram Start
-add address=52.45.94.103 name=instagram.com
-add address=157.240.11.52 name=www.instagram.com
-add address=157.240.11.52 name=badges.instagram.com
-add address=157.240.11.52 name=scontent.cdninstagram.com
-add address=157.240.11.52 name=scontent-b.cdninstagram.com
-add address=157.240.11.52 name=graph.instagram.com
+add address=31.13.82.172 name=instagram.com
+add address=31.13.82.174 name=www.instagram.com
+add address=157.240.11.172 name=badges.instagram.com
+add address=157.240.11.172 name=scontent.cdninstagram.com
+add address=157.240.11.172 name=scontent-b.cdninstagram.com
+add address=157.240.11.172 name=graph.instagram.com
 add address=31.13.70.52 name=logger.instagram.com
 add address=31.13.70.52 name=maps.instagram.com
 add address=31.13.77.52 name=scontent-a.cdninstagram.com
 add address=52.45.94.103 name=i.instagram.com
 add address=52.45.94.103 name=api.instagram.com
-add address=31.13.76.84 name=help.instagram.com
-add address=31.13.76.84 name=scontent-sea1-1.cdninstagram.com
-add address=31.13.76.84 name=platform.instagram.com
+add address=31.13.76.172 name=help.instagram.com
+add address=31.13.76.172 name=platform.instagram.com
 add address=66.6.32.22 name=blog.instagram.com
-add address=31.13.95.48 name=scontent-hkg3-1.cdninstagram.com
-add address=157.240.15.63 name=scontent-hkg3-2.cdninstagram.com
-add address=31.13.78.52 name=scontent-sit4-1.cdninstagram.com
+add address=31.13.76.174 name=scontent-sea1-1.cdninstagram.com
+add address=31.13.76.174 name=scontent-hkg3-1.cdninstagram.com
+add address=31.13.76.174 name=scontent-hkg3-2.cdninstagram.com
+add address=31.13.76.174 name=scontent-sit4-1.cdninstagram.com
+add address=31.13.76.174 name=scontent-sjc3-1.cdninstagram.com
+add address=31.13.76.174 name=scontent-sin6-2.cdninstagram.com
 # Instagram End
 
 # issuu Start
@@ -2768,10 +2798,12 @@ add address=23.40.108.79 name=w.line.me
 add address=203.104.150.46 name=obs.line-apps.com
 add address=125.209.238.181 name=obs-cn.line-apps.com
 add address=203.104.153.6 name=obs-tw.line-apps.com
+add address=203.104.129.165 name=line-bot-cms-app-web.line-apps.com
 add address=125.209.238.186 name=xcdn-cn.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-prf.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-shp.line-apps.com
 add address=125.209.238.186 name=xcdn-cn-stk.line-apps.com
+add address=203.104.129.195 name=line.naver.jp
 add address=203.104.150.2 name=gd2.line.naver.jp
 add address=203.104.153.129 name=gw.line.naver.jp
 add address=203.104.160.12 name=gd2u.line.naver.jp
@@ -2779,13 +2811,34 @@ add address=203.104.160.11 name=gd2s.line.naver.jp
 add address=203.104.174.20 name=gd2v.line.naver.jp
 add address=125.209.252.18 name=gd2g.line.naver.jp
 add address=125.209.252.17 name=gd2i.line.naver.jp
-add address=125.209.222.59 name=gd2k.line.naver.jp
-add address=125.209.222.202 name=gd2w.line.naver.jp
-add address=125.209.222.202 name=gww.line.naver.jp
+add address=125.209.222.70 name=gd2w.line.naver.jp
+add address=125.209.222.70 name=gww.line.naver.jp
+add address=125.209.222.70 name=ga2w.line.naver.jp
+add address=125.209.222.70 name=gd2k.line.naver.jp
+add address=125.209.222.70 name=ga2k.line.naver.jp
 add address=203.104.174.18 name=gwx.line.naver.jp
 add address=223.119.50.146 name=dl.profile.line.naver.jp
 add address=223.119.50.144 name=dl.stickershop.line.naver.jp
 add address=203.104.150.35 name=static.line.naver.jp
+add address=125.209.222.75 name=poker.line.naver.jp
+add address=203.104.153.184 name=channel.line.naver.jp
+add address=184.50.87.74 name=dl.appresource.line.naver.jp
+add address=184.50.87.41 name=dl.shop.line.naver.jp
+add address=203.104.174.13 name=ga2v.line.naver.jp
+add address=203.104.174.12 name=ga2s.line.naver.jp
+add address=203.104.153.1 name=ga2.line.naver.jp
+add address=184.50.87.51 name=dl.os.line.naver.jp
+add address=125.209.238.207 name=timeline.line.naver.jp
+add address=125.209.238.172 name=myhome.line.naver.jp
+add address=125.209.222.57 name=homeapi.line.naver.jp
+add address=125.209.238.185 name=noteapi.line.naver.jp
+add address=125.209.238.185 name=cafeapi.line.naver.jp
+add address=23.42.190.204 name=access.line.me
+add address=2.17.50.95 name=help.line.me
+add address=104.111.208.121 name=shop.line-scdn.net
+add address=104.102.162.148 name=stickershop.line-scdn.net
+add address=23.211.98.191 name=obs.line-scdn.net
+add address=2.17.56.25 name=profile.line-scdn.net
 # Line End
 
 # MEGA Start
@@ -2905,20 +2958,22 @@ add address=210.129.120.49 name=ssl.pixiv.net
 add address=66.6.32.22 name=times.pixiv.net
 add address=210.129.120.50 name=recruit.pixiv.net
 add address=210.129.120.49 name=pixiv.net
-add address=113.33.39.198 name=p2.pixiv.net
-add address=210.129.120.47 name=matsuri.pixiv.net
+add address=122.208.114.218 name=p2.pixiv.net
+add address=52.84.203.238 name=matsuri.pixiv.net
 add address=210.129.120.46 name=m.pixiv.net
-add address=52.85.87.254 name=iracon.pixiv.net
+add address=52.84.203.163 name=iracon.pixiv.net
 add address=52.69.82.228 name=inside.pixiv.net
 add address=210.140.131.147 name=i1.pixiv.net
 add address=153.120.23.207 name=help.pixiv.net
-add address=52.219.4.58 name=goods.pixiv.net
+add address=210.129.120.43 name=goods.pixiv.net
 add address=210.129.120.40 name=genepixiv.pr.pixiv.net
-add address=52.85.87.122 name=festa.pixiv.net
+add address=52.84.203.136 name=festa.pixiv.net
 add address=210.129.120.45 name=en.dic.pixiv.net
-add address=52.219.4.114 name=dev.pixiv.net
+add address=52.219.68.134 name=dev.pixiv.net
 add address=210.129.120.42 name=chat.pixiv.net
-add address=113.33.39.198 name=blog.pixiv.net
+add address=122.208.114.218 name=blog.pixiv.net
+add address=210.129.120.43 name=embed.pixiv.net
+add address=210.129.120.44 name=comic-api.pixiv.net
 # Pixiv End
 
 # Periscope Start
@@ -2949,6 +3004,10 @@ add address=54.192.75.50 name=www.psiphon3.com
 add address=104.20.39.14 name=psiphon.ca
 add address=104.20.38.14 name=www.psiphon.ca
 # Psiphon End
+
+# Ptt Start
+add address=140.112.172.1 name=ptt.cc
+# Ptt End
 
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com
@@ -2990,6 +3049,10 @@ add address=54.192.75.46 name=config.resilio.com
 add address=54.192.75.27 name=www.resilio.com
 add address=54.82.227.39 name=new-bench.resilio.com
 # Resilio Sync End
+
+# Shadowsocks Start
+add address=104.28.18.85 name=shadowsocks.org
+# Shadowsocks End
 
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
@@ -3038,6 +3101,16 @@ add address=64.71.134.122 name=support.startpage.com
 add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
+# Steam Start
+add address=223.119.217.234 name=steamcommunity.com
+add address=173.223.87.13 name=help.steampowered.com
+add address=104.116.5.247 name=store.steampowered.com
+add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
+add address=184.28.218.74 name=steamuserimages-a.akamaihd.net
+add address=184.25.205.16 name=steamcdn-a.akamaihd.net
+add address=184.25.205.19 name=cdn.akamai.steamstatic.com
+# Steam End
+
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com
 add address=52.221.46.214 name=theinitium.com
@@ -3051,42 +3124,47 @@ add address=107.23.241.99 name=tumblr.co
 add address=124.108.101.59 name=api.tumblr.com
 add address=124.108.101.59 name=secure.static.tumblr.com
 add address=124.108.101.59 name=vt.media.tumblr.com
+add address=124.108.101.59 name=api-http2.tumblr.com
 add address=124.108.101.31 name=assets.tumblr.com
-add address=124.108.101.31 name=secure.assets.tumblr.com
-add address=69.147.88.9 name=media.tumblr.com
-add address=69.147.88.9 name=vt.tumblr.com
-add address=69.147.88.9 name=vtt.tumblr.com
+add address=119.161.4.32 name=secure.assets.tumblr.com
+add address=119.161.4.42 name=static.tumblr.com
+add address=119.161.4.42 name=media.tumblr.com
+add address=119.161.4.42 name=vt.tumblr.com
+add address=119.161.4.42 name=vtt.tumblr.com
 add address=66.6.32.21 name=cynicallys.tumblr.com
-add address=192.229.237.97 name=mx.tumblr.com
-add address=124.108.101.58 name=static.tumblr.com
-add address=124.108.101.58 name=24.media.tumblr.com
-add address=124.108.101.58 name=25.media.tumblr.com
-add address=124.108.101.58 name=31.media.tumblr.com
-add address=124.108.101.58 name=33.media.tumblr.com
-add address=124.108.101.58 name=37.media.tumblr.com
-add address=124.108.101.58 name=38.media.tumblr.com
-add address=124.108.101.58 name=40.media.tumblr.com
-add address=124.108.101.58 name=49.media.tumblr.com
-add address=124.108.101.58 name=55.media.tumblr.com
-add address=124.108.101.58 name=56.media.tumblr.com
-add address=124.108.101.58 name=57.media.tumblr.com
+add address=152.195.57.79 name=mx.tumblr.com
+add address=66.6.33.21 name=24.media.tumblr.com
+add address=66.6.33.21 name=25.media.tumblr.com
+add address=66.6.33.21 name=31.media.tumblr.com
+add address=66.6.33.21 name=33.media.tumblr.com
+add address=66.6.33.21 name=37.media.tumblr.com
+add address=66.6.33.21 name=38.media.tumblr.com
+add address=66.6.33.21 name=40.media.tumblr.com
+add address=66.6.33.21 name=49.media.tumblr.com
+add address=66.6.33.21 name=55.media.tumblr.com
+add address=66.6.33.21 name=56.media.tumblr.com
+add address=66.6.33.21 name=57.media.tumblr.com
+add address=66.6.33.21 name=66.media.tumblr.com
 add address=124.108.101.58 name=58.media.tumblr.com
-add address=124.108.101.58 name=66.media.tumblr.com
 add address=124.108.101.58 name=68.media.tumblr.com
 add address=124.108.101.58 name=78.media.tumblr.com
 add address=124.108.101.58 name=90.media.tumblr.com
-add address=124.108.101.58 name=91.media.tumblr.com
 add address=124.108.101.58 name=92.media.tumblr.com
 add address=66.6.32.162 name=ls.srvcs.tumblr.com
 add address=66.6.32.162 name=px.srvcs.tumblr.com
-add address=52.85.155.165 name=96.media.tumblr.com
-add address=192.229.237.98 name=97.media.tumblr.com
+add address=54.192.109.252 name=96.media.tumblr.com
+add address=152.199.38.136 name=97.media.tumblr.com
 # Tumblr End
+
+# Tutanota Start
+add address=81.3.6.162 name=app.tutanota.com
+# Tutanota End
 
 # Telegram Start
 add address=149.154.166.206 name=telegram.org
 add address=149.154.166.206 name=desktop.telegram.org
 add address=149.154.166.206 name=core.telegram.org
+add address=149.154.166.206 name=oauth.telegram.org
 add address=149.154.167.216 name=api.telegram.org
 add address=149.154.175.16 name=pluto.web.telegram.org
 add address=149.154.175.16 name=pluto-1.web.telegram.org
@@ -3103,42 +3181,41 @@ add address=149.154.167.118 name=t.me
 # Telegram End
 
 # Tor Start
-add address=154.35.132.70 name=torproject.org
-add address=154.35.132.70 name=www.torproject.org
-add address=154.35.132.70 name=atlas.torproject.org
-add address=154.35.132.70 name=bugs.torproject.org
-add address=154.35.132.70 name=cloud.torproject.org
-add address=154.35.132.70 name=consensus-health.torproject.org
-add address=154.35.132.70 name=deb.torproject.org
-add address=154.35.132.70 name=dist.torproject.org
-add address=154.35.132.70 name=extra.torproject.org
-add address=154.35.132.70 name=gettor.torproject.org
-add address=154.35.132.70 name=help.torproject.org
-add address=154.35.132.70 name=onion.torproject.org
-add address=154.35.132.70 name=ooni.torproject.org
-add address=154.35.132.70 name=research.torproject.org
-add address=154.35.132.70 name=spec.torproject.org
-add address=154.35.132.70 name=stem.torproject.org
-add address=154.35.132.70 name=tb-manual.torproject.org
-add address=154.35.132.70 name=wiki.torproject.org
-add address=82.195.75.101 name=archive.torproject.org
+add address=38.229.72.17 name=torproject.org
+add address=154.35.175.245 name=www.torproject.org
+add address=78.47.38.226 name=dist.torproject.org
+add address=138.201.14.197 name=atlas.torproject.org
+add address=138.201.14.197 name=bugs.torproject.org
+add address=138.201.14.197 name=cloud.torproject.org
+add address=138.201.14.197 name=consensus-health.torproject.org
+add address=138.201.14.197 name=deb.torproject.org
+add address=138.201.14.197 name=extra.torproject.org
+add address=138.201.14.197 name=gettor.torproject.org
+add address=138.201.14.197 name=help.torproject.org
+add address=138.201.14.197 name=onion.torproject.org
+add address=138.201.14.197 name=ooni.torproject.org
+add address=138.201.14.197 name=research.torproject.org
+add address=138.201.14.197 name=spec.torproject.org
+add address=138.201.14.197 name=stem.torproject.org
+add address=138.201.14.197 name=tb-manual.torproject.org
+add address=138.201.14.197 name=wiki.torproject.org
+add address=94.130.28.200 name=archive.torproject.org
 add address=82.195.75.101 name=media.torproject.org
 add address=23.185.0.2 name=blog.torproject.org
 add address=78.47.38.229 name=bridges.torproject.org
 add address=138.201.14.212 name=check.torproject.org
-add address=138.201.14.216 name=collector.torproject.org
-add address=38.229.72.20 name=compass.torproject.org
+add address=195.201.54.247 name=collector.torproject.org
+add address=195.201.54.247 name=exonerator.torproject.org
 add address=94.130.28.196 name=db.torproject.org
 add address=138.201.212.231 name=donate.torproject.org
-add address=138.201.14.214 name=exonerator.torproject.org
 add address=138.201.212.228 name=git.torproject.org
 add address=138.201.212.228 name=gitweb.torproject.org
 add address=161.47.6.182 name=labs.torproject.org
-add address=138.201.14.202 name=lists.torproject.org
-add address=94.130.28.195 name=metrics.torproject.org
-add address=78.47.38.227 name=onionoo.torproject.org
-add address=52.70.141.81 name=explorer.ooni.torproject.org
-add address=138.201.14.203 name=people.torproject.org
+add address=94.130.28.202 name=lists.torproject.org
+add address=94.130.28.202 name=metrics.torproject.org
+add address=154.35.132.148 name=onionoo.torproject.org
+add address=37.218.242.173 name=explorer.ooni.torproject.org
+add address=195.201.54.244 name=people.torproject.org
 add address=138.201.212.230 name=rt.torproject.org
 add address=78.47.38.231 name=storm.torproject.org
 add address=138.201.14.206 name=svn.torproject.org
@@ -3162,13 +3239,55 @@ add address=23.41.77.13 name=av.voanews.com
 add address=23.66.39.94 name=gdb.voanews.com
 # Voa End
 
+# Vnet Start
+add address=149.56.30.149 name=vnet.link
+# Vnet End
+
+# W3schools Start
+add address=192.229.173.207 name=www.w3schools.com
+# W3schools End
+
 # Whatsapp Start
-add address=157.240.1.53 name=www-cdn.whatsapp.net
-add address=169.45.182.115 name=c.whatsapp.net
+add address=107.23.234.123 name=www-cdn.whatsapp.net
+add address=107.23.234.123 name=faq.whatsapp.com
+add address=107.23.234.123 name=crashlogs.whatsapp.net
+add address=54.210.50.132 name=mmg-fna.whatsapp.net
+add address=54.210.50.132 name=mmh.whatsapp.net
+add address=169.44.82.102 name=whatsapp.com
+add address=169.44.82.102 name=www.whatsapp.com
+add address=169.44.82.102 name=blog.whatsapp.com
+add address=169.44.82.120 name=web.whatsapp.com
+add address=169.44.82.120 name=dyn.web.whatsapp.com
+add address=169.44.82.120 name=w1.web.whatsapp.com
+add address=169.44.82.120 name=w2.web.whatsapp.com
+add address=169.44.82.120 name=w3.web.whatsapp.com
+add address=169.44.82.120 name=w4.web.whatsapp.com
+add address=169.44.82.120 name=w5.web.whatsapp.com
+add address=169.44.82.120 name=w6.web.whatsapp.com
+add address=169.44.82.120 name=w7.web.whatsapp.com
+add address=169.44.82.120 name=w8.web.whatsapp.com
+add address=169.54.222.149 name=mms.whatsapp.net
+add address=169.55.75.106 name=c.whatsapp.net
 add address=158.85.5.217 name=m.whatsapp.net
-add address=173.192.219.135 name=p.whatsapp.net
+add address=174.37.243.84 name=p.whatsapp.net
 add address=50.22.210.33 name=r.whatsapp.net
 add address=169.44.80.10 name=v.whatsapp.net
+add address=169.63.73.124 name=e1.whatsapp.net
+add address=169.63.73.124 name=e2.whatsapp.net
+add address=169.63.73.124 name=e3.whatsapp.net
+add address=169.63.73.124 name=e4.whatsapp.net
+add address=169.63.73.124 name=e5.whatsapp.net
+add address=169.63.73.124 name=e6.whatsapp.net
+add address=169.63.73.124 name=e7.whatsapp.net
+add address=169.63.73.124 name=e8.whatsapp.net
+add address=169.63.73.124 name=e9.whatsapp.net
+add address=169.63.73.124 name=e10.whatsapp.net
+add address=169.63.73.124 name=e11.whatsapp.net
+add address=169.63.73.124 name=e12.whatsapp.net
+add address=169.63.73.124 name=e13.whatsapp.net
+add address=169.63.73.124 name=e14.whatsapp.net
+add address=169.63.73.124 name=e15.whatsapp.net
+add address=169.63.73.124 name=e16.whatsapp.net
 # Whatsapp End
 
 # Web.de Start
@@ -3177,6 +3296,7 @@ add address=54.93.172.67 name=lokale.suche.web.de
 # Web.de End
 
 # Wikinews Start
+add address=198.35.26.96 name=zh.wikinews.org
 add address=198.35.26.96 name=zh.m.wikinews.org
 # Wikinews End
 
@@ -3187,6 +3307,10 @@ add address=198.35.26.96 name=wuu.wikipedia.org
 add address=198.35.26.96 name=zh-yue.wikipedia.org
 add address=198.35.26.96 name=zh.wikipedia.org
 add address=198.35.26.96 name=zh.m.wikipedia.org
+add address=198.35.26.96 name=ja.wikipedia.org
+add address=198.35.26.96 name=ja.m.wikipedia.org
+add address=198.35.26.96 name=ug.wikipedia.org
+add address=198.35.26.96 name=ug.m.wikipedia.org
 add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
 
@@ -3195,8 +3319,8 @@ add address=106.10.231.23 name=static.flickr.com
 add address=69.147.88.7 name=flickr.com
 add address=119.161.14.18 name=m.flickr.com
 add address=69.147.76.173 name=secure.flickr.com
-add address=124.108.101.10 name=www.flickr.com
-add address=124.108.101.10 name=heartbeat.flickr.com
+add address=119.161.14.17 name=www.flickr.com
+add address=119.161.14.17 name=heartbeat.flickr.com
 add address=209.73.190.11 name=api.flickr.com
 add address=209.73.190.12 name=up.flickr.com
 add address=68.142.242.184 name=downloadr.flickr.com
@@ -3245,7 +3369,7 @@ add address=108.177.125.136 name=i9.ytimg.com
 add address=64.15.118.37 name=i.ytimg.com
 add address=216.58.217.174 name=s.ytimg.com
 add address=64.15.118.42 name=www.youtube.com
-add address=108.177.9.125 name=m.youtube.com
+add address=216.58.194.46 name=m.youtube.com
 # Youtube End
 
 # Google 1e100 Start

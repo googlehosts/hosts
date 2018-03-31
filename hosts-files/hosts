@@ -1,9 +1,9 @@
-# Copyright (c) 2017, googlehosts members.
+# Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-05
+# Last updated: 2018-03-24
 
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
 
 # Modified Hosts Start
 
@@ -15,21 +15,20 @@
 # Localhost (DO NOT REMOVE) End
 
 # Akamai Start
-23.201.102.89	a248.e.akamai.net
-184.28.188.186	static.ak.instagram.com
-184.28.188.201	images.ak.instagram.com
-96.7.235.57	passets-cdn.pinterest.com
-96.7.235.57	s.pinimg.com
-96.7.235.57	i.pinimg.com
-96.7.235.57	v.pinimg.com
-96.7.235.57	s-media-cache-ak0.pinimg.com
-23.56.25.171	blogthumb.pstatic.net
+23.32.241.9	a248.e.akamai.net
+23.32.241.16	static.ak.instagram.com
+184.51.15.69	images.ak.instagram.com
+104.77.23.93	passets-cdn.pinterest.com
+104.71.149.138	s.pinimg.com
+104.71.149.138	i.pinimg.com
+104.71.149.138	v.pinimg.com
+104.71.149.138	s-media-cache-ak0.pinimg.com
+23.51.209.100	blogthumb.pstatic.net
 # Akamai End
 
 # Amazon AWS Start
-54.239.38.117	eu-west-1.console.aws.amazon.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
-54.231.251.21	s3-ap-southeast-2.amazonaws.com
+54.231.249.17	s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
 # Android Start
@@ -41,12 +40,15 @@
 108.177.120.94	dev.android.com
 108.177.120.94	market.android.com
 108.177.120.94	r.android.com
-172.217.60.51	android.com
-172.217.60.47	www.android.com
-172.217.60.74	source.android.com
-172.217.60.162	tools.android.com
-172.217.60.97	developer.android.com
+216.58.217.196	android.com
+172.217.4.174	www.android.com
+172.217.4.174	source.android.com
+172.217.4.174	developer.android.com
 # Android End
+
+# Androidfilehost Start
+151.139.240.14	androidfilehost.com
+# Androidfilehost End
 
 # Apkpure Start
 104.20.82.194	apkpure.com
@@ -115,26 +117,28 @@
 # Appspotpreview End
 
 # Archive Start
-207.241.224.22	archive.org
-207.241.224.22	www.archive.org
-207.241.224.22	analytics.archive.org
-207.241.224.22	ia802704.us.archive.org
-207.241.225.186	web-beta.archive.org
-207.241.225.186	wwwb-sentry.us.archive.org
-207.241.225.186	web.archive.org
+207.241.225.95	archive.org
+207.241.225.95	www.archive.org
+207.241.225.95	analytics.archive.org
+207.241.225.95	ia802704.us.archive.org
+207.241.224.19	web-beta.archive.org
+207.241.224.19	wwwb-sentry.us.archive.org
+207.241.224.19	web.archive.org
+207.241.224.6	mail.archive.org
+207.241.224.21	books-general.archive.org
 # Archive End
 
 # Armorgames Start
-68.232.44.39	agi.armorgames.com
-192.229.179.107	armatars.armorgames.com
-192.229.179.107	cache.armorgames.com
-192.229.179.107	gamemedia.armorgames.com
-192.229.179.107	quests.armorgames.com
+192.229.173.251	agi.armorgames.com
+192.229.173.251	armatars.armorgames.com
+192.229.173.251	cache.armorgames.com
+192.229.173.251	gamemedia.armorgames.com
+192.229.173.251	quests.armorgames.com
 # Armorgames End
 
-# Autodraw Start
-172.217.31.96	www.autodraw.com
-# Autodraw End
+# Arukas Start
+27.133.136.8	app.arukas.io
+# Arukas End
 
 # Bandwagonhost Start
 104.20.6.63	bandwagonhost.com
@@ -157,11 +161,19 @@
 
 # Cloudfront Start
 52.84.167.78	d3c33hcgiwev3.cloudfront.net
+52.84.167.78	d3njjcbhbojbot.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
 172.217.31.96	embed.culturalspot.org
 # Culturalspot End
+
+# Conoha Start
+157.7.225.122	cp.conoha.jp
+103.3.190.48	www.conoha.jp
+157.7.225.117	app.conoha.jp
+157.7.225.120	manage.conoha.jp
+# Conoha End
 
 # Dropbox Start
 162.125.248.2	db.tt
@@ -217,12 +229,14 @@
 # Dropbox End
 
 # DuckDuckGo Start
-50.18.192.250	duckduckgo.com
-50.18.192.250	www.duckduckgo.com
-50.18.192.250	ac.duckduckgo.com
-54.229.110.205	icons.duckduckgo.com
-54.229.110.205	images.duckduckgo.com
-96.45.82.134	help.duckduckgo.com
+13.210.167.213	duckduckgo.com
+13.210.167.213	www.duckduckgo.com
+13.210.167.213	ac.duckduckgo.com
+13.210.167.213	start.duckduckgo.com
+13.210.167.213	help.duckduckgo.com
+13.210.184.136	icons.duckduckgo.com
+13.210.184.136	proxy.duckduckgo.com
+13.210.184.136	images.duckduckgo.com
 # DuckDuckGo End
 
 # Disqus Start
@@ -234,15 +248,15 @@
 151.101.52.64	links.services.disqus.com
 173.192.82.196	realtime.services.disqus.com
 50.18.252.168	help.disqus.com
-151.101.52.134	apkpure.disqus.com
 151.101.52.134	content.disqus.com
 151.101.52.134	referrer.disqus.com
 151.101.40.134	docs.disqus.com
+151.101.40.134	apkpure.disqus.com
 96.7.54.196	about.disqus.com
 96.7.54.200	blog.disqus.com
 96.7.54.198	publishers.disqus.com
 104.16.80.166	c.disquscdn.com
-151.101.24.249	a.disquscdn.com
+151.101.26.49	a.disquscdn.com
 # Disqus End
 
 # Facebook Start
@@ -316,7 +330,6 @@
 157.240.7.35	scontent-a-sin.xx.fbcdn.net
 157.240.7.35	scontent-b-lax.xx.fbcdn.net
 157.240.7.35	scontent-b-sin.xx.fbcdn.net
-157.240.7.35	static.xx.fbcdn.net
 157.240.7.35	static.thefacebook.com
 157.240.7.35	attachment.fbsbx.com
 157.240.7.35	messenger.com
@@ -339,6 +352,7 @@
 192.0.78.13	rightsmanager.fb.com
 192.0.78.13	techprep.fb.com
 192.0.78.13	work.fb.com
+31.13.91.15	static.xx.fbcdn.net
 31.13.91.15	scontent-lax3-1.xx.fbcdn.net
 31.13.91.15	scontent-lax3-2.xx.fbcdn.net
 31.13.91.15	scontent-lax3-3.xx.fbcdn.net
@@ -364,17 +378,14 @@
 # Facebook End
 
 # FlipBoard Start
-52.222.211.250	s.flipboard.com
-54.230.242.42	cdn.flipboard.com
-34.193.207.226	ue.flipboard.com
-34.192.210.197	beacon.flipboard.com
-52.44.196.4	flipboard.com
-52.204.24.196	fbprod.flipboard.com
-50.18.47.33	flipboard.helpshift.com
+52.44.186.59	beacon.flipboard.com
+34.201.185.200	fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start
 192.30.253.118	gist.github.com
+192.30.253.112	github.com
+192.30.253.112	www.github.com
 # Github End
 
 # Gmail Start
@@ -505,8 +516,6 @@
 172.217.27.169	googleforstudents.blogspot.com
 172.217.27.169	chrome.blogspot.com
 172.217.27.169	googlepublicpolicy.blogspot.com
-172.217.27.169	googleadservices.com
-172.217.27.169	www.googleadservices.com
 172.217.27.169	google-latlong.blogspot.com
 172.217.27.169	insidesearch.blogspot.com
 172.217.27.169	googleadsdeveloper.blogspot.com
@@ -749,7 +758,7 @@
 216.58.200.24	www.google.com.gi
 216.58.200.24	www.google.com.gr
 216.58.200.24	www.google.com.gt
-172.217.60.148	www.google.com.hk
+172.217.4.163	www.google.com.hk
 216.58.200.24	www.google.com.iq
 216.58.200.24	www.google.com.jm
 216.58.200.24	www.google.com.jo
@@ -784,7 +793,7 @@
 216.58.200.24	www.google.com.sv
 216.58.200.24	www.google.com.tj
 216.58.200.24	www.google.com.tr
-172.217.60.221	www.google.com.tw
+172.217.4.163	www.google.com.tw
 216.58.200.24	www.google.com.ua
 216.58.200.24	www.google.com.uy
 216.58.200.24	www.google.com.vc
@@ -797,10 +806,10 @@
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-172.217.60.241	www.google.com
-172.217.60.148	id.google.com
-172.217.60.89	clients5.google.com
-172.217.60.185	apis.google.com
+216.58.203.14	www.google.com
+216.58.203.35	id.google.com
+216.58.203.14	clients5.google.com
+216.58.203.14	apis.google.com
 # Google Search Home End
 
 # Google Service Start
@@ -820,6 +829,7 @@
 108.177.120.94	buzz.google.com
 108.177.120.94	calendar.google.com
 108.177.120.94	classroom.google.com
+108.177.120.94	classroom.google.ca
 108.177.120.94	cloud.google.com
 108.177.120.94	packages.cloud.google.com
 108.177.120.94	ssh.cloud.google.com
@@ -1025,7 +1035,7 @@
 108.177.120.94	talkgadget.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.15.126.78	ipv4.google.com
+172.217.161.164	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
 108.177.125.189	2.client-channel.google.com
@@ -1143,6 +1153,7 @@
 108.177.120.94	get.google.com.hk
 108.177.120.94	gsuite.google.com.hk
 108.177.120.94	groups.google.com.hk
+108.177.120.94	id.google.com.hk
 108.177.120.94	image.google.com.hk
 108.177.120.94	video.google.com.hk
 108.177.120.94	jmt17.google.com.hk
@@ -1173,6 +1184,7 @@
 108.177.120.94	gsuite.google.com.tw
 108.177.120.94	groups.google.com.tw
 108.177.120.94	image.google.com.tw
+108.177.120.94	id.google.com.tw
 108.177.120.94	video.google.com.tw
 108.177.120.94	jmt17.google.com.tw
 108.177.120.94	lh4.google.com.tw
@@ -2295,6 +2307,8 @@
 216.239.38.21	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 216.239.38.21	polymer-project.org
 216.239.38.21	material.io
+216.239.38.21	www.autodraw.com
+172.217.4.179	tools.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start
@@ -2307,6 +2321,11 @@
 172.217.27.4	www.googlemashups.com
 # Google Mashups End
 
+# Google Misc Start
+216.239.32.27	certificate-transparency.org
+216.239.32.27	www.certificate-transparency.org
+# Google Misc End
+
 # Google:stun Server Start
 64.233.177.127	stun.l.google.com
 64.233.177.127	alt1.stun.l.google.com
@@ -2315,6 +2334,12 @@
 64.233.177.127	alt4.stun.l.google.com
 64.233.177.127	alt5.stun.l.google.com
 # Google:stun Server End
+
+# Google:npf base Start
+172.217.31.179	1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
+216.239.38.21	220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
+216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
+# Google:npf base End
 
 # Googleusercontent Start
 108.177.127.197	www.googleusercontent.com
@@ -2587,7 +2612,6 @@
 216.58.221.65	yt3.ggpht.com
 108.177.120.94	accounts.gstatic.com
 108.177.120.94	maps.gstatic.com
-108.177.120.94	connectivitycheck.gstatic.com
 108.177.120.94	play-music.gstatic.com
 108.177.120.94	cdn.ampproject.org
 108.177.97.107	t0.gstatic.com
@@ -2607,6 +2631,10 @@
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
 # Gstatic End
+
+# Hinet Start
+211.20.148.228	hichannel.hinet.net
+# Hinet End
 
 # Heroku Start
 52.1.240.62	id.heroku.com
@@ -2641,24 +2669,26 @@
 # Ingress End
 
 # Instagram Start
-52.45.94.103	instagram.com
-157.240.11.52	www.instagram.com
-157.240.11.52	badges.instagram.com
-157.240.11.52	scontent.cdninstagram.com
-157.240.11.52	scontent-b.cdninstagram.com
-157.240.11.52	graph.instagram.com
+31.13.82.172	instagram.com
+31.13.82.174	www.instagram.com
+157.240.11.172	badges.instagram.com
+157.240.11.172	scontent.cdninstagram.com
+157.240.11.172	scontent-b.cdninstagram.com
+157.240.11.172	graph.instagram.com
 31.13.70.52	logger.instagram.com
 31.13.70.52	maps.instagram.com
 31.13.77.52	scontent-a.cdninstagram.com
 52.45.94.103	i.instagram.com
 52.45.94.103	api.instagram.com
-31.13.76.84	help.instagram.com
-31.13.76.84	scontent-sea1-1.cdninstagram.com
-31.13.76.84	platform.instagram.com
+31.13.76.172	help.instagram.com
+31.13.76.172	platform.instagram.com
 66.6.32.22	blog.instagram.com
-31.13.95.48	scontent-hkg3-1.cdninstagram.com
-157.240.15.63	scontent-hkg3-2.cdninstagram.com
-31.13.78.52	scontent-sit4-1.cdninstagram.com
+31.13.76.174	scontent-sea1-1.cdninstagram.com
+31.13.76.174	scontent-hkg3-1.cdninstagram.com
+31.13.76.174	scontent-hkg3-2.cdninstagram.com
+31.13.76.174	scontent-sit4-1.cdninstagram.com
+31.13.76.174	scontent-sjc3-1.cdninstagram.com
+31.13.76.174	scontent-sin6-2.cdninstagram.com
 # Instagram End
 
 # issuu Start
@@ -2766,10 +2796,12 @@
 203.104.150.46	obs.line-apps.com
 125.209.238.181	obs-cn.line-apps.com
 203.104.153.6	obs-tw.line-apps.com
+203.104.129.165	line-bot-cms-app-web.line-apps.com
 125.209.238.186	xcdn-cn.line-apps.com
 125.209.238.186	xcdn-cn-prf.line-apps.com
 125.209.238.186	xcdn-cn-shp.line-apps.com
 125.209.238.186	xcdn-cn-stk.line-apps.com
+203.104.129.195	line.naver.jp
 203.104.150.2	gd2.line.naver.jp
 203.104.153.129	gw.line.naver.jp
 203.104.160.12	gd2u.line.naver.jp
@@ -2777,13 +2809,34 @@
 203.104.174.20	gd2v.line.naver.jp
 125.209.252.18	gd2g.line.naver.jp
 125.209.252.17	gd2i.line.naver.jp
-125.209.222.59	gd2k.line.naver.jp
-125.209.222.202	gd2w.line.naver.jp
-125.209.222.202	gww.line.naver.jp
+125.209.222.70	gd2w.line.naver.jp
+125.209.222.70	gww.line.naver.jp
+125.209.222.70	ga2w.line.naver.jp
+125.209.222.70	gd2k.line.naver.jp
+125.209.222.70	ga2k.line.naver.jp
 203.104.174.18	gwx.line.naver.jp
 223.119.50.146	dl.profile.line.naver.jp
 223.119.50.144	dl.stickershop.line.naver.jp
 203.104.150.35	static.line.naver.jp
+125.209.222.75	poker.line.naver.jp
+203.104.153.184	channel.line.naver.jp
+184.50.87.74	dl.appresource.line.naver.jp
+184.50.87.41	dl.shop.line.naver.jp
+203.104.174.13	ga2v.line.naver.jp
+203.104.174.12	ga2s.line.naver.jp
+203.104.153.1	ga2.line.naver.jp
+184.50.87.51	dl.os.line.naver.jp
+125.209.238.207	timeline.line.naver.jp
+125.209.238.172	myhome.line.naver.jp
+125.209.222.57	homeapi.line.naver.jp
+125.209.238.185	noteapi.line.naver.jp
+125.209.238.185	cafeapi.line.naver.jp
+23.42.190.204	access.line.me
+2.17.50.95	help.line.me
+104.111.208.121	shop.line-scdn.net
+104.102.162.148	stickershop.line-scdn.net
+23.211.98.191	obs.line-scdn.net
+2.17.56.25	profile.line-scdn.net
 # Line End
 
 # MEGA Start
@@ -2903,20 +2956,22 @@
 66.6.32.22	times.pixiv.net
 210.129.120.50	recruit.pixiv.net
 210.129.120.49	pixiv.net
-113.33.39.198	p2.pixiv.net
-210.129.120.47	matsuri.pixiv.net
+122.208.114.218	p2.pixiv.net
+52.84.203.238	matsuri.pixiv.net
 210.129.120.46	m.pixiv.net
-52.85.87.254	iracon.pixiv.net
+52.84.203.163	iracon.pixiv.net
 52.69.82.228	inside.pixiv.net
 210.140.131.147	i1.pixiv.net
 153.120.23.207	help.pixiv.net
-52.219.4.58	goods.pixiv.net
+210.129.120.43	goods.pixiv.net
 210.129.120.40	genepixiv.pr.pixiv.net
-52.85.87.122	festa.pixiv.net
+52.84.203.136	festa.pixiv.net
 210.129.120.45	en.dic.pixiv.net
-52.219.4.114	dev.pixiv.net
+52.219.68.134	dev.pixiv.net
 210.129.120.42	chat.pixiv.net
-113.33.39.198	blog.pixiv.net
+122.208.114.218	blog.pixiv.net
+210.129.120.43	embed.pixiv.net
+210.129.120.44	comic-api.pixiv.net
 # Pixiv End
 
 # Periscope Start
@@ -2947,6 +3002,10 @@
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
 # Psiphon End
+
+# Ptt Start
+140.112.172.1	ptt.cc
+# Ptt End
 
 # RawGit Start
 198.232.125.81	cdn.rawgit.com
@@ -2988,6 +3047,10 @@
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
 # Resilio Sync End
+
+# Shadowsocks Start
+104.28.18.85	shadowsocks.org
+# Shadowsocks End
 
 # Soundcloud Start
 68.232.44.127	soundcloud.com
@@ -3036,6 +3099,16 @@
 64.71.134.121	support.ixquick.com
 # Startpage & Ixquick End
 
+# Steam Start
+223.119.217.234	steamcommunity.com
+173.223.87.13	help.steampowered.com
+104.116.5.247	store.steampowered.com
+23.4.240.26	steamcommunity-a.akamaihd.net
+184.28.218.74	steamuserimages-a.akamaihd.net
+184.25.205.16	steamcdn-a.akamaihd.net
+184.25.205.19	cdn.akamai.steamstatic.com
+# Steam End
+
 # Theinitium Start
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com
@@ -3049,42 +3122,47 @@
 124.108.101.59	api.tumblr.com
 124.108.101.59	secure.static.tumblr.com
 124.108.101.59	vt.media.tumblr.com
+124.108.101.59	api-http2.tumblr.com
 124.108.101.31	assets.tumblr.com
-124.108.101.31	secure.assets.tumblr.com
-69.147.88.9	media.tumblr.com
-69.147.88.9	vt.tumblr.com
-69.147.88.9	vtt.tumblr.com
+119.161.4.32	secure.assets.tumblr.com
+119.161.4.42	static.tumblr.com
+119.161.4.42	media.tumblr.com
+119.161.4.42	vt.tumblr.com
+119.161.4.42	vtt.tumblr.com
 66.6.32.21	cynicallys.tumblr.com
-192.229.237.97	mx.tumblr.com
-124.108.101.58	static.tumblr.com
-124.108.101.58	24.media.tumblr.com
-124.108.101.58	25.media.tumblr.com
-124.108.101.58	31.media.tumblr.com
-124.108.101.58	33.media.tumblr.com
-124.108.101.58	37.media.tumblr.com
-124.108.101.58	38.media.tumblr.com
-124.108.101.58	40.media.tumblr.com
-124.108.101.58	49.media.tumblr.com
-124.108.101.58	55.media.tumblr.com
-124.108.101.58	56.media.tumblr.com
-124.108.101.58	57.media.tumblr.com
+152.195.57.79	mx.tumblr.com
+66.6.33.21	24.media.tumblr.com
+66.6.33.21	25.media.tumblr.com
+66.6.33.21	31.media.tumblr.com
+66.6.33.21	33.media.tumblr.com
+66.6.33.21	37.media.tumblr.com
+66.6.33.21	38.media.tumblr.com
+66.6.33.21	40.media.tumblr.com
+66.6.33.21	49.media.tumblr.com
+66.6.33.21	55.media.tumblr.com
+66.6.33.21	56.media.tumblr.com
+66.6.33.21	57.media.tumblr.com
+66.6.33.21	66.media.tumblr.com
 124.108.101.58	58.media.tumblr.com
-124.108.101.58	66.media.tumblr.com
 124.108.101.58	68.media.tumblr.com
 124.108.101.58	78.media.tumblr.com
 124.108.101.58	90.media.tumblr.com
-124.108.101.58	91.media.tumblr.com
 124.108.101.58	92.media.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
-52.85.155.165	96.media.tumblr.com
-192.229.237.98	97.media.tumblr.com
+54.192.109.252	96.media.tumblr.com
+152.199.38.136	97.media.tumblr.com
 # Tumblr End
+
+# Tutanota Start
+81.3.6.162	app.tutanota.com
+# Tutanota End
 
 # Telegram Start
 149.154.166.206	telegram.org
 149.154.166.206	desktop.telegram.org
 149.154.166.206	core.telegram.org
+149.154.166.206	oauth.telegram.org
 149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org
 149.154.175.16	pluto-1.web.telegram.org
@@ -3101,42 +3179,41 @@
 # Telegram End
 
 # Tor Start
-154.35.132.70	torproject.org
-154.35.132.70	www.torproject.org
-154.35.132.70	atlas.torproject.org
-154.35.132.70	bugs.torproject.org
-154.35.132.70	cloud.torproject.org
-154.35.132.70	consensus-health.torproject.org
-154.35.132.70	deb.torproject.org
-154.35.132.70	dist.torproject.org
-154.35.132.70	extra.torproject.org
-154.35.132.70	gettor.torproject.org
-154.35.132.70	help.torproject.org
-154.35.132.70	onion.torproject.org
-154.35.132.70	ooni.torproject.org
-154.35.132.70	research.torproject.org
-154.35.132.70	spec.torproject.org
-154.35.132.70	stem.torproject.org
-154.35.132.70	tb-manual.torproject.org
-154.35.132.70	wiki.torproject.org
-82.195.75.101	archive.torproject.org
+38.229.72.17	torproject.org
+154.35.175.245	www.torproject.org
+78.47.38.226	dist.torproject.org
+138.201.14.197	atlas.torproject.org
+138.201.14.197	bugs.torproject.org
+138.201.14.197	cloud.torproject.org
+138.201.14.197	consensus-health.torproject.org
+138.201.14.197	deb.torproject.org
+138.201.14.197	extra.torproject.org
+138.201.14.197	gettor.torproject.org
+138.201.14.197	help.torproject.org
+138.201.14.197	onion.torproject.org
+138.201.14.197	ooni.torproject.org
+138.201.14.197	research.torproject.org
+138.201.14.197	spec.torproject.org
+138.201.14.197	stem.torproject.org
+138.201.14.197	tb-manual.torproject.org
+138.201.14.197	wiki.torproject.org
+94.130.28.200	archive.torproject.org
 82.195.75.101	media.torproject.org
 23.185.0.2	blog.torproject.org
 78.47.38.229	bridges.torproject.org
 138.201.14.212	check.torproject.org
-138.201.14.216	collector.torproject.org
-38.229.72.20	compass.torproject.org
+195.201.54.247	collector.torproject.org
+195.201.54.247	exonerator.torproject.org
 94.130.28.196	db.torproject.org
 138.201.212.231	donate.torproject.org
-138.201.14.214	exonerator.torproject.org
 138.201.212.228	git.torproject.org
 138.201.212.228	gitweb.torproject.org
 161.47.6.182	labs.torproject.org
-138.201.14.202	lists.torproject.org
-94.130.28.195	metrics.torproject.org
-78.47.38.227	onionoo.torproject.org
-52.70.141.81	explorer.ooni.torproject.org
-138.201.14.203	people.torproject.org
+94.130.28.202	lists.torproject.org
+94.130.28.202	metrics.torproject.org
+154.35.132.148	onionoo.torproject.org
+37.218.242.173	explorer.ooni.torproject.org
+195.201.54.244	people.torproject.org
 138.201.212.230	rt.torproject.org
 78.47.38.231	storm.torproject.org
 138.201.14.206	svn.torproject.org
@@ -3160,13 +3237,55 @@
 23.66.39.94	gdb.voanews.com
 # Voa End
 
+# Vnet Start
+149.56.30.149	vnet.link
+# Vnet End
+
+# W3schools Start
+192.229.173.207	www.w3schools.com
+# W3schools End
+
 # Whatsapp Start
-157.240.1.53	www-cdn.whatsapp.net
-169.45.182.115	c.whatsapp.net
+107.23.234.123	www-cdn.whatsapp.net
+107.23.234.123	faq.whatsapp.com
+107.23.234.123	crashlogs.whatsapp.net
+54.210.50.132	mmg-fna.whatsapp.net
+54.210.50.132	mmh.whatsapp.net
+169.44.82.102	whatsapp.com
+169.44.82.102	www.whatsapp.com
+169.44.82.102	blog.whatsapp.com
+169.44.82.120	web.whatsapp.com
+169.44.82.120	dyn.web.whatsapp.com
+169.44.82.120	w1.web.whatsapp.com
+169.44.82.120	w2.web.whatsapp.com
+169.44.82.120	w3.web.whatsapp.com
+169.44.82.120	w4.web.whatsapp.com
+169.44.82.120	w5.web.whatsapp.com
+169.44.82.120	w6.web.whatsapp.com
+169.44.82.120	w7.web.whatsapp.com
+169.44.82.120	w8.web.whatsapp.com
+169.54.222.149	mms.whatsapp.net
+169.55.75.106	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
-173.192.219.135	p.whatsapp.net
+174.37.243.84	p.whatsapp.net
 50.22.210.33	r.whatsapp.net
 169.44.80.10	v.whatsapp.net
+169.63.73.124	e1.whatsapp.net
+169.63.73.124	e2.whatsapp.net
+169.63.73.124	e3.whatsapp.net
+169.63.73.124	e4.whatsapp.net
+169.63.73.124	e5.whatsapp.net
+169.63.73.124	e6.whatsapp.net
+169.63.73.124	e7.whatsapp.net
+169.63.73.124	e8.whatsapp.net
+169.63.73.124	e9.whatsapp.net
+169.63.73.124	e10.whatsapp.net
+169.63.73.124	e11.whatsapp.net
+169.63.73.124	e12.whatsapp.net
+169.63.73.124	e13.whatsapp.net
+169.63.73.124	e14.whatsapp.net
+169.63.73.124	e15.whatsapp.net
+169.63.73.124	e16.whatsapp.net
 # Whatsapp End
 
 # Web.de Start
@@ -3175,6 +3294,7 @@
 # Web.de End
 
 # Wikinews Start
+198.35.26.96	zh.wikinews.org
 198.35.26.96	zh.m.wikinews.org
 # Wikinews End
 
@@ -3185,6 +3305,10 @@
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
+198.35.26.96	ja.wikipedia.org
+198.35.26.96	ja.m.wikipedia.org
+198.35.26.96	ug.wikipedia.org
+198.35.26.96	ug.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
 
@@ -3193,8 +3317,8 @@
 69.147.88.7	flickr.com
 119.161.14.18	m.flickr.com
 69.147.76.173	secure.flickr.com
-124.108.101.10	www.flickr.com
-124.108.101.10	heartbeat.flickr.com
+119.161.14.17	www.flickr.com
+119.161.14.17	heartbeat.flickr.com
 209.73.190.11	api.flickr.com
 209.73.190.12	up.flickr.com
 68.142.242.184	downloadr.flickr.com
@@ -3243,7 +3367,7 @@
 64.15.118.37	i.ytimg.com
 216.58.217.174	s.ytimg.com
 64.15.118.42	www.youtube.com
-108.177.9.125	m.youtube.com
+216.58.194.46	m.youtube.com
 # Youtube End
 
 # Google 1e100 Start

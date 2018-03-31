@@ -1,4 +1,8 @@
 # Google Hosts
+[![doodle]][doodle-story]
+
+[doodle]: https://www.google.com/logos/doodles/2018/lantern-festival-2018-6427136544997376-2x.jpg "元宵节快乐!"
+[doodle-story]: https://www.google.com/logos/doodles/2018/lunar-new-year-2018-6583503285125120-2x.png
 
 |    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
