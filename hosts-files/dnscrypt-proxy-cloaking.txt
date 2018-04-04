@@ -814,9 +814,9 @@ apis.google.com	216.58.203.14
 
 # Google Service Start
 blog.google	216.239.34.21
+environment.google	216.239.38.21
 domains.google	108.177.120.94
 domains.google.com	108.177.120.94
-environment.google	108.177.120.94
 aboutme.google.com	108.177.120.94
 ads.google.com	108.177.120.94
 abc.xyz	108.177.120.94

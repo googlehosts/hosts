@@ -816,9 +816,9 @@ add address=216.58.203.14 name=apis.google.com
 
 # Google Service Start
 add address=216.239.34.21 name=blog.google
+add address=216.239.38.21 name=environment.google
 add address=108.177.120.94 name=domains.google
 add address=108.177.120.94 name=domains.google.com
-add address=108.177.120.94 name=environment.google
 add address=108.177.120.94 name=aboutme.google.com
 add address=108.177.120.94 name=ads.google.com
 add address=108.177.120.94 name=abc.xyz
