@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-03
+# Last updated: 2018-04-04
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -815,6 +815,7 @@ add address=216.58.203.14 name=apis.google.com
 # Google Search Home End
 
 # Google Service Start
+add address=216.239.34.21 name=blog.google
 add address=108.177.120.94 name=domains.google
 add address=108.177.120.94 name=domains.google.com
 add address=108.177.120.94 name=environment.google
