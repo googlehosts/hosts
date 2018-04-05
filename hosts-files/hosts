@@ -2254,8 +2254,8 @@
 
 # Google Service:Google Play Start
 209.85.235.200	services.googleapis.cn
-64.15.126.86	play.google.com
-64.15.126.86	android.clients.google.com
+64.15.124.72	play.google.com
+64.15.124.72	android.clients.google.com
 108.177.121.201	play.googleapis.com
 203.208.39.99	alt7-mtalk.google.com
 # Google Service:Google Play End
