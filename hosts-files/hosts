@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-05
+# Last updated: 2018-04-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -806,7 +806,7 @@
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-216.58.203.14	www.google.com
+108.177.9.162	www.google.com
 216.58.203.35	id.google.com
 216.58.203.14	clients5.google.com
 216.58.203.14	apis.google.com
