@@ -810,8 +810,8 @@ add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6ex
 add address=108.177.96.161 name=ogs.google.com
 add address=108.177.9.162 name=www.google.com
 add address=108.177.103.161 name=id.google.com
-add address=216.58.203.14 name=clients5.google.com
-add address=216.58.203.14 name=apis.google.com
+add address=108.177.103.163 name=clients5.google.com
+add address=108.177.111.119 name=apis.google.com
 # Google Search Home End
 
 # Google Service Start
