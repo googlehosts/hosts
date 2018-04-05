@@ -3179,6 +3179,7 @@ add address=149.154.164.225 name=flora.web.telegram.org
 add address=149.154.164.225 name=flora-1.web.telegram.org
 add address=149.154.167.118 name=telegram.me
 add address=149.154.167.118 name=t.me
+add address=149.154.167.80 name=updates.tdesktop.com
 # Telegram End
 
 # Tor Start
