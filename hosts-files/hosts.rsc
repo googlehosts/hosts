@@ -807,7 +807,7 @@ add address=172.217.26.195 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6ex
 add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-add address=216.58.200.187 name=ogs.google.com
+add address=108.177.96.161 name=ogs.google.com
 add address=108.177.9.162 name=www.google.com
 add address=216.58.203.35 name=id.google.com
 add address=216.58.203.14 name=clients5.google.com
