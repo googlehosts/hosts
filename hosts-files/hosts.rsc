@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-10
+# Last updated: 2018-04-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -398,7 +398,7 @@ add address=74.125.70.162 name=mail-settings.google.com
 add address=74.125.26.161 name=m.gmail.com
 add address=74.125.132.160 name=m.googlemail.com
 add address=108.177.122.161 name=gmail.google.com
-add address=172.217.30.229 name=mail.google.com
+add address=172.217.30.231 name=mail.google.com
 add address=172.217.14.118 name=inbox.google.com
 add address=172.217.15.22 name=chatenabled.mail.google.com
 add address=74.125.202.162 name=filetransferenabled.mail.google.com

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-10
+# Last updated: 2018-04-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -396,7 +396,7 @@ mail-settings.google.com	74.125.70.162
 m.gmail.com	74.125.26.161
 m.googlemail.com	74.125.132.160
 gmail.google.com	108.177.122.161
-mail.google.com	172.217.30.229
+mail.google.com	172.217.30.231
 inbox.google.com	172.217.14.118
 chatenabled.mail.google.com	172.217.15.22
 filetransferenabled.mail.google.com	74.125.202.162
