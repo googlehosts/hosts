@@ -2256,9 +2256,8 @@ add address=74.125.202.162 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Google Service:Google Play Start
-add address=209.85.235.200 name=services.googleapis.cn
-add address=64.15.124.72 name=play.google.com
-add address=64.15.124.72 name=android.clients.google.com
+add address=172.217.14.150 name=play.google.com
+add address=172.217.14.150 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
 add address=203.208.39.99 name=alt7-mtalk.google.com
 # Google Service:Google Play End
