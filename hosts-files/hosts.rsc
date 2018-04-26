@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-25
+# Last updated: 2018-04-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1121,7 +1121,7 @@ add address=172.217.162.15 name=uploadsj.clients.google.com
 # Google Service End
 
 # Google Service:Ncr Start
-add address=216.58.199.109 name=accounts.google.com
+add address=74.125.206.210 name=accounts.google.com
 add address=108.177.120.94 name=assistant.google.com
 add address=108.177.120.94 name=books.google.com
 add address=108.177.120.94 name=blogsearch.google.com

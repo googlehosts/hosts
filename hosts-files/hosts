@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-25
+# Last updated: 2018-04-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1119,7 +1119,7 @@
 # Google Service End
 
 # Google Service:Ncr Start
-216.58.199.109	accounts.google.com
+74.125.206.210	accounts.google.com
 108.177.120.94	assistant.google.com
 108.177.120.94	books.google.com
 108.177.120.94	blogsearch.google.com
