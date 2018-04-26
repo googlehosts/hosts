@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-26
+# Last updated: 2018-04-27
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1142,7 +1142,7 @@ add address=108.177.120.94 name=places.google.com
 add address=108.177.120.94 name=privacy.google.com
 add address=108.177.120.94 name=translate.google.com
 add address=108.177.120.94 name=toolbarqueries.google.com
-add address=64.15.126.90 name=scholar.google.com
+add address=74.125.206.210 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
@@ -2676,22 +2676,31 @@ add address=31.13.82.172 name=instagram.com
 add address=31.13.82.174 name=www.instagram.com
 add address=157.240.15.174 name=badges.instagram.com
 add address=157.240.15.174 name=scontent.cdninstagram.com
-add address=157.240.15.174 name=scontent-b.cdninstagram.com
 add address=157.240.15.174 name=graph.instagram.com
 add address=157.240.15.63 name=logger.instagram.com
 add address=157.240.15.63 name=maps.instagram.com
-add address=31.13.77.52 name=scontent-a.cdninstagram.com
 add address=52.45.94.103 name=i.instagram.com
 add address=52.45.94.103 name=api.instagram.com
 add address=31.13.76.172 name=help.instagram.com
 add address=31.13.76.172 name=scontent-sea1-1.cdninstagram.com
 add address=31.13.76.172 name=platform.instagram.com
 add address=66.6.32.22 name=blog.instagram.com
+add address=31.13.82.52 name=scontent-a.cdninstagram.com
+add address=157.240.13.52 name=scontent-b.cdninstagram.com
+add address=31.13.90.52 name=scontent-b-lhr.cdninstagram.com
+add address=157.240.6.52 name=scontent-bog1-1.cdninstagram.com
 add address=31.13.95.48 name=scontent-hkg3-1.cdninstagram.com
 add address=157.240.15.63 name=scontent-hkg3-2.cdninstagram.com
+add address=31.13.69.245 name=scontent-iad3-1.cdninstagram.com
+add address=31.13.71.52 name=scontent-lga3-1.cdninstagram.com
+add address=31.13.90.52 name=scontent-lhr3-1.cdninstagram.com
+add address=31.13.83.52 name=scontent-mad1-1.cdninstagram.com
+add address=157.240.2.52 name=scontent-ort2-1.cdninstagram.com
+add address=185.60.218.52 name=scontent-otp1-1.cdninstagram.com
+add address=157.240.13.172 name=scontent-sin6-2.cdninstagram.com
 add address=31.13.78.174 name=scontent-sit4-1.cdninstagram.com
 add address=157.240.22.63 name=scontent-sjc3-1.cdninstagram.com
-add address=157.240.13.172 name=scontent-sin6-2.cdninstagram.com
+add address=31.13.84.52 name=scontent-vie1-1.cdninstagram.com
 # Instagram End
 
 # issuu Start

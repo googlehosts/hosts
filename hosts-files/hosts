@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-26
+# Last updated: 2018-04-27
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1140,7 +1140,7 @@
 108.177.120.94	privacy.google.com
 108.177.120.94	translate.google.com
 108.177.120.94	toolbarqueries.google.com
-64.15.126.90	scholar.google.com
+74.125.206.210	scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
@@ -2674,22 +2674,31 @@
 31.13.82.174	www.instagram.com
 157.240.15.174	badges.instagram.com
 157.240.15.174	scontent.cdninstagram.com
-157.240.15.174	scontent-b.cdninstagram.com
 157.240.15.174	graph.instagram.com
 157.240.15.63	logger.instagram.com
 157.240.15.63	maps.instagram.com
-31.13.77.52	scontent-a.cdninstagram.com
 52.45.94.103	i.instagram.com
 52.45.94.103	api.instagram.com
 31.13.76.172	help.instagram.com
 31.13.76.172	scontent-sea1-1.cdninstagram.com
 31.13.76.172	platform.instagram.com
 66.6.32.22	blog.instagram.com
+31.13.82.52	scontent-a.cdninstagram.com
+157.240.13.52	scontent-b.cdninstagram.com
+31.13.90.52	scontent-b-lhr.cdninstagram.com
+157.240.6.52	scontent-bog1-1.cdninstagram.com
 31.13.95.48	scontent-hkg3-1.cdninstagram.com
 157.240.15.63	scontent-hkg3-2.cdninstagram.com
+31.13.69.245	scontent-iad3-1.cdninstagram.com
+31.13.71.52	scontent-lga3-1.cdninstagram.com
+31.13.90.52	scontent-lhr3-1.cdninstagram.com
+31.13.83.52	scontent-mad1-1.cdninstagram.com
+157.240.2.52	scontent-ort2-1.cdninstagram.com
+185.60.218.52	scontent-otp1-1.cdninstagram.com
+157.240.13.172	scontent-sin6-2.cdninstagram.com
 31.13.78.174	scontent-sit4-1.cdninstagram.com
 157.240.22.63	scontent-sjc3-1.cdninstagram.com
-157.240.13.172	scontent-sin6-2.cdninstagram.com
+31.13.84.52	scontent-vie1-1.cdninstagram.com
 # Instagram End
 
 # issuu Start
