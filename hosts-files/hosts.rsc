@@ -3236,9 +3236,10 @@ add address=198.245.92.39 name=click.email.vimeo.com
 # Vimeo End
 
 # Voa Start
-add address=23.41.77.13 name=www.voachinese.com
-add address=23.41.77.13 name=av.voanews.com
-add address=23.66.39.94 name=gdb.voanews.com
+add address=96.7.120.42 name=www.voachinese.com
+add address=96.7.120.42 name=www.voanews.com
+add address=96.7.120.42 name=av.voanews.com
+add address=96.7.120.42 name=gdb.voanews.com
 # Voa End
 
 # Vnet Start
