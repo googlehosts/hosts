@@ -186,25 +186,51 @@
 169.44.145.200	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
 31.13.82.172	instagram.com
 31.13.82.174	www.instagram.com
-157.240.15.174	badges.instagram.com scontent.cdninstagram.com graph.instagram.com
+157.240.15.174	badges.instagram.com graph.instagram.com
 157.240.15.63	logger.instagram.com maps.instagram.com scontent-hkg3-2.cdninstagram.com
 52.45.94.103	i.instagram.com api.instagram.com
-31.13.76.172	help.instagram.com scontent-sea1-1.cdninstagram.com platform.instagram.com
+31.13.76.172	help.instagram.com platform.instagram.com
 66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
-31.13.82.52	scontent-a.cdninstagram.com
-157.240.13.52	scontent-b.cdninstagram.com
-31.13.90.52	scontent-b-lhr.cdninstagram.com scontent-lhr3-1.cdninstagram.com
-157.240.6.52	scontent-bog1-1.cdninstagram.com
+157.240.13.52	scontent.cdninstagram.com scontent-b.cdninstagram.com scontent-b-ams.cdninstagram.com
+31.13.82.52	scontent-a.cdninstagram.com scontent-nrt1-1.cdninstagram.com
+31.13.91.52	scontent-a-ams.cdninstagram.com scontent-ams3-1.cdninstagram.com
+31.13.64.52	scontent-a-amt.cdninstagram.com scontent-amt2-1.cdninstagram.com
+31.13.72.53	scontent-a-arn.cdninstagram.com scontent-arn2-1.cdninstagram.com
+31.13.65.52	scontent-a-atl.cdninstagram.com scontent-atl3-1.cdninstagram.com
+157.240.6.52	scontent-a-bog.cdninstagram.com scontent-bog1-1.cdninstagram.com
+179.60.195.52	scontent-a-bru.cdninstagram.com scontent-bru2-1.cdninstagram.com
+179.60.192.52	scontent-a-cdg.cdninstagram.com scontent-cdg2-1.cdninstagram.com
+31.13.94.51	scontent-a-eze.cdninstagram.com scontent-eze1-1.cdninstagram.com
+31.13.90.52	scontent-a-lhr.cdninstagram.com scontent-b-lhr.cdninstagram.com scontent-lhr3-1.cdninstagram.com
+31.13.92.51	scontent-a-frt.cdninstagram.com scontent-frt3-1.cdninstagram.com
+185.60.216.52	scontent-a-frx.cdninstagram.com scontent-frx5-1.cdninstagram.com
+31.13.67.63	scontent-b-mia.cdninstagram.com
+31.13.85.52	scontent-gru2-1.cdninstagram.com
 31.13.95.48	scontent-hkg3-1.cdninstagram.com
-31.13.69.245	scontent-iad3-1.cdninstagram.com
-31.13.71.52	scontent-lga3-1.cdninstagram.com
+31.13.69.245	scontent-iad.cdninstagram.com scontent-iad3-1.cdninstagram.com
+31.13.68.51	scontent-icn1-1.cdninstagram.com
+157.240.10.52	scontent-kut2-1.cdninstagram.com
+157.240.11.52	scontent-lax.cdninstagram.com
+31.13.70.52	scontent-lax3-1.cdninstagram.com
+31.13.71.52	scontent-lga.cdninstagram.com scontent-lga3-1.cdninstagram.com
+157.240.1.52	scontent-lht6-1.cdninstagram.com
 31.13.83.52	scontent-mad1-1.cdninstagram.com
+31.13.75.53	scontent-mrs1-1.cdninstagram.com
+31.13.86.52	scontent-mxp1-1.cdninstagram.com
 157.240.2.52	scontent-ort2-1.cdninstagram.com
 185.60.218.52	scontent-otp1-1.cdninstagram.com
+179.60.193.63	scontent-scl1-1.cdninstagram.com
+31.13.76.84	scontent-sea1-1.cdninstagram.com
+157.240.7.52	scontent-sin6-1.cdninstagram.com
 157.240.13.172	scontent-sin6-2.cdninstagram.com
 31.13.78.174	scontent-sit4-1.cdninstagram.com
 157.240.22.63	scontent-sjc3-1.cdninstagram.com
+157.240.9.52	scontent-sof1-1.cdninstagram.com
+157.240.8.52	scontent-syd2-1.cdninstagram.com
+31.13.87.52	scontent-tpe1-1.cdninstagram.com
 31.13.84.52	scontent-vie1-1.cdninstagram.com
+31.13.81.52	scontent-waw1-1.cdninstagram.com
+31.13.80.52	scontent-yyz1-1.cdninstagram.com
 52.72.26.162	issuu.com www.issuu.com developers.issuu.com page.issuu.com
 54.80.162.85	pingback.issuu.com
 151.101.65.63	photo.issuu.com image.issuu.com content.issuu.com e.issuu.com static.issuu.com skin.issuu.com
