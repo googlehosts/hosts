@@ -2760,7 +2760,7 @@ add address=31.13.81.52 name=scontent-b-waw.cdninstagram.com
 add address=31.13.80.52 name=scontent-b-yyz.cdninstagram.com
 add address=31.13.64.52 name=scontent-amt2-1.cdninstagram.com
 add address=31.13.72.53 name=scontent-arn2-1.cdninstagram.com
-add address=31.13.91.52 name=scontent-ams3-1.cdninstagram.com
+add address=157.240.2.52 name=scontent-ams3-1.cdninstagram.com
 add address=31.13.65.52 name=scontent-atl3-1.cdninstagram.com
 add address=157.240.6.52 name=scontent-bog1-1.cdninstagram.com
 add address=179.60.195.52 name=scontent-bru2-1.cdninstagram.com
