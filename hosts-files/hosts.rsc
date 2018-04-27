@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-04-27
+# Last updated: 2018-04-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3380,8 +3380,8 @@ add address=169.44.82.120 name=w5.web.whatsapp.com
 add address=169.44.82.120 name=w6.web.whatsapp.com
 add address=169.44.82.120 name=w7.web.whatsapp.com
 add address=169.44.82.120 name=w8.web.whatsapp.com
-add address=169.54.222.149 name=mms.whatsapp.net
-add address=169.55.75.106 name=c.whatsapp.net
+add address=157.240.7.54 name=mms.whatsapp.net
+add address=157.240.8.53 name=c.whatsapp.net
 add address=158.85.5.217 name=m.whatsapp.net
 add address=174.37.243.84 name=p.whatsapp.net
 add address=50.22.210.33 name=r.whatsapp.net
