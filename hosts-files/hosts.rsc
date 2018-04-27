@@ -3362,11 +3362,11 @@ add address=192.229.173.207 name=www.w3schools.com
 # W3schools End
 
 # Whatsapp Start
-add address=107.23.234.123 name=www-cdn.whatsapp.net
-add address=107.23.234.123 name=faq.whatsapp.com
-add address=107.23.234.123 name=crashlogs.whatsapp.net
-add address=54.210.50.132 name=mmg-fna.whatsapp.net
-add address=54.210.50.132 name=mmh.whatsapp.net
+add address=157.240.15.53 name=www-cdn.whatsapp.net
+add address=157.240.15.53 name=faq.whatsapp.com
+add address=157.240.15.53 name=crashlogs.whatsapp.net
+add address=157.240.2.53 name=mmg-fna.whatsapp.net
+add address=157.240.2.53 name=mmh.whatsapp.net
 add address=169.44.82.102 name=whatsapp.com
 add address=169.44.82.102 name=www.whatsapp.com
 add address=169.44.82.102 name=blog.whatsapp.com
