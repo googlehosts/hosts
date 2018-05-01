@@ -389,18 +389,18 @@
 # Github End
 
 # Gmail Start
-108.177.122.160	gmail.com
-108.177.111.161	www.gmail.com
-108.177.111.161	googlemail.l.google.com
-74.125.70.162	mail-settings.google.com
-74.125.26.161	m.gmail.com
+216.58.215.229	gmail.com
+172.217.168.37	www.gmail.com
+172.217.168.37	googlemail.l.google.com
+216.58.215.231	mail-settings.google.com
+172.217.168.37	m.gmail.com
 74.125.132.160	m.googlemail.com
 108.177.122.161	gmail.google.com
 172.217.168.197	mail.google.com
 172.217.168.5	inbox.google.com
-172.217.15.22	chatenabled.mail.google.com
-74.125.202.162	filetransferenabled.mail.google.com
-172.217.14.214	isolated.mail.google.com
+172.217.168.7	chatenabled.mail.google.com
+172.217.168.71	filetransferenabled.mail.google.com
+172.217.168.39	isolated.mail.google.com
 # Gmail End
 
 # Gmx Start

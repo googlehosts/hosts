@@ -391,18 +391,18 @@ add address=192.30.253.112 name=www.github.com
 # Github End
 
 # Gmail Start
-add address=108.177.122.160 name=gmail.com
-add address=108.177.111.161 name=www.gmail.com
-add address=108.177.111.161 name=googlemail.l.google.com
-add address=74.125.70.162 name=mail-settings.google.com
-add address=74.125.26.161 name=m.gmail.com
+add address=216.58.215.229 name=gmail.com
+add address=172.217.168.37 name=www.gmail.com
+add address=172.217.168.37 name=googlemail.l.google.com
+add address=216.58.215.231 name=mail-settings.google.com
+add address=172.217.168.37 name=m.gmail.com
 add address=74.125.132.160 name=m.googlemail.com
 add address=108.177.122.161 name=gmail.google.com
 add address=172.217.168.197 name=mail.google.com
 add address=172.217.168.5 name=inbox.google.com
-add address=172.217.15.22 name=chatenabled.mail.google.com
-add address=74.125.202.162 name=filetransferenabled.mail.google.com
-add address=172.217.14.214 name=isolated.mail.google.com
+add address=172.217.168.7 name=chatenabled.mail.google.com
+add address=172.217.168.71 name=filetransferenabled.mail.google.com
+add address=172.217.168.39 name=isolated.mail.google.com
 # Gmail End
 
 # Gmx Start
