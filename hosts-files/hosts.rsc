@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-01
+# Last updated: 2018-05-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -34,18 +34,18 @@ add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
 # Android Start
-add address=108.177.120.94 name=a.android.com
-add address=108.177.120.94 name=b.android.com
-add address=108.177.120.94 name=m.android.com
-add address=108.177.120.94 name=connectivitycheck.android.com
-add address=108.177.120.94 name=d.android.com
-add address=108.177.120.94 name=dev.android.com
-add address=108.177.120.94 name=market.android.com
-add address=108.177.120.94 name=r.android.com
-add address=216.58.217.196 name=android.com
-add address=172.217.4.174 name=www.android.com
-add address=172.217.4.174 name=source.android.com
-add address=172.217.4.174 name=developer.android.com
+add address=216.58.215.54 name=a.android.com
+add address=216.58.215.54 name=b.android.com
+add address=216.58.215.54 name=m.android.com
+add address=216.58.215.54 name=connectivitycheck.android.com
+add address=216.58.215.54 name=d.android.com
+add address=216.58.215.54 name=dev.android.com
+add address=216.58.215.54 name=market.android.com
+add address=216.58.215.54 name=r.android.com
+add address=216.58.223.214 name=android.com
+add address=216.58.215.118 name=www.android.com
+add address=172.217.17.22 name=source.android.com
+add address=172.217.16.246 name=developer.android.com
 # Android End
 
 # Androidfilehost Start

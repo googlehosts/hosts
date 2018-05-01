@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-01
+# Last updated: 2018-05-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -32,18 +32,18 @@
 # Amazon AWS End
 
 # Android Start
-108.177.120.94	a.android.com
-108.177.120.94	b.android.com
-108.177.120.94	m.android.com
-108.177.120.94	connectivitycheck.android.com
-108.177.120.94	d.android.com
-108.177.120.94	dev.android.com
-108.177.120.94	market.android.com
-108.177.120.94	r.android.com
-216.58.217.196	android.com
-172.217.4.174	www.android.com
-172.217.4.174	source.android.com
-172.217.4.174	developer.android.com
+216.58.215.54	a.android.com
+216.58.215.54	b.android.com
+216.58.215.54	m.android.com
+216.58.215.54	connectivitycheck.android.com
+216.58.215.54	d.android.com
+216.58.215.54	dev.android.com
+216.58.215.54	market.android.com
+216.58.215.54	r.android.com
+216.58.223.214	android.com
+216.58.215.118	www.android.com
+172.217.17.22	source.android.com
+172.217.16.246	developer.android.com
 # Android End
 
 # Androidfilehost Start
