@@ -17,7 +17,8 @@
 [mirror-link]: https://coding.net/u/scaffrey/p/hosts/git
 
 我们立足于美利坚合众国，对全球华人服务，受北美法律保护。版权所有，未经授权禁止复制或建立镜像。
-请laod.cn再次分发本文件时遵守本项目的协议,请勿随意替换IP
+
+请laod.cn再次分发本文件时遵守本项目的协议，请勿随意替换IP。
 
 ## 如何贡献
 
