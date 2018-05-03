@@ -12,8 +12,6 @@
 23.32.241.9	a248.e.akamai.net
 23.32.241.16	static.ak.instagram.com
 184.51.15.69	images.ak.instagram.com
-104.77.23.93	passets-cdn.pinterest.com
-104.71.149.138	s.pinimg.com i.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
 23.51.209.100	blogthumb.pstatic.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
@@ -329,11 +327,12 @@
 131.253.14.230	skyapi.onedrive.live.com
 134.170.104.157	skyweb.skyprod.akadns.net
 74.120.8.13	my.pcloud.com
-151.101.0.84	pinterest.com www.pinterest.com about.pinterest.com blog.pinterest.com ads.pinterest.com api.pinterest.com analytics.pinterest.com br.pinterest.com business.pinterest.com canary.pinterest.com cz.pinterest.com de.pinterest.com dk.pinterest.com es.pinterest.com fi.pinterest.com fr.pinterest.com gb.pinterest.com gr.pinterest.com help.pinterest.com hu.pinterest.com id.pinterest.com in.pinterest.com it.pinterest.com jp.pinterest.com kr.pinterest.com media-cache-ec0.pinterest.com pl.pinterest.com pt.pinterest.com ro.pinterest.com ru.pinterest.com se.pinterest.com sk.pinterest.com tr.pinterest.com uk.pinterest.com no.pinterest.com nl.pinterest.com engineering.pinterest.com
-54.175.213.141	dev.pinterest.com
-34.213.142.132	post.pinterest.com
-52.22.159.107	trk.pinterest.com
-54.165.175.178	developers.pinterest.com
+151.101.128.84	pinterest.com www.pinterest.com about.pinterest.com blog.pinterest.com ads.pinterest.com api.pinterest.com analytics.pinterest.com br.pinterest.com business.pinterest.com canary.pinterest.com cz.pinterest.com de.pinterest.com dk.pinterest.com es.pinterest.com fi.pinterest.com fr.pinterest.com gb.pinterest.com gr.pinterest.com help.pinterest.com hu.pinterest.com id.pinterest.com in.pinterest.com it.pinterest.com jp.pinterest.com kr.pinterest.com media-cache-ec0.pinterest.com pl.pinterest.com pt.pinterest.com ro.pinterest.com ru.pinterest.com se.pinterest.com sk.pinterest.com tr.pinterest.com uk.pinterest.com no.pinterest.com nl.pinterest.com engineering.pinterest.com
+52.6.255.21	dev.pinterest.com developers.pinterest.com
+54.149.226.209	post.pinterest.com
+52.5.103.187	trk.pinterest.com
+151.101.72.84	passets-cdn.pinterest.com
+151.101.76.84	i.pinimg.com s.pinimg.com v.pinimg.com s-media-cache-ak0.pinimg.com
 210.129.120.55	www.pixiv.net
 210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
 210.140.131.146	source.pixiv.net
