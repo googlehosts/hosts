@@ -1,42 +1,41 @@
-Copyright (c) 2016-2018 googlehosts members
+注：本协议的第二版目前尚处于草案状态。此分支下的其他内容仍按照
+本协议的第一版（见master分支下的LICENSE文件）发布。
 
-前言
-1.每个人都可以逐字复制并且分发此协议,但不允许更改任何内容.
-2.请使用Hosts license的项目在hosts文件抬头注明版权,仅以下格式有效:
-Copyright (C) Time Author
+              HOSTS许可协议（HOSTS LICENSE）
+                     第二版，2018年
 
-本协议的起草参考了GPL v2.0开源协议的格式,但是我们注重的是对hosts文件的保护
+ 版权所有 (C) 2016-2018 Google Hosts Organization
+ 任何人皆可复制和发布本协议的完整副本，但不得修改。
 
-复制,修改,分发的条件和条款
-1.禁止修改原作者信息以及协议声明
-2.禁止修改hosts文件中的格式,例如:
-①一个域名对应一个IP(单域名解析)
-1.1.1.1 adc.com
-1.1.1.2 zzz.adc.com
-②一个IP对应多个域名(泛解析)
-1.1.1.1 abc.com
-1.1.1.1 zzz.abc.com
-只要符合以上例子中任何一种或着作者自行声明,皆不可修改
-3.禁止将hosts文件用于任何商业行为,包括但不限于捐赠,广告,直接收费
-4.您必须在相同平台fork原项目后才能进行再发行,并且不允许转移至其他平台
+                          引言
 
-免责声明
-1.由于服务器单方面问题造成的损失,hosts作者不负法律责任
-2.如果使用反向代理服务器、端口转发服务器或者任何非官方服务器,请作者提前声明并且同免责声明1
-3.fork原项目后修改的内容,原项目不负责任
+  本协议第一版的起草参考了GNU通用公共许可协议第二版。本协议
+第二版则在第一版的基础上，参考了Affero通用公共许可证以及知识
+共享公共许可协议进行了一定的修订，在明确各项权利与义务的同时，
+让本协议能够更加自由、开放，并适用于更多的使用场景。
 
-最终解释权由Hosts license编写组所有
+  因为维护HOSTS文件是一份非常耗费精力的工作，除一般的DNS查询
+以外，有时还需对获得的IP进行多轮测试，甚至需要与IP持有方合作，
+以便尽可能保证最终用户的访问效果，所以我们特此制定本协议，让
+HOSTS文件维护者的劳动成果能得到最大程度的尊重与保护。
 
-And wait, the most important, you shall star/+1/like the project(s) in project url
-section above first, and then thank the author(s) in Copyright section.
- 
-Here are some suggested ways:
+                        术语和条件
 
- - Email the authors a thank-you letter, and make friends with him/her/them.
- - Report bugs or issues.
- - Tell friends what a wonderful project this is.
- - And, sure, you can just express thanks in your mind without telling the world.
+  〇、定义
 
-Contributors of this project by forking have the option to add his/her name and
-forked project url at copyright and project url sections, but shall not delete
-or modify anything else in these two sections.
+  “本协议”指HOSTS许可协议第二版。
+
+  “HOSTS文件”指任何存储于本地计算机操作系统，用于将主机名映射到
+IP地址，或者任何具有类似功能的文件。其范围包括但不限于各操作系统
+自带的HOSTS文件，以及dnsmasq和Surge等软件中具有类似功能的配置文
+件。每个许可获得者称作“你”。“许可获得者”和“接受者”可以是个人或组
+织。
+
+  “修改”HOSTS文件指在已获得版权许可的前提下，对HOSTS文件的全部或
+部分内容进行复制或改编的行为，有别于制作副本。所产生的HOSTS文件称
+作原HOSTS文件的“修改版”，或“基于”原HOSTS文件的作品。
+
+  “分发”HOSTS文件指让他方能够制作或者接收副本的行为。本协议的转发
+包括任何软件使用HOSTS文件或其修改版的全部或部分内容，通过计算机
+网络与用户交互的行为，无论此行为是否传输了HOSTS文件或其修改版的副
+本。
