@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-03
+# Last updated: 2018-05-08
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -13,6 +13,23 @@
 ::1	ip6-localhost
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
+
+# GoogleHosts Start
+23.95.9.4	23-95-9-4.googlehosts.org
+23.95.9.4	tgsocks5-1.googlehosts.org
+185.200.34.198	185-200-34-198.googlehosts.org
+185.200.34.198	tgsocks5-2.googlehosts.org
+107.174.205.58	107-174-205-58.googlehosts.org
+107.174.205.58	tgsocks5-3.googlehosts.org
+185.200.34.209	185-200-34-209.googlehosts.org
+185.200.34.209	tgsocks5-4.googlehosts.org
+107.174.203.60	107-174-203-60.googlehosts.org
+107.174.203.60	tgsocks5-5.googlehosts.org
+45.124.64.82	45-124-64-82.googlehosts.org
+45.124.64.82	tgsocks5-6.googlehosts.org
+185.116.237.11	185-116-237-11.googlehosts.org
+185.116.237.11	tgsocks5-9.googlehosts.org
+# GoogleHosts End
 
 # Akamai Start
 23.32.241.9	a248.e.akamai.net
