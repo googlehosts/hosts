@@ -140,11 +140,11 @@ add address=207.241.225.95 name=archive.org
 add address=207.241.225.95 name=www.archive.org
 add address=207.241.225.95 name=analytics.archive.org
 add address=207.241.225.95 name=ia802704.us.archive.org
-add address=207.241.224.19 name=web-beta.archive.org
-add address=207.241.224.19 name=wwwb-sentry.us.archive.org
-add address=207.241.224.19 name=web.archive.org
+add address=207.241.225.186 name=web-beta.archive.org
+add address=207.241.225.186 name=wwwb-sentry.us.archive.org
+add address=207.241.225.186 name=web.archive.org
 add address=207.241.224.6 name=mail.archive.org
-add address=207.241.224.21 name=books-general.archive.org
+add address=207.241.224.22 name=books-general.archive.org
 # Archive End
 
 # Armorgames Start
