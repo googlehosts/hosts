@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-08
+# Last updated: 2018-05-13
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -38,6 +38,11 @@ add address=23.32.241.9 name=a248.e.akamai.net
 add address=23.32.241.16 name=static.ak.instagram.com
 add address=184.51.15.69 name=images.ak.instagram.com
 add address=23.51.209.100 name=blogthumb.pstatic.net
+add address=2.17.28.19 name=s.pinimg.com
+add address=2.17.28.19 name=v.pinimg.com
+add address=104.118.71.71 name=i.pinimg.com
+add address=104.118.71.71 name=s-media-cache-ak0.pinimg.com
+add address=104.118.71.71 name=passets-cdn.pinterest.com
 # Akamai End
 
 # Amazon AWS Start
@@ -3060,11 +3065,6 @@ add address=52.6.255.21 name=dev.pinterest.com
 add address=54.149.226.209 name=post.pinterest.com
 add address=52.5.103.187 name=trk.pinterest.com
 add address=52.6.255.21 name=developers.pinterest.com
-add address=151.101.72.84 name=passets-cdn.pinterest.com
-add address=151.101.76.84 name=i.pinimg.com
-add address=151.101.76.84 name=s.pinimg.com
-add address=151.101.76.84 name=v.pinimg.com
-add address=151.101.76.84 name=s-media-cache-ak0.pinimg.com
 # Pinterest End
 
 # Pixiv Start
