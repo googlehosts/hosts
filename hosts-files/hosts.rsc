@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-13
+# Last updated: 2018-06-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2667,7 +2667,7 @@ add address=52.1.240.62 name=id.heroku.com
 # HumbleBundle Start
 add address=54.250.252.63 name=humble.pubnub.com
 add address=104.20.34.236 name=humblebundle.com
-add address=203.69.81.33 name=humblebundle-a.akamaihd.net
+add address=23.2.16.67 name=humblebundle-a.akamaihd.net
 add address=52.36.140.12 name=pubnub.com
 add address=216.58.200.243 name=www.humblebundle.com
 # HumbleBundle End

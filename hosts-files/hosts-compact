@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-13
+# Last updated: 2018-06-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -188,7 +188,7 @@
 52.1.240.62	id.heroku.com
 54.250.252.63	humble.pubnub.com
 104.20.34.236	humblebundle.com
-203.69.81.33	humblebundle-a.akamaihd.net
+23.2.16.67	humblebundle-a.akamaihd.net
 52.36.140.12	pubnub.com
 216.58.200.243	www.humblebundle.com
 151.101.100.193	imgur.com m.imgur.com api.imgur.com www.imgur.com store.imgur.com s.imgur.com p.imgur.com i.imgur.com
