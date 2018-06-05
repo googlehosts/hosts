@@ -61,10 +61,6 @@ add address=172.217.17.22 name=source.android.com
 add address=172.217.16.246 name=developer.android.com
 # Android End
 
-# Androidfilehost Start
-add address=151.139.240.14 name=androidfilehost.com
-# Androidfilehost End
-
 # Apkpure Start
 add address=104.20.82.194 name=apkpure.com
 add address=104.20.82.194 name=a.apkpure.com

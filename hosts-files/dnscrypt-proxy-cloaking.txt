@@ -59,10 +59,6 @@ source.android.com	172.217.17.22
 developer.android.com	172.217.16.246
 # Android End
 
-# Androidfilehost Start
-androidfilehost.com	151.139.240.14
-# Androidfilehost End
-
 # Apkpure Start
 apkpure.com	104.20.82.194
 a.apkpure.com	104.20.82.194
