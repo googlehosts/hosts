@@ -3013,6 +3013,10 @@ add address=134.170.104.157 name=skyweb.skyprod.akadns.net
 add address=74.120.8.13 name=my.pcloud.com
 # Pcloud End
 
+# Pepitastore Start
+add address=68.232.44.109 name=ips.pepitastore.com
+# Pepitastore End
+
 # Pinterest Start
 add address=151.101.128.84 name=pinterest.com
 add address=151.101.128.84 name=www.pinterest.com
