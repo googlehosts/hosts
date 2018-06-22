@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-05
+# Last updated: 2018-06-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -157,6 +157,10 @@ add address=107.152.24.197 name=account.box.com
 add address=107.152.24.197 name=upload.box.com
 add address=107.152.24.197 name=m.box.com
 # Box End
+
+# Buzzfeed Start
+add address=151.101.1.181 name=img.buzzfeed.com
+# Buzzfeed End
 
 # Change.org Start
 add address=104.16.5.13 name=www.change.org
@@ -812,7 +816,7 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=108.177.96.161 name=ogs.google.com
-add address=108.177.9.162 name=www.google.com
+add address=216.58.203.14 name=www.google.com
 add address=108.177.103.161 name=id.google.com
 add address=108.177.103.163 name=clients5.google.com
 add address=108.177.111.119 name=apis.google.com
