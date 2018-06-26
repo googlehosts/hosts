@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-22
+# Last updated: 2018-06-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2650,7 +2650,7 @@
 # Hinet End
 
 # Heroku Start
-52.1.240.62	id.heroku.com
+52.54.44.125	id.heroku.com
 # Heroku End
 
 # HumbleBundle Start

@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-22
+# Last updated: 2018-06-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2652,7 +2652,7 @@ add address=211.20.148.228 name=hichannel.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=52.1.240.62 name=id.heroku.com
+add address=52.54.44.125 name=id.heroku.com
 # Heroku End
 
 # HumbleBundle Start

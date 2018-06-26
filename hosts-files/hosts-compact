@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-22
+# Last updated: 2018-06-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -184,7 +184,7 @@
 216.58.221.108	proxy.googlezip.net compress.googlezip.net proxy-dev.googlezip.net
 216.58.221.65	yt3.ggpht.com
 211.20.148.228	hichannel.hinet.net
-52.1.240.62	id.heroku.com
+52.54.44.125	id.heroku.com
 54.250.252.63	humble.pubnub.com
 104.20.34.236	humblebundle.com
 52.36.140.12	pubnub.com
