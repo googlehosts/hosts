@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-26
+# Last updated: 2018-07-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3231,7 +3231,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Steam Start
 add address=223.119.217.234 name=steamcommunity.com
 add address=173.223.87.13 name=help.steampowered.com
-add address=23.50.18.229 name=store.steampowered.com
+add address=23.37.147.226 name=store.steampowered.com
 add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
 add address=184.28.218.74 name=steamuserimages-a.akamaihd.net
 add address=184.25.205.16 name=steamcdn-a.akamaihd.net
@@ -3377,9 +3377,9 @@ add address=192.229.173.207 name=www.w3schools.com
 # W3schools End
 
 # Whatsapp Start
-add address=157.240.15.53 name=www-cdn.whatsapp.net
-add address=157.240.15.53 name=faq.whatsapp.com
-add address=157.240.15.53 name=crashlogs.whatsapp.net
+add address=158.85.5.203 name=www-cdn.whatsapp.net
+add address=158.85.5.203 name=faq.whatsapp.com
+add address=158.85.5.203 name=crashlogs.whatsapp.net
 add address=157.240.2.53 name=mmg-fna.whatsapp.net
 add address=157.240.2.53 name=mmh.whatsapp.net
 add address=169.44.82.102 name=whatsapp.com
