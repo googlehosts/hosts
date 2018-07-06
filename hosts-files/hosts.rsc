@@ -244,9 +244,9 @@ add address=13.210.167.213 name=www.duckduckgo.com
 add address=13.210.167.213 name=ac.duckduckgo.com
 add address=13.210.167.213 name=start.duckduckgo.com
 add address=13.210.167.213 name=help.duckduckgo.com
-add address=13.210.184.136 name=icons.duckduckgo.com
-add address=13.210.184.136 name=proxy.duckduckgo.com
-add address=13.210.184.136 name=images.duckduckgo.com
+add address=23.21.193.169 name=icons.duckduckgo.com
+add address=23.21.193.169 name=proxy.duckduckgo.com
+add address=23.21.193.169 name=images.duckduckgo.com
 # DuckDuckGo End
 
 # Disqus Start
