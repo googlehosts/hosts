@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-06
+# Last updated: 2018-07-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -18,19 +18,25 @@ add address=::1 name=ip6-loopback
 
 # GoogleHosts Start
 add address=23.95.9.4 name=23-95-9-4.googlehosts.org
-add address=23.95.9.4 name=tgsocks5-1.googlehosts.org
+add address=23.95.9.4 name=tg-1.googlehosts.org
 add address=185.200.34.198 name=185-200-34-198.googlehosts.org
-add address=185.200.34.198 name=tgsocks5-2.googlehosts.org
+add address=185.200.34.198 name=tg-2.googlehosts.org
 add address=107.174.205.58 name=107-174-205-58.googlehosts.org
-add address=107.174.205.58 name=tgsocks5-3.googlehosts.org
+add address=107.174.205.58 name=tg-3.googlehosts.org
 add address=185.200.34.209 name=185-200-34-209.googlehosts.org
-add address=185.200.34.209 name=tgsocks5-4.googlehosts.org
+add address=185.200.34.209 name=tg-4.googlehosts.org
 add address=107.174.203.60 name=107-174-203-60.googlehosts.org
-add address=107.174.203.60 name=tgsocks5-5.googlehosts.org
+add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
-add address=45.124.64.82 name=tgsocks5-6.googlehosts.org
+add address=45.124.64.82 name=tg-6.googlehosts.org
 add address=185.116.237.11 name=185-116-237-11.googlehosts.org
-add address=185.116.237.11 name=tgsocks5-9.googlehosts.org
+add address=185.116.237.11 name=tg-9.googlehosts.org
+add address=104.129.16.244 name=104-129-16-244.googlehosts.org
+add address=104.129.16.244 name=ss-1.googlehosts.org
+add address=107.150.12.229 name=107-150-12-229.googlehosts.org
+add address=107.150.12.229 name=ss-2.googlehosts.org
+add address=104.223.56.187 name=104-223-56-187.googlehosts.org
+add address=104.223.56.187 name=ss-3.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start

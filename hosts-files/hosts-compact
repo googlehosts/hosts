@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-06
+# Last updated: 2018-07-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -9,13 +9,16 @@
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
-23.95.9.4	23-95-9-4.googlehosts.org tgsocks5-1.googlehosts.org
-185.200.34.198	185-200-34-198.googlehosts.org tgsocks5-2.googlehosts.org
-107.174.205.58	107-174-205-58.googlehosts.org tgsocks5-3.googlehosts.org
-185.200.34.209	185-200-34-209.googlehosts.org tgsocks5-4.googlehosts.org
-107.174.203.60	107-174-203-60.googlehosts.org tgsocks5-5.googlehosts.org
-45.124.64.82	45-124-64-82.googlehosts.org tgsocks5-6.googlehosts.org
-185.116.237.11	185-116-237-11.googlehosts.org tgsocks5-9.googlehosts.org
+23.95.9.4	23-95-9-4.googlehosts.org tg-1.googlehosts.org
+185.200.34.198	185-200-34-198.googlehosts.org tg-2.googlehosts.org
+107.174.205.58	107-174-205-58.googlehosts.org tg-3.googlehosts.org
+185.200.34.209	185-200-34-209.googlehosts.org tg-4.googlehosts.org
+107.174.203.60	107-174-203-60.googlehosts.org tg-5.googlehosts.org
+45.124.64.82	45-124-64-82.googlehosts.org tg-6.googlehosts.org
+185.116.237.11	185-116-237-11.googlehosts.org tg-9.googlehosts.org
+104.129.16.244	104-129-16-244.googlehosts.org ss-1.googlehosts.org
+107.150.12.229	107-150-12-229.googlehosts.org ss-2.googlehosts.org
+104.223.56.187	104-223-56-187.googlehosts.org ss-3.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 23.32.241.16	static.ak.instagram.com
 184.51.15.69	images.ak.instagram.com
