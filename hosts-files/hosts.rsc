@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-09
+# Last updated: 2018-07-14
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -273,6 +273,17 @@ add address=96.7.54.200 name=blog.disqus.com
 add address=96.7.54.198 name=publishers.disqus.com
 add address=104.16.80.166 name=c.disquscdn.com
 add address=151.101.26.49 name=a.disquscdn.com
+# Disqus End
+
+# Disqus Start
+add address=104.16.58.5 name=discordapp.com
+add address=104.16.59.37 name=discord.gg
+add address=104.16.174.189 name=discord.media
+add address=104.16.251.144 name=media.discordapp.net
+add address=104.16.10.231 name=status.discordapp.com
+add address=104.16.250.144 name=images-ext-1.discordapp.net
+add address=104.16.251.144 name=images-ext-2.discordapp.net
+add address=104.16.10.231 name=cdn.discordapp.com
 # Disqus End
 
 # Facebook Start

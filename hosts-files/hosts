@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-09
+# Last updated: 2018-07-14
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -271,6 +271,17 @@
 96.7.54.198	publishers.disqus.com
 104.16.80.166	c.disquscdn.com
 151.101.26.49	a.disquscdn.com
+# Disqus End
+
+# Disqus Start
+104.16.58.5	discordapp.com
+104.16.59.37	discord.gg
+104.16.174.189	discord.media
+104.16.251.144	media.discordapp.net
+104.16.10.231	status.discordapp.com
+104.16.250.144	images-ext-1.discordapp.net
+104.16.251.144	images-ext-2.discordapp.net
+104.16.10.231	cdn.discordapp.com
 # Disqus End
 
 # Facebook Start
