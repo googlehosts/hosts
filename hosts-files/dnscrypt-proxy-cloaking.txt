@@ -273,7 +273,7 @@ c.disquscdn.com	104.16.80.166
 a.disquscdn.com	151.101.26.49
 # Disqus End
 
-# Disqus Start
+# Discord Start
 discordapp.com	104.16.58.5
 discord.gg	104.16.59.37
 discord.media	104.16.174.189
@@ -282,7 +282,7 @@ status.discordapp.com	104.16.10.231
 images-ext-1.discordapp.net	104.16.250.144
 images-ext-2.discordapp.net	104.16.251.144
 cdn.discordapp.com	104.16.10.231
-# Disqus End
+# Discord End
 
 # Facebook Start
 www.facebook.com	157.240.7.35

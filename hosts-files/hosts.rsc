@@ -275,7 +275,7 @@ add address=104.16.80.166 name=c.disquscdn.com
 add address=151.101.26.49 name=a.disquscdn.com
 # Disqus End
 
-# Disqus Start
+# Discord Start
 add address=104.16.58.5 name=discordapp.com
 add address=104.16.59.37 name=discord.gg
 add address=104.16.174.189 name=discord.media
@@ -284,7 +284,7 @@ add address=104.16.10.231 name=status.discordapp.com
 add address=104.16.250.144 name=images-ext-1.discordapp.net
 add address=104.16.251.144 name=images-ext-2.discordapp.net
 add address=104.16.10.231 name=cdn.discordapp.com
-# Disqus End
+# Discord End
 
 # Facebook Start
 add address=157.240.7.35 name=www.facebook.com
