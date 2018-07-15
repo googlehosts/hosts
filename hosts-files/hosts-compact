@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-14
+# Last updated: 2018-07-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -23,7 +23,7 @@
 23.32.241.16	static.ak.instagram.com
 184.51.15.69	images.ak.instagram.com
 2.17.28.19	s.pinimg.com
-104.118.71.71	passets-cdn.pinterest.com
+104.118.71.71	i.pinimg.com s-media-cache-ak0.pinimg.com passets-cdn.pinterest.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 216.58.215.54	a.android.com b.android.com m.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com
