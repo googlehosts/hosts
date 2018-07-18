@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-15
+# Last updated: 2018-07-18
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -284,6 +284,7 @@ add address=104.16.174.189 name=discord.media
 add address=104.16.251.144 name=media.discordapp.net
 add address=104.16.10.231 name=status.discordapp.com
 add address=104.16.250.144 name=images-ext-1.discordapp.net
+add address=104.16.250.144 name=dl.discordapp.net
 add address=104.16.251.144 name=images-ext-2.discordapp.net
 add address=104.16.10.231 name=cdn.discordapp.com
 # Discord End
