@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-18
+# Last updated: 2018-07-21
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -157,6 +157,33 @@ add address=27.133.136.8 name=app.arukas.io
 # Bandwagonhost Start
 add address=104.20.6.63 name=bandwagonhost.com
 # Bandwagonhost End
+
+# Bbc Start
+add address=151.101.8.81 name=www.bbc.com
+add address=151.101.40.81 name=fig.bbc.co.uk
+add address=212.58.246.92 name=www.bbc.co.uk
+add address=104.118.112.225 name=static.bbci.co.uk
+add address=23.199.11.116 name=static.bbc.co.uk
+add address=104.76.83.32 name=nav.files.bbci.co.uk
+add address=23.50.99.110 name=ichef.bbci.co.uk
+add address=23.73.186.251 name=m.files.bbci.co.uk
+add address=172.227.98.43 name=feeds.bbci.co.uk
+add address=23.13.157.61 name=mybbc.files.bbci.co.uk
+add address=23.66.206.133 name=polling.bbc.co.uk
+add address=23.33.70.13 name=search.files.bbci.co.uk
+add address=95.101.92.111 name=a.files.bbci.co.uk
+add address=95.101.15.42 name=gel.files.bbci.co.uk
+add address=104.103.150.125 name=emp.bbc.com
+add address=23.53.213.148 name=news.bbcimg.co.uk
+add address=23.201.173.230 name=mybbc-analytics.files.bbci.co.uk
+add address=212.58.246.212 name=ssl.bbc.co.uk
+add address=54.72.23.188 name=push.api.bbci.co.uk
+add address=34.251.9.18 name=search-suggest.api.bbci.co.uk
+add address=34.253.116.138 name=ess.api.bbci.co.uk
+add address=212.58.246.124 name=session.bbc.com
+add address=212.58.249.134 name=account.bbc.com
+add address=212.58.244.78 name=open.live.bbc.co.uk
+# Bbc End
 
 # Box Start
 add address=107.152.25.196 name=box.com

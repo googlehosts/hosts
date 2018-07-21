@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-18
+# Last updated: 2018-07-21
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -42,6 +42,30 @@
 192.229.173.251	agi.armorgames.com armatars.armorgames.com cache.armorgames.com gamemedia.armorgames.com quests.armorgames.com
 27.133.136.8	app.arukas.io
 104.20.6.63	bandwagonhost.com
+151.101.8.81	www.bbc.com
+151.101.40.81	fig.bbc.co.uk
+212.58.246.92	www.bbc.co.uk
+104.118.112.225	static.bbci.co.uk
+23.199.11.116	static.bbc.co.uk
+104.76.83.32	nav.files.bbci.co.uk
+23.50.99.110	ichef.bbci.co.uk
+23.73.186.251	m.files.bbci.co.uk
+172.227.98.43	feeds.bbci.co.uk
+23.13.157.61	mybbc.files.bbci.co.uk
+23.66.206.133	polling.bbc.co.uk
+23.33.70.13	search.files.bbci.co.uk
+95.101.92.111	a.files.bbci.co.uk
+95.101.15.42	gel.files.bbci.co.uk
+104.103.150.125	emp.bbc.com
+23.53.213.148	news.bbcimg.co.uk
+23.201.173.230	mybbc-analytics.files.bbci.co.uk
+212.58.246.212	ssl.bbc.co.uk
+54.72.23.188	push.api.bbci.co.uk
+34.251.9.18	search-suggest.api.bbci.co.uk
+34.253.116.138	ess.api.bbci.co.uk
+212.58.246.124	session.bbc.com
+212.58.249.134	account.bbc.com
+212.58.244.78	open.live.bbc.co.uk
 107.152.25.196	box.com
 107.152.24.198	app.box.com
 107.152.24.197	account.box.com upload.box.com m.box.com
