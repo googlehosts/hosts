@@ -43,10 +43,10 @@ add address=104.223.56.187 name=ss-3.googlehosts.org
 add address=23.32.241.9 name=a248.e.akamai.net
 add address=23.32.241.16 name=static.ak.instagram.com
 add address=184.51.15.69 name=images.ak.instagram.com
-add address=2.17.28.19 name=s.pinimg.com
-add address=96.7.107.161 name=i.pinimg.com
-add address=96.7.107.161 name=s-media-cache-ak0.pinimg.com
-add address=96.7.107.161 name=passets-cdn.pinterest.com
+add address=23.2.36.161 name=s.pinimg.com
+add address=104.76.17.41 name=i.pinimg.com
+add address=23.217.143.151 name=s-media-cache-ak0.pinimg.com
+add address=23.50.43.222 name=passets-cdn.pinterest.com
 # Akamai End
 
 # Amazon AWS Start
