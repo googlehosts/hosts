@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-21
+# Last updated: 2018-07-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -53,6 +53,10 @@ add address=96.7.107.161 name=passets-cdn.pinterest.com
 add address=52.219.0.4 name=s3-ap-northeast-1.amazonaws.com
 add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
+
+# Amazon Start
+add address=52.119.164.121 name=amazon.co.jp
+# Amazon End
 
 # Android Start
 add address=216.58.215.54 name=a.android.com

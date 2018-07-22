@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-21
+# Last updated: 2018-07-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -26,6 +26,7 @@
 96.7.107.161	i.pinimg.com s-media-cache-ak0.pinimg.com passets-cdn.pinterest.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
+52.119.164.121	amazon.co.jp
 216.58.215.54	a.android.com b.android.com m.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com
 216.58.223.214	android.com
 216.58.215.118	www.android.com
