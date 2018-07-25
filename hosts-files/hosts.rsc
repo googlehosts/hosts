@@ -231,6 +231,10 @@ add address=107.152.24.197 name=m.box.com
 add address=151.101.1.181 name=img.buzzfeed.com
 # Buzzfeed End
 
+# cd4o Start
+add address=68.232.45.253 name=www.cd4o.com
+# cd4o End
+
 # Change.org Start
 add address=104.16.5.13 name=www.change.org
 add address=104.16.5.13 name=assets.change.org
