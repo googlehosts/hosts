@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-22
+# Last updated: 2018-07-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -56,6 +56,7 @@ add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 
 # Amazon Start
 add address=52.119.164.121 name=amazon.co.jp
+add address=104.127.195.232 name=www.amazon.co.jp
 add address=54.239.96.187 name=aftlite-portal-nrt.amazon.co.jp
 add address=52.94.210.248 name=alexa.amazon.co.jp
 add address=54.240.251.149 name=api.amazon.co.jp

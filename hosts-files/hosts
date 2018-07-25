@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-22
+# Last updated: 2018-07-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -54,6 +54,7 @@
 
 # Amazon Start
 52.119.164.121	amazon.co.jp
+104.127.195.232	www.amazon.co.jp
 54.239.96.187	aftlite-portal-nrt.amazon.co.jp
 52.94.210.248	alexa.amazon.co.jp
 54.240.251.149	api.amazon.co.jp
