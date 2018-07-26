@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-25
+# Last updated: 2018-07-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -909,7 +909,7 @@
 216.239.34.21	blog.google
 216.239.38.21	environment.google
 172.217.161.182	domains.google
-74.125.206.210	domains.google.com
+64.15.126.100	domains.google.com
 74.125.206.210	aboutme.google.com
 74.125.206.210	ads.google.com
 74.125.206.210	abc.xyz
@@ -2342,8 +2342,8 @@
 # Google Service:Docs End
 
 # Google GoLang Start
-74.125.202.162	golang.org
-74.125.202.162	golang-consa.l.google.com
+216.239.37.1	golang.org
+216.239.37.1	golang-consa.l.google.com
 # Google GoLang End
 
 # Google Service:Google Play Start

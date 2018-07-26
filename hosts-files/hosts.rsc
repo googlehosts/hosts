@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-25
+# Last updated: 2018-07-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -911,7 +911,7 @@ add address=108.177.111.119 name=apis.google.com
 add address=216.239.34.21 name=blog.google
 add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
-add address=74.125.206.210 name=domains.google.com
+add address=64.15.126.100 name=domains.google.com
 add address=74.125.206.210 name=aboutme.google.com
 add address=74.125.206.210 name=ads.google.com
 add address=74.125.206.210 name=abc.xyz
@@ -2344,8 +2344,8 @@ add address=172.217.31.103 name=browserchannel-docs.l.google.com
 # Google Service:Docs End
 
 # Google GoLang Start
-add address=74.125.202.162 name=golang.org
-add address=74.125.202.162 name=golang-consa.l.google.com
+add address=216.239.37.1 name=golang.org
+add address=216.239.37.1 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Google Service:Google Play Start
