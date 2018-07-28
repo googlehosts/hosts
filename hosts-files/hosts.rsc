@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-26
+# Last updated: 2018-07-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2349,7 +2349,7 @@ add address=216.239.37.1 name=golang-consa.l.google.com
 # Google GoLang End
 
 # Google Service:Google Play Start
-add address=172.217.14.150 name=play.google.com
+add address=172.217.160.110 name=play.google.com
 add address=74.125.204.100 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
 add address=203.208.39.99 name=alt7-mtalk.google.com
