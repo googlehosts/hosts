@@ -36,6 +36,8 @@ ss-2.googlehosts.org	107.150.12.229
 104-223-56-187.googlehosts.org	104.223.56.187
 155-94-137-77.googlehosts.org	155.94.137.77
 ss-3.googlehosts.org	155.94.137.77
+64-32-8-146.googlehosts.org	64.32.8.146
+status.googlehosts.org	64.32.8.146
 # GoogleHosts End
 
 # Akamai Start
