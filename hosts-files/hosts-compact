@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-28
+# Last updated: 2018-07-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -18,7 +18,8 @@
 185.116.237.11	185-116-237-11.googlehosts.org tg-9.googlehosts.org
 104.129.16.244	104-129-16-244.googlehosts.org ss-1.googlehosts.org
 107.150.12.229	107-150-12-229.googlehosts.org ss-2.googlehosts.org
-104.223.56.187	104-223-56-187.googlehosts.org ss-3.googlehosts.org
+104.223.56.187	104-223-56-187.googlehosts.org
+155.94.137.77	155-94-137-77.googlehosts.org ss-3.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 23.32.241.16	static.ak.instagram.com
 184.51.15.69	images.ak.instagram.com
