@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-29
+# Last updated: 2018-08-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3189,6 +3189,7 @@ add address=210.129.120.42 name=chat.pixiv.net
 add address=122.208.114.218 name=blog.pixiv.net
 add address=210.129.120.43 name=embed.pixiv.net
 add address=210.129.120.44 name=comic-api.pixiv.net
+add address=210.129.120.56 name=pay.pixiv.net
 # Pixiv End
 
 # Periscope Start

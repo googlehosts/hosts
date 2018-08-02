@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-29
+# Last updated: 2018-08-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -442,6 +442,7 @@
 210.129.120.45	en.dic.pixiv.net
 52.219.68.134	dev.pixiv.net
 210.129.120.42	chat.pixiv.net
+210.129.120.56	pay.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
 35.160.65.192	channels.pscp.tv

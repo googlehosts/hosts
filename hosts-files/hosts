@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-07-29
+# Last updated: 2018-08-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3187,6 +3187,7 @@
 122.208.114.218	blog.pixiv.net
 210.129.120.43	embed.pixiv.net
 210.129.120.44	comic-api.pixiv.net
+210.129.120.56	pay.pixiv.net
 # Pixiv End
 
 # Periscope Start
