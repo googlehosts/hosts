@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-02
+# Last updated: 2018-08-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1216,27 +1216,27 @@ uploadsj.clients.google.com	172.217.162.15
 
 # Google Service:Ncr Start
 accounts.google.com	74.125.206.210
-assistant.google.com	108.177.120.94
-books.google.com	108.177.120.94
-blogsearch.google.com	108.177.120.94
-clients1.google.com	108.177.120.94
-desktop.google.com	108.177.120.94
-desktop4.google.com	108.177.120.94
-gxc.google.com	108.177.120.94
-get.google.com	108.177.120.94
-gsuite.google.com	108.177.120.94
-image.google.com	108.177.120.94
-video.google.com	108.177.120.94
-jmt17.google.com	108.177.120.94
-maps.google.com	108.177.120.94
-mobile.google.com	108.177.120.94
-news.google.com	108.177.120.94
-patents.google.com	108.177.120.94
-places.google.com	108.177.120.94
-privacy.google.com	108.177.120.94
-translate.google.com	108.177.120.94
-toolbarqueries.google.com	108.177.120.94
-scholar.google.com	74.125.206.210
+assistant.google.com	108.177.103.163
+books.google.com	108.177.103.163
+blogsearch.google.com	108.177.103.163
+clients1.google.com	108.177.103.163
+desktop.google.com	108.177.103.163
+desktop4.google.com	108.177.103.163
+gxc.google.com	108.177.103.163
+get.google.com	108.177.103.163
+gsuite.google.com	108.177.103.163
+image.google.com	108.177.103.163
+video.google.com	108.177.103.163
+jmt17.google.com	108.177.103.163
+maps.google.com	108.177.103.163
+mobile.google.com	108.177.103.163
+news.google.com	108.177.103.163
+patents.google.com	108.177.103.163
+places.google.com	108.177.103.163
+privacy.google.com	108.177.103.163
+translate.google.com	108.177.103.163
+toolbarqueries.google.com	108.177.103.163
+scholar.google.com	108.177.103.163
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
@@ -3222,6 +3222,10 @@ www.psiphon.ca	104.20.38.14
 # Ptt Start
 ptt.cc	140.112.172.1
 # Ptt End
+
+# Quora Start
+www.quora.com	192.229.189.142
+# Quora End
 
 # RawGit Start
 cdn.rawgit.com	198.232.125.81

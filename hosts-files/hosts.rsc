@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-02
+# Last updated: 2018-08-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1218,27 +1218,27 @@ add address=172.217.162.15 name=uploadsj.clients.google.com
 
 # Google Service:Ncr Start
 add address=74.125.206.210 name=accounts.google.com
-add address=108.177.120.94 name=assistant.google.com
-add address=108.177.120.94 name=books.google.com
-add address=108.177.120.94 name=blogsearch.google.com
-add address=108.177.120.94 name=clients1.google.com
-add address=108.177.120.94 name=desktop.google.com
-add address=108.177.120.94 name=desktop4.google.com
-add address=108.177.120.94 name=gxc.google.com
-add address=108.177.120.94 name=get.google.com
-add address=108.177.120.94 name=gsuite.google.com
-add address=108.177.120.94 name=image.google.com
-add address=108.177.120.94 name=video.google.com
-add address=108.177.120.94 name=jmt17.google.com
-add address=108.177.120.94 name=maps.google.com
-add address=108.177.120.94 name=mobile.google.com
-add address=108.177.120.94 name=news.google.com
-add address=108.177.120.94 name=patents.google.com
-add address=108.177.120.94 name=places.google.com
-add address=108.177.120.94 name=privacy.google.com
-add address=108.177.120.94 name=translate.google.com
-add address=108.177.120.94 name=toolbarqueries.google.com
-add address=74.125.206.210 name=scholar.google.com
+add address=108.177.103.163 name=assistant.google.com
+add address=108.177.103.163 name=books.google.com
+add address=108.177.103.163 name=blogsearch.google.com
+add address=108.177.103.163 name=clients1.google.com
+add address=108.177.103.163 name=desktop.google.com
+add address=108.177.103.163 name=desktop4.google.com
+add address=108.177.103.163 name=gxc.google.com
+add address=108.177.103.163 name=get.google.com
+add address=108.177.103.163 name=gsuite.google.com
+add address=108.177.103.163 name=image.google.com
+add address=108.177.103.163 name=video.google.com
+add address=108.177.103.163 name=jmt17.google.com
+add address=108.177.103.163 name=maps.google.com
+add address=108.177.103.163 name=mobile.google.com
+add address=108.177.103.163 name=news.google.com
+add address=108.177.103.163 name=patents.google.com
+add address=108.177.103.163 name=places.google.com
+add address=108.177.103.163 name=privacy.google.com
+add address=108.177.103.163 name=translate.google.com
+add address=108.177.103.163 name=toolbarqueries.google.com
+add address=108.177.103.163 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
@@ -3224,6 +3224,10 @@ add address=104.20.38.14 name=www.psiphon.ca
 # Ptt Start
 add address=140.112.172.1 name=ptt.cc
 # Ptt End
+
+# Quora Start
+add address=192.229.189.142 name=www.quora.com
+# Quora End
 
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com
