@@ -904,7 +904,7 @@
 108.177.96.161	ogs.google.com
 216.58.203.14	www.google.com
 108.177.103.161	id.google.com
-108.177.103.163	clients5.google.com
+74.125.204.100	clients5.google.com
 108.177.111.119	apis.google.com
 # Google Search Home End
 
@@ -1236,7 +1236,7 @@
 108.177.103.163	privacy.google.com
 108.177.103.163	translate.google.com
 108.177.103.163	toolbarqueries.google.com
-108.177.103.163	scholar.google.com
+172.217.25.4	scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
