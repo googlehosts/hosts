@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-06
+# Last updated: 2018-08-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3556,6 +3556,7 @@ add address=46.51.218.82 name=duckduckgo-owned-server.yahoo.net
 add address=119.160.242.137 name=tw.mall.yahoo.com
 add address=208.71.45.11 name=hk.search.yahoo.com
 add address=27.123.200.67 name=tw.search.yahoo.com
+add address=106.10.218.137 name=search.yahoo.com
 # Yahoo End
 
 # Youtube Start

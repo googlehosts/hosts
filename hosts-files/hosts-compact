@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-06
+# Last updated: 2018-08-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -610,6 +610,7 @@
 119.160.242.137	tw.mall.yahoo.com
 208.71.45.11	hk.search.yahoo.com
 27.123.200.67	tw.search.yahoo.com
+106.10.218.137	search.yahoo.com
 108.177.125.136	youtube.com youtu.be au.youtube.com ca.youtube.com de.youtube.com jp.youtube.com ru.youtube.com tw.youtube.com uk.youtube.com youtube-ui.l.google.com ads.youtube.com accounts.youtube.com analytics.youtube.com apiblog.youtube.com creatoracademy.youtube.com s.youtube.com gdata.youtube.com gaming.youtube.com help.youtube.com img.youtube.com insight.youtube.com stage.gdata.youtube.com tv.youtube.com www.youtube-nocookie.com i1.ytimg.com i2.ytimg.com i3.ytimg.com i4.ytimg.com i9.ytimg.com
 64.15.118.37	i.ytimg.com
 216.58.217.174	s.ytimg.com

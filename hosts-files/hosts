@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-06
+# Last updated: 2018-08-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3554,6 +3554,7 @@
 119.160.242.137	tw.mall.yahoo.com
 208.71.45.11	hk.search.yahoo.com
 27.123.200.67	tw.search.yahoo.com
+106.10.218.137	search.yahoo.com
 # Yahoo End
 
 # Youtube Start
