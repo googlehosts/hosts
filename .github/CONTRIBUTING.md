@@ -1,29 +1,64 @@
-# 关于Issues
+# 报告问题 Reporting issues
+您可以通过GitHub的[issue](https://github.com/googlehosts/hosts/issues)向我们报告问题。  
+You can report issues via GitHub's [issue](https://github.com/googlehosts/hosts/issues).
 
-你可以在GitHub的[Issues系统][issues]反馈问题或提出改进，我们也非常欢迎你的参与。
+请遵守下列事项：  
+Make sure you are following the rules below:
 
-但注意，Issues**不是**一般意义上的论坛，而是错误追踪系统，所以请认真阅读以下内容再发言，以便我们进行管理。
+- 只能使用中文或英文。  
+Only Chinese or English is allowed here.
 
-如果你要开一个新的issue，请先阅读以下注意事项：
+- 禁止一切广告、政治敏感或攻击性言论。  
+No promotions, political-sensitive or offensive contents.
 
-- 先搜索是否已经有相同的issue（你可以在[Issues页面][issues]的左上角找到搜索框）。如果发现有相同的issue，无论它是否已经被关闭，请不要开新的issue，而是在该issue下讨论（并在参与前阅读下面关于issue留言的注意事项），否则你的issue将被关闭。  
-即使你留言的issue已经被关闭，我们还是会收到通知，并在确认留言后重新开启issue。  
-**请不要开重复的issue！这不会使得我们提高对该问题的关注度，只会使增加我们维护的负担，浪费大家的时间！**
+- 除非您有合适的理由，否则请勿破坏issue预设的模板。  
+We have a issue template, but non-Chinese speakers are not required to follow it at the moment.
 
-- Issue的标题请尽量简洁地概括内容，不要使用无意义或无关的文字。
+- 禁止重复issue：具体来说，如果您想让我们向hosts内新增一个网站，请先搜索是否有相似的issue（无论状态），如果有，您就不应当再开一个issue了。对于其他情况，如果存在相似issue，且这个issue为“打开”（open）状态，您也不应当再开一个issue。如果您的issue被关闭，重新引起我们的注意的正确方式是在原issue下留言，而不是再开一个新的issue。  
+No duplicate issues: Make sure you searched for similar issue before continuing. Specifically, for HOSTS additions, you shouldn't open a new issue if a similar issue is found (status is irrelevant); for other situations, you can only open a new issue if no similar issue with open status is found. If your previous issue was closed by us, you should comment to the original issue instead of opening a new one to regain our attention on the same topic.
 
-- Issue的内容请尽量详细地描述问题，并参照下面关于在issue中留言的注意事项。
+- 禁止短时间内大量刷屏：无论您发送的内容是什么，您都不应该在短时间内大量回复同一个issue；如果您想补充内容，请善用编辑功能。  
+No double posting: You shouldn't double post in the same issue in a short period, no matter what your comment is about. Use EDIT instead.
 
-- 一般的讨论或提问请使用我们的官方Telegram群组，你可以在项目首页找到相关信息。当然，如果你因为一些原因无法使用Telegram，在Issues中讨论也是可以的。
+- 如果您只是想“顶楼上”，请使用reaction功能（即消息框右上角的笑脸符号，移动版页面不可见）。  
+If you comment just for "+1", use REACTION instead (the smile face on top-right of the comment box; invisible on mobile view).
 
-如果你要在一个issue中留言，请先阅读以下注意事项：
+- 如果您的issue中含有大量hosts条目/代码/日志等内容，请使用 ` ``` ` 将这部分内容括起来。例如：  
+If your issue contains multiple lines of HOSTS entries/codes/logs, use ` ``` ` to wrap it up. For example:
 
-- 请只讨论与当前issue标题相关的内容，其他内容请在对应的issue下讨论（如果有的话），或在阅读上面关于开新issue的注意事项后另开新issue讨论，否则你的留言可能会被删除。
+````
+```
+1.1.1.1 adc.com
+1.1.1.2 zzz.adc.com
+```
+````
 
-- 请不要在issue中发攻击性的或政治敏感的言论，否则我们会立即删除相关内容，并视情况**永久禁言**，甚至报告GitHub让他们调査并封禁你的账号。
+# 贡献 Contributing
+您可以通过GitHub的[issue](https://github.com/googlehosts/hosts/issues)或[pull request](https://github.com/googlehosts/hosts/pulls)向hosts中贡献条目。  
+You can contribute to the HOSTS file via GitHub's [issue](https://github.com/googlehosts/hosts/issues) or [pull request](https://github.com/googlehosts/hosts/pulls).
 
-- **关于hosts失效的报告请尽量提供你的测试方法、运营商、地理位置等信息，以便我们解决问题。**
+如果您使用issue，请遵守上述事项。  
+If you choose issue, please follow the rules above.
 
-- 如果你留言仅仅是为了表达“+1”、“我也是”这样的意思，而没有其他的信息提供，请点击消息框右上角的笑脸符号进行反馈，以免issue中留言过多，影响其他用户。
+如果您使用pull request，请留意以下内容：  
+If you choose pull request, read the following:
 
-[issues]: https://github.com/googlehosts/hosts/issues
+- 本项目不受理NSFW（换言之就是以成人内容为主）以及代理列表类网站。  
+We do not accept NSFW (Not Safe For Work) or proxy-list sites.
+
+- 您只能提交更改至[hosts-source](https://github.com/googlehosts/hosts/tree/hosts-source)分支。  
+You can only commit your changes against the [hosts-source](https://github.com/googlehosts/hosts/tree/hosts-source) branch.
+
+- 为了您的安全，我们建议您以 `beyondgfw <beyond.gfw.limit@gmail.com>` 的身份提交：  
+For your safety, it is suggested to use `beyondgfw <beyond.gfw.limit@gmail.com>` as the identity of your commit:
+```
+git config user.name beyondgfw
+git config user.email beyond.gfw.limit@gmail.com
+```
+
+- 请注意遵守格式，并尽可能按字母顺序排列。  
+Follow the format (and also in alphabetical order if possible).
+
+- 请避免将同一个IP用于多个不同的域名上。参见[issue #48](https://github.com/googlehosts/hosts/issues/48)。  
+Avoid using same IP for multiple domains. See [issue #48](https://github.com/googlehosts/hosts/issues/48) for details.
+
