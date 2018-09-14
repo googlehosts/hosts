@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-09
+# Last updated: 2018-09-14
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -167,6 +167,8 @@
 104.16.251.144	media.discordapp.net images-ext-2.discordapp.net
 104.16.10.231	status.discordapp.com cdn.discordapp.com
 104.16.250.144	images-ext-1.discordapp.net dl.discordapp.net
+104.20.171.49	www.discuss.com.hk m.discuss.com.hk
+104.20.170.49	tr.discuss.com.hk
 157.240.7.35	www.facebook.com fb.me facebook.com api.facebook.com apps.facebook.com attachments.facebook.com business.facebook.com bigzipfiles.facebook.com code.facebook.com check4.facebook.com check6.facebook.com connect.facebook.com d.facebook.com developers.facebook.com graph.facebook.com l.facebook.com login.facebook.com m.facebook.com mtouch.facebook.com mqtt.facebook.com mqtt-mini.facebook.com orcart.facebook.com pixel.facebook.com scontent.facebook.com ssl.facebook.com star.facebook.com secure.facebook.com staticxx.facebook.com touch.facebook.com upload.facebook.com vupload.facebook.com vupload2.facebook.com api-read.facebook.com b-api.facebook.com b-graph.facebook.com s-static.facebook.com zh-cn.facebook.com zh-tw.facebook.com edge-chat.facebook.com 0-edge-chat.facebook.com 1-edge-chat.facebook.com 2-edge-chat.facebook.com 3-edge-chat.facebook.com 4-edge-chat.facebook.com 5-edge-chat.facebook.com 6-edge-chat.facebook.com channel-ecmp-05-ash3.facebook.com channel-staging-ecmp-05-ash3.facebook.com channel-testing-ecmp-05-ash3.facebook.com beta-chat-01-05-ash3.facebook.com s-static.ak.facebook.com star.c10r.facebook.com fbcdn.net connect.facebook.net ent-a.xx.fbcdn.net ent-b.xx.fbcdn.net ent-c.xx.fbcdn.net ent-d.xx.fbcdn.net ent-e.xx.fbcdn.net scontent.xx.fbcdn.net scontent-a.xx.fbcdn.net scontent-b.xx.fbcdn.net scontent-c.xx.fbcdn.net scontent-d.xx.fbcdn.net scontent-e.xx.fbcdn.net scontent-mxp.xx.fbcdn.net scontent-a-lax.xx.fbcdn.net scontent-a-sin.xx.fbcdn.net scontent-b-lax.xx.fbcdn.net scontent-b-sin.xx.fbcdn.net static.thefacebook.com attachment.fbsbx.com messenger.com www.messenger.com 0-edge-chat.messenger.com 1-edge-chat.messenger.com 2-edge-chat.messenger.com 3-edge-chat.messenger.com 4-edge-chat.messenger.com 5-edge-chat.messenger.com 6-edge-chat.messenger.com
 31.13.95.33	snaptu-z.facebook.com snaptu-p1.facebook.com snaptu-p2.facebook.com
 31.13.95.5	edge-mqtt.facebook.com

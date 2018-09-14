@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-09
+# Last updated: 2018-09-14
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -356,6 +356,12 @@ add address=104.16.250.144 name=dl.discordapp.net
 add address=104.16.251.144 name=images-ext-2.discordapp.net
 add address=104.16.10.231 name=cdn.discordapp.com
 # Discord End
+
+# Discuss.com.hk Start
+add address=104.20.171.49 name=www.discuss.com.hk
+add address=104.20.171.49 name=m.discuss.com.hk
+add address=104.20.170.49 name=tr.discuss.com.hk
+# Discuss.com.hk End
 
 # Facebook Start
 add address=157.240.7.35 name=www.facebook.com
