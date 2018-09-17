@@ -50,7 +50,7 @@ add address=64.32.8.146 name=status.googlehosts.org
 # Akamai Start
 add address=23.32.241.9 name=a248.e.akamai.net
 add address=23.32.241.16 name=static.ak.instagram.com
-add address=184.51.15.69 name=images.ak.instagram.com
+add address=23.55.56.140 name=images.ak.instagram.com
 add address=23.2.36.161 name=s.pinimg.com
 add address=104.76.17.41 name=i.pinimg.com
 add address=23.217.143.151 name=s-media-cache-ak0.pinimg.com

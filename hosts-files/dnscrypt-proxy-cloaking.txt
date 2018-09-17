@@ -48,7 +48,7 @@ status.googlehosts.org	64.32.8.146
 # Akamai Start
 a248.e.akamai.net	23.32.241.9
 static.ak.instagram.com	23.32.241.16
-images.ak.instagram.com	184.51.15.69
+images.ak.instagram.com	23.55.56.140
 s.pinimg.com	23.2.36.161
 i.pinimg.com	104.76.17.41
 s-media-cache-ak0.pinimg.com	23.217.143.151
