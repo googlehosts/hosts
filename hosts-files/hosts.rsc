@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-14
+# Last updated: 2018-09-17
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -18,7 +18,8 @@ add address=::1 name=ip6-loopback
 
 # GoogleHosts Start
 add address=23.95.9.4 name=23-95-9-4.googlehosts.org
-add address=23.95.9.4 name=tg-1.googlehosts.org
+add address=204.44.101.36 name=204-44-101-36.googlehosts.org
+add address=204.44.101.36 name=tg-1.googlehosts.org
 add address=185.200.34.198 name=185-200-34-198.googlehosts.org
 add address=185.200.34.198 name=tg-2.googlehosts.org
 add address=107.174.205.58 name=107-174-205-58.googlehosts.org
@@ -29,8 +30,12 @@ add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
 add address=45.124.64.82 name=tg-6.googlehosts.org
-add address=185.116.237.11 name=185-116-237-11.googlehosts.org
-add address=185.116.237.11 name=tg-9.googlehosts.org
+add address=172.86.72.19 name=172-86-72-19.googlehosts.org
+add address=172.86.72.19 name=tg-7.googlehosts.org
+add address=185.122.58.249 name=185-122-58-249.googlehosts.org
+add address=185.122.58.249 name=tg-8.googlehosts.org
+add address=103.105.48.234 name=103-105-48-234.googlehosts.org
+add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
 add address=23.226.136.24 name=ss-1.googlehosts.org
 add address=23.226.136.112 name=23-226-136-112.googlehosts.org
