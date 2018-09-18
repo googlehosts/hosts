@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-17
+# Last updated: 2018-09-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -77,17 +77,17 @@
 54.240.248.163	dropship.amazon.co.jp
 54.240.254.58	cs-ext.amazon.co.jp
 54.240.252.151	endeavour.amazon.co.jp
-54.149.133.67	fls-fe.amazon.co.jp
+54.148.215.218	fls-fe.amazon.co.jp
 54.240.250.189	kdp.amazon.co.jp
 176.32.100.154	kindle-images.amazon.co.jp
-54.240.248.180	kindlepreviewservice.amazon.co.jp
+54.240.250.180	kindlepreviewservice.amazon.co.jp
 54.240.250.59	kuato.amazon.co.jp
 54.240.254.122	logistics.amazon.co.jp
 54.240.248.64	mt.amazon.co.jp
 54.240.251.157	music.amazon.co.jp
 52.94.212.221	music-xray-service.amazon.co.jp
 54.240.249.62	widgets.amazon.co.jp
-54.240.252.167	opf-sellercentral.amazon.co.jp
+54.240.250.177	opf-sellercentral.amazon.co.jp
 54.240.251.156	payments.amazon.co.jp
 54.240.250.198	prime.amazon.co.jp
 54.240.248.131	read.amazon.co.jp
