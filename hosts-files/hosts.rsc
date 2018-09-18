@@ -181,7 +181,7 @@ add address=207.241.225.186 name=web-beta.archive.org
 add address=207.241.225.186 name=wwwb-sentry.us.archive.org
 add address=207.241.225.186 name=web.archive.org
 add address=207.241.224.6 name=mail.archive.org
-add address=207.241.224.22 name=books-general.archive.org
+add address=207.241.225.247 name=books-general.archive.org
 # Archive End
 
 # Armorgames Start
