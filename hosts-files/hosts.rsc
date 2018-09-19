@@ -3454,6 +3454,13 @@ add address=138.201.14.206 name=svn.torproject.org
 add address=138.201.212.227 name=trac.torproject.org
 # Tor End
 
+# Twitch Start
+add address=151.101.66.167 name=twitch.tv
+add address=35.161.182.231 name=spade.twitch.tv
+add address=151.101.110.167 name=gql.twitch.tv
+add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
+# Twitch End
+
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
 add address=151.101.192.217 name=api.vimeo.com

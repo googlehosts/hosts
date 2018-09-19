@@ -3452,6 +3452,13 @@
 138.201.212.227	trac.torproject.org
 # Tor End
 
+# Twitch Start
+151.101.66.167	twitch.tv
+35.161.182.231	spade.twitch.tv
+151.101.110.167	gql.twitch.tv
+52.89.48.200	video-edge-aed56b.sjc02.hls.ttvnw.net
+# Twitch End
+
 # Vimeo Start
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
