@@ -3456,9 +3456,27 @@ add address=138.201.212.227 name=trac.torproject.org
 
 # Twitch Start
 add address=151.101.66.167 name=twitch.tv
-add address=35.161.182.231 name=spade.twitch.tv
+add address=54.254.167.84 name=app.twitch.tv
+add address=23.12.207.125 name=api.twitch.tv
+add address=52.4.145.119 name=blog.twitch.tv
+add address=23.12.207.125 name=cvp.twitch.tv
+add address=54.187.84.86 name=countess.twitch.tv
+add address=52.84.222.121 name=dev.twitch.tv
 add address=151.101.110.167 name=gql.twitch.tv
+add address=184.169.156.224 name=help.twitch.tv
+add address=23.12.207.125 name=player.twitch.tv
+add address=52.89.26.201 name=passport.twitch.tv
+add address=35.161.182.231 name=spade.twitch.tv
+add address=34.212.220.91 name=trowel.twitch.tv
+add address=35.185.17.162 name=music.twitch.tv
+add address=54.230.159.250 name=clips-media-assets2.twitch.tv
+add address=54.230.159.146 name=vod-storyboards.twitch.tv
+add address=34.214.98.191 name=client-event-reporter.twitch.tv
+add address=54.68.186.105 name=pubsub-edge.twitch.tv
+add address=50.112.132.198 name=irc-ws.chat.twitch.tv
 add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
+add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
+add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
 # Twitch End
 
 # Vimeo Start

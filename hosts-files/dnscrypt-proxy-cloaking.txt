@@ -3454,9 +3454,27 @@ trac.torproject.org	138.201.212.227
 
 # Twitch Start
 twitch.tv	151.101.66.167
-spade.twitch.tv	35.161.182.231
+app.twitch.tv	54.254.167.84
+api.twitch.tv	23.12.207.125
+blog.twitch.tv	52.4.145.119
+cvp.twitch.tv	23.12.207.125
+countess.twitch.tv	54.187.84.86
+dev.twitch.tv	52.84.222.121
 gql.twitch.tv	151.101.110.167
+help.twitch.tv	184.169.156.224
+player.twitch.tv	23.12.207.125
+passport.twitch.tv	52.89.26.201
+spade.twitch.tv	35.161.182.231
+trowel.twitch.tv	34.212.220.91
+music.twitch.tv	35.185.17.162
+clips-media-assets2.twitch.tv	54.230.159.250
+vod-storyboards.twitch.tv	54.230.159.146
+client-event-reporter.twitch.tv	34.214.98.191
+pubsub-edge.twitch.tv	54.68.186.105
+irc-ws.chat.twitch.tv	50.112.132.198
 video-edge-aed56b.sjc02.hls.ttvnw.net	52.89.48.200
+video-edge-db8460.sjc02.hls.ttvnw.net	35.163.203.219
+video-edge-5fbf1c.sjc02.hls.ttvnw.net	54.149.124.198
 # Twitch End
 
 # Vimeo Start
