@@ -3471,6 +3471,7 @@ add address=50.112.132.198 name=irc-ws.chat.twitch.tv
 add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
 add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
 add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
+add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
 # Twitch End
 
 # Vimeo Start

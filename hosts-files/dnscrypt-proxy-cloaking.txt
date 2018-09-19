@@ -3469,6 +3469,7 @@ irc-ws.chat.twitch.tv	50.112.132.198
 video-edge-aed56b.sjc02.hls.ttvnw.net	52.89.48.200
 video-edge-db8460.sjc02.hls.ttvnw.net	35.163.203.219
 video-edge-5fbf1c.sjc02.hls.ttvnw.net	54.149.124.198
+video-edge-87714e.sjc02.hls.ttvnw.net	52.88.54.25
 # Twitch End
 
 # Vimeo Start
