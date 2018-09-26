@@ -1,8 +1,8 @@
 # Google Hosts
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2018/first-day-of-school-2018-5501569482096640-2x.png "开学快乐!"
-[doodle-story]: https://www.google.com/doodles/first-day-of-school-2018
+[doodle]: https://www.google.com/logos/doodles/2018/googles-20th-birthday-6342583134453760-2xa.gif "Google 生日快乐!"
+[doodle-story]: https://www.google.com/doodles/googles-20th-birthday
 
 |    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
