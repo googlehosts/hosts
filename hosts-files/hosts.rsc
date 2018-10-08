@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-20
+# Last updated: 2018-10-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -11,9 +11,6 @@
 
 # Localhost (DO NOT REMOVE) Start
 add address=127.0.0.1 name=localhost
-add address=::1 name=localhost
-add address=::1 name=ip6-localhost
-add address=::1 name=ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
 # GoogleHosts Start
@@ -43,8 +40,6 @@ add address=23.226.136.112 name=ss-2.googlehosts.org
 add address=104.223.56.187 name=104-223-56-187.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 add address=23.226.136.216 name=ss-3.googlehosts.org
-add address=64.32.8.146 name=64-32-8-146.googlehosts.org
-add address=64.32.8.146 name=status.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
@@ -3452,10 +3447,12 @@ add address=138.201.212.227 name=trac.torproject.org
 add address=151.101.66.167 name=twitch.tv
 add address=54.254.167.84 name=app.twitch.tv
 add address=23.12.207.125 name=api.twitch.tv
+add address=54.200.101.68 name=badges.twitch.tv
 add address=52.4.145.119 name=blog.twitch.tv
 add address=23.12.207.125 name=cvp.twitch.tv
 add address=54.187.84.86 name=countess.twitch.tv
 add address=52.84.222.121 name=dev.twitch.tv
+add address=52.39.89.40 name=discuss.dev.twitch.tv
 add address=151.101.110.167 name=gql.twitch.tv
 add address=184.169.156.224 name=help.twitch.tv
 add address=23.12.207.125 name=player.twitch.tv
@@ -3463,6 +3460,7 @@ add address=52.89.26.201 name=passport.twitch.tv
 add address=35.161.182.231 name=spade.twitch.tv
 add address=34.212.220.91 name=trowel.twitch.tv
 add address=35.185.17.162 name=music.twitch.tv
+add address=54.69.142.1 name=spade.sci.twitch.tv
 add address=54.230.159.250 name=clips-media-assets2.twitch.tv
 add address=54.230.159.146 name=vod-storyboards.twitch.tv
 add address=34.214.98.191 name=client-event-reporter.twitch.tv
@@ -3472,6 +3470,7 @@ add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
 add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
 add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
 add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
+add address=54.187.95.61 name=video-edge-f9215f.sjc02.hls.ttvnw.net
 # Twitch End
 
 # Vimeo Start

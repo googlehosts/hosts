@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-20
+# Last updated: 2018-10-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -9,9 +9,6 @@
 
 # Localhost (DO NOT REMOVE) Start
 localhost	127.0.0.1
-localhost	::1
-ip6-localhost	::1
-ip6-loopback	::1
 # Localhost (DO NOT REMOVE) End
 
 # GoogleHosts Start
@@ -41,8 +38,6 @@ ss-2.googlehosts.org	23.226.136.112
 104-223-56-187.googlehosts.org	104.223.56.187
 23-226-136-216.googlehosts.org	23.226.136.216
 ss-3.googlehosts.org	23.226.136.216
-64-32-8-146.googlehosts.org	64.32.8.146
-status.googlehosts.org	64.32.8.146
 # GoogleHosts End
 
 # Akamai Start
@@ -3450,10 +3445,12 @@ trac.torproject.org	138.201.212.227
 twitch.tv	151.101.66.167
 app.twitch.tv	54.254.167.84
 api.twitch.tv	23.12.207.125
+badges.twitch.tv	54.200.101.68
 blog.twitch.tv	52.4.145.119
 cvp.twitch.tv	23.12.207.125
 countess.twitch.tv	54.187.84.86
 dev.twitch.tv	52.84.222.121
+discuss.dev.twitch.tv	52.39.89.40
 gql.twitch.tv	151.101.110.167
 help.twitch.tv	184.169.156.224
 player.twitch.tv	23.12.207.125
@@ -3461,6 +3458,7 @@ passport.twitch.tv	52.89.26.201
 spade.twitch.tv	35.161.182.231
 trowel.twitch.tv	34.212.220.91
 music.twitch.tv	35.185.17.162
+spade.sci.twitch.tv	54.69.142.1
 clips-media-assets2.twitch.tv	54.230.159.250
 vod-storyboards.twitch.tv	54.230.159.146
 client-event-reporter.twitch.tv	34.214.98.191
@@ -3470,6 +3468,7 @@ video-edge-aed56b.sjc02.hls.ttvnw.net	52.89.48.200
 video-edge-db8460.sjc02.hls.ttvnw.net	35.163.203.219
 video-edge-5fbf1c.sjc02.hls.ttvnw.net	54.149.124.198
 video-edge-87714e.sjc02.hls.ttvnw.net	52.88.54.25
+video-edge-f9215f.sjc02.hls.ttvnw.net	54.187.95.61
 # Twitch End
 
 # Vimeo Start
