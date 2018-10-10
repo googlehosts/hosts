@@ -190,7 +190,7 @@
 # Arukas End
 
 # Bandwagonhost Start
-104.20.6.63	bandwagonhost.com
+104.20.7.63	bandwagonhost.com
 # Bandwagonhost End
 
 # Bbc Start
@@ -254,9 +254,9 @@
 
 # Conoha Start
 157.7.225.122	cp.conoha.jp
-103.3.190.48	www.conoha.jp
-157.7.225.117	app.conoha.jp
-157.7.225.120	manage.conoha.jp
+150.95.236.28	www.conoha.jp
+150.95.236.52	app.conoha.jp
+150.95.236.31	manage.conoha.jp
 # Conoha End
 
 # Dropbox Start

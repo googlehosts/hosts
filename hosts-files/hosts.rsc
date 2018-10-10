@@ -192,7 +192,7 @@ add address=27.133.136.8 name=app.arukas.io
 # Arukas End
 
 # Bandwagonhost Start
-add address=104.20.6.63 name=bandwagonhost.com
+add address=104.20.7.63 name=bandwagonhost.com
 # Bandwagonhost End
 
 # Bbc Start
@@ -256,9 +256,9 @@ add address=172.217.31.96 name=embed.culturalspot.org
 
 # Conoha Start
 add address=157.7.225.122 name=cp.conoha.jp
-add address=103.3.190.48 name=www.conoha.jp
-add address=157.7.225.117 name=app.conoha.jp
-add address=157.7.225.120 name=manage.conoha.jp
+add address=150.95.236.28 name=www.conoha.jp
+add address=150.95.236.52 name=app.conoha.jp
+add address=150.95.236.31 name=manage.conoha.jp
 # Conoha End
 
 # Dropbox Start
