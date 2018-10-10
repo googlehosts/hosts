@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-09
+# Last updated: 2018-10-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1244,7 +1244,7 @@ add address=108.177.103.163 name=places.google.com
 add address=108.177.103.163 name=privacy.google.com
 add address=108.177.103.163 name=translate.google.com
 add address=108.177.103.163 name=toolbarqueries.google.com
-add address=172.217.25.4 name=scholar.google.com
+add address=216.58.194.223 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start

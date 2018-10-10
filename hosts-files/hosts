@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-09
+# Last updated: 2018-10-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1242,7 +1242,7 @@
 108.177.103.163	privacy.google.com
 108.177.103.163	translate.google.com
 108.177.103.163	toolbarqueries.google.com
-172.217.25.4	scholar.google.com
+216.58.194.223	scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
