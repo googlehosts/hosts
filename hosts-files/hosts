@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-10
+# Last updated: 2018-10-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -266,27 +266,27 @@
 162.125.5.7	api.dropbox.com
 162.125.5.7	api.dualstack.dropbox-dns.com
 162.125.5.7	api.dropboxapi.com
-162.125.32.135	api-d.dropbox.com
-162.125.32.13	api.v.dropbox.com
-162.125.32.13	api-notify.dropbox.com
-54.230.86.72	aem.dropbox.com
+162.125.33.7	api-d.dropbox.com
+162.125.34.7	api.v.dropbox.com
+162.125.34.7	api-notify.dropbox.com
+54.192.145.52	aem.dropbox.com
 162.125.82.8	api-content.dropbox.com
 162.125.82.5	api-content-photos.dropbox.com
 52.222.238.253	blogs.dropbox.com
-162.125.32.2	block.dropbox.com
+162.125.17.132	block.dropbox.com
 162.125.17.5	block.v.dropbox.com
 162.125.18.133	bolt.dropbox.com
-162.125.2.3	client.dropbox.com
-162.125.2.3	client-cf.dropbox.com
-162.125.32.12	client.v.dropbox.com
+162.125.65.3	client.dropbox.com
+162.125.65.3	client-cf.dropbox.com
+162.125.32.137	client.v.dropbox.com
 162.125.80.3	client-lb.dropbox.com
 162.125.80.3	client-web.dropbox.com
-162.125.32.5	d.dropbox.com
-162.125.32.5	d.v.dropbox.com
-162.125.2.6	dl.dropbox.com
-162.125.2.6	dl-web.dropbox.com
-162.125.80.6	dl-doc.dropbox.com
-34.197.94.108	dl-debug.dropbox.com
+162.125.32.135	d.dropbox.com
+162.125.32.135	d.v.dropbox.com
+162.125.83.6	dl.dropbox.com
+162.125.83.6	dl-web.dropbox.com
+162.125.83.6	dl-doc.dropbox.com
+54.236.121.227	dl-debug.dropbox.com
 52.85.12.7	forums.dropbox.com
 54.192.136.115	linux.dropbox.com
 162.125.32.9	m.dropbox.com

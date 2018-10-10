@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-10
+# Last updated: 2018-10-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -268,27 +268,27 @@ add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
 add address=162.125.5.7 name=api.dropbox.com
 add address=162.125.5.7 name=api.dualstack.dropbox-dns.com
 add address=162.125.5.7 name=api.dropboxapi.com
-add address=162.125.32.135 name=api-d.dropbox.com
-add address=162.125.32.13 name=api.v.dropbox.com
-add address=162.125.32.13 name=api-notify.dropbox.com
-add address=54.230.86.72 name=aem.dropbox.com
+add address=162.125.33.7 name=api-d.dropbox.com
+add address=162.125.34.7 name=api.v.dropbox.com
+add address=162.125.34.7 name=api-notify.dropbox.com
+add address=54.192.145.52 name=aem.dropbox.com
 add address=162.125.82.8 name=api-content.dropbox.com
 add address=162.125.82.5 name=api-content-photos.dropbox.com
 add address=52.222.238.253 name=blogs.dropbox.com
-add address=162.125.32.2 name=block.dropbox.com
+add address=162.125.17.132 name=block.dropbox.com
 add address=162.125.17.5 name=block.v.dropbox.com
 add address=162.125.18.133 name=bolt.dropbox.com
-add address=162.125.2.3 name=client.dropbox.com
-add address=162.125.2.3 name=client-cf.dropbox.com
-add address=162.125.32.12 name=client.v.dropbox.com
+add address=162.125.65.3 name=client.dropbox.com
+add address=162.125.65.3 name=client-cf.dropbox.com
+add address=162.125.32.137 name=client.v.dropbox.com
 add address=162.125.80.3 name=client-lb.dropbox.com
 add address=162.125.80.3 name=client-web.dropbox.com
-add address=162.125.32.5 name=d.dropbox.com
-add address=162.125.32.5 name=d.v.dropbox.com
-add address=162.125.2.6 name=dl.dropbox.com
-add address=162.125.2.6 name=dl-web.dropbox.com
-add address=162.125.80.6 name=dl-doc.dropbox.com
-add address=34.197.94.108 name=dl-debug.dropbox.com
+add address=162.125.32.135 name=d.dropbox.com
+add address=162.125.32.135 name=d.v.dropbox.com
+add address=162.125.83.6 name=dl.dropbox.com
+add address=162.125.83.6 name=dl-web.dropbox.com
+add address=162.125.83.6 name=dl-doc.dropbox.com
+add address=54.236.121.227 name=dl-debug.dropbox.com
 add address=52.85.12.7 name=forums.dropbox.com
 add address=54.192.136.115 name=linux.dropbox.com
 add address=162.125.32.9 name=m.dropbox.com
