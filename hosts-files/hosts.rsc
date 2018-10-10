@@ -1016,7 +1016,6 @@ add address=74.125.206.210 name=landing.google.com
 add address=74.125.206.210 name=maven.google.com
 add address=74.125.206.210 name=material.google.com
 add address=74.125.206.210 name=mapsengine.google.com
-add address=74.125.206.210 name=myaccount.google.com
 add address=74.125.206.210 name=myactivity.google.com
 add address=74.125.206.210 name=notifications.google.com
 add address=74.125.206.210 name=opensource.google.com
@@ -1223,7 +1222,8 @@ add address=172.217.162.15 name=uploadsj.clients.google.com
 # Google Service End
 
 # Google Service:Ncr Start
-add address=74.125.206.210 name=accounts.google.com
+add address=216.58.204.169 name=accounts.google.com
+add address=216.58.204.171 name=myaccount.google.com
 add address=108.177.103.163 name=assistant.google.com
 add address=108.177.103.163 name=books.google.com
 add address=108.177.103.163 name=blogsearch.google.com

@@ -1014,7 +1014,6 @@
 74.125.206.210	maven.google.com
 74.125.206.210	material.google.com
 74.125.206.210	mapsengine.google.com
-74.125.206.210	myaccount.google.com
 74.125.206.210	myactivity.google.com
 74.125.206.210	notifications.google.com
 74.125.206.210	opensource.google.com
@@ -1221,7 +1220,8 @@
 # Google Service End
 
 # Google Service:Ncr Start
-74.125.206.210	accounts.google.com
+216.58.204.169	accounts.google.com
+216.58.204.171	myaccount.google.com
 108.177.103.163	assistant.google.com
 108.177.103.163	books.google.com
 108.177.103.163	blogsearch.google.com
