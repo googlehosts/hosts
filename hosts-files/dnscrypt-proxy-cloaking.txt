@@ -263,9 +263,9 @@ manage.conoha.jp	150.95.236.31
 db.tt	162.125.248.2
 www.dropbox.com	162.125.248.1
 www.dualstack.dropbox-dns.com	162.125.248.1
-api.dropbox.com	162.125.248.1
-api.dualstack.dropbox-dns.com	162.125.248.1
-api.dropboxapi.com	162.125.248.1
+api.dropbox.com	162.125.5.7
+api.dualstack.dropbox-dns.com	162.125.5.7
+api.dropboxapi.com	162.125.5.7
 api-d.dropbox.com	162.125.32.135
 api.v.dropbox.com	162.125.32.13
 api-notify.dropbox.com	162.125.32.13

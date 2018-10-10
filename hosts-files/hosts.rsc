@@ -265,9 +265,9 @@ add address=150.95.236.31 name=manage.conoha.jp
 add address=162.125.248.2 name=db.tt
 add address=162.125.248.1 name=www.dropbox.com
 add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
-add address=162.125.248.1 name=api.dropbox.com
-add address=162.125.248.1 name=api.dualstack.dropbox-dns.com
-add address=162.125.248.1 name=api.dropboxapi.com
+add address=162.125.5.7 name=api.dropbox.com
+add address=162.125.5.7 name=api.dualstack.dropbox-dns.com
+add address=162.125.5.7 name=api.dropboxapi.com
 add address=162.125.32.135 name=api-d.dropbox.com
 add address=162.125.32.13 name=api.v.dropbox.com
 add address=162.125.32.13 name=api-notify.dropbox.com
