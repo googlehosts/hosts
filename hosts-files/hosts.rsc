@@ -101,7 +101,7 @@ add address=216.58.215.54 name=dev.android.com
 add address=216.58.215.54 name=market.android.com
 add address=216.58.215.54 name=r.android.com
 add address=216.58.223.214 name=android.com
-add address=216.58.215.118 name=www.android.com
+add address=216.58.204.221 name=www.android.com
 add address=172.217.17.22 name=source.android.com
 add address=172.217.16.246 name=developer.android.com
 # Android End
