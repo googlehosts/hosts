@@ -921,6 +921,7 @@ add address=216.239.34.21 name=blog.google
 add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
+add address=216.58.204.175 name=dns.google.com
 add address=74.125.206.210 name=aboutme.google.com
 add address=74.125.206.210 name=ads.google.com
 add address=74.125.206.210 name=abc.xyz
@@ -963,7 +964,6 @@ add address=74.125.206.210 name=desktop2.google.com
 add address=74.125.206.210 name=desktop3.google.com
 add address=74.125.206.210 name=desktop5.google.com
 add address=74.125.206.210 name=desktop6.google.com
-add address=74.125.206.210 name=dns.google.com
 add address=74.125.206.210 name=docs0.google.com
 add address=74.125.206.210 name=docs1.google.com
 add address=74.125.206.210 name=docs2.google.com

@@ -919,6 +919,7 @@
 216.239.38.21	environment.google
 172.217.161.182	domains.google
 64.15.126.100	domains.google.com
+216.58.204.175	dns.google.com
 74.125.206.210	aboutme.google.com
 74.125.206.210	ads.google.com
 74.125.206.210	abc.xyz
@@ -961,7 +962,6 @@
 74.125.206.210	desktop3.google.com
 74.125.206.210	desktop5.google.com
 74.125.206.210	desktop6.google.com
-74.125.206.210	dns.google.com
 74.125.206.210	docs0.google.com
 74.125.206.210	docs1.google.com
 74.125.206.210	docs2.google.com
