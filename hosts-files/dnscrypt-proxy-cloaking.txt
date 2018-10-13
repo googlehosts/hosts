@@ -101,7 +101,7 @@ r.android.com	216.58.215.54
 android.com	108.177.127.136
 www.android.com	216.58.204.221
 source.android.com	216.58.204.174
-developer.android.com	216.58.204.182
+developer.android.com	108.177.127.100
 # Android End
 
 # Apkpure Start

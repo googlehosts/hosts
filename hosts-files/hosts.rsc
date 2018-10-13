@@ -103,7 +103,7 @@ add address=216.58.215.54 name=r.android.com
 add address=108.177.127.136 name=android.com
 add address=216.58.204.221 name=www.android.com
 add address=216.58.204.174 name=source.android.com
-add address=216.58.204.182 name=developer.android.com
+add address=108.177.127.100 name=developer.android.com
 # Android End
 
 # Apkpure Start
