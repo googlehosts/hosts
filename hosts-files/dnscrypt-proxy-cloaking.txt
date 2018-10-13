@@ -910,7 +910,7 @@ ogs.google.com	108.177.96.161
 www.google.com	216.58.203.14
 id.google.com	108.177.103.161
 clients5.google.com	74.125.204.100
-apis.google.com	108.177.111.119
+apis.google.com	108.177.127.99
 # Google Search Home End
 
 # Google Service Start
