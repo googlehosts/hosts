@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-11
+# Last updated: 2018-10-14
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -33,8 +33,8 @@
 103.105.48.234	tg-9.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org
 23.226.136.24	ss-1.googlehosts.org
-23.226.136.112	23-226-136-112.googlehosts.org
-23.226.136.112	ss-2.googlehosts.org
+23.226.136.132	23-226-136-132.googlehosts.org
+23.226.136.132	ss-2.googlehosts.org
 104.223.56.187	104-223-56-187.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org
 23.226.136.216	ss-3.googlehosts.org
@@ -98,10 +98,10 @@
 216.58.215.54	dev.android.com
 216.58.215.54	market.android.com
 216.58.215.54	r.android.com
-216.58.223.214	android.com
+108.177.127.136	android.com
 216.58.204.221	www.android.com
-172.217.17.22	source.android.com
-172.217.16.246	developer.android.com
+216.58.204.174	source.android.com
+216.58.204.182	developer.android.com
 # Android End
 
 # Apkpure Start
@@ -497,8 +497,8 @@
 172.217.168.37	m.gmail.com
 74.125.132.160	m.googlemail.com
 108.177.122.161	gmail.google.com
-172.217.168.197	mail.google.com
-172.217.168.5	inbox.google.com
+108.177.127.18	mail.google.com
+108.177.127.17	inbox.google.com
 172.217.168.7	chatenabled.mail.google.com
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com

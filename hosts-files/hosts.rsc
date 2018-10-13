@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-11
+# Last updated: 2018-10-14
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -35,8 +35,8 @@ add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
 add address=23.226.136.24 name=ss-1.googlehosts.org
-add address=23.226.136.112 name=23-226-136-112.googlehosts.org
-add address=23.226.136.112 name=ss-2.googlehosts.org
+add address=23.226.136.132 name=23-226-136-132.googlehosts.org
+add address=23.226.136.132 name=ss-2.googlehosts.org
 add address=104.223.56.187 name=104-223-56-187.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 add address=23.226.136.216 name=ss-3.googlehosts.org
@@ -100,10 +100,10 @@ add address=216.58.215.54 name=d.android.com
 add address=216.58.215.54 name=dev.android.com
 add address=216.58.215.54 name=market.android.com
 add address=216.58.215.54 name=r.android.com
-add address=216.58.223.214 name=android.com
+add address=108.177.127.136 name=android.com
 add address=216.58.204.221 name=www.android.com
-add address=172.217.17.22 name=source.android.com
-add address=172.217.16.246 name=developer.android.com
+add address=216.58.204.174 name=source.android.com
+add address=216.58.204.182 name=developer.android.com
 # Android End
 
 # Apkpure Start
@@ -499,8 +499,8 @@ add address=216.58.215.231 name=mail-settings.google.com
 add address=172.217.168.37 name=m.gmail.com
 add address=74.125.132.160 name=m.googlemail.com
 add address=108.177.122.161 name=gmail.google.com
-add address=172.217.168.197 name=mail.google.com
-add address=172.217.168.5 name=inbox.google.com
+add address=108.177.127.18 name=mail.google.com
+add address=108.177.127.17 name=inbox.google.com
 add address=172.217.168.7 name=chatenabled.mail.google.com
 add address=172.217.168.71 name=filetransferenabled.mail.google.com
 add address=172.217.168.39 name=isolated.mail.google.com
