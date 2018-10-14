@@ -2759,6 +2759,14 @@ add address=52.36.140.12 name=pubnub.com
 add address=216.58.200.243 name=www.humblebundle.com
 # HumbleBundle End
 
+# Hkjc Start
+add address=101.78.207.166 name=www.hkjc.com
+add address=203.82.9.18 name=bet.hkjc.com
+add address=101.78.207.157 name=common.hkjc.com
+add address=203.86.162.153 name=search.hkjc.com
+add address=101.78.207.158 name=football.hkjc.com
+# Hkjc End
+
 # imgur Start
 add address=151.101.100.193 name=imgur.com
 add address=151.101.100.193 name=m.imgur.com

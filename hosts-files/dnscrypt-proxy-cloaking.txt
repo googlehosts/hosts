@@ -2757,6 +2757,14 @@ pubnub.com	52.36.140.12
 www.humblebundle.com	216.58.200.243
 # HumbleBundle End
 
+# Hkjc Start
+www.hkjc.com	101.78.207.166
+bet.hkjc.com	203.82.9.18
+common.hkjc.com	101.78.207.157
+search.hkjc.com	203.86.162.153
+football.hkjc.com	101.78.207.158
+# Hkjc End
+
 # imgur Start
 imgur.com	151.101.100.193
 m.imgur.com	151.101.100.193
