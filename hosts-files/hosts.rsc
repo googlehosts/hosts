@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-14
+# Last updated: 2018-10-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1139,7 +1139,7 @@ add address=172.217.166.75 name=mobile.l.google.com
 add address=173.194.70.125 name=hangouts.google.com
 add address=74.125.197.115 name=checkout.google.com
 add address=64.15.126.80 name=drive.google.com
-add address=64.233.168.162 name=ipv4.google.com
+add address=108.177.127.133 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
@@ -2745,7 +2745,7 @@ add address=211.20.148.228 name=hichannel.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=52.54.44.125 name=id.heroku.com
+add address=34.200.95.135 name=id.heroku.com
 # Heroku End
 
 # HumbleBundle Start

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-14
+# Last updated: 2018-10-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1137,7 +1137,7 @@
 173.194.70.125	hangouts.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.233.168.162	ipv4.google.com
+108.177.127.133	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
 108.177.125.189	2.client-channel.google.com
@@ -2743,7 +2743,7 @@
 # Hinet End
 
 # Heroku Start
-52.54.44.125	id.heroku.com
+34.200.95.135	id.heroku.com
 # Heroku End
 
 # HumbleBundle Start
