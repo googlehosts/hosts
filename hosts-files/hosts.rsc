@@ -191,6 +191,10 @@ add address=192.229.173.251 name=quests.armorgames.com
 add address=27.133.136.8 name=app.arukas.io
 # Arukas End
 
+# Avira Start
+add address=54.93.111.68 name=search.avira.com
+# Avira End
+
 # Bandwagonhost Start
 add address=104.20.7.63 name=bandwagonhost.com
 # Bandwagonhost End
