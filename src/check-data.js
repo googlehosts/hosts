@@ -35,7 +35,7 @@ module.exports = function (data) {
 						checkType(item, 'comment', 'string')
 					} else {
 						if (checkType(item, 'ip', 'string')) {
-							if (!ip.isV4Format(item.ip) && !ip.isV6Format(item.ip)) {
+							if (!ip.isV4Format(item.ip)) {
 								console.error(`Invalid IP address: \x1b[31m${item.ip}\x1b[0m.`);
 								ok = false;
 							}
