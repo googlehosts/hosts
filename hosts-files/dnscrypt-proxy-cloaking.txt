@@ -364,6 +364,10 @@ m.discuss.com.hk	104.20.171.49
 tr.discuss.com.hk	104.20.170.49
 # Discuss.com.hk End
 
+# Dynu Start
+www.dynu.com	207.38.70.29
+# Dynu End
+
 # Facebook Start
 www.facebook.com	157.240.7.35
 fb.me	157.240.7.35

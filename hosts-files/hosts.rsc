@@ -366,6 +366,10 @@ add address=104.20.171.49 name=m.discuss.com.hk
 add address=104.20.170.49 name=tr.discuss.com.hk
 # Discuss.com.hk End
 
+# Dynu Start
+add address=207.38.70.29 name=www.dynu.com
+# Dynu End
+
 # Facebook Start
 add address=157.240.7.35 name=www.facebook.com
 add address=157.240.7.35 name=fb.me
