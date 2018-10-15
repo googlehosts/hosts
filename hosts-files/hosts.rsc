@@ -3489,6 +3489,7 @@ add address=50.112.132.198 name=irc-ws.chat.twitch.tv
 add address=52.42.180.194 name=video-edge-3d9f56.sjc02.hls.ttvnw.net
 add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
 add address=52.43.201.49 name=video-edge-5835af.sjc02.hls.ttvnw.net
+add address=54.187.252.230 name=video-edge-6c67c0.sjc02.hls.ttvnw.net
 add address=52.40.222.98 name=video-edge-75ad0a.sjc02.hls.ttvnw.net
 add address=52.43.168.169 name=video-edge-8e57c7.sjc02.hls.ttvnw.net
 add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
