@@ -3486,10 +3486,15 @@ add address=54.230.159.146 name=vod-storyboards.twitch.tv
 add address=34.214.98.191 name=client-event-reporter.twitch.tv
 add address=54.68.186.105 name=pubsub-edge.twitch.tv
 add address=50.112.132.198 name=irc-ws.chat.twitch.tv
+add address=52.42.180.194 name=video-edge-3d9f56.sjc02.hls.ttvnw.net
+add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
+add address=52.43.201.49 name=video-edge-5835af.sjc02.hls.ttvnw.net
+add address=52.40.222.98 name=video-edge-75ad0a.sjc02.hls.ttvnw.net
+add address=52.43.168.169 name=video-edge-8e57c7.sjc02.hls.ttvnw.net
+add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
 add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
 add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
-add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
-add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
+add address=54.148.18.99 name=video-edge-e0871b.sjc02.hls.ttvnw.net
 add address=54.187.95.61 name=video-edge-f9215f.sjc02.hls.ttvnw.net
 # Twitch End
 
