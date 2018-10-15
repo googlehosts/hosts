@@ -1137,11 +1137,11 @@ add address=74.125.206.210 name=safebrowsing.clients.google.com
 add address=74.125.206.210 name=safebrowsing-cache.google.com
 add address=74.125.206.210 name=sandbox.google.com
 add address=74.125.206.210 name=googleapis.sandbox.google.com
-add address=74.125.206.210 name=sites.google.com
 add address=74.125.206.210 name=surveys.google.com
 add address=74.125.206.210 name=sketchup.google.com
 add address=74.125.206.210 name=tagmanager.google.com
 add address=74.125.206.210 name=talkgadget.google.com
+add address=172.217.27.206 name=sites.google.com
 add address=172.217.166.75 name=m.google.com
 add address=172.217.166.75 name=mobile.l.google.com
 add address=173.194.70.125 name=hangouts.google.com
