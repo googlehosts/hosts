@@ -3491,6 +3491,10 @@ video-edge-87714e.sjc02.hls.ttvnw.net	52.88.54.25
 video-edge-f9215f.sjc02.hls.ttvnw.net	54.187.95.61
 # Twitch End
 
+# Twitter Start
+pbs.twimg.com	117.18.237.70
+# Twitter End
+
 # Vimeo Start
 vimeo.com	151.101.0.217
 api.vimeo.com	151.101.192.217

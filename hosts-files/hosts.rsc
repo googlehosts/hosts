@@ -3493,6 +3493,10 @@ add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
 add address=54.187.95.61 name=video-edge-f9215f.sjc02.hls.ttvnw.net
 # Twitch End
 
+# Twitter Start
+add address=117.18.237.70 name=pbs.twimg.com
+# Twitter End
+
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
 add address=151.101.192.217 name=api.vimeo.com
