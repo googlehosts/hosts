@@ -3069,6 +3069,11 @@ add address=23.211.98.191 name=obs.line-scdn.net
 add address=2.17.56.25 name=profile.line-scdn.net
 # Line End
 
+# Lihkg Start
+add address=104.24.15.103 name=lihkg.com
+add address=104.24.16.103 name=x.lihkg.com
+# Lihkg End
+
 # MEGA Start
 add address=31.216.148.12 name=mega.nz
 # MEGA End
