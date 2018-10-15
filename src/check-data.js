@@ -1,5 +1,6 @@
 var assert = require('assert');
-var ip = require('ip');
+var validator = require('is-my-ip-valid');
+var validate4 = validator({ version: 4 })
 var set = {};
 var ok = true;
 function checkType(obj, propName, typeName) {
@@ -35,7 +36,7 @@ module.exports = function (data) {
 						checkType(item, 'comment', 'string')
 					} else {
 						if (checkType(item, 'ip', 'string')) {
-							if (!ip.isV4Format(item.ip)) {
+							if (!validate4(item.ip)) {
 								console.error(`Invalid IP address: \x1b[31m${item.ip}\x1b[0m.`);
 								ok = false;
 							}
