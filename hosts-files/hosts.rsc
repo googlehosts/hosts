@@ -3607,6 +3607,7 @@ add address=119.160.242.137 name=tw.mall.yahoo.com
 add address=208.71.45.11 name=hk.search.yahoo.com
 add address=27.123.200.67 name=tw.search.yahoo.com
 add address=106.10.218.137 name=search.yahoo.com
+add address=182.22.25.124 name=search.yahoo.co.jp
 # Yahoo End
 
 # Youtube Start
