@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-15
+# Last updated: 2018-10-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -335,15 +335,15 @@ add address=151.101.24.134 name=dropbox.disqus.com
 add address=151.101.24.134 name=nytchinese.disqus.com
 add address=151.101.24.64 name=glitter.services.disqus.com
 add address=151.101.52.64 name=links.services.disqus.com
-add address=173.192.82.196 name=realtime.services.disqus.com
-add address=50.18.252.168 name=help.disqus.com
+add address=169.44.99.100 name=realtime.services.disqus.com
+add address=151.101.120.134 name=help.disqus.com
 add address=151.101.52.134 name=content.disqus.com
 add address=151.101.52.134 name=referrer.disqus.com
 add address=151.101.40.134 name=docs.disqus.com
 add address=151.101.40.134 name=apkpure.disqus.com
-add address=96.7.54.196 name=about.disqus.com
-add address=96.7.54.200 name=blog.disqus.com
-add address=96.7.54.198 name=publishers.disqus.com
+add address=104.17.135.180 name=about.disqus.com
+add address=104.17.136.180 name=blog.disqus.com
+add address=104.17.134.180 name=publishers.disqus.com
 add address=104.16.80.166 name=c.disquscdn.com
 add address=151.101.26.49 name=a.disquscdn.com
 # Disqus End
@@ -653,13 +653,11 @@ add address=173.194.198.82 name=android.googlesource.com
 # Google Code End
 
 # Google Country Start
-add address=216.58.200.23 name=com.google
 add address=216.58.200.23 name=google.ac
 add address=216.58.200.23 name=google.ad
 add address=216.58.200.23 name=google.ae
 add address=216.58.200.23 name=google.af
 add address=216.58.200.23 name=google.ag
-add address=216.58.200.23 name=google.ai
 add address=216.58.200.23 name=google.al
 add address=216.58.200.23 name=google.am
 add address=216.58.200.23 name=google.as
@@ -724,11 +722,9 @@ add address=216.58.200.23 name=google.dz
 add address=216.58.200.23 name=google.ec
 add address=216.58.200.23 name=google.ee
 add address=216.58.200.23 name=google.es
-add address=216.58.200.23 name=google.eg
 add address=216.58.200.23 name=google.hk
 add address=216.58.200.23 name=google.mx
 add address=216.58.200.23 name=google.ng
-add address=216.58.200.23 name=google.ni
 add address=216.58.200.23 name=google.ph
 add address=216.58.200.23 name=google.pk
 add address=216.58.200.23 name=google.pl
@@ -740,7 +736,6 @@ add address=216.58.200.23 name=google.ro
 add address=216.58.200.23 name=google.rs
 add address=216.58.200.23 name=google.ru
 add address=216.58.200.23 name=google.rw
-add address=216.58.200.23 name=google.sa
 add address=216.58.200.23 name=google.sc
 add address=216.58.200.23 name=google.se
 add address=216.58.200.23 name=google.sh
@@ -762,7 +757,6 @@ add address=216.58.200.23 name=google.tn
 add address=216.58.200.23 name=google.to
 add address=216.58.200.23 name=google.tt
 add address=216.58.200.23 name=google.ua
-add address=216.58.200.23 name=google.uy
 add address=216.58.200.23 name=google.vg
 add address=216.58.200.23 name=google.vn
 add address=216.58.200.23 name=google.vu
@@ -781,7 +775,6 @@ add address=216.58.200.23 name=google.com.br
 add address=216.58.200.23 name=google.com.by
 add address=216.58.200.23 name=google.com.bz
 add address=216.58.200.23 name=google.com.co
-add address=216.58.200.23 name=google.com.co.jp
 add address=216.58.200.23 name=google.com.cu
 add address=216.58.200.23 name=google.com.cy
 add address=216.58.200.23 name=google.com.do
