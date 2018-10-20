@@ -36,8 +36,9 @@ tg-9.googlehosts.org	103.105.48.234
 ss-2.googlehosts.org	23.226.136.132
 104-129-16-244.googlehosts.org	104.129.16.244
 ss-1.googlehosts.org	104.129.16.244
+155-94-137-77.googlehosts.org	155.94.137.77
+ss-3.googlehosts.org	155.94.137.77
 23-226-136-216.googlehosts.org	23.226.136.216
-ss-3.googlehosts.org	23.226.136.216
 # GoogleHosts End
 
 # Akamai Start
