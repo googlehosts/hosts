@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-16
+# Last updated: 2018-10-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -517,6 +517,11 @@ add address=172.217.168.39 name=isolated.mail.google.com
 # Gmx Start
 add address=82.165.230.43 name=search.gmx.com
 # Gmx End
+
+# Goodreads Start
+add address=176.32.103.89 name=www.goodreads.com
+add address=176.32.102.212 name=ads.goodreads.com
+# Goodreads End
 
 # Google Apis Start
 add address=172.217.168.202 name=www.googleapis.com

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-16
+# Last updated: 2018-10-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -515,6 +515,11 @@
 # Gmx Start
 82.165.230.43	search.gmx.com
 # Gmx End
+
+# Goodreads Start
+176.32.103.89	www.goodreads.com
+176.32.102.212	ads.goodreads.com
+# Goodreads End
 
 # Google Apis Start
 172.217.168.202	www.googleapis.com
