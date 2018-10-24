@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-21
+# Last updated: 2018-10-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3497,7 +3497,9 @@ video-edge-f9215f.sjc02.hls.ttvnw.net	54.187.95.61
 # Twitch End
 
 # Twitter Start
+abs.twimg.com	117.18.237.70
 pbs.twimg.com	117.18.237.70
+ton.twimg.com	117.18.237.70
 # Twitter End
 
 # Vimeo Start

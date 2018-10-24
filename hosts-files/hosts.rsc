@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-21
+# Last updated: 2018-10-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3499,7 +3499,9 @@ add address=54.187.95.61 name=video-edge-f9215f.sjc02.hls.ttvnw.net
 # Twitch End
 
 # Twitter Start
+add address=117.18.237.70 name=abs.twimg.com
 add address=117.18.237.70 name=pbs.twimg.com
+add address=117.18.237.70 name=ton.twimg.com
 # Twitter End
 
 # Vimeo Start
