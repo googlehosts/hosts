@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-24
+# Last updated: 2018-10-26
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3087,6 +3087,7 @@ add address=104.16.120.145 name=api.medium.com
 add address=104.16.120.145 name=cdn-static-1.medium.com
 add address=104.16.120.145 name=cdn-images-1.medium.com
 add address=104.16.120.145 name=cdn-images-2.medium.com
+add address=104.16.121.145 name=glyph.medium.com
 # Medium End
 
 # Nytimes Start
