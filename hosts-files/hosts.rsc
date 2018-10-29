@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-26
+# Last updated: 2018-10-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -34,13 +34,15 @@ add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
-add address=23.226.136.132 name=23-226-136-132.googlehosts.org
-add address=23.226.136.132 name=ss-2.googlehosts.org
+add address=107.150.12.229 name=107-150-12-229.googlehosts.org
 add address=104.129.16.244 name=104-129-16-244.googlehosts.org
 add address=104.129.16.244 name=ss-1.googlehosts.org
+add address=23.226.136.132 name=23-226-136-132.googlehosts.org
+add address=23.226.136.132 name=ss-2.googlehosts.org
+add address=104.223.60.17 name=104-223-60-17.googlehosts.org
+add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 add address=155.94.137.77 name=155-94-137-77.googlehosts.org
 add address=155.94.137.77 name=ss-3.googlehosts.org
-add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
@@ -868,7 +870,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=172.217.4.163 name=www.google.com.hk
+add address=173.194.196.162 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -916,7 +918,7 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=108.177.96.161 name=ogs.google.com
-add address=216.58.203.14 name=www.google.com
+add address=172.217.193.160 name=www.google.com
 add address=108.177.103.161 name=id.google.com
 add address=74.125.204.100 name=clients5.google.com
 add address=108.177.127.99 name=apis.google.com
@@ -928,6 +930,7 @@ add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
 add address=216.58.204.175 name=dns.google.com
+add address=172.217.193.160 name=developers.google.com
 add address=74.125.206.210 name=aboutme.google.com
 add address=74.125.206.210 name=ads.google.com
 add address=74.125.206.210 name=abc.xyz
@@ -980,7 +983,6 @@ add address=74.125.206.210 name=docs6.google.com
 add address=74.125.206.210 name=docs7.google.com
 add address=74.125.206.210 name=docs8.google.com
 add address=74.125.206.210 name=docs9.google.com
-add address=74.125.206.210 name=developers.google.com
 add address=74.125.206.210 name=dl-ssl.google.com
 add address=74.125.206.210 name=cloudssh.developers.google.com
 add address=74.125.206.210 name=codelabs.developers.google.com
