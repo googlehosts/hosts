@@ -869,7 +869,7 @@ www.google.com.gh	216.58.200.24
 www.google.com.gi	216.58.200.24
 www.google.com.gr	216.58.200.24
 www.google.com.gt	216.58.200.24
-www.google.com.hk	173.194.196.162
+www.google.com.hk	172.217.17.35
 www.google.com.iq	216.58.200.24
 www.google.com.jm	216.58.200.24
 www.google.com.jo	216.58.200.24
@@ -917,7 +917,7 @@ p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com	172.217.
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com	216.58.200.183
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com	216.58.200.195
 ogs.google.com	108.177.96.161
-www.google.com	172.217.193.160
+www.google.com	172.217.17.36
 id.google.com	108.177.103.161
 clients5.google.com	74.125.204.100
 apis.google.com	108.177.127.99
@@ -929,7 +929,7 @@ environment.google	216.239.38.21
 domains.google	172.217.161.182
 domains.google.com	64.15.126.100
 dns.google.com	216.58.204.175
-developers.google.com	172.217.193.160
+developers.google.com	172.217.20.110
 aboutme.google.com	74.125.206.210
 ads.google.com	74.125.206.210
 abc.xyz	74.125.206.210

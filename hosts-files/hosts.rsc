@@ -871,7 +871,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=173.194.196.162 name=www.google.com.hk
+add address=172.217.17.35 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
@@ -919,7 +919,7 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=108.177.96.161 name=ogs.google.com
-add address=172.217.193.160 name=www.google.com
+add address=172.217.17.36 name=www.google.com
 add address=108.177.103.161 name=id.google.com
 add address=74.125.204.100 name=clients5.google.com
 add address=108.177.127.99 name=apis.google.com
@@ -931,7 +931,7 @@ add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
 add address=216.58.204.175 name=dns.google.com
-add address=172.217.193.160 name=developers.google.com
+add address=172.217.20.110 name=developers.google.com
 add address=74.125.206.210 name=aboutme.google.com
 add address=74.125.206.210 name=ads.google.com
 add address=74.125.206.210 name=abc.xyz
