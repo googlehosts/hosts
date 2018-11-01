@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-29
+# Last updated: 2018-11-01
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -40,6 +40,7 @@ add address=104.129.16.244 name=ss-1.googlehosts.org
 add address=23.226.136.132 name=23-226-136-132.googlehosts.org
 add address=23.226.136.132 name=ss-2.googlehosts.org
 add address=104.223.60.17 name=104-223-60-17.googlehosts.org
+add address=66.154.108.62 name=66-154-108-62.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 add address=155.94.137.77 name=155-94-137-77.googlehosts.org
 add address=155.94.137.77 name=ss-3.googlehosts.org
