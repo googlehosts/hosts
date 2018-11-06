@@ -870,7 +870,7 @@ add address=216.58.200.24 name=www.google.com.gh
 add address=216.58.200.24 name=www.google.com.gi
 add address=216.58.200.24 name=www.google.com.gr
 add address=216.58.200.24 name=www.google.com.gt
-add address=172.217.17.35 name=www.google.com.hk
+add address=172.217.30.158 name=www.google.com.hk
 add address=216.58.200.24 name=www.google.com.iq
 add address=216.58.200.24 name=www.google.com.jm
 add address=216.58.200.24 name=www.google.com.jo
