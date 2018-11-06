@@ -94,14 +94,12 @@
 # Amazon End
 
 # Android Start
-216.58.215.54	a.android.com
-216.58.215.54	b.android.com
-216.58.215.54	m.android.com
-216.58.215.54	connectivitycheck.android.com
-216.58.215.54	d.android.com
-216.58.215.54	dev.android.com
-216.58.215.54	market.android.com
-216.58.215.54	r.android.com
+172.217.30.157	a.android.com
+172.217.30.157	connectivitycheck.android.com
+172.217.30.157	d.android.com
+172.217.30.157	dev.android.com
+172.217.30.157	market.android.com
+172.217.30.157	r.android.com
 108.177.127.136	android.com
 172.217.30.153	www.android.com
 216.58.204.174	source.android.com
@@ -2422,6 +2420,8 @@
 216.239.38.21	material.io
 216.239.38.21	www.autodraw.com
 172.217.4.179	tools.android.com
+172.217.4.179	b.android.com
+172.217.4.179	m.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start

@@ -96,14 +96,12 @@ add address=52.94.210.139 name=shm.amazon.co.jp
 # Amazon End
 
 # Android Start
-add address=216.58.215.54 name=a.android.com
-add address=216.58.215.54 name=b.android.com
-add address=216.58.215.54 name=m.android.com
-add address=216.58.215.54 name=connectivitycheck.android.com
-add address=216.58.215.54 name=d.android.com
-add address=216.58.215.54 name=dev.android.com
-add address=216.58.215.54 name=market.android.com
-add address=216.58.215.54 name=r.android.com
+add address=172.217.30.157 name=a.android.com
+add address=172.217.30.157 name=connectivitycheck.android.com
+add address=172.217.30.157 name=d.android.com
+add address=172.217.30.157 name=dev.android.com
+add address=172.217.30.157 name=market.android.com
+add address=172.217.30.157 name=r.android.com
 add address=108.177.127.136 name=android.com
 add address=172.217.30.153 name=www.android.com
 add address=216.58.204.174 name=source.android.com
@@ -2424,6 +2422,8 @@ add address=216.239.38.21 name=polymer-project.org
 add address=216.239.38.21 name=material.io
 add address=216.239.38.21 name=www.autodraw.com
 add address=172.217.4.179 name=tools.android.com
+add address=172.217.4.179 name=b.android.com
+add address=172.217.4.179 name=m.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start
