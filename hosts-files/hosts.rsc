@@ -526,7 +526,7 @@ add address=176.32.102.212 name=ads.goodreads.com
 # Goodreads End
 
 # Google Apis Start
-add address=172.217.168.202 name=www.googleapis.com
+add address=216.58.204.202 name=www.googleapis.com
 add address=172.217.168.202 name=ajax.googleapis.com
 add address=108.177.127.201 name=fonts.googleapis.com
 add address=172.217.168.202 name=googleapis.com
