@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-11-02
+# Last updated: 2018-11-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -68,7 +68,7 @@
 52.94.210.139	shm.amazon.co.jp
 216.58.215.54	a.android.com b.android.com m.android.com connectivitycheck.android.com d.android.com dev.android.com market.android.com r.android.com
 108.177.127.136	android.com
-216.58.204.221	www.android.com
+172.217.30.153	www.android.com
 216.58.204.174	source.android.com
 108.177.127.100	developer.android.com
 104.20.82.194	apkpure.com m.apkpure.com

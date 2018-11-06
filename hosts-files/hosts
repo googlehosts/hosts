@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-11-02
+# Last updated: 2018-11-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -103,7 +103,7 @@
 216.58.215.54	market.android.com
 216.58.215.54	r.android.com
 108.177.127.136	android.com
-216.58.204.221	www.android.com
+172.217.30.153	www.android.com
 216.58.204.174	source.android.com
 108.177.127.100	developer.android.com
 # Android End
