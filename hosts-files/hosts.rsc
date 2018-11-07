@@ -2596,9 +2596,9 @@ add address=172.217.168.193 name=lh0.googleusercontent.com
 add address=172.217.168.193 name=lh1.googleusercontent.com
 add address=172.217.168.193 name=lh2.googleusercontent.com
 add address=108.177.127.133 name=lh3.googleusercontent.com
-add address=172.217.168.193 name=lh4.googleusercontent.com
-add address=172.217.168.193 name=lh5.googleusercontent.com
-add address=172.217.168.193 name=lh6.googleusercontent.com
+add address=108.177.127.133 name=lh4.googleusercontent.com
+add address=108.177.127.133 name=lh5.googleusercontent.com
+add address=108.177.127.133 name=lh6.googleusercontent.com
 add address=172.217.168.193 name=mail-attachment.googleusercontent.com
 add address=172.217.168.193 name=music-onebox.googleusercontent.com
 add address=172.217.168.193 name=music.googleusercontent.com
@@ -2720,10 +2720,10 @@ add address=108.177.119.132 name=gm1.ggpht.com
 add address=108.177.119.132 name=gm2.ggpht.com
 add address=108.177.119.132 name=gm3.ggpht.com
 add address=108.177.119.132 name=gm4.ggpht.com
-add address=108.177.119.132 name=lh3.ggpht.com
-add address=108.177.119.132 name=lh4.ggpht.com
-add address=108.177.119.132 name=lh5.ggpht.com
-add address=108.177.119.132 name=lh6.ggpht.com
+add address=108.177.127.132 name=lh3.ggpht.com
+add address=108.177.127.132 name=lh4.ggpht.com
+add address=108.177.127.132 name=lh5.ggpht.com
+add address=108.177.127.132 name=lh6.ggpht.com
 add address=108.177.119.132 name=nt0.ggpht.com
 add address=108.177.119.132 name=nt1.ggpht.com
 add address=108.177.119.132 name=nt2.ggpht.com
