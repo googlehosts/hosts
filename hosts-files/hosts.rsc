@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-11-06
+# Last updated: 2018-11-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -931,6 +931,7 @@ add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
 add address=216.58.204.175 name=dns.google.com
 add address=172.217.20.110 name=developers.google.com
+add address=172.217.30.191 name=g.co
 add address=74.125.206.210 name=aboutme.google.com
 add address=74.125.206.210 name=ads.google.com
 add address=74.125.206.210 name=abc.xyz
