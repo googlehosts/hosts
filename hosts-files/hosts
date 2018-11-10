@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-11-07
+# Last updated: 2018-11-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -32,8 +32,8 @@
 103.105.48.234	103-105-48-234.googlehosts.org
 103.105.48.234	tg-9.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org
+23.226.136.24	ss-1.googlehosts.org
 107.150.12.229	107-150-12-229.googlehosts.org
-107.150.12.229	ss-1.googlehosts.org
 104.129.16.244	104-129-16-244.googlehosts.org
 23.226.136.132	23-226-136-132.googlehosts.org
 23.226.136.132	ss-2.googlehosts.org
