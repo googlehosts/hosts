@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-11-11
+# Last updated: 2018-11-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1255,7 +1255,7 @@
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
-108.177.120.94	accounts.google.com.hk
+172.217.30.184	accounts.google.com.hk
 108.177.120.94	assistant.google.com.hk
 108.177.120.94	books.google.com.hk
 108.177.120.94	blogsearch.google.com.hk

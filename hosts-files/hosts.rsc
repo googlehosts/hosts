@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-11-11
+# Last updated: 2018-11-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1257,7 +1257,7 @@ add address=216.58.194.223 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
-add address=108.177.120.94 name=accounts.google.com.hk
+add address=172.217.30.184 name=accounts.google.com.hk
 add address=108.177.120.94 name=assistant.google.com.hk
 add address=108.177.120.94 name=books.google.com.hk
 add address=108.177.120.94 name=blogsearch.google.com.hk
