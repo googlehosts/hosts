@@ -490,6 +490,10 @@ add address=192.0.66.2 name=threatexchange.fb.com
 add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
+# Fcdm Start
+add address=103.233.83.89 name=www.fcdm.cc
+# Fcdm End
+
 # FlipBoard Start
 add address=52.44.186.59 name=beacon.flipboard.com
 add address=34.201.185.200 name=fbprod.flipboard.com
