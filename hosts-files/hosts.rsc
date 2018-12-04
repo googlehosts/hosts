@@ -2702,7 +2702,6 @@ add address=172.217.168.193 name=37-wave-opensocial.googleusercontent.com
 add address=172.217.168.193 name=38-wave-opensocial.googleusercontent.com
 add address=172.217.168.193 name=39-wave-opensocial.googleusercontent.com
 add address=172.217.168.193 name=40-wave-opensocial.googleusercontent.com
-add address=172.217.168.193 name=unfiltered.news
 # Googleusercontent End
 
 # Google Voice Start
