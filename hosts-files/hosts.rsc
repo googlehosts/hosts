@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-04
+# Last updated: 2018-12-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -585,7 +585,6 @@ add address=172.217.168.202 name=remoting-pa.googleapis.com
 add address=172.217.168.202 name=personalsafety-pa.googleapis.com
 add address=172.217.168.202 name=clientmetrics-pa.googleapis.com
 add address=172.217.168.202 name=music-pa.clients6.google.com
-add address=172.217.0.16 name=unfiltered.news
 add address=216.239.32.67 name=31061001.googleapis.com
 add address=216.239.32.67 name=26644787.googleapis.com
 # Google Apis End
@@ -2703,6 +2702,7 @@ add address=172.217.168.193 name=37-wave-opensocial.googleusercontent.com
 add address=172.217.168.193 name=38-wave-opensocial.googleusercontent.com
 add address=172.217.168.193 name=39-wave-opensocial.googleusercontent.com
 add address=172.217.168.193 name=40-wave-opensocial.googleusercontent.com
+add address=172.217.168.193 name=unfiltered.news
 # Googleusercontent End
 
 # Google Voice Start
