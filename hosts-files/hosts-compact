@@ -28,12 +28,6 @@
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org
 23.32.241.9	a248.e.akamai.net
-23.32.241.16	static.ak.instagram.com
-23.55.56.140	images.ak.instagram.com
-23.2.36.161	s.pinimg.com
-104.76.17.41	i.pinimg.com
-23.217.143.151	s-media-cache-ak0.pinimg.com
-23.50.43.222	passets-cdn.pinterest.com
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 52.119.164.121	amazon.co.jp
@@ -301,6 +295,8 @@
 52.45.94.103	i.instagram.com api.instagram.com
 31.13.76.172	help.instagram.com platform.instagram.com
 66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
+23.55.56.140	images.ak.instagram.com
+23.32.241.16	static.ak.instagram.com
 31.13.87.52	scontent.cdninstagram.com scontent-a-tpe.cdninstagram.com scontent-b-tpe.cdninstagram.com scontent-tpe1-1.cdninstagram.com
 31.13.91.52	scontent-a-ams.cdninstagram.com scontent-b-ams.cdninstagram.com scontent-ams3-1.cdninstagram.com
 31.13.91.172	scontent-a-amt.cdninstagram.com scontent-b-amt.cdninstagram.com scontent-amt2-1.cdninstagram.com
@@ -448,6 +444,10 @@
 52.6.255.21	dev.pinterest.com developers.pinterest.com
 54.149.226.209	post.pinterest.com
 52.5.103.187	trk.pinterest.com
+23.50.43.222	passets-cdn.pinterest.com
+104.76.17.41	i.pinimg.com
+23.2.36.161	s.pinimg.com
+23.217.143.151	s-media-cache-ak0.pinimg.com
 210.129.120.55	www.pixiv.net
 210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
 210.140.131.146	source.pixiv.net

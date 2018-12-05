@@ -49,12 +49,6 @@ add address=185.22.152.42 name=185-22-152-42.googlehosts.org
 
 # Akamai Start
 add address=23.32.241.9 name=a248.e.akamai.net
-add address=23.32.241.16 name=static.ak.instagram.com
-add address=23.55.56.140 name=images.ak.instagram.com
-add address=23.2.36.161 name=s.pinimg.com
-add address=104.76.17.41 name=i.pinimg.com
-add address=23.217.143.151 name=s-media-cache-ak0.pinimg.com
-add address=23.50.43.222 name=passets-cdn.pinterest.com
 # Akamai End
 
 # Amazon AWS Start
@@ -2811,6 +2805,8 @@ add address=52.45.94.103 name=api.instagram.com
 add address=31.13.76.172 name=help.instagram.com
 add address=31.13.76.172 name=platform.instagram.com
 add address=66.6.32.22 name=blog.instagram.com
+add address=23.55.56.140 name=images.ak.instagram.com
+add address=23.32.241.16 name=static.ak.instagram.com
 add address=31.13.87.52 name=scontent.cdninstagram.com
 add address=157.240.15.174 name=scontent-a.cdninstagram.com
 add address=157.240.15.174 name=scontent-b.cdninstagram.com
@@ -3186,6 +3182,10 @@ add address=52.6.255.21 name=dev.pinterest.com
 add address=54.149.226.209 name=post.pinterest.com
 add address=52.5.103.187 name=trk.pinterest.com
 add address=52.6.255.21 name=developers.pinterest.com
+add address=23.50.43.222 name=passets-cdn.pinterest.com
+add address=104.76.17.41 name=i.pinimg.com
+add address=23.2.36.161 name=s.pinimg.com
+add address=23.217.143.151 name=s-media-cache-ak0.pinimg.com
 # Pinterest End
 
 # Pixiv Start
