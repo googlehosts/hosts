@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-05
+# Last updated: 2018-12-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -652,7 +652,7 @@ add address=173.194.198.82 name=gwt.googlesource.com
 add address=173.194.198.82 name=skia.googlesource.com
 add address=173.194.198.82 name=gcr.io
 add address=173.194.198.82 name=www.gcr.io
-add address=173.194.76.82 name=chromium.googlesource.com
+add address=108.177.127.82 name=chromium.googlesource.com
 add address=108.177.127.82 name=gerrit.googlesource.com
 add address=108.177.127.82 name=android-review.googlesource.com
 add address=108.177.127.82 name=android.googlesource.com
