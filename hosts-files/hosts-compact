@@ -183,7 +183,8 @@
 52.44.186.59	beacon.flipboard.com
 34.201.185.200	fbprod.flipboard.com
 192.30.253.118	gist.github.com
-192.30.253.112	github.com www.github.com
+192.30.255.111	github.com
+192.30.255.110	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com googlemail.l.google.com m.gmail.com
 216.58.215.231	mail-settings.google.com

@@ -494,8 +494,8 @@ fbprod.flipboard.com	34.201.185.200
 
 # Github Start
 gist.github.com	192.30.253.118
-github.com	192.30.253.112
-www.github.com	192.30.253.112
+github.com	192.30.255.111
+www.github.com	192.30.255.110
 # Github End
 
 # Gmail Start

@@ -494,8 +494,8 @@
 
 # Github Start
 192.30.253.118	gist.github.com
-192.30.253.112	github.com
-192.30.253.112	www.github.com
+192.30.255.111	github.com
+192.30.255.110	www.github.com
 # Github End
 
 # Gmail Start
