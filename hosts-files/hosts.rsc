@@ -3083,7 +3083,8 @@ add address=104.24.16.103 name=x.lihkg.com
 # Lihkg End
 
 # MEGA Start
-add address=31.216.148.12 name=mega.nz
+add address=31.216.148.10 name=mega.nz
+add address=117.18.237.188 name=g.cdn1.mega.co.nz
 # MEGA End
 
 # Medium Start
