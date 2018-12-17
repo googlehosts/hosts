@@ -42,9 +42,9 @@ add address=104.223.60.17 name=104-223-60-17.googlehosts.org
 add address=66.154.108.62 name=66-154-108-62.googlehosts.org
 add address=66.154.108.62 name=ss-2.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
+add address=23.226.136.216 name=ss-3.googlehosts.org
 add address=155.94.137.77 name=155-94-137-77.googlehosts.org
 add address=185.22.152.42 name=185-22-152-42.googlehosts.org
-add address=185.22.152.42 name=ss-3.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
