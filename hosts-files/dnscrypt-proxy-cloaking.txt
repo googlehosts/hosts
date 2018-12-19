@@ -37,12 +37,14 @@ ss-1.googlehosts.org	23.226.136.24
 104-129-16-244.googlehosts.org	104.129.16.244
 23-226-136-132.googlehosts.org	23.226.136.132
 104-223-60-17.googlehosts.org	104.223.60.17
+ss-2.googlehosts.org	104.223.60.17
 66-154-108-62.googlehosts.org	66.154.108.62
 ss-2.googlehosts.org	66.154.108.62
 23-226-136-216.googlehosts.org	23.226.136.216
+ss-3.googlehosts.org	23.226.136.216
 155-94-137-77.googlehosts.org	155.94.137.77
-ss-3.googlehosts.org	155.94.137.77
 185-22-152-42.googlehosts.org	185.22.152.42
+ss-3.googlehosts.org	185.22.152.42
 # GoogleHosts End
 
 # Akamai Start

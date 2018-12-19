@@ -39,12 +39,14 @@ add address=107.150.12.229 name=107-150-12-229.googlehosts.org
 add address=104.129.16.244 name=104-129-16-244.googlehosts.org
 add address=23.226.136.132 name=23-226-136-132.googlehosts.org
 add address=104.223.60.17 name=104-223-60-17.googlehosts.org
+add address=104.223.60.17 name=ss-2.googlehosts.org
 add address=66.154.108.62 name=66-154-108-62.googlehosts.org
 add address=66.154.108.62 name=ss-2.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
+add address=23.226.136.216 name=ss-3.googlehosts.org
 add address=155.94.137.77 name=155-94-137-77.googlehosts.org
-add address=155.94.137.77 name=ss-3.googlehosts.org
 add address=185.22.152.42 name=185-22-152-42.googlehosts.org
+add address=185.22.152.42 name=ss-3.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
