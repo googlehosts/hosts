@@ -14,7 +14,7 @@ function checkType(obj, propName, typeName) {
 	return true;
 }
 function checkDomain(domain) {
-	if (set[domain] && domain !== 'localhost') {
+	if (set[domain] && domain !== 'localhost' && domain !== 'ss-1.googlehosts.org' && domain !== 'ss-2.googlehosts.org' && domain !== 'ss-3.googlehosts.org' && domain !== 'ss-4.googlehosts.org') {
 		console.error(`\x1b[31m${domain}\x1b[0m has already been added.`);
 		ok = false;
 		return false;
