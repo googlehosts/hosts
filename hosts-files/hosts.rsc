@@ -36,6 +36,8 @@ add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
 add address=23.226.136.24 name=ss-1.googlehosts.org
 add address=107.150.12.229 name=107-150-12-229.googlehosts.org
+add address=66.154.104.124 name=66-154-104-124.googlehosts.org
+add address=66.154.104.124 name=ss-1.googlehosts.org
 add address=104.129.16.244 name=104-129-16-244.googlehosts.org
 add address=23.226.136.132 name=23-226-136-132.googlehosts.org
 add address=104.223.60.17 name=104-223-60-17.googlehosts.org
