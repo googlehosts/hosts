@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-19
+# Last updated: 2018-12-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -267,6 +267,11 @@ add address=150.95.236.28 name=www.conoha.jp
 add address=150.95.236.52 name=app.conoha.jp
 add address=150.95.236.31 name=manage.conoha.jp
 # Conoha End
+
+# Ctext Start
+add address=63.141.239.58 name=ctext.org
+add address=63.141.239.58 name=library.ctext.org
+# Ctext End
 
 # Dropbox Start
 add address=162.125.248.2 name=db.tt

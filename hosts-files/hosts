@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-19
+# Last updated: 2018-12-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -265,6 +265,11 @@
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
 # Conoha End
+
+# Ctext Start
+63.141.239.58	ctext.org
+63.141.239.58	library.ctext.org
+# Ctext End
 
 # Dropbox Start
 162.125.248.2	db.tt

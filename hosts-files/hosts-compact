@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-19
+# Last updated: 2018-12-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -117,6 +117,7 @@
 150.95.236.28	www.conoha.jp
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
+63.141.239.58	ctext.org library.ctext.org
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com
 162.125.5.7	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
