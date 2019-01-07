@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-30
+# Last updated: 2019-01-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -51,6 +51,8 @@ add address=185.22.152.42 name=185-22-152-42.googlehosts.org
 add address=185.22.152.42 name=ss-3.googlehosts.org
 add address=167.88.168.251 name=167-88-168-251.googlehosts.org
 add address=167.88.168.251 name=ss-4.googlehosts.org
+add address=103.124.106.174 name=103-124-106-174.googlehosts.org
+add address=103.124.106.174 name=proxy.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start

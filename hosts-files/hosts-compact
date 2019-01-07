@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-30
+# Last updated: 2019-01-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -29,6 +29,7 @@
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
 167.88.168.251	167-88-168-251.googlehosts.org ss-4.googlehosts.org
+103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
