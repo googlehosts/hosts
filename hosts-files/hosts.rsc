@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-07
+# Last updated: 2019-01-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -509,7 +509,7 @@ add address=34.201.185.200 name=fbprod.flipboard.com
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
-add address=192.30.255.111 name=github.com
+add address=13.229.188.59 name=github.com
 add address=192.30.255.110 name=www.github.com
 # Github End
 

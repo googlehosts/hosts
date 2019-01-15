@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-07
+# Last updated: 2019-01-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -507,7 +507,7 @@ fbprod.flipboard.com	34.201.185.200
 
 # Github Start
 gist.github.com	192.30.253.118
-github.com	192.30.255.111
+github.com	13.229.188.59
 www.github.com	192.30.255.110
 # Github End
 

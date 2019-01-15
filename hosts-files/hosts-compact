@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-07
+# Last updated: 2019-01-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -187,7 +187,7 @@
 52.44.186.59	beacon.flipboard.com
 34.201.185.200	fbprod.flipboard.com
 192.30.253.118	gist.github.com
-192.30.255.111	github.com
+13.229.188.59	github.com
 192.30.255.110	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com googlemail.l.google.com m.gmail.com
