@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-15
+# Last updated: 2019-01-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -150,6 +150,7 @@
 172.217.168.209	beyondthemap.withgoogle.com
 172.217.168.209	analyticsacademy.withgoogle.com
 172.217.168.209	spellup.withgoogle.com
+172.217.204.151	netlog-viewer.appspot.com
 # Appspot End
 
 # Appspotpreview Start
