@@ -360,7 +360,7 @@ add address=104.16.251.144 name=media.discordapp.net
 add address=104.16.10.231 name=status.discordapp.com
 add address=104.16.250.144 name=images-ext-1.discordapp.net
 add address=104.16.250.144 name=dl.discordapp.net
-add address=104.16.251.144 name=images-ext-2.discordapp.net
+add address=104.16.250.144 name=images-ext-2.discordapp.net
 add address=104.16.10.231 name=cdn.discordapp.com
 # Discord End
 
