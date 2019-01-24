@@ -253,7 +253,8 @@ add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
-add address=172.217.31.96 name=embed.culturalspot.org
+add address=172.217.14.56 name=embed.culturalspot.org
+add address=172.217.14.96 name=globetoglobehamlet.culturalspot.org
 # Culturalspot End
 
 # Conoha Start
