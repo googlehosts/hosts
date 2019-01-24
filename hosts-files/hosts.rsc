@@ -248,8 +248,8 @@ add address=104.16.4.13 name=assets-fe.change.org
 # Change.org End
 
 # Cloudfront Start
-add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
-add address=52.84.167.78 name=d3njjcbhbojbot.cloudfront.net
+add address=52.85.85.246 name=d3njjcbhbojbot.cloudfront.net
+add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
