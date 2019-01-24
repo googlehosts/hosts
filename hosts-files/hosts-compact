@@ -127,10 +127,10 @@
 162.125.5.7	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
 162.125.33.7	api-d.dropbox.com
 162.125.34.7	api.v.dropbox.com api-notify.dropbox.com
-54.192.145.52	aem.dropbox.com
+99.84.239.58	aem.dropbox.com
 162.125.82.8	api-content.dropbox.com
 162.125.82.5	api-content-photos.dropbox.com
-52.222.238.253	blogs.dropbox.com
+13.35.8.95	blogs.dropbox.com
 162.125.17.132	block.dropbox.com
 162.125.17.5	block.v.dropbox.com
 162.125.18.133	bolt.dropbox.com
@@ -147,7 +147,7 @@
 162.125.66.5	photos.dropbox.com
 162.125.83.5	photos-1.dropbox.com photos-2.dropbox.com photos-3.dropbox.com photos-4.dropbox.com photos-5.dropbox.com photos-6.dropbox.com photos-thumb.dropbox.com
 162.125.18.129	photos-thumb.x.dropbox.com
-18.208.123.8	paper.dropbox.com
+54.153.81.237	paper.dropbox.com
 54.230.173.90	status.dropbox.com
 54.230.173.29	snapengage.dropbox.com
 162.125.7.6	dl.dropboxusercontent.com

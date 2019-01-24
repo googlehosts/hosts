@@ -279,10 +279,10 @@ add address=162.125.5.7 name=api.dropboxapi.com
 add address=162.125.33.7 name=api-d.dropbox.com
 add address=162.125.34.7 name=api.v.dropbox.com
 add address=162.125.34.7 name=api-notify.dropbox.com
-add address=54.192.145.52 name=aem.dropbox.com
+add address=99.84.239.58 name=aem.dropbox.com
 add address=162.125.82.8 name=api-content.dropbox.com
 add address=162.125.82.5 name=api-content-photos.dropbox.com
-add address=52.222.238.253 name=blogs.dropbox.com
+add address=13.35.8.95 name=blogs.dropbox.com
 add address=162.125.17.132 name=block.dropbox.com
 add address=162.125.17.5 name=block.v.dropbox.com
 add address=162.125.18.133 name=bolt.dropbox.com
@@ -310,7 +310,7 @@ add address=162.125.83.5 name=photos-5.dropbox.com
 add address=162.125.83.5 name=photos-6.dropbox.com
 add address=162.125.83.5 name=photos-thumb.dropbox.com
 add address=162.125.18.129 name=photos-thumb.x.dropbox.com
-add address=18.208.123.8 name=paper.dropbox.com
+add address=54.153.81.237 name=paper.dropbox.com
 add address=54.230.173.90 name=status.dropbox.com
 add address=54.230.173.29 name=snapengage.dropbox.com
 add address=162.125.7.6 name=dl.dropboxusercontent.com
