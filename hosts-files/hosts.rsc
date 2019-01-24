@@ -661,8 +661,8 @@ add address=173.194.198.82 name=gcr.io
 add address=173.194.198.82 name=www.gcr.io
 add address=108.177.127.82 name=chromium.googlesource.com
 add address=108.177.127.82 name=gerrit.googlesource.com
-add address=108.177.127.82 name=android-review.googlesource.com
-add address=108.177.127.82 name=android.googlesource.com
+add address=172.217.194.82 name=android-review.googlesource.com
+add address=172.217.194.82 name=android.googlesource.com
 # Google Code End
 
 # Google Country Start
