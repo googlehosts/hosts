@@ -228,10 +228,7 @@ add address=212.58.244.78 name=open.live.bbc.co.uk
 # Bbc End
 
 # Box Start
-add address=107.152.25.196 name=box.com
 add address=107.152.24.198 name=app.box.com
-add address=107.152.24.197 name=account.box.com
-add address=107.152.24.197 name=upload.box.com
 add address=107.152.24.197 name=m.box.com
 # Box End
 
