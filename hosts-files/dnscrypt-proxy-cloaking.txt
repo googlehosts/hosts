@@ -67,7 +67,7 @@ s3-ap-southeast-2.amazonaws.com	54.231.249.17
 
 # Amazon Start
 amazon.co.jp	52.119.164.121
-www.amazon.co.jp	104.127.195.232
+www.amazon.co.jp	23.13.186.208
 aftlite-portal-nrt.amazon.co.jp	54.239.96.187
 alexa.amazon.co.jp	52.94.210.248
 api.amazon.co.jp	54.240.251.149
@@ -82,7 +82,7 @@ copilot.amazon.co.jp	205.251.235.239
 dropship.amazon.co.jp	54.240.248.163
 cs-ext.amazon.co.jp	54.240.254.58
 endeavour.amazon.co.jp	54.240.252.151
-fls-fe.amazon.co.jp	54.148.215.218
+fls-fe.amazon.co.jp	35.166.79.161
 kdp.amazon.co.jp	54.240.250.189
 kindle-images.amazon.co.jp	176.32.100.154
 kindlepreviewservice.amazon.co.jp	54.240.250.180
@@ -91,7 +91,7 @@ logistics.amazon.co.jp	54.240.254.122
 mt.amazon.co.jp	54.240.248.64
 music.amazon.co.jp	54.240.251.157
 music-xray-service.amazon.co.jp	52.94.212.221
-widgets.amazon.co.jp	54.240.249.62
+widgets.amazon.co.jp	52.119.164.28
 opf-sellercentral.amazon.co.jp	54.240.250.177
 payments.amazon.co.jp	54.240.251.156
 prime.amazon.co.jp	54.240.250.198

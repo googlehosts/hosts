@@ -69,7 +69,7 @@ add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 
 # Amazon Start
 add address=52.119.164.121 name=amazon.co.jp
-add address=104.127.195.232 name=www.amazon.co.jp
+add address=23.13.186.208 name=www.amazon.co.jp
 add address=54.239.96.187 name=aftlite-portal-nrt.amazon.co.jp
 add address=52.94.210.248 name=alexa.amazon.co.jp
 add address=54.240.251.149 name=api.amazon.co.jp
@@ -84,7 +84,7 @@ add address=205.251.235.239 name=copilot.amazon.co.jp
 add address=54.240.248.163 name=dropship.amazon.co.jp
 add address=54.240.254.58 name=cs-ext.amazon.co.jp
 add address=54.240.252.151 name=endeavour.amazon.co.jp
-add address=54.148.215.218 name=fls-fe.amazon.co.jp
+add address=35.166.79.161 name=fls-fe.amazon.co.jp
 add address=54.240.250.189 name=kdp.amazon.co.jp
 add address=176.32.100.154 name=kindle-images.amazon.co.jp
 add address=54.240.250.180 name=kindlepreviewservice.amazon.co.jp
@@ -93,7 +93,7 @@ add address=54.240.254.122 name=logistics.amazon.co.jp
 add address=54.240.248.64 name=mt.amazon.co.jp
 add address=54.240.251.157 name=music.amazon.co.jp
 add address=52.94.212.221 name=music-xray-service.amazon.co.jp
-add address=54.240.249.62 name=widgets.amazon.co.jp
+add address=52.119.164.28 name=widgets.amazon.co.jp
 add address=54.240.250.177 name=opf-sellercentral.amazon.co.jp
 add address=54.240.251.156 name=payments.amazon.co.jp
 add address=54.240.250.198 name=prime.amazon.co.jp
