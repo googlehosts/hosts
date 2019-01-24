@@ -106,10 +106,10 @@
 172.217.30.157	dev.android.com
 172.217.30.157	market.android.com
 172.217.30.157	r.android.com
-108.177.127.136	android.com
+172.217.8.250	android.com
 172.217.30.153	www.android.com
-216.58.204.174	source.android.com
-108.177.127.100	developer.android.com
+172.217.8.252	source.android.com
+172.217.8.249	developer.android.com
 # Android End
 
 # Apkpure Start
