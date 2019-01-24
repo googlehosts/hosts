@@ -193,7 +193,7 @@ add address=27.133.136.8 name=app.arukas.io
 # Arukas End
 
 # Avira Start
-add address=54.93.111.68 name=search.avira.com
+add address=52.58.235.13 name=search.avira.com
 # Avira End
 
 # Bandwagonhost Start
@@ -202,9 +202,9 @@ add address=104.20.7.63 name=bandwagonhost.com
 
 # Bbc Start
 add address=151.101.8.81 name=www.bbc.com
-add address=151.101.40.81 name=fig.bbc.co.uk
+add address=212.58.244.115 name=fig.bbc.co.uk
 add address=212.58.244.69 name=www.bbc.co.uk
-add address=104.118.112.225 name=static.bbci.co.uk
+add address=23.59.2.139 name=static.bbci.co.uk
 add address=23.199.11.116 name=static.bbc.co.uk
 add address=104.76.83.32 name=nav.files.bbci.co.uk
 add address=23.42.122.193 name=ichef.bbci.co.uk
@@ -213,15 +213,15 @@ add address=104.124.234.244 name=feeds.bbci.co.uk
 add address=23.13.157.61 name=mybbc.files.bbci.co.uk
 add address=23.66.206.133 name=polling.bbc.co.uk
 add address=104.72.213.225 name=search.files.bbci.co.uk
-add address=95.101.92.111 name=a.files.bbci.co.uk
+add address=184.27.16.168 name=a.files.bbci.co.uk
 add address=95.101.15.42 name=gel.files.bbci.co.uk
 add address=104.103.150.125 name=emp.bbc.com
 add address=23.53.213.148 name=news.bbcimg.co.uk
 add address=23.201.173.230 name=mybbc-analytics.files.bbci.co.uk
 add address=212.58.244.114 name=ssl.bbc.co.uk
-add address=54.72.23.188 name=push.api.bbci.co.uk
-add address=52.17.153.208 name=search-suggest.api.bbci.co.uk
-add address=34.246.1.31 name=ess.api.bbci.co.uk
+add address=13.33.213.226 name=push.api.bbci.co.uk
+add address=52.50.202.133 name=search-suggest.api.bbci.co.uk
+add address=34.240.0.40 name=ess.api.bbci.co.uk
 add address=212.58.249.134 name=session.bbc.com
 add address=212.58.244.92 name=account.bbc.com
 add address=212.58.244.78 name=open.live.bbc.co.uk

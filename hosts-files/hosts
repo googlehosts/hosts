@@ -191,7 +191,7 @@
 # Arukas End
 
 # Avira Start
-54.93.111.68	search.avira.com
+52.58.235.13	search.avira.com
 # Avira End
 
 # Bandwagonhost Start
@@ -200,9 +200,9 @@
 
 # Bbc Start
 151.101.8.81	www.bbc.com
-151.101.40.81	fig.bbc.co.uk
+212.58.244.115	fig.bbc.co.uk
 212.58.244.69	www.bbc.co.uk
-104.118.112.225	static.bbci.co.uk
+23.59.2.139	static.bbci.co.uk
 23.199.11.116	static.bbc.co.uk
 104.76.83.32	nav.files.bbci.co.uk
 23.42.122.193	ichef.bbci.co.uk
@@ -211,15 +211,15 @@
 23.13.157.61	mybbc.files.bbci.co.uk
 23.66.206.133	polling.bbc.co.uk
 104.72.213.225	search.files.bbci.co.uk
-95.101.92.111	a.files.bbci.co.uk
+184.27.16.168	a.files.bbci.co.uk
 95.101.15.42	gel.files.bbci.co.uk
 104.103.150.125	emp.bbc.com
 23.53.213.148	news.bbcimg.co.uk
 23.201.173.230	mybbc-analytics.files.bbci.co.uk
 212.58.244.114	ssl.bbc.co.uk
-54.72.23.188	push.api.bbci.co.uk
-52.17.153.208	search-suggest.api.bbci.co.uk
-34.246.1.31	ess.api.bbci.co.uk
+13.33.213.226	push.api.bbci.co.uk
+52.50.202.133	search-suggest.api.bbci.co.uk
+34.240.0.40	ess.api.bbci.co.uk
 212.58.249.134	session.bbc.com
 212.58.244.92	account.bbc.com
 212.58.244.78	open.live.bbc.co.uk
