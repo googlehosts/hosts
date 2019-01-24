@@ -186,14 +186,6 @@ mail.archive.org	207.241.224.6
 books-general.archive.org	207.241.225.247
 # Archive End
 
-# Armorgames Start
-agi.armorgames.com	192.229.173.251
-armatars.armorgames.com	192.229.173.251
-cache.armorgames.com	192.229.173.251
-gamemedia.armorgames.com	192.229.173.251
-quests.armorgames.com	192.229.173.251
-# Armorgames End
-
 # Arukas Start
 app.arukas.io	27.133.136.8
 # Arukas End

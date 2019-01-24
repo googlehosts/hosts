@@ -188,14 +188,6 @@ add address=207.241.224.6 name=mail.archive.org
 add address=207.241.225.247 name=books-general.archive.org
 # Archive End
 
-# Armorgames Start
-add address=192.229.173.251 name=agi.armorgames.com
-add address=192.229.173.251 name=armatars.armorgames.com
-add address=192.229.173.251 name=cache.armorgames.com
-add address=192.229.173.251 name=gamemedia.armorgames.com
-add address=192.229.173.251 name=quests.armorgames.com
-# Armorgames End
-
 # Arukas Start
 add address=27.133.136.8 name=app.arukas.io
 # Arukas End
