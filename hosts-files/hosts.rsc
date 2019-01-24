@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-22
+# Last updated: 2019-01-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -50,9 +50,12 @@ add address=155.94.137.77 name=155-94-137-77.googlehosts.org
 add address=185.22.152.42 name=185-22-152-42.googlehosts.org
 add address=185.22.152.42 name=ss-3.googlehosts.org
 add address=167.88.168.251 name=167-88-168-251.googlehosts.org
-add address=167.88.168.251 name=ss-4.googlehosts.org
+add address=167.88.163.163 name=167-88-163-163.googlehosts.org
+add address=167.88.163.163 name=ss-4.googlehosts.org
 add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
+add address=45.59.113.169 name=45-59-113-169.googlehosts.org
+add address=45.59.113.169 name=netlog-viewer.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
