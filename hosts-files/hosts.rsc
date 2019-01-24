@@ -233,7 +233,7 @@ add address=107.152.24.197 name=m.box.com
 # Box End
 
 # Buzzfeed Start
-add address=151.101.1.181 name=img.buzzfeed.com
+add address=151.101.129.181 name=img.buzzfeed.com
 # Buzzfeed End
 
 # cd4o Start

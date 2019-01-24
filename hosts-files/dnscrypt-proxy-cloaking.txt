@@ -231,7 +231,7 @@ m.box.com	107.152.24.197
 # Box End
 
 # Buzzfeed Start
-img.buzzfeed.com	151.101.1.181
+img.buzzfeed.com	151.101.129.181
 # Buzzfeed End
 
 # cd4o Start
