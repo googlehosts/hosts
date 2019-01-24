@@ -67,7 +67,7 @@ add address=52.219.0.4 name=s3-ap-northeast-1.amazonaws.com
 add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
-# Amazon Start
+# Amazon Japan Start
 add address=52.119.164.121 name=amazon.co.jp
 add address=23.13.186.208 name=www.amazon.co.jp
 add address=54.239.96.187 name=aftlite-portal-nrt.amazon.co.jp
@@ -99,7 +99,7 @@ add address=54.240.251.156 name=payments.amazon.co.jp
 add address=54.240.250.198 name=prime.amazon.co.jp
 add address=54.240.248.131 name=read.amazon.co.jp
 add address=52.94.210.139 name=shm.amazon.co.jp
-# Amazon End
+# Amazon Japan End
 
 # Android Start
 add address=172.217.30.157 name=a.android.com

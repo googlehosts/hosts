@@ -65,7 +65,7 @@
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
-# Amazon Start
+# Amazon Japan Start
 52.119.164.121	amazon.co.jp
 23.13.186.208	www.amazon.co.jp
 54.239.96.187	aftlite-portal-nrt.amazon.co.jp
@@ -97,7 +97,7 @@
 54.240.250.198	prime.amazon.co.jp
 54.240.248.131	read.amazon.co.jp
 52.94.210.139	shm.amazon.co.jp
-# Amazon End
+# Amazon Japan End
 
 # Android Start
 172.217.30.157	a.android.com
