@@ -3508,9 +3508,11 @@ add address=52.24.180.27 name=pubsub-edge.twitch.tv
 add address=35.164.18.6 name=irc-ws.chat.twitch.tv
 add address=52.223.241.18 name=video-weaver.sjc02.hls.ttvnw.net
 add address=54.200.235.249 name=video-edge-6c210a.sjc02.hls.ttvnw.net
+add address=52.24.56.73 name=video-edge-91c358.sjc02.hls.ttvnw.net
 add address=54.191.74.73 name=video-edge-98de7c.sjc02.hls.ttvnw.net
-add address=35.165.41.164 name=video-edge-af973f.sjc02.hls.ttvnw.net
+add address=52.223.253.59 name=video-edge-a37110.sjc02.abs.hls.ttvnw.net
 add address=52.41.6.153 name=video-edge-a4da6d.sjc02.hls.ttvnw.net
+add address=35.165.41.164 name=video-edge-af973f.sjc02.hls.ttvnw.net
 add address=52.223.252.212 name=video-edge-7ea270.sjc02.abs.hls.ttvnw.net
 # Twitch End
 
