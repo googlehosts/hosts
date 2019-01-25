@@ -3487,7 +3487,7 @@ add address=54.84.222.78 name=app.twitch.tv
 add address=104.94.41.138 name=api.twitch.tv
 add address=52.40.25.185 name=badges.twitch.tv
 add address=52.4.145.119 name=blog.twitch.tv
-add address=52.27.93.163 name=client-event-reporter.twitch.tv
+add address=52.26.110.179 name=client-event-reporter.twitch.tv
 add address=23.12.207.125 name=cvp.twitch.tv
 add address=34.216.28.142 name=countess.twitch.tv
 add address=52.84.47.22 name=dev.twitch.tv
@@ -3502,11 +3502,16 @@ add address=34.212.220.91 name=trowel.twitch.tv
 add address=35.185.17.162 name=music.twitch.tv
 add address=54.69.142.1 name=spade.sci.twitch.tv
 add address=54.192.151.22 name=clips-media-assets2.twitch.tv
+add address=23.160.0.254 name=usher.ttvnw.net
 add address=54.192.151.7 name=vod-storyboards.twitch.tv
 add address=52.24.180.27 name=pubsub-edge.twitch.tv
 add address=35.164.18.6 name=irc-ws.chat.twitch.tv
+add address=52.223.241.18 name=video-weaver.sjc02.hls.ttvnw.net
 add address=54.200.235.249 name=video-edge-6c210a.sjc02.hls.ttvnw.net
+add address=54.191.74.73 name=video-edge-98de7c.sjc02.hls.ttvnw.net
 add address=35.165.41.164 name=video-edge-af973f.sjc02.hls.ttvnw.net
+add address=52.41.6.153 name=video-edge-a4da6d.sjc02.hls.ttvnw.net
+add address=52.223.252.212 name=video-edge-7ea270.sjc02.abs.hls.ttvnw.net
 # Twitch End
 
 # Twitter Start

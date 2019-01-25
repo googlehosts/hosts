@@ -611,7 +611,7 @@
 104.94.41.138	api.twitch.tv
 52.40.25.185	badges.twitch.tv
 52.4.145.119	blog.twitch.tv
-52.27.93.163	client-event-reporter.twitch.tv
+52.26.110.179	client-event-reporter.twitch.tv
 23.12.207.125	cvp.twitch.tv
 34.216.28.142	countess.twitch.tv
 52.84.47.22	dev.twitch.tv
@@ -626,11 +626,16 @@
 35.185.17.162	music.twitch.tv
 54.69.142.1	spade.sci.twitch.tv
 54.192.151.22	clips-media-assets2.twitch.tv
+23.160.0.254	usher.ttvnw.net
 54.192.151.7	vod-storyboards.twitch.tv
 52.24.180.27	pubsub-edge.twitch.tv
 35.164.18.6	irc-ws.chat.twitch.tv
+52.223.241.18	video-weaver.sjc02.hls.ttvnw.net
 54.200.235.249	video-edge-6c210a.sjc02.hls.ttvnw.net
+54.191.74.73	video-edge-98de7c.sjc02.hls.ttvnw.net
 35.165.41.164	video-edge-af973f.sjc02.hls.ttvnw.net
+52.41.6.153	video-edge-a4da6d.sjc02.hls.ttvnw.net
+52.223.252.212	video-edge-7ea270.sjc02.abs.hls.ttvnw.net
 117.18.237.70	abs.twimg.com pbs.twimg.com ton.twimg.com
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
