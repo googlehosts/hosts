@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-24
+# Last updated: 2019-01-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3482,14 +3482,16 @@ add address=138.201.212.227 name=trac.torproject.org
 
 # Twitch Start
 add address=151.101.66.167 name=twitch.tv
-add address=54.254.165.93 name=app.twitch.tv
-add address=23.12.207.125 name=api.twitch.tv
-add address=54.200.101.68 name=badges.twitch.tv
+add address=54.84.222.78 name=app.twitch.tv
+add address=104.94.41.138 name=api.twitch.tv
+add address=52.40.25.185 name=badges.twitch.tv
 add address=52.4.145.119 name=blog.twitch.tv
+add address=52.27.93.163 name=client-event-reporter.twitch.tv
 add address=23.12.207.125 name=cvp.twitch.tv
-add address=54.69.121.1 name=countess.twitch.tv
-add address=52.84.222.121 name=dev.twitch.tv
+add address=34.216.28.142 name=countess.twitch.tv
+add address=52.84.47.22 name=dev.twitch.tv
 add address=52.39.89.40 name=discuss.dev.twitch.tv
+add address=13.35.8.39 name=extension-files.twitch.tv
 add address=151.101.110.167 name=gql.twitch.tv
 add address=50.18.57.118 name=help.twitch.tv
 add address=23.12.207.125 name=player.twitch.tv
@@ -3500,16 +3502,16 @@ add address=35.185.17.162 name=music.twitch.tv
 add address=54.69.142.1 name=spade.sci.twitch.tv
 add address=54.230.159.250 name=clips-media-assets2.twitch.tv
 add address=54.230.159.146 name=vod-storyboards.twitch.tv
-add address=52.27.93.163 name=client-event-reporter.twitch.tv
 add address=54.68.186.105 name=pubsub-edge.twitch.tv
 add address=50.112.132.198 name=irc-ws.chat.twitch.tv
-add address=52.42.180.194 name=video-edge-3d9f56.sjc02.hls.ttvnw.net
 add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
 add address=52.43.201.49 name=video-edge-5835af.sjc02.hls.ttvnw.net
 add address=54.187.252.230 name=video-edge-6c67c0.sjc02.hls.ttvnw.net
+add address=54.200.235.249 name=video-edge-6c210a.sjc02.hls.ttvnw.net
 add address=52.40.222.98 name=video-edge-75ad0a.sjc02.hls.ttvnw.net
 add address=52.43.168.169 name=video-edge-8e57c7.sjc02.hls.ttvnw.net
 add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
+add address=35.165.41.164 name=video-edge-af973f.sjc02.hls.ttvnw.net
 add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
 add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
 add address=54.148.18.99 name=video-edge-e0871b.sjc02.hls.ttvnw.net
