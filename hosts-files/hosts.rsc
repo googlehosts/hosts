@@ -3482,6 +3482,7 @@ add address=138.201.212.227 name=trac.torproject.org
 
 # Twitch Start
 add address=151.101.66.167 name=twitch.tv
+add address=151.101.230.167 name=www.twitch.tv
 add address=54.84.222.78 name=app.twitch.tv
 add address=104.94.41.138 name=api.twitch.tv
 add address=52.40.25.185 name=badges.twitch.tv
