@@ -3504,18 +3504,8 @@ add address=54.192.151.22 name=clips-media-assets2.twitch.tv
 add address=54.192.151.7 name=vod-storyboards.twitch.tv
 add address=52.24.180.27 name=pubsub-edge.twitch.tv
 add address=35.164.18.6 name=irc-ws.chat.twitch.tv
-add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
-add address=52.43.201.49 name=video-edge-5835af.sjc02.hls.ttvnw.net
-add address=54.187.252.230 name=video-edge-6c67c0.sjc02.hls.ttvnw.net
 add address=54.200.235.249 name=video-edge-6c210a.sjc02.hls.ttvnw.net
-add address=52.40.222.98 name=video-edge-75ad0a.sjc02.hls.ttvnw.net
-add address=52.43.168.169 name=video-edge-8e57c7.sjc02.hls.ttvnw.net
-add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
 add address=35.165.41.164 name=video-edge-af973f.sjc02.hls.ttvnw.net
-add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
-add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
-add address=54.148.18.99 name=video-edge-e0871b.sjc02.hls.ttvnw.net
-add address=54.187.95.61 name=video-edge-f9215f.sjc02.hls.ttvnw.net
 # Twitch End
 
 # Twitter Start
