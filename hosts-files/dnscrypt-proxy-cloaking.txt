@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-26
+# Last updated: 2019-01-27
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2361,8 +2361,8 @@ browserchannel-docs.l.google.com	172.217.31.103
 # Google Service:Docs End
 
 # Google GoLang Start
-golang.org	216.239.37.1
-golang-consa.l.google.com	216.239.37.1
+golang.org	172.217.14.127
+golang-consa.l.google.com	172.217.14.127
 # Google GoLang End
 
 # Google Service:Google Play Start
