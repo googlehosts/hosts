@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-27
+# Last updated: 2019-02-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -365,7 +365,15 @@ cdn.discordapp.com	104.16.10.231
 # Discuss.com.hk Start
 www.discuss.com.hk	104.20.171.49
 m.discuss.com.hk	104.20.171.49
+cdn.discuss.com.hk	104.20.171.49
 tr.discuss.com.hk	104.20.170.49
+ladies.discuss.com.hk	104.20.170.49
+news.discuss.com.hk	104.20.170.49
+finance.discuss.com.hk	104.20.170.49
+mobile.discuss.com.hk	104.20.170.49
+img.discuss.com.hk	104.20.170.49
+digital.discuss.com.hk	104.20.170.49
+computer.discuss.com.hk	104.20.170.49
 # Discuss.com.hk End
 
 # Dynu Start
@@ -497,7 +505,7 @@ fbprod.flipboard.com	34.201.185.200
 
 # Github Start
 gist.github.com	192.30.253.118
-github.com	13.229.188.59
+github.com	192.30.255.112
 www.github.com	192.30.255.110
 # Github End
 
@@ -2759,6 +2767,16 @@ hichannel.hinet.net	211.20.148.228
 id.heroku.com	34.200.95.135
 # Heroku End
 
+# HKGolden Start
+www.hkgolden.com	104.22.12.39
+forum.hkgolden.com	104.22.12.39
+forum8.hkgolden.com	104.22.12.39
+m.hkgolden.com	104.22.12.39
+forum111.hkgolden.com	104.22.12.39
+classbm.hkgolden.com	104.22.12.39
+img.eservice-hk.net	104.25.153.116
+# HKGolden End
+
 # HumbleBundle Start
 humble.pubnub.com	54.250.252.63
 humblebundle.com	104.20.34.236
@@ -3251,6 +3269,10 @@ prod-chatman-ancillary-us-east-1.pscp.tv	34.233.63.45
 prod-chatman-ancillary-us-west-2.pscp.tv	35.160.28.174
 # Periscope End
 
+# ProjectV Start
+www.v2ray.com	104.27.154.107
+# ProjectV End
+
 # Psiphon Start
 psiphon3.com	54.192.75.124
 www.psiphon3.com	54.192.75.50
@@ -3367,6 +3389,10 @@ stigma.theinitium.com	52.76.148.61
 theinitium.com	52.221.46.214
 api.theinitium.com	52.221.46.214
 # Theinitium End
+
+# TopickHK Start
+topick.hket.com	118.143.30.216
+# TopickHK End
 
 # Tumblr Start
 tumblr.com	119.161.14.19
@@ -3589,6 +3615,11 @@ e16.whatsapp.net	169.63.73.124
 suche.web.de	82.165.229.94
 lokale.suche.web.de	54.93.172.67
 # Web.de End
+
+# WikiLeaks Start
+wikileaks.org	95.211.113.131
+www.wikileaks.org	95.211.113.131
+# WikiLeaks End
 
 # Wikinews Start
 zh.wikinews.org	198.35.26.96

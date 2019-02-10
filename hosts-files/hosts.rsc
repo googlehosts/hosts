@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-27
+# Last updated: 2019-02-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -367,7 +367,15 @@ add address=104.16.10.231 name=cdn.discordapp.com
 # Discuss.com.hk Start
 add address=104.20.171.49 name=www.discuss.com.hk
 add address=104.20.171.49 name=m.discuss.com.hk
+add address=104.20.171.49 name=cdn.discuss.com.hk
 add address=104.20.170.49 name=tr.discuss.com.hk
+add address=104.20.170.49 name=ladies.discuss.com.hk
+add address=104.20.170.49 name=news.discuss.com.hk
+add address=104.20.170.49 name=finance.discuss.com.hk
+add address=104.20.170.49 name=mobile.discuss.com.hk
+add address=104.20.170.49 name=img.discuss.com.hk
+add address=104.20.170.49 name=digital.discuss.com.hk
+add address=104.20.170.49 name=computer.discuss.com.hk
 # Discuss.com.hk End
 
 # Dynu Start
@@ -499,7 +507,7 @@ add address=34.201.185.200 name=fbprod.flipboard.com
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
-add address=13.229.188.59 name=github.com
+add address=192.30.255.112 name=github.com
 add address=192.30.255.110 name=www.github.com
 # Github End
 
@@ -2761,6 +2769,16 @@ add address=211.20.148.228 name=hichannel.hinet.net
 add address=34.200.95.135 name=id.heroku.com
 # Heroku End
 
+# HKGolden Start
+add address=104.22.12.39 name=www.hkgolden.com
+add address=104.22.12.39 name=forum.hkgolden.com
+add address=104.22.12.39 name=forum8.hkgolden.com
+add address=104.22.12.39 name=m.hkgolden.com
+add address=104.22.12.39 name=forum111.hkgolden.com
+add address=104.22.12.39 name=classbm.hkgolden.com
+add address=104.25.153.116 name=img.eservice-hk.net
+# HKGolden End
+
 # HumbleBundle Start
 add address=54.250.252.63 name=humble.pubnub.com
 add address=104.20.34.236 name=humblebundle.com
@@ -3253,6 +3271,10 @@ add address=34.233.63.45 name=prod-chatman-ancillary-us-east-1.pscp.tv
 add address=35.160.28.174 name=prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
 
+# ProjectV Start
+add address=104.27.154.107 name=www.v2ray.com
+# ProjectV End
+
 # Psiphon Start
 add address=54.192.75.124 name=psiphon3.com
 add address=54.192.75.50 name=www.psiphon3.com
@@ -3369,6 +3391,10 @@ add address=52.76.148.61 name=stigma.theinitium.com
 add address=52.221.46.214 name=theinitium.com
 add address=52.221.46.214 name=api.theinitium.com
 # Theinitium End
+
+# TopickHK Start
+add address=118.143.30.216 name=topick.hket.com
+# TopickHK End
 
 # Tumblr Start
 add address=119.161.14.19 name=tumblr.com
@@ -3591,6 +3617,11 @@ add address=169.63.73.124 name=e16.whatsapp.net
 add address=82.165.229.94 name=suche.web.de
 add address=54.93.172.67 name=lokale.suche.web.de
 # Web.de End
+
+# WikiLeaks Start
+add address=95.211.113.131 name=wikileaks.org
+add address=95.211.113.131 name=www.wikileaks.org
+# WikiLeaks End
 
 # Wikinews Start
 add address=198.35.26.96 name=zh.wikinews.org

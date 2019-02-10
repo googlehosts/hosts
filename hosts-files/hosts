@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-27
+# Last updated: 2019-02-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -365,7 +365,15 @@
 # Discuss.com.hk Start
 104.20.171.49	www.discuss.com.hk
 104.20.171.49	m.discuss.com.hk
+104.20.171.49	cdn.discuss.com.hk
 104.20.170.49	tr.discuss.com.hk
+104.20.170.49	ladies.discuss.com.hk
+104.20.170.49	news.discuss.com.hk
+104.20.170.49	finance.discuss.com.hk
+104.20.170.49	mobile.discuss.com.hk
+104.20.170.49	img.discuss.com.hk
+104.20.170.49	digital.discuss.com.hk
+104.20.170.49	computer.discuss.com.hk
 # Discuss.com.hk End
 
 # Dynu Start
@@ -497,7 +505,7 @@
 
 # Github Start
 192.30.253.118	gist.github.com
-13.229.188.59	github.com
+192.30.255.112	github.com
 192.30.255.110	www.github.com
 # Github End
 
@@ -2759,6 +2767,16 @@
 34.200.95.135	id.heroku.com
 # Heroku End
 
+# HKGolden Start
+104.22.12.39	www.hkgolden.com
+104.22.12.39	forum.hkgolden.com
+104.22.12.39	forum8.hkgolden.com
+104.22.12.39	m.hkgolden.com
+104.22.12.39	forum111.hkgolden.com
+104.22.12.39	classbm.hkgolden.com
+104.25.153.116	img.eservice-hk.net
+# HKGolden End
+
 # HumbleBundle Start
 54.250.252.63	humble.pubnub.com
 104.20.34.236	humblebundle.com
@@ -3251,6 +3269,10 @@
 35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
 
+# ProjectV Start
+104.27.154.107	www.v2ray.com
+# ProjectV End
+
 # Psiphon Start
 54.192.75.124	psiphon3.com
 54.192.75.50	www.psiphon3.com
@@ -3367,6 +3389,10 @@
 52.221.46.214	theinitium.com
 52.221.46.214	api.theinitium.com
 # Theinitium End
+
+# TopickHK Start
+118.143.30.216	topick.hket.com
+# TopickHK End
 
 # Tumblr Start
 119.161.14.19	tumblr.com
@@ -3589,6 +3615,11 @@
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
 # Web.de End
+
+# WikiLeaks Start
+95.211.113.131	wikileaks.org
+95.211.113.131	www.wikileaks.org
+# WikiLeaks End
 
 # Wikinews Start
 198.35.26.96	zh.wikinews.org
