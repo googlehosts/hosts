@@ -2372,6 +2372,7 @@ add address=172.217.31.103 name=browserchannel-docs.l.google.com
 # Google GoLang Start
 add address=172.217.14.127 name=golang.org
 add address=172.217.14.127 name=golang-consa.l.google.com
+add address=172.217.14.128 name=tour.golang.org
 # Google GoLang End
 
 # Google Service:Google Play Start
@@ -3256,10 +3257,10 @@ add address=210.140.131.184 name=pay.pixiv.net
 # Pixiv End
 
 # Periscope Start
-add address=52.76.20.17 name=pscp.tv
-add address=52.220.143.156 name=www.pscp.tv
-add address=35.160.65.192 name=channels.pscp.tv
-add address=35.164.70.108 name=proxsee.pscp.tv
+add address=13.124.246.138 name=pscp.tv
+add address=13.124.203.13 name=www.pscp.tv
+add address=52.39.74.21 name=channels.pscp.tv
+add address=54.200.114.148 name=proxsee.pscp.tv
 add address=54.192.73.58 name=assets.pscp.tv
 add address=54.192.73.58 name=prod-profile.pscp.tv
 add address=54.192.73.58 name=prod-thumbnail.pscp.tv

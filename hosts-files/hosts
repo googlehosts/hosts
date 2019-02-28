@@ -2370,6 +2370,7 @@
 # Google GoLang Start
 172.217.14.127	golang.org
 172.217.14.127	golang-consa.l.google.com
+172.217.14.128	tour.golang.org
 # Google GoLang End
 
 # Google Service:Google Play Start
@@ -3254,10 +3255,10 @@
 # Pixiv End
 
 # Periscope Start
-52.76.20.17	pscp.tv
-52.220.143.156	www.pscp.tv
-35.160.65.192	channels.pscp.tv
-35.164.70.108	proxsee.pscp.tv
+13.124.246.138	pscp.tv
+13.124.203.13	www.pscp.tv
+52.39.74.21	channels.pscp.tv
+54.200.114.148	proxsee.pscp.tv
 54.192.73.58	assets.pscp.tv
 54.192.73.58	prod-profile.pscp.tv
 54.192.73.58	prod-thumbnail.pscp.tv
