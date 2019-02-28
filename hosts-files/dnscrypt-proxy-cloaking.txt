@@ -13,8 +13,8 @@ localhost	127.0.0.1
 
 # GoogleHosts Start
 23-95-9-4.googlehosts.org	23.95.9.4
+tg-1.googlehosts.org	23.95.9.4
 204-44-101-36.googlehosts.org	204.44.101.36
-tg-1.googlehosts.org	204.44.101.36
 185-200-34-198.googlehosts.org	185.200.34.198
 tg-2.googlehosts.org	185.200.34.198
 107-174-205-58.googlehosts.org	107.174.205.58
@@ -38,8 +38,6 @@ ss-1.googlehosts.org	23.226.136.24
 ss-1.googlehosts.org	66.154.104.124
 104-129-16-244.googlehosts.org	104.129.16.244
 23-226-136-132.googlehosts.org	23.226.136.132
-104-223-60-17.googlehosts.org	104.223.60.17
-ss-2.googlehosts.org	104.223.60.17
 66-154-108-62.googlehosts.org	66.154.108.62
 ss-2.googlehosts.org	66.154.108.62
 23-226-136-216.googlehosts.org	23.226.136.216
@@ -50,6 +48,7 @@ ss-3.googlehosts.org	185.22.152.42
 167-88-168-251.googlehosts.org	167.88.168.251
 167-88-163-163.googlehosts.org	167.88.163.163
 ss-4.googlehosts.org	167.88.163.163
+23-95-54-162.googlehosts.org	23.95.54.162
 103-124-106-174.googlehosts.org	103.124.106.174
 proxy.googlehosts.org	103.124.106.174
 45-59-113-169.googlehosts.org	45.59.113.169
@@ -3216,42 +3215,42 @@ s-media-cache-ak0.pinimg.com	23.217.143.151
 # Pinterest End
 
 # Pixiv Start
-www.pixiv.net	210.129.120.55
-touch.pixiv.net	210.129.120.43
-source.pixiv.net	210.140.131.146
-accounts.pixiv.net	210.129.120.41
-imgaz.pixiv.net	210.140.131.147
-app-api.pixiv.net	210.129.120.44
-oauth.secure.pixiv.net	210.129.120.48
-dic.pixiv.net	210.129.120.54
-comic.pixiv.net	210.140.131.145
-factory.pixiv.net	210.129.120.53
-g-client-proxy.pixiv.net	74.120.148.205
-sketch.pixiv.net	210.140.170.179
-payment.pixiv.net	210.129.120.52
-sensei.pixiv.net	210.129.120.51
-novel.pixiv.net	210.140.131.144
-ssl.pixiv.net	210.129.120.49
+www.pixiv.net	210.140.131.203
+touch.pixiv.net	210.140.131.204
+source.pixiv.net	210.140.131.205
+accounts.pixiv.net	210.140.131.206
+imgaz.pixiv.net	210.140.131.207
+app-api.pixiv.net	210.140.131.208
+oauth.secure.pixiv.net	210.140.131.209
+dic.pixiv.net	210.140.131.210
+comic.pixiv.net	210.140.131.211
+factory.pixiv.net	210.140.131.212
+g-client-proxy.pixiv.net	18.211.61.121
+sketch.pixiv.net	210.140.131.213
+payment.pixiv.net	210.140.131.214
+sensei.pixiv.net	210.140.131.215
+novel.pixiv.net	210.140.131.216
+ssl.pixiv.net	210.140.131.217
 times.pixiv.net	66.6.32.22
-recruit.pixiv.net	210.129.120.50
-pixiv.net	210.129.120.49
+recruit.pixiv.net	210.140.131.218
+pixiv.net	210.140.131.219
 p2.pixiv.net	122.208.114.218
-matsuri.pixiv.net	52.84.203.238
-m.pixiv.net	210.129.120.46
-iracon.pixiv.net	52.84.203.163
-inside.pixiv.net	52.69.82.228
-i1.pixiv.net	210.140.131.147
-help.pixiv.net	153.120.23.207
-goods.pixiv.net	210.129.120.43
-genepixiv.pr.pixiv.net	210.129.120.40
-festa.pixiv.net	52.84.203.136
-en.dic.pixiv.net	210.129.120.45
+matsuri.pixiv.net	13.35.19.186
+m.pixiv.net	210.140.131.220
+iracon.pixiv.net	13.35.19.88
+inside.pixiv.net	210.140.131.222
+i1.pixiv.net	210.140.131.223
+help.pixiv.net	210.140.131.224
+goods.pixiv.net	210.140.131.225
+genepixiv.pr.pixiv.net	210.140.131.226
+festa.pixiv.net	13.35.19.46
+en.dic.pixiv.net	210.140.131.180
 dev.pixiv.net	52.219.68.134
-chat.pixiv.net	210.129.120.42
+chat.pixiv.net	210.140.131.181
 blog.pixiv.net	122.208.114.218
-embed.pixiv.net	210.129.120.43
-comic-api.pixiv.net	210.129.120.44
-pay.pixiv.net	210.129.120.56
+embed.pixiv.net	210.140.131.182
+comic-api.pixiv.net	210.140.131.183
+pay.pixiv.net	210.140.131.184
 # Pixiv End
 
 # Periscope Start

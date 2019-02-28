@@ -8,8 +8,8 @@
 # Modified Hosts Start
 
 127.0.0.1	localhost
-23.95.9.4	23-95-9-4.googlehosts.org
-204.44.101.36	204-44-101-36.googlehosts.org tg-1.googlehosts.org
+23.95.9.4	23-95-9-4.googlehosts.org tg-1.googlehosts.org
+204.44.101.36	204-44-101-36.googlehosts.org
 185.200.34.198	185-200-34-198.googlehosts.org tg-2.googlehosts.org
 107.174.205.58	107-174-205-58.googlehosts.org tg-3.googlehosts.org
 185.200.34.209	185-200-34-209.googlehosts.org tg-4.googlehosts.org
@@ -23,13 +23,13 @@
 66.154.104.124	66-154-104-124.googlehosts.org ss-1.googlehosts.org
 104.129.16.244	104-129-16-244.googlehosts.org
 23.226.136.132	23-226-136-132.googlehosts.org
-104.223.60.17	104-223-60-17.googlehosts.org ss-2.googlehosts.org
 66.154.108.62	66-154-108-62.googlehosts.org ss-2.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org ss-3.googlehosts.org
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
 167.88.168.251	167-88-168-251.googlehosts.org
 167.88.163.163	167-88-163-163.googlehosts.org ss-4.googlehosts.org
+23.95.54.162	23-95-54-162.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
 45.59.113.169	45-59-113-169.googlehosts.org netlog-viewer.googlehosts.org
 23.32.241.9	a248.e.akamai.net
@@ -460,35 +460,40 @@
 104.76.17.41	i.pinimg.com
 23.2.36.161	s.pinimg.com
 23.217.143.151	s-media-cache-ak0.pinimg.com
-210.129.120.55	www.pixiv.net
-210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
-210.140.131.146	source.pixiv.net
-210.129.120.41	accounts.pixiv.net
-210.140.131.147	imgaz.pixiv.net i1.pixiv.net
-210.129.120.44	app-api.pixiv.net comic-api.pixiv.net
-210.129.120.48	oauth.secure.pixiv.net
-210.129.120.54	dic.pixiv.net
-210.140.131.145	comic.pixiv.net
-210.129.120.53	factory.pixiv.net
-74.120.148.205	g-client-proxy.pixiv.net
-210.140.170.179	sketch.pixiv.net
-210.129.120.52	payment.pixiv.net
-210.129.120.51	sensei.pixiv.net
-210.140.131.144	novel.pixiv.net
-210.129.120.49	ssl.pixiv.net pixiv.net
-210.129.120.50	recruit.pixiv.net
+210.140.131.203	www.pixiv.net
+210.140.131.204	touch.pixiv.net
+210.140.131.205	source.pixiv.net
+210.140.131.206	accounts.pixiv.net
+210.140.131.207	imgaz.pixiv.net
+210.140.131.208	app-api.pixiv.net
+210.140.131.209	oauth.secure.pixiv.net
+210.140.131.210	dic.pixiv.net
+210.140.131.211	comic.pixiv.net
+210.140.131.212	factory.pixiv.net
+18.211.61.121	g-client-proxy.pixiv.net
+210.140.131.213	sketch.pixiv.net
+210.140.131.214	payment.pixiv.net
+210.140.131.215	sensei.pixiv.net
+210.140.131.216	novel.pixiv.net
+210.140.131.217	ssl.pixiv.net
+210.140.131.218	recruit.pixiv.net
+210.140.131.219	pixiv.net
 122.208.114.218	p2.pixiv.net blog.pixiv.net
-52.84.203.238	matsuri.pixiv.net
-210.129.120.46	m.pixiv.net
-52.84.203.163	iracon.pixiv.net
-52.69.82.228	inside.pixiv.net
-153.120.23.207	help.pixiv.net
-210.129.120.40	genepixiv.pr.pixiv.net
-52.84.203.136	festa.pixiv.net
-210.129.120.45	en.dic.pixiv.net
+13.35.19.186	matsuri.pixiv.net
+210.140.131.220	m.pixiv.net
+13.35.19.88	iracon.pixiv.net
+210.140.131.222	inside.pixiv.net
+210.140.131.223	i1.pixiv.net
+210.140.131.224	help.pixiv.net
+210.140.131.225	goods.pixiv.net
+210.140.131.226	genepixiv.pr.pixiv.net
+13.35.19.46	festa.pixiv.net
+210.140.131.180	en.dic.pixiv.net
 52.219.68.134	dev.pixiv.net
-210.129.120.42	chat.pixiv.net
-210.129.120.56	pay.pixiv.net
+210.140.131.181	chat.pixiv.net
+210.140.131.182	embed.pixiv.net
+210.140.131.183	comic-api.pixiv.net
+210.140.131.184	pay.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
 35.160.65.192	channels.pscp.tv
