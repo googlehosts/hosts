@@ -3627,6 +3627,10 @@ suche.web.de	82.165.229.94
 lokale.suche.web.de	54.93.172.67
 # Web.de End
 
+# Webtype Start
+cloud.webtype.com	72.21.91.41
+# Webtype End
+
 # WikiLeaks Start
 wikileaks.org	95.211.113.131
 www.wikileaks.org	95.211.113.131

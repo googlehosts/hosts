@@ -3629,6 +3629,10 @@ add address=82.165.229.94 name=suche.web.de
 add address=54.93.172.67 name=lokale.suche.web.de
 # Web.de End
 
+# Webtype Start
+add address=72.21.91.41 name=cloud.webtype.com
+# Webtype End
+
 # WikiLeaks Start
 add address=95.211.113.131 name=wikileaks.org
 add address=95.211.113.131 name=www.wikileaks.org
