@@ -3713,6 +3713,10 @@ add address=64.15.118.42 name=www.youtube.com
 add address=216.58.194.46 name=m.youtube.com
 # Youtube End
 
+# You-get Start
+add address=104.31.79.57 name=you-get.org
+# You-get End
+
 # Google 1e100 Start
 add address=74.125.67.1 name=ams15s21-in-f1.1e100.net
 add address=216.239.36.4 name=ams15s21-in-f4.1e100.net
