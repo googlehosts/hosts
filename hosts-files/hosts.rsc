@@ -173,6 +173,7 @@ add address=172.217.161.180 name=betaspike.appspot.com
 add address=172.217.161.180 name=hstspreload.appspot.com
 add address=172.217.161.180 name=lfe-alpo-gm.appspot.com
 add address=172.217.8.244 name=netlog-viewer.appspot.com
+add address=172.217.14.116 name=go-tour-zh.appspot.com
 # Appspotpreview End
 
 # Archive Start

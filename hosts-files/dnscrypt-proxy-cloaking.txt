@@ -171,6 +171,7 @@ betaspike.appspot.com	172.217.161.180
 hstspreload.appspot.com	172.217.161.180
 lfe-alpo-gm.appspot.com	172.217.161.180
 netlog-viewer.appspot.com	172.217.8.244
+go-tour-zh.appspot.com	172.217.14.116
 # Appspotpreview End
 
 # Archive Start
