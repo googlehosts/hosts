@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-02-10
+# Last updated: 2019-02-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2769,6 +2769,11 @@ add address=211.20.148.228 name=hichannel.hinet.net
 add address=34.200.95.135 name=id.heroku.com
 # Heroku End
 
+# HKGalden Start
+add address=104.25.120.37 name=hkgalden.com
+add address=104.25.120.37 name=www.hkgalden.com
+# HKGalden End
+
 # HKGolden Start
 add address=104.22.12.39 name=www.hkgolden.com
 add address=104.22.12.39 name=forum.hkgolden.com
@@ -3099,8 +3104,10 @@ add address=2.17.56.25 name=profile.line-scdn.net
 # Line End
 
 # Lihkg Start
-add address=104.24.15.103 name=lihkg.com
-add address=104.24.16.103 name=x.lihkg.com
+add address=104.19.139.58 name=x.lihkg.com
+add address=104.19.140.58 name=lihkg.com
+add address=104.19.140.58 name=graph.lihkg.com
+add address=104.19.140.58 name=i.lihkg.com
 # Lihkg End
 
 # MEGA Start
@@ -3394,6 +3401,9 @@ add address=52.221.46.214 name=api.theinitium.com
 
 # TopickHK Start
 add address=118.143.30.216 name=topick.hket.com
+add address=118.143.30.165 name=inlog01.hket.com
+add address=118.143.30.220 name=static01.hket.com
+add address=118.143.30.175 name=plus.hket.com
 # TopickHK End
 
 # Tumblr Start

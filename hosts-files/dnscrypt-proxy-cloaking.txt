@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-02-10
+# Last updated: 2019-02-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2767,6 +2767,11 @@ hichannel.hinet.net	211.20.148.228
 id.heroku.com	34.200.95.135
 # Heroku End
 
+# HKGalden Start
+hkgalden.com	104.25.120.37
+www.hkgalden.com	104.25.120.37
+# HKGalden End
+
 # HKGolden Start
 www.hkgolden.com	104.22.12.39
 forum.hkgolden.com	104.22.12.39
@@ -3097,8 +3102,10 @@ profile.line-scdn.net	2.17.56.25
 # Line End
 
 # Lihkg Start
-lihkg.com	104.24.15.103
-x.lihkg.com	104.24.16.103
+x.lihkg.com	104.19.139.58
+lihkg.com	104.19.140.58
+graph.lihkg.com	104.19.140.58
+i.lihkg.com	104.19.140.58
 # Lihkg End
 
 # MEGA Start
@@ -3392,6 +3399,9 @@ api.theinitium.com	52.221.46.214
 
 # TopickHK Start
 topick.hket.com	118.143.30.216
+inlog01.hket.com	118.143.30.165
+static01.hket.com	118.143.30.220
+plus.hket.com	118.143.30.175
 # TopickHK End
 
 # Tumblr Start

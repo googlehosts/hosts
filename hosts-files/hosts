@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-02-10
+# Last updated: 2019-02-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2767,6 +2767,11 @@
 34.200.95.135	id.heroku.com
 # Heroku End
 
+# HKGalden Start
+104.25.120.37	hkgalden.com
+104.25.120.37	www.hkgalden.com
+# HKGalden End
+
 # HKGolden Start
 104.22.12.39	www.hkgolden.com
 104.22.12.39	forum.hkgolden.com
@@ -3097,8 +3102,10 @@
 # Line End
 
 # Lihkg Start
-104.24.15.103	lihkg.com
-104.24.16.103	x.lihkg.com
+104.19.139.58	x.lihkg.com
+104.19.140.58	lihkg.com
+104.19.140.58	graph.lihkg.com
+104.19.140.58	i.lihkg.com
 # Lihkg End
 
 # MEGA Start
@@ -3392,6 +3399,9 @@
 
 # TopickHK Start
 118.143.30.216	topick.hket.com
+118.143.30.165	inlog01.hket.com
+118.143.30.220	static01.hket.com
+118.143.30.175	plus.hket.com
 # TopickHK End
 
 # Tumblr Start

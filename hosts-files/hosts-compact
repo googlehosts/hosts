@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-02-10
+# Last updated: 2019-02-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -283,6 +283,7 @@
 216.58.221.65	yt3.ggpht.com
 211.20.148.228	hichannel.hinet.net
 34.200.95.135	id.heroku.com
+104.25.120.37	hkgalden.com www.hkgalden.com
 104.22.12.39	www.hkgolden.com forum.hkgolden.com forum8.hkgolden.com m.hkgolden.com forum111.hkgolden.com classbm.hkgolden.com
 104.25.153.116	img.eservice-hk.net
 54.250.252.63	humble.pubnub.com
@@ -421,8 +422,8 @@
 104.102.162.148	stickershop.line-scdn.net
 23.211.98.191	obs.line-scdn.net
 2.17.56.25	profile.line-scdn.net
-104.24.15.103	lihkg.com
-104.24.16.103	x.lihkg.com
+104.19.139.58	x.lihkg.com
+104.19.140.58	lihkg.com graph.lihkg.com i.lihkg.com
 31.216.148.10	mega.nz
 117.18.237.188	g.cdn1.mega.co.nz
 104.16.120.127	medium.com
@@ -562,6 +563,9 @@
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com api.theinitium.com
 118.143.30.216	topick.hket.com
+118.143.30.165	inlog01.hket.com
+118.143.30.220	static01.hket.com
+118.143.30.175	plus.hket.com
 119.161.14.19	tumblr.com
 119.161.14.20	www.tumblr.com
 107.23.241.99	tumblr.co
