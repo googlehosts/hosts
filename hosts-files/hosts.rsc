@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-02-28
+# Last updated: 2019-03-04
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -852,73 +852,73 @@ add address=74.125.248.73 name=git.chromium.org
 # Google Chrome/Chromium End
 
 # Google Search Country Start
-add address=216.58.200.24 name=www.goo.gl
-add address=216.58.200.24 name=www.google.com.af
-add address=216.58.200.24 name=www.google.com.ag
-add address=216.58.200.24 name=www.google.com.ai
-add address=216.58.200.24 name=www.google.com.ar
-add address=216.58.200.24 name=www.google.com.au
-add address=216.58.200.24 name=www.google.com.bd
-add address=216.58.200.24 name=www.google.com.bh
-add address=216.58.200.24 name=www.google.com.bn
-add address=216.58.200.24 name=www.google.com.bo
-add address=216.58.200.24 name=www.google.com.br
-add address=216.58.200.24 name=www.google.com.by
-add address=216.58.200.24 name=www.google.com.bz
-add address=216.58.200.24 name=www.google.com.co
-add address=216.58.200.24 name=www.google.com.co.jp
-add address=216.58.200.24 name=www.google.com.cu
-add address=216.58.200.24 name=www.google.com.cy
-add address=216.58.200.24 name=www.google.com.do
-add address=216.58.200.24 name=www.google.com.ec
-add address=216.58.200.24 name=www.google.com.eg
-add address=216.58.200.24 name=www.google.com.et
-add address=216.58.200.24 name=www.google.com.fj
-add address=216.58.200.24 name=www.google.com.ge
-add address=216.58.200.24 name=www.google.com.gh
-add address=216.58.200.24 name=www.google.com.gi
-add address=216.58.200.24 name=www.google.com.gr
-add address=216.58.200.24 name=www.google.com.gt
-add address=172.217.30.158 name=www.google.com.hk
-add address=216.58.200.24 name=www.google.com.iq
-add address=216.58.200.24 name=www.google.com.jm
-add address=216.58.200.24 name=www.google.com.jo
-add address=216.58.200.24 name=www.google.com.kh
-add address=216.58.200.24 name=www.google.com.kw
-add address=216.58.200.24 name=www.google.com.lb
-add address=216.58.200.24 name=www.google.com.ly
-add address=216.58.200.24 name=www.google.com.mm
-add address=216.58.200.24 name=www.google.com.mt
-add address=216.58.200.24 name=www.google.com.mx
-add address=216.58.200.24 name=www.google.com.my
-add address=216.58.200.24 name=www.google.com.na
-add address=216.58.200.24 name=www.google.com.nf
-add address=216.58.200.24 name=www.google.com.ng
-add address=216.58.200.24 name=www.google.com.ni
-add address=216.58.200.24 name=www.google.com.np
-add address=216.58.200.24 name=www.google.com.nr
-add address=216.58.200.24 name=www.google.com.om
-add address=216.58.200.24 name=www.google.com.pa
-add address=216.58.200.24 name=www.google.com.pe
-add address=216.58.200.24 name=www.google.com.pg
-add address=216.58.200.24 name=www.google.com.ph
-add address=216.58.200.24 name=www.google.com.pk
-add address=216.58.200.24 name=www.google.com.pr
-add address=216.58.200.24 name=www.google.com.py
-add address=216.58.200.24 name=www.google.com.qa
-add address=216.58.200.24 name=www.google.com.ru
-add address=216.58.200.24 name=www.google.com.sa
-add address=216.58.200.24 name=www.google.com.sb
-add address=216.58.200.24 name=www.google.com.sg
-add address=216.58.200.24 name=www.google.com.sl
-add address=216.58.200.24 name=www.google.com.sv
-add address=216.58.200.24 name=www.google.com.tj
-add address=216.58.200.24 name=www.google.com.tr
-add address=172.217.4.163 name=www.google.com.tw
-add address=216.58.200.24 name=www.google.com.ua
-add address=216.58.200.24 name=www.google.com.uy
-add address=216.58.200.24 name=www.google.com.vc
-add address=216.58.200.24 name=www.google.com.vn
+add address=172.217.160.0 name=www.goo.gl
+add address=172.217.160.0 name=www.google.com.af
+add address=172.217.160.0 name=www.google.com.ag
+add address=172.217.160.0 name=www.google.com.ai
+add address=172.217.160.0 name=www.google.com.ar
+add address=172.217.160.0 name=www.google.com.au
+add address=172.217.160.0 name=www.google.com.bd
+add address=172.217.160.0 name=www.google.com.bh
+add address=172.217.160.0 name=www.google.com.bn
+add address=172.217.160.0 name=www.google.com.bo
+add address=172.217.160.0 name=www.google.com.br
+add address=172.217.160.0 name=www.google.com.by
+add address=172.217.160.0 name=www.google.com.bz
+add address=172.217.160.0 name=www.google.com.co
+add address=172.217.160.0 name=www.google.com.co.jp
+add address=172.217.160.0 name=www.google.com.cu
+add address=172.217.160.0 name=www.google.com.cy
+add address=172.217.160.0 name=www.google.com.do
+add address=172.217.160.0 name=www.google.com.ec
+add address=172.217.160.0 name=www.google.com.eg
+add address=172.217.160.0 name=www.google.com.et
+add address=172.217.160.0 name=www.google.com.fj
+add address=172.217.160.0 name=www.google.com.ge
+add address=172.217.160.0 name=www.google.com.gh
+add address=172.217.160.0 name=www.google.com.gi
+add address=172.217.160.0 name=www.google.com.gr
+add address=172.217.160.0 name=www.google.com.gt
+add address=172.217.160.0 name=www.google.com.hk
+add address=172.217.160.0 name=www.google.com.iq
+add address=172.217.160.0 name=www.google.com.jm
+add address=172.217.160.0 name=www.google.com.jo
+add address=172.217.160.0 name=www.google.com.kh
+add address=172.217.160.0 name=www.google.com.kw
+add address=172.217.160.0 name=www.google.com.lb
+add address=172.217.160.0 name=www.google.com.ly
+add address=172.217.160.0 name=www.google.com.mm
+add address=172.217.160.0 name=www.google.com.mt
+add address=172.217.160.0 name=www.google.com.mx
+add address=172.217.160.0 name=www.google.com.my
+add address=172.217.160.0 name=www.google.com.na
+add address=172.217.160.0 name=www.google.com.nf
+add address=172.217.160.0 name=www.google.com.ng
+add address=172.217.160.0 name=www.google.com.ni
+add address=172.217.160.0 name=www.google.com.np
+add address=172.217.160.0 name=www.google.com.nr
+add address=172.217.160.0 name=www.google.com.om
+add address=172.217.160.0 name=www.google.com.pa
+add address=172.217.160.0 name=www.google.com.pe
+add address=172.217.160.0 name=www.google.com.pg
+add address=172.217.160.0 name=www.google.com.ph
+add address=172.217.160.0 name=www.google.com.pk
+add address=172.217.160.0 name=www.google.com.pr
+add address=172.217.160.0 name=www.google.com.py
+add address=172.217.160.0 name=www.google.com.qa
+add address=172.217.160.0 name=www.google.com.ru
+add address=172.217.160.0 name=www.google.com.sa
+add address=172.217.160.0 name=www.google.com.sb
+add address=172.217.160.0 name=www.google.com.sg
+add address=172.217.160.0 name=www.google.com.sl
+add address=172.217.160.0 name=www.google.com.sv
+add address=172.217.160.0 name=www.google.com.tj
+add address=172.217.160.0 name=www.google.com.tr
+add address=172.217.160.0 name=www.google.com.tw
+add address=172.217.160.0 name=www.google.com.ua
+add address=172.217.160.0 name=www.google.com.uy
+add address=172.217.160.0 name=www.google.com.vc
+add address=172.217.160.0 name=www.google.com.vn
 # Google Search Country End
 
 # Google Search Home Start
@@ -927,7 +927,7 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=108.177.96.161 name=ogs.google.com
-add address=172.217.17.36 name=www.google.com
+add address=172.217.160.0 name=www.google.com
 add address=108.177.103.161 name=id.google.com
 add address=74.125.204.100 name=clients5.google.com
 add address=108.177.127.99 name=apis.google.com
