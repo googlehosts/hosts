@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-08
+# Last updated: 2019-03-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -19,8 +19,8 @@
 185.122.58.249	185-122-58-249.googlehosts.org tg-8.googlehosts.org
 103.105.48.234	103-105-48-234.googlehosts.org tg-9.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org ss-1.googlehosts.org
-23.226.136.132	23-226-136-132.googlehosts.org
-66.154.108.62	66-154-108-62.googlehosts.org ss-2.googlehosts.org
+23.226.136.132	23-226-136-132.googlehosts.org ss-2.googlehosts.org
+66.154.108.62	66-154-108-62.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org ss-3.googlehosts.org
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
@@ -28,7 +28,10 @@
 167.88.163.163	167-88-163-163.googlehosts.org ss-4.googlehosts.org
 23.95.54.162	23-95-54-162.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
+45.59.113.167	45-59-113-167.googlehosts.org status.googlehosts.org
+45.59.113.168	45-59-113-168.googlehosts.org www.googlehosts.org
 45.59.113.169	45-59-113-169.googlehosts.org netlog-viewer.googlehosts.org
+45.59.113.172	45-59-113-172.googlehosts.org main-ssh.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com

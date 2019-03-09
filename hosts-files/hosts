@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-08
+# Last updated: 2019-03-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -34,8 +34,8 @@
 23.226.136.24	23-226-136-24.googlehosts.org
 23.226.136.24	ss-1.googlehosts.org
 23.226.136.132	23-226-136-132.googlehosts.org
+23.226.136.132	ss-2.googlehosts.org
 66.154.108.62	66-154-108-62.googlehosts.org
-66.154.108.62	ss-2.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org
 23.226.136.216	ss-3.googlehosts.org
 155.94.137.77	155-94-137-77.googlehosts.org
@@ -47,8 +47,14 @@
 23.95.54.162	23-95-54-162.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org
 103.124.106.174	proxy.googlehosts.org
+45.59.113.167	45-59-113-167.googlehosts.org
+45.59.113.167	status.googlehosts.org
+45.59.113.168	45-59-113-168.googlehosts.org
+45.59.113.168	www.googlehosts.org
 45.59.113.169	45-59-113-169.googlehosts.org
 45.59.113.169	netlog-viewer.googlehosts.org
+45.59.113.172	45-59-113-172.googlehosts.org
+45.59.113.172	main-ssh.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start

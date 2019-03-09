@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-08
+# Last updated: 2019-03-09
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -36,8 +36,8 @@ add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
 add address=23.226.136.24 name=ss-1.googlehosts.org
 add address=23.226.136.132 name=23-226-136-132.googlehosts.org
+add address=23.226.136.132 name=ss-2.googlehosts.org
 add address=66.154.108.62 name=66-154-108-62.googlehosts.org
-add address=66.154.108.62 name=ss-2.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 add address=23.226.136.216 name=ss-3.googlehosts.org
 add address=155.94.137.77 name=155-94-137-77.googlehosts.org
@@ -49,8 +49,14 @@ add address=167.88.163.163 name=ss-4.googlehosts.org
 add address=23.95.54.162 name=23-95-54-162.googlehosts.org
 add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
+add address=45.59.113.167 name=45-59-113-167.googlehosts.org
+add address=45.59.113.167 name=status.googlehosts.org
+add address=45.59.113.168 name=45-59-113-168.googlehosts.org
+add address=45.59.113.168 name=www.googlehosts.org
 add address=45.59.113.169 name=45-59-113-169.googlehosts.org
 add address=45.59.113.169 name=netlog-viewer.googlehosts.org
+add address=45.59.113.172 name=45-59-113-172.googlehosts.org
+add address=45.59.113.172 name=main-ssh.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
