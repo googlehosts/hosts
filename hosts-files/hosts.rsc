@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-09
+# Last updated: 2019-03-12
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -27,8 +27,8 @@ add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
 add address=45.124.64.82 name=tg-6.googlehosts.org
-add address=172.86.73.41 name=172-86-73-41.googlehosts.org
-add address=172.86.73.41 name=tg-7.googlehosts.org
+add address=120.132.20.219 name=120-132-20-219.googlehosts.org
+add address=120.132.20.219 name=tg-7.googlehosts.org
 add address=185.122.58.249 name=185-122-58-249.googlehosts.org
 add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
