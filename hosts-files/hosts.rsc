@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-12
+# Last updated: 2019-03-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3280,6 +3280,10 @@ add address=18.194.108.2 name=prod-chatman-ancillary-eu-central-1.pscp.tv
 add address=34.233.63.45 name=prod-chatman-ancillary-us-east-1.pscp.tv
 add address=35.160.28.174 name=prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
+
+# Potplayer Start
+add address=211.231.108.181 name=potplayer.daum.net
+# Potplayer End
 
 # ProjectV Start
 add address=104.27.154.107 name=www.v2ray.com

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-12
+# Last updated: 2019-03-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3278,6 +3278,10 @@
 34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
 35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
+
+# Potplayer Start
+211.231.108.181	potplayer.daum.net
+# Potplayer End
 
 # ProjectV Start
 104.27.154.107	www.v2ray.com
