@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-29
+# Last updated: 2019-04-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -64,7 +64,7 @@ add address=23.32.241.9 name=a248.e.akamai.net
 # Akamai End
 
 # Amazon AWS Start
-add address=52.219.0.4 name=s3-ap-northeast-1.amazonaws.com
+add address=52.219.4.104 name=s3-ap-northeast-1.amazonaws.com
 add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 

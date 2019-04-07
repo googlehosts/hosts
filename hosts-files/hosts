@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-29
+# Last updated: 2019-04-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -62,7 +62,7 @@
 # Akamai End
 
 # Amazon AWS Start
-52.219.0.4	s3-ap-northeast-1.amazonaws.com
+52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 

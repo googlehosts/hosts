@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-29
+# Last updated: 2019-04-07
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -33,7 +33,7 @@
 45.59.113.169	45-59-113-169.googlehosts.org netlog-viewer.googlehosts.org
 45.59.113.172	45-59-113-172.googlehosts.org main-ssh.googlehosts.org
 23.32.241.9	a248.e.akamai.net
-52.219.0.4	s3-ap-northeast-1.amazonaws.com
+52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 52.119.164.121	amazon.co.jp
 23.13.186.208	www.amazon.co.jp
