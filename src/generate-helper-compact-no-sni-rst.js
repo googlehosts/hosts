@@ -2,9 +2,10 @@ module.exports = function (generateEntry, generateComment) {
 	return function (data) {
 		var entries = {};
 		data.hosts.forEach(function (block) {
+			if (block.sni_rst !== 'yes') {
 			block.items.forEach(function (item) {
 				if (item.comment === undefined) {
-					if (item.sni_rst == undefined) {
+					if (item.sni_rst !== 'yes') {
 						if (entries[item.ip] === undefined) entries[item.ip] = [];
 							if (item.domain !== undefined) entries[item.ip].push(item.domain);
 							else {
@@ -15,6 +16,7 @@ module.exports = function (generateEntry, generateComment) {
 					}
 				}
 			});
+			}
 		});
 		var output = '';
 		output += generateComment(data.header) + '\n';

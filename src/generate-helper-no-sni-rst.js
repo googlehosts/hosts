@@ -3,13 +3,14 @@ module.exports = function (generateEntry, generateComment) {
 		var output = '', blocks = [];
 		output += generateComment(data.header) + '\n';
 		data.hosts.forEach(function (block) {
+			if (block.sni_rst !== 'yes') {
 			var tmp = '';
 			tmp += generateComment(data.blockHeader.replace(/{NAME}/g, block.name));
 			block.items.forEach(function (item) {
 				if (item.comment !== undefined) {
 					tmp += generateComment(item.comment);
 				} else {
-					if (item.sni_rst == undefined) {
+					if (item.sni_rst !== 'yes') {
 						if (item.domain !== undefined) tmp += generateEntry(item.ip, item.domain) + '\n';
 							else {
 								item.domains.forEach(function (domain) {
@@ -21,6 +22,7 @@ module.exports = function (generateEntry, generateComment) {
 			});
 			tmp += generateComment(data.blockFooter.replace(/{NAME}/g, block.name));
 			blocks.push(tmp);
+			}
 		});
 		output += blocks.join('\n');
 		output += '\n' + generateComment(data.footer);
