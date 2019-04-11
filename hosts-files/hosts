@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-07
+# Last updated: 2019-04-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -10,6 +10,10 @@
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 # Localhost (DO NOT REMOVE) End
+
+#dmhy China Start
+104.25.27.31  share.dmhy.org
+#dmhy China End
 
 # GoogleHosts Start
 23.95.9.4	23-95-9-4.googlehosts.org
