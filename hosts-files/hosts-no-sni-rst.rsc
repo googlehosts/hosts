@@ -141,10 +141,9 @@ add address=172.217.14.116 name=go-tour-zh.appspot.com
 # Appspotpreview End
 
 # Archive Start
-add address=207.241.225.95 name=archive.org
-add address=207.241.225.95 name=www.archive.org
+add address=207.241.224.4 name=archive.org
+add address=207.241.224.4 name=www.archive.org
 add address=207.241.225.95 name=analytics.archive.org
-add address=207.241.225.95 name=ia802704.us.archive.org
 add address=207.241.225.186 name=web-beta.archive.org
 add address=207.241.225.186 name=wwwb-sentry.us.archive.org
 add address=207.241.225.186 name=web.archive.org
