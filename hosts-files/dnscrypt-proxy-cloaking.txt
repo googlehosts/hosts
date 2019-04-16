@@ -3639,6 +3639,7 @@ cloud.webtype.com	72.21.91.41
 # WikiLeaks Start
 wikileaks.org	95.211.113.131
 www.wikileaks.org	95.211.113.131
+file.wikileaks.org	141.105.65.113
 # WikiLeaks End
 
 # Wikinews Start

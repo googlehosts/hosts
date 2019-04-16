@@ -3575,6 +3575,7 @@ add address=72.21.91.41 name=cloud.webtype.com
 # WikiLeaks Start
 add address=95.211.113.131 name=wikileaks.org
 add address=95.211.113.131 name=www.wikileaks.org
+add address=141.105.65.113 name=file.wikileaks.org
 # WikiLeaks End
 
 # Wikinews Start
