@@ -12,11 +12,13 @@ echogr Generating hosts files.
 mkdir -p output
 if command -v git > /dev/null; then
 	DATE=$(git show -s --format=%cd --date=short)
+	YEAR=$(git show -s --format=%ad --date=format:%Y)
 else
 	echoye Git not found, using current date for the \"Last updated\" field.
 	DATE=$(date +%Y-%m-%d)
+	YEAR=$(date +%Y)
 fi
-node src/generate.js "$PWD/data" $DATE "$PWD/output"
+node src/generate.js "$PWD/data" $DATE $YEAR "$PWD/output"
 
 if [ "$TRAVIS" != "true" ]; then
 	echoye Not running on Travis CI, deployment skipped.
