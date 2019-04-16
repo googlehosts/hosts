@@ -194,7 +194,7 @@ add address=27.133.136.8 name=app.arukas.io
 # Arukas End
 
 # Avira Start
-add address=52.58.235.13 name=search.avira.com
+add address=52.59.33.68 name=search.avira.com
 # Avira End
 
 # Bandwagonhost Start
