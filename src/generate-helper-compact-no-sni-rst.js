@@ -3,19 +3,19 @@ module.exports = function (generateEntry, generateComment) {
 		var entries = {};
 		data.hosts.forEach(function (block) {
 			if (block.sni_rst !== 'yes') {
-			block.items.forEach(function (item) {
-				if (item.comment === undefined) {
+				block.items.forEach(function (item) {
 					if (item.sni_rst !== 'yes') {
-						if (entries[item.ip] === undefined) entries[item.ip] = [];
+						if (item.comment === undefined) {
+							if (entries[item.ip] === undefined) entries[item.ip] = [];
 							if (item.domain !== undefined) entries[item.ip].push(item.domain);
-							else {
-								item.domains.forEach(function (domain) {
-								entries[item.ip].push(domain);
+						else {
+							item.domains.forEach(function (domain) {
+							entries[item.ip].push(domain);
 							});
 						}
 					}
 				}
-			});
+				});
 			}
 		});
 		var output = '';
