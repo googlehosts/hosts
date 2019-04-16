@@ -168,13 +168,6 @@ m.box.com	107.152.24.197
 # Buzzfeed Start
 # Buzzfeed End
 
-# Change.org Start
-www.change.org	104.16.5.13
-assets.change.org	104.16.5.13
-change.org	104.16.4.13
-assets-fe.change.org	104.16.4.13
-# Change.org End
-
 # Cloudfront Start
 d3njjcbhbojbot.cloudfront.net	52.85.85.246
 d3c33hcgiwev3.cloudfront.net	52.85.83.12

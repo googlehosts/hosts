@@ -170,13 +170,6 @@ add address=107.152.24.197 name=m.box.com
 # Buzzfeed Start
 # Buzzfeed End
 
-# Change.org Start
-add address=104.16.5.13 name=www.change.org
-add address=104.16.5.13 name=assets.change.org
-add address=104.16.4.13 name=change.org
-add address=104.16.4.13 name=assets-fe.change.org
-# Change.org End
-
 # Cloudfront Start
 add address=52.85.85.246 name=d3njjcbhbojbot.cloudfront.net
 add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
