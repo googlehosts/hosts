@@ -87,6 +87,7 @@ add address=104.20.82.194 name=m.apkpure.com
 # Apkpure End
 
 # Appspot Start
+# Pending fix
 add address=172.217.168.209 name=www.appspot.com
 add address=172.217.168.209 name=appspot.com
 add address=172.217.168.209 name=events.withgoogle.com
@@ -121,6 +122,7 @@ add address=172.217.168.209 name=spellup.withgoogle.com
 # Appspot End
 
 # Appspotpreview Start
+# Pending fix
 add address=172.217.161.180 name=author-dot-betaspike.appspot.com
 add address=172.217.161.180 name=jmoore-dot-android-experiments.appspot.com
 add address=172.217.161.180 name=mission-author-dot-betaspike.appspot.com
@@ -143,11 +145,7 @@ add address=172.217.14.116 name=go-tour-zh.appspot.com
 # Archive Start
 add address=207.241.224.4 name=archive.org
 add address=207.241.224.4 name=www.archive.org
-add address=207.241.225.186 name=web-beta.archive.org
-add address=207.241.225.186 name=wwwb-sentry.us.archive.org
-add address=207.241.225.186 name=web.archive.org
 add address=207.241.224.6 name=mail.archive.org
-add address=207.241.225.247 name=books-general.archive.org
 # Archive End
 
 # Arukas Start
@@ -176,8 +174,9 @@ add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
-add address=172.217.14.56 name=embed.culturalspot.org
-add address=172.217.14.96 name=globetoglobehamlet.culturalspot.org
+# Pending fix
+add address=216.58.200.238 name=embed.culturalspot.org
+add address=216.58.200.238 name=globetoglobehamlet.culturalspot.org
 # Culturalspot End
 
 # Conoha Start

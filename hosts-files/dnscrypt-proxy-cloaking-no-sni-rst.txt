@@ -85,6 +85,7 @@ m.apkpure.com	104.20.82.194
 # Apkpure End
 
 # Appspot Start
+# Pending fix
 www.appspot.com	172.217.168.209
 appspot.com	172.217.168.209
 events.withgoogle.com	172.217.168.209
@@ -119,6 +120,7 @@ spellup.withgoogle.com	172.217.168.209
 # Appspot End
 
 # Appspotpreview Start
+# Pending fix
 author-dot-betaspike.appspot.com	172.217.161.180
 jmoore-dot-android-experiments.appspot.com	172.217.161.180
 mission-author-dot-betaspike.appspot.com	172.217.161.180
@@ -141,11 +143,7 @@ go-tour-zh.appspot.com	172.217.14.116
 # Archive Start
 archive.org	207.241.224.4
 www.archive.org	207.241.224.4
-web-beta.archive.org	207.241.225.186
-wwwb-sentry.us.archive.org	207.241.225.186
-web.archive.org	207.241.225.186
 mail.archive.org	207.241.224.6
-books-general.archive.org	207.241.225.247
 # Archive End
 
 # Arukas Start
@@ -174,8 +172,9 @@ d3c33hcgiwev3.cloudfront.net	52.85.83.12
 # Cloudfront End
 
 # Culturalspot Start
-embed.culturalspot.org	172.217.14.56
-globetoglobehamlet.culturalspot.org	172.217.14.96
+# Pending fix
+embed.culturalspot.org	216.58.200.238
+globetoglobehamlet.culturalspot.org	216.58.200.238
 # Culturalspot End
 
 # Conoha Start

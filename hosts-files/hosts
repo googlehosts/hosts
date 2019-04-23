@@ -123,6 +123,7 @@
 # Apkmirror End
 
 # Appspot Start
+# Pending fix
 172.217.168.209	www.appspot.com
 172.217.168.209	appspot.com
 172.217.168.209	events.withgoogle.com
@@ -157,6 +158,7 @@
 # Appspot End
 
 # Appspotpreview Start
+# Pending fix
 172.217.161.180	author-dot-betaspike.appspot.com
 172.217.161.180	jmoore-dot-android-experiments.appspot.com
 172.217.161.180	mission-author-dot-betaspike.appspot.com
@@ -180,9 +182,9 @@
 207.241.224.4	archive.org
 207.241.224.4	www.archive.org
 207.241.225.95	analytics.archive.org
-207.241.225.186	web-beta.archive.org
-207.241.225.186	wwwb-sentry.us.archive.org
-207.241.225.186	web.archive.org
+207.241.233.214	web-beta.archive.org
+207.241.233.214	wwwb-sentry.us.archive.org
+207.241.233.214	web.archive.org
 207.241.224.6	mail.archive.org
 207.241.225.247	books-general.archive.org
 # Archive End
@@ -248,8 +250,9 @@
 # Cloudfront End
 
 # Culturalspot Start
-172.217.14.56	embed.culturalspot.org
-172.217.14.96	globetoglobehamlet.culturalspot.org
+# Pending fix
+216.58.200.238	embed.culturalspot.org
+216.58.200.238	globetoglobehamlet.culturalspot.org
 # Culturalspot End
 
 # Conoha Start
