@@ -30,28 +30,34 @@ module.exports = function (data) {
 	if (checkType(data, 'hosts', 'array')) {
 		data.hosts.forEach(function (block) {
 			checkType(block, 'name', 'string');
+			if (block.comment !== undefined) {
+				checkType(block, 'comment', 'string')
+			}
 			if (checkType(block, 'items', 'array')) {
 				block.items.forEach(function (item) {
 					if (item.comment !== undefined) {
 						checkType(item, 'comment', 'string')
-					} else {
-						if (checkType(item, 'ip', 'string')) {
-							if (!validate4(item.ip)) {
-								console.error(`Invalid IP address: \x1b[31m${item.ip}\x1b[0m.`);
-								ok = false;
-							}
+					}
+					if (item.comment !== undefined && block.comment !== undefined || item.comment === 'yes' && block.comment === 'yes') {
+						console.error(`Duplicate comment definition: \x1b[31m${item.comment} and ${block.comment}\x1b[0m.`);
+						ok = false;
+					}
+					if (checkType(item, 'ip', 'string')) {
+						if (!validate4(item.ip)) {
+							console.error(`Invalid IP address: \x1b[31m${item.ip}\x1b[0m.`);
+							ok = false;
 						}
-						if (item.domain !== undefined) {
-							if (checkType(item, 'domain', 'string')) {
-								checkDomain(item.domain);
-							}
-						} else if (checkType(item, 'domains', 'array')) {
-							item.domains.forEach(function (domain) {
-								if (checkType({ domains: domain }, 'domains', 'string')) {
-									checkDomain(domain);
-								}
-							});
+					}
+					if (item.domain !== undefined) {
+						if (checkType(item, 'domain', 'string')) {
+							checkDomain(item.domain);
 						}
+					} else if (checkType(item, 'domains', 'array')) {
+						item.domains.forEach(function (domain) {
+							if (checkType({ domains: domain }, 'domains', 'string')) {
+								checkDomain(domain);
+							}
+						});
 					}
 				});
 			}
