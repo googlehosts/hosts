@@ -3311,6 +3311,15 @@
 192.229.189.142	www.quora.com
 # Quora End
 
+# Rakuten Start
+133.237.50.6	rd.rakuten.co.jp
+133.237.61.71	esearch.rakuten.co.jp
+23.40.72.233	www.rakuten.co.jp
+40.115.251.146	globalexpress.rakuten.co.jp
+96.7.133.108	books.rakuten.co.jp
+96.7.133.108	search.rakuten.co.jp
+# Rakuten End
+
 # RawGit Start
 198.232.125.81	cdn.rawgit.com
 # RawGit End

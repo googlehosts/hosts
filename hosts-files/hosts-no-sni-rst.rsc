@@ -3239,6 +3239,15 @@ add address=140.112.172.1 name=ptt.cc
 add address=192.229.189.142 name=www.quora.com
 # Quora End
 
+# Rakuten Start
+add address=133.237.50.6 name=rd.rakuten.co.jp
+add address=133.237.61.71 name=esearch.rakuten.co.jp
+add address=23.40.72.233 name=www.rakuten.co.jp
+add address=40.115.251.146 name=globalexpress.rakuten.co.jp
+add address=96.7.133.108 name=books.rakuten.co.jp
+add address=96.7.133.108 name=search.rakuten.co.jp
+# Rakuten End
+
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com
 # RawGit End

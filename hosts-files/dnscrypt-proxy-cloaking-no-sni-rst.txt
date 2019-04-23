@@ -3237,6 +3237,15 @@ ptt.cc	140.112.172.1
 www.quora.com	192.229.189.142
 # Quora End
 
+# Rakuten Start
+rd.rakuten.co.jp	133.237.50.6
+esearch.rakuten.co.jp	133.237.61.71
+www.rakuten.co.jp	23.40.72.233
+globalexpress.rakuten.co.jp	40.115.251.146
+books.rakuten.co.jp	96.7.133.108
+search.rakuten.co.jp	96.7.133.108
+# Rakuten End
+
 # RawGit Start
 cdn.rawgit.com	198.232.125.81
 # RawGit End
