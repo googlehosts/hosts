@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-17
+# Last updated: 2019-04-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -171,7 +171,7 @@ add address=107.152.24.197 name=m.box.com
 # Buzzfeed End
 
 # Cloudfront Start
-add address=52.85.85.246 name=d3njjcbhbojbot.cloudfront.net
+add address=13.33.25.77 name=d3njjcbhbojbot.cloudfront.net
 add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
