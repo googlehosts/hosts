@@ -2732,6 +2732,7 @@ add address=151.101.100.193 name=store.imgur.com
 add address=151.101.100.193 name=s.imgur.com
 add address=151.101.100.193 name=p.imgur.com
 add address=151.101.100.193 name=i.imgur.com
+add address=151.101.100.193 name=i.stack.imgur.com
 # imgur End
 
 # Ingress Start
