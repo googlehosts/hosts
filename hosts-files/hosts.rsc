@@ -27,8 +27,10 @@ add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
 add address=45.124.64.82 name=tg-6.googlehosts.org
+add address=117.50.61.150 name=117-50-61-150.googlehosts.org
+add address=117.50.61.150 name=tg-7.googlehosts.org
 add address=106.75.2.132 name=106-75-2-132.googlehosts.org
-add address=106.75.2.132 name=tg-7.googlehosts.org
+add address=106.75.2.132 name=tg-7-b.googlehosts.org
 add address=185.122.58.249 name=185-122-58-249.googlehosts.org
 add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
