@@ -273,7 +273,7 @@ add address=63.141.239.58 name=library.ctext.org
 add address=52.84.150.14 name=pre00.deviantart.net
 add address=52.85.220.219 name=deviantart.com
 add address=52.85.220.244 name=www.deviantart.com
-add address=54.70.219.228 name=deviantart.net
+add address=52.32.58.1 name=deviantart.net
 add address=99.84.104.122 name=st.deviantart.net
 add address=99.84.104.23 name=a.deviantart.net
 add address=99.84.104.59 name=e.deviantart.net

@@ -193,7 +193,7 @@ library.ctext.org	63.141.239.58
 pre00.deviantart.net	52.84.150.14
 deviantart.com	52.85.220.219
 www.deviantart.com	52.85.220.244
-deviantart.net	54.70.219.228
+deviantart.net	52.32.58.1
 st.deviantart.net	99.84.104.122
 a.deviantart.net	99.84.104.23
 e.deviantart.net	99.84.104.59
