@@ -280,9 +280,11 @@
 99.84.104.59	i.deviantart.net
 99.84.254.116	orig00.deviantart.net
 99.84.254.32	t00.deviantart.net
+13.33.47.221	film00.deviantart.net
 # DeviantArt End
 
 # Dropbox Start
+# Pending fix
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com
 162.125.248.1	www.dualstack.dropbox-dns.com

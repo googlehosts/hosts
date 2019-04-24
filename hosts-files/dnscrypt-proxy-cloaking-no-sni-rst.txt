@@ -202,59 +202,8 @@ e.deviantart.net	99.84.104.59
 i.deviantart.net	99.84.104.59
 orig00.deviantart.net	99.84.254.116
 t00.deviantart.net	99.84.254.32
+film00.deviantart.net	13.33.47.221
 # DeviantArt End
-
-# Dropbox Start
-db.tt	162.125.248.2
-www.dropbox.com	162.125.248.1
-www.dualstack.dropbox-dns.com	162.125.248.1
-api.dropbox.com	162.125.5.7
-api.dualstack.dropbox-dns.com	162.125.5.7
-api.dropboxapi.com	162.125.5.7
-api-d.dropbox.com	162.125.33.7
-api.v.dropbox.com	162.125.34.7
-api-notify.dropbox.com	162.125.34.7
-aem.dropbox.com	99.84.239.58
-api-content.dropbox.com	162.125.82.8
-api-content-photos.dropbox.com	162.125.82.5
-blogs.dropbox.com	13.35.8.95
-block.dropbox.com	162.125.17.132
-block.v.dropbox.com	162.125.17.5
-bolt.dropbox.com	162.125.18.133
-client.dropbox.com	162.125.65.3
-client-cf.dropbox.com	162.125.65.3
-client.v.dropbox.com	162.125.32.137
-client-lb.dropbox.com	162.125.80.3
-client-web.dropbox.com	162.125.80.3
-d.dropbox.com	162.125.32.135
-d.v.dropbox.com	162.125.32.135
-dl.dropbox.com	162.125.83.6
-dl-web.dropbox.com	162.125.83.6
-dl-doc.dropbox.com	162.125.83.6
-dl-debug.dropbox.com	54.236.121.227
-forums.dropbox.com	13.35.8.71
-linux.dropbox.com	13.35.99.72
-m.dropbox.com	162.125.80.2
-marketing.dropbox.com	54.230.173.117
-photos.dropbox.com	162.125.66.5
-photos-1.dropbox.com	162.125.83.5
-photos-2.dropbox.com	162.125.83.5
-photos-3.dropbox.com	162.125.83.5
-photos-4.dropbox.com	162.125.83.5
-photos-5.dropbox.com	162.125.83.5
-photos-6.dropbox.com	162.125.83.5
-photos-thumb.dropbox.com	162.125.83.5
-photos-thumb.x.dropbox.com	162.125.18.129
-paper.dropbox.com	54.153.81.237
-status.dropbox.com	54.230.173.90
-snapengage.dropbox.com	54.230.173.29
-dl.dropboxusercontent.com	162.125.7.6
-www.dropboxstatic.com	162.125.33.9
-cfl.dropboxstatic.com	104.16.100.29
-cf.dropboxstatic.com	54.230.175.68
-dbxlocal.dropboxstatic.com	162.125.33.9
-log.getdropbox.com	162.125.82.2
-# Dropbox End
 
 # DuckDuckGo Start
 duckduckgo.com	13.210.167.213

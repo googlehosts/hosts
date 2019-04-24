@@ -282,9 +282,11 @@ add address=99.84.104.59 name=e.deviantart.net
 add address=99.84.104.59 name=i.deviantart.net
 add address=99.84.254.116 name=orig00.deviantart.net
 add address=99.84.254.32 name=t00.deviantart.net
+add address=13.33.47.221 name=film00.deviantart.net
 # DeviantArt End
 
 # Dropbox Start
+# Pending fix
 add address=162.125.248.2 name=db.tt
 add address=162.125.248.1 name=www.dropbox.com
 add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
