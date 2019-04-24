@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-24
+# Last updated: 2019-04-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -201,6 +201,7 @@ add address=54.230.231.64 name=bugidifino.deviantart.com
 add address=52.85.154.83 name=bunny-no.deviantart.com
 add address=52.85.154.133 name=chipmunkrulz.deviantart.com
 add address=54.230.231.59 name=forum.deviantart.com
+add address=54.192.163.36 name=fifi9322.deviantart.com
 add address=54.192.163.44 name=groups.deviantart.com
 add address=54.192.163.47 name=imstarving.deviantart.com
 add address=54.192.163.36 name=isis-moon.deviantart.com
@@ -277,127 +278,9 @@ add address=104.20.170.49 name=computer.discuss.com.hk
 add address=207.38.70.29 name=www.dynu.com
 # Dynu End
 
-# Facebook Start
-add address=157.240.7.35 name=www.facebook.com
-add address=157.240.7.35 name=fb.me
-add address=157.240.7.35 name=facebook.com
-add address=157.240.7.35 name=api.facebook.com
-add address=157.240.7.35 name=apps.facebook.com
-add address=157.240.7.35 name=attachments.facebook.com
-add address=157.240.7.35 name=business.facebook.com
-add address=157.240.7.35 name=bigzipfiles.facebook.com
-add address=157.240.7.35 name=code.facebook.com
-add address=157.240.7.35 name=check4.facebook.com
-add address=157.240.7.35 name=check6.facebook.com
-add address=157.240.7.35 name=connect.facebook.com
-add address=157.240.7.35 name=d.facebook.com
-add address=157.240.7.35 name=developers.facebook.com
-add address=157.240.7.35 name=graph.facebook.com
-add address=157.240.7.35 name=l.facebook.com
-add address=157.240.7.35 name=login.facebook.com
-add address=157.240.7.35 name=m.facebook.com
-add address=157.240.7.35 name=mtouch.facebook.com
-add address=157.240.7.35 name=mqtt.facebook.com
-add address=157.240.7.35 name=mqtt-mini.facebook.com
-add address=157.240.7.35 name=orcart.facebook.com
-add address=157.240.7.35 name=pixel.facebook.com
-add address=157.240.7.35 name=scontent.facebook.com
-add address=157.240.7.35 name=ssl.facebook.com
-add address=157.240.7.35 name=star.facebook.com
-add address=157.240.7.35 name=secure.facebook.com
-add address=157.240.7.35 name=staticxx.facebook.com
-add address=157.240.7.35 name=touch.facebook.com
-add address=157.240.7.35 name=upload.facebook.com
-add address=157.240.7.35 name=vupload.facebook.com
-add address=157.240.7.35 name=vupload2.facebook.com
-add address=157.240.7.35 name=api-read.facebook.com
-add address=157.240.7.35 name=b-api.facebook.com
-add address=157.240.7.35 name=b-graph.facebook.com
-add address=157.240.7.35 name=s-static.facebook.com
-add address=157.240.7.35 name=zh-cn.facebook.com
-add address=157.240.7.35 name=zh-tw.facebook.com
-add address=157.240.7.35 name=edge-chat.facebook.com
-add address=157.240.7.35 name=0-edge-chat.facebook.com
-add address=157.240.7.35 name=1-edge-chat.facebook.com
-add address=157.240.7.35 name=2-edge-chat.facebook.com
-add address=157.240.7.35 name=3-edge-chat.facebook.com
-add address=157.240.7.35 name=4-edge-chat.facebook.com
-add address=157.240.7.35 name=5-edge-chat.facebook.com
-add address=157.240.7.35 name=6-edge-chat.facebook.com
-add address=157.240.7.35 name=channel-ecmp-05-ash3.facebook.com
-add address=157.240.7.35 name=channel-staging-ecmp-05-ash3.facebook.com
-add address=157.240.7.35 name=channel-testing-ecmp-05-ash3.facebook.com
-add address=157.240.7.35 name=beta-chat-01-05-ash3.facebook.com
-add address=157.240.7.35 name=s-static.ak.facebook.com
-add address=157.240.7.35 name=star.c10r.facebook.com
-add address=157.240.7.35 name=fbcdn.net
-add address=157.240.7.35 name=connect.facebook.net
-add address=157.240.7.35 name=ent-a.xx.fbcdn.net
-add address=157.240.7.35 name=ent-b.xx.fbcdn.net
-add address=157.240.7.35 name=ent-c.xx.fbcdn.net
-add address=157.240.7.35 name=ent-d.xx.fbcdn.net
-add address=157.240.7.35 name=ent-e.xx.fbcdn.net
-add address=157.240.7.35 name=scontent.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-a.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-b.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-c.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-d.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-e.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-mxp.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-a-lax.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-a-sin.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-b-lax.xx.fbcdn.net
-add address=157.240.7.35 name=scontent-b-sin.xx.fbcdn.net
-add address=157.240.7.35 name=static.thefacebook.com
-add address=157.240.7.35 name=attachment.fbsbx.com
-add address=157.240.7.35 name=messenger.com
-add address=157.240.7.35 name=www.messenger.com
-add address=157.240.7.35 name=0-edge-chat.messenger.com
-add address=157.240.7.35 name=1-edge-chat.messenger.com
-add address=157.240.7.35 name=2-edge-chat.messenger.com
-add address=157.240.7.35 name=3-edge-chat.messenger.com
-add address=157.240.7.35 name=4-edge-chat.messenger.com
-add address=157.240.7.35 name=5-edge-chat.messenger.com
-add address=157.240.7.35 name=6-edge-chat.messenger.com
-add address=31.13.95.33 name=snaptu-z.facebook.com
-add address=31.13.95.33 name=snaptu-p1.facebook.com
-add address=31.13.95.33 name=snaptu-p2.facebook.com
-add address=31.13.95.5 name=edge-mqtt.facebook.com
-add address=192.0.78.13 name=instantarticles.fb.com
-add address=192.0.78.13 name=live.fb.com
-add address=192.0.78.13 name=managingbias.fb.com
-add address=192.0.78.13 name=nonprofits.fb.com
-add address=192.0.78.13 name=rightsmanager.fb.com
-add address=192.0.78.13 name=techprep.fb.com
-add address=192.0.78.13 name=work.fb.com
-add address=31.13.91.15 name=static.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-1.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-2.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-3.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-lax3-4.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-hkg3-1.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-hkg3-2.xx.fbcdn.net
-add address=31.13.91.15 name=scontent-hkg3-3.xx.fbcdn.net
-add address=31.13.91.15 name=z-1-scontent.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-1.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-2.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-3.xx.fbcdn.net
-add address=31.13.91.15 name=video-lax3-4.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-1.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-2.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-3.xx.fbcdn.net
-add address=31.13.91.15 name=video-mrs1-4.xx.fbcdn.net
-add address=31.13.91.15 name=video-hkg3-1.xx.fbcdn.net
-add address=31.13.91.15 name=video-sit4-1.xx.fbcdn.net
-add address=31.13.91.15 name=external.xx.fbcdn.net
-add address=192.0.66.2 name=messengerplatform.fb.com
-add address=192.0.66.2 name=threatexchange.fb.com
-add address=157.240.11.18 name=video.xx.fbcdn.net
-# Facebook End
-
 # FlipBoard Start
-add address=52.44.186.59 name=beacon.flipboard.com
-add address=34.201.185.200 name=fbprod.flipboard.com
+add address=13.33.208.8 name=beacon.flipboard.com
+add address=13.33.208.8 name=fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start

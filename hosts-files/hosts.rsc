@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-24
+# Last updated: 2019-04-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -279,6 +279,7 @@ add address=54.230.231.64 name=bugidifino.deviantart.com
 add address=52.85.154.83 name=bunny-no.deviantart.com
 add address=52.85.154.133 name=chipmunkrulz.deviantart.com
 add address=54.230.231.59 name=forum.deviantart.com
+add address=54.192.163.36 name=fifi9322.deviantart.com
 add address=54.192.163.44 name=groups.deviantart.com
 add address=54.192.163.47 name=imstarving.deviantart.com
 add address=54.192.163.36 name=isis-moon.deviantart.com
@@ -527,8 +528,8 @@ add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
 # FlipBoard Start
-add address=52.44.186.59 name=beacon.flipboard.com
-add address=34.201.185.200 name=fbprod.flipboard.com
+add address=13.33.208.8 name=beacon.flipboard.com
+add address=13.33.208.8 name=fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start
