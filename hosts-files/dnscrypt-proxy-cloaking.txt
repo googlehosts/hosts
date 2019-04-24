@@ -2838,12 +2838,12 @@ i.stack.imgur.com	101.78.207.158
 # imgur End
 
 # Ingress Start
-appload.ingest.crittercism.com	54.193.15.78
-api.crittercism.com	54.193.15.78
+appload.ingest.crittercism.com	52.9.109.157
+api.crittercism.com	54.241.32.12
 txn.ingest.crittercism.com	54.193.253.0
-bootstrap.upsight-api.com	169.44.145.200
-single.upsight-api.com	169.44.145.200
-batch.upsight-api.com	169.44.145.200
+bootstrap.upsight-api.com	169.44.145.204
+single.upsight-api.com	169.44.145.204
+batch.upsight-api.com	169.44.145.204
 # Ingress End
 
 # Instagram Start

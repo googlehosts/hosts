@@ -2840,12 +2840,12 @@ add address=101.78.207.158 name=i.stack.imgur.com
 # imgur End
 
 # Ingress Start
-add address=54.193.15.78 name=appload.ingest.crittercism.com
-add address=54.193.15.78 name=api.crittercism.com
+add address=52.9.109.157 name=appload.ingest.crittercism.com
+add address=54.241.32.12 name=api.crittercism.com
 add address=54.193.253.0 name=txn.ingest.crittercism.com
-add address=169.44.145.200 name=bootstrap.upsight-api.com
-add address=169.44.145.200 name=single.upsight-api.com
-add address=169.44.145.200 name=batch.upsight-api.com
+add address=169.44.145.204 name=bootstrap.upsight-api.com
+add address=169.44.145.204 name=single.upsight-api.com
+add address=169.44.145.204 name=batch.upsight-api.com
 # Ingress End
 
 # Instagram Start

@@ -209,9 +209,10 @@
 101.78.207.157	common.hkjc.com
 203.86.162.153	search.hkjc.com
 101.78.207.158	football.hkjc.com
-54.193.15.78	appload.ingest.crittercism.com api.crittercism.com
+52.9.109.157	appload.ingest.crittercism.com
+54.241.32.12	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
-169.44.145.200	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
+169.44.145.204	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
 31.13.82.172	instagram.com
 31.13.82.174	www.instagram.com scontent-a-nrt.cdninstagram.com scontent-b-nrt.cdninstagram.com scontent-nrt1-1.cdninstagram.com
 157.240.15.174	badges.instagram.com graph.instagram.com scontent-a.cdninstagram.com scontent-b.cdninstagram.com
