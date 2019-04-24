@@ -2578,18 +2578,6 @@ add address=203.86.162.153 name=search.hkjc.com
 add address=101.78.207.158 name=football.hkjc.com
 # Hkjc End
 
-# imgur Start
-add address=151.101.100.193 name=imgur.com
-add address=151.101.100.193 name=m.imgur.com
-add address=151.101.100.193 name=api.imgur.com
-add address=151.101.100.193 name=www.imgur.com
-add address=151.101.100.193 name=store.imgur.com
-add address=151.101.100.193 name=s.imgur.com
-add address=151.101.100.193 name=p.imgur.com
-add address=151.101.100.193 name=i.imgur.com
-add address=151.101.100.193 name=i.stack.imgur.com
-# imgur End
-
 # Ingress Start
 add address=54.193.15.78 name=appload.ingest.crittercism.com
 add address=54.193.15.78 name=api.crittercism.com

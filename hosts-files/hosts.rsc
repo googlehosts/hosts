@@ -2828,15 +2828,15 @@ add address=101.78.207.158 name=football.hkjc.com
 # Hkjc End
 
 # imgur Start
-add address=151.101.100.193 name=imgur.com
-add address=151.101.100.193 name=m.imgur.com
-add address=151.101.100.193 name=api.imgur.com
-add address=151.101.100.193 name=www.imgur.com
-add address=151.101.100.193 name=store.imgur.com
-add address=151.101.100.193 name=s.imgur.com
-add address=151.101.100.193 name=p.imgur.com
-add address=151.101.100.193 name=i.imgur.com
-add address=151.101.100.193 name=i.stack.imgur.com
+add address=151.101.40.193 name=imgur.com
+add address=151.101.40.193 name=m.imgur.com
+add address=151.101.40.193 name=api.imgur.com
+add address=151.101.40.193 name=www.imgur.com
+add address=151.101.40.193 name=store.imgur.com
+add address=151.101.40.193 name=s.imgur.com
+add address=151.101.40.193 name=p.imgur.com
+add address=151.101.40.193 name=i.imgur.com
+add address=101.78.207.158 name=i.stack.imgur.com
 # imgur End
 
 # Ingress Start
