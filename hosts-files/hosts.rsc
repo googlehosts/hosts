@@ -558,8 +558,8 @@ add address=82.165.230.43 name=search.gmx.com
 # Gmx End
 
 # Goodreads Start
-add address=176.32.103.89 name=www.goodreads.com
-add address=176.32.102.212 name=ads.goodreads.com
+add address=54.239.26.220 name=www.goodreads.com
+add address=205.251.242.64 name=ads.goodreads.com
 # Goodreads End
 
 # Google Apis Start

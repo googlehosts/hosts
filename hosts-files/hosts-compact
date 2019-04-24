@@ -220,8 +220,8 @@
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com
 82.165.230.43	search.gmx.com
-176.32.103.89	www.goodreads.com
-176.32.102.212	ads.goodreads.com
+54.239.26.220	www.goodreads.com
+205.251.242.64	ads.goodreads.com
 216.58.204.202	www.googleapis.com
 172.217.168.202	ajax.googleapis.com googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com
 108.177.127.201	fonts.googleapis.com
