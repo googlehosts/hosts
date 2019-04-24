@@ -2814,10 +2814,9 @@ add address=104.25.153.116 name=img.eservice-hk.net
 # HKGolden End
 
 # HumbleBundle Start
-add address=54.250.252.63 name=humble.pubnub.com
+add address=54.249.82.168 name=humble.pubnub.com
 add address=104.20.34.236 name=humblebundle.com
 add address=52.36.140.12 name=pubnub.com
-add address=216.58.200.243 name=www.humblebundle.com
 # HumbleBundle End
 
 # Hkjc Start
