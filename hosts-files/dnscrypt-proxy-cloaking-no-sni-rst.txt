@@ -2544,7 +2544,7 @@ radio-hichannel.cdn.hinet.net	202.39.143.235
 # Hinet End
 
 # Heroku Start
-id.heroku.com	34.200.95.135
+id.heroku.com	52.200.255.123
 # Heroku End
 
 # HKGalden Start

@@ -2546,7 +2546,7 @@ add address=202.39.143.235 name=radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=34.200.95.135 name=id.heroku.com
+add address=52.200.255.123 name=id.heroku.com
 # Heroku End
 
 # HKGalden Start
