@@ -2789,6 +2789,7 @@ mt7.gstatic.com	108.177.120.94
 
 # Hinet Start
 hichannel.hinet.net	211.20.148.228
+radio-hichannel.cdn.hinet.net	202.39.143.235
 # Hinet End
 
 # Heroku Start

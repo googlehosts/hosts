@@ -2542,6 +2542,7 @@ add address=108.177.120.94 name=mt7.gstatic.com
 
 # Hinet Start
 add address=211.20.148.228 name=hichannel.hinet.net
+add address=202.39.143.235 name=radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
