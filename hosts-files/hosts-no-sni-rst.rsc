@@ -194,14 +194,21 @@ add address=63.141.239.58 name=library.ctext.org
 # Ctext End
 
 # DeviantArt Start
-add address=52.84.150.14 name=pre00.deviantart.net
 add address=52.85.220.219 name=deviantart.com
 add address=52.85.220.244 name=www.deviantart.com
+add address=52.85.154.135 name=amazing-animal-art.deviantart.com
+add address=54.230.231.64 name=bugidifino.deviantart.com
+add address=52.85.154.83 name=bunny-no.deviantart.com
+add address=52.85.154.133 name=chipmunkrulz.deviantart.com
+add address=54.192.163.47 name=imstarving.deviantart.com
+add address=54.192.163.36 name=isis-moon.deviantart.com
+add address=52.85.154.83 name=shop.deviantart.com
 add address=52.32.58.1 name=deviantart.net
 add address=99.84.104.122 name=st.deviantart.net
 add address=99.84.104.23 name=a.deviantart.net
 add address=99.84.104.59 name=e.deviantart.net
 add address=99.84.104.59 name=i.deviantart.net
+add address=52.84.150.14 name=pre00.deviantart.net
 add address=99.84.254.116 name=orig00.deviantart.net
 add address=99.84.254.32 name=t00.deviantart.net
 add address=13.33.47.221 name=film00.deviantart.net
