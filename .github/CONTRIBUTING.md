@@ -37,8 +37,8 @@ If your issue contains multiple lines of HOSTS entries/codes/logs, use ` ``` ` t
 您可以通过GitHub的[issue](https://github.com/googlehosts/hosts/issues)或[pull request](https://github.com/googlehosts/hosts/pulls)向hosts中贡献条目。  
 You can contribute to the HOSTS file via GitHub's [issue](https://github.com/googlehosts/hosts/issues) or [pull request](https://github.com/googlehosts/hosts/pulls).
 
-如果您使用issue，请遵守上述事项。  
-If you choose issue, please follow the rules above.
+如果您使用issue，请遵守上述事项。通过issue提交的内容将被视为匿名提交。  
+If you choose issue, please follow the rules above. Contributions via this method will be considered anonymous.
 
 如果您使用pull request，请留意以下内容：  
 If you choose pull request, read the following:
@@ -48,6 +48,9 @@ We do not accept NSFW (Not Safe For Work) or proxy-list sites.
 
 - 您只能提交更改至[hosts-source](https://github.com/googlehosts/hosts/tree/hosts-source)分支。  
 You can only commit your changes against the [hosts-source](https://github.com/googlehosts/hosts/tree/hosts-source) branch.
+
+- 默认情况下，我们将以rebase方式进行合并。如果您需要以其他方式进行合并，请在pull request中声明。  
+By default we will use rebase merging. If you prefer other ways of merging, please declare it in your pull request.
 
 - 为了您的安全，我们建议您以 `beyondgfw <beyond.gfw.limit@gmail.com>` 的身份提交：  
 For your safety, it is suggested to use `beyondgfw <beyond.gfw.limit@gmail.com>` as the identity of your commit:
