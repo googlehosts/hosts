@@ -278,6 +278,8 @@ add address=52.85.154.135 name=amazing-animal-art.deviantart.com
 add address=54.230.231.64 name=bugidifino.deviantart.com
 add address=52.85.154.83 name=bunny-no.deviantart.com
 add address=52.85.154.133 name=chipmunkrulz.deviantart.com
+add address=54.230.231.59 name=forum.deviantart.com
+add address=54.192.163.44 name=groups.deviantart.com
 add address=54.192.163.47 name=imstarving.deviantart.com
 add address=54.192.163.36 name=isis-moon.deviantart.com
 add address=52.85.154.83 name=shop.deviantart.com
