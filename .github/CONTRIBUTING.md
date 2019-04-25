@@ -43,8 +43,8 @@ If you choose issue, please follow the rules above. Contributions via this metho
 如果您使用pull request，请留意以下内容：  
 If you choose pull request, read the following:
 
-- 本项目不受理NSFW（换言之就是以成人内容为主）以及代理列表类网站。  
-We do not accept NSFW (Not Safe For Work) or proxy-list sites.
+- 本项目不受理NSFW（换言之就是以成人内容为主，例如Pornhub）以及代理列表类网站。含有NSFW内容（且不能是主要内容），但有明确浏览限制的网站除外（例如Pixiv）。  
+We do not accept any full-NSFW (Not Safe For Work, e.g. Pornhub) or proxy-list sites. Sites that contains NSFW contents (and not in the majority) with explicit viewing restrictions are exceptions (e.g. Pixiv).
 
 - 您只能提交更改至[hosts-source](https://github.com/googlehosts/hosts/tree/hosts-source)分支。  
 You can only commit your changes against the [hosts-source](https://github.com/googlehosts/hosts/tree/hosts-source) branch.
