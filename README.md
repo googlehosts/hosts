@@ -1,8 +1,8 @@
 # Google Hosts
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2018/holidays-2018-southern-hemisphere-day-3-5662381089751040-2xa.gif "圣诞节快乐！"
-[doodle-story]: https://www.google.com/doodles/holidays-2018-southern-hemisphere-day-3
+[doodle]: https://www.google.com/logos/doodles/2019/spring-equinox-2019-northern-hemisphere-5139135894388736-2x.png
+[doodle-story]: https://www.google.com/doodles/spring-2019-northern-hemisphere
 
 |    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
