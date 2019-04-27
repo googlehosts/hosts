@@ -1,4 +1,4 @@
-# Google Hosts
+# GoogleHosts
 [![doodle]][doodle-story]
 
 [doodle]: https://www.google.com/logos/doodles/2019/spring-equinox-2019-northern-hemisphere-5139135894388736-2x.png

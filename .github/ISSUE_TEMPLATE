@@ -9,7 +9,7 @@
 最起码，您不应当提交重复 issue——也就是相同的问题，其他人已经在 https://github.com/googlehosts/hosts/issues 提交过的情况。
 
 首先，我们需要知道出问题的是哪个网站。
-虽然我们叫“Google Hosts”，但这并不意味着我们的 hosts 内容仅限于 Google 相关。
+虽然我们叫“GoogleHosts”，但这并不意味着我们的 hosts 内容仅限于 Google 相关。
 请在下面填写网站的域名。如果您不确定的话，请填写网页地址或 app 名称。
 另外，如果是 app 的话，请附上平台（iOS / Android）以及 app 的版本信息。
 -->
