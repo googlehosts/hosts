@@ -8,7 +8,7 @@
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
 | [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge]][mirror-link] |
 
-[telegram-badge]: https://img.shields.io/badge/Google%20Hosts-Telegram-brightgreen.svg?style=flat-square
+[telegram-badge]: https://img.shields.io/badge/GoogleHosts-Telegram-brightgreen.svg?style=flat-square
 [telegram-group-link]: https://t.me/googlehosts
 [telegram-channel-link]: https://t.me/googlehostsnews
 [travis-badge]: https://img.shields.io/travis/googlehosts/hosts/hosts-source.svg?style=flat-square
