@@ -2593,9 +2593,7 @@ add address=104.20.171.40 name=www.kik.com
 # Kik End
 
 # Kobo Start
-add address=84.39.136.9 name=magazines-adf.kobo.com
 add address=157.55.176.209 name=social.kobobooks.com
-add address=191.236.35.232 name=storedownloads.kobo.com
 add address=191.238.229.33 name=discovery.kobobooks.com
 add address=204.87.189.12 name=images.kobobooks.com
 add address=204.87.189.201 name=ftp.kobobooks.com
@@ -2603,7 +2601,6 @@ add address=204.87.189.51 name=kobobooks.com
 add address=204.87.189.51 name=prod-www.kobobooks.com
 add address=204.87.189.71 name=ecimagest.kobobooks.com
 add address=204.87.189.87 name=prod-store.kobobooks.com
-add address=204.87.189.92 name=kobo.com
 add address=13.92.121.97 name=kobomaintenance.kobobooks.com
 add address=23.227.38.64 name=au.kobobooks.com
 add address=23.227.38.64 name=ca-fr.kobobooks.com
@@ -2639,28 +2636,11 @@ add address=23.46.136.67 name=webstore.kobobooks.com
 add address=23.46.136.67 name=webstore2.kobobooks.com
 add address=23.46.136.67 name=writinglife.kobobooks.com
 add address=23.46.136.67 name=www.kobobooks.com
-add address=23.34.51.249 name=assets.kobo.com
-add address=23.34.51.249 name=de.kobo.com
-add address=23.34.51.249 name=es.kobo.com
-add address=23.34.51.249 name=fr.kobo.com
-add address=23.34.51.249 name=it.kobo.com
-add address=23.34.51.249 name=ja.kobo.com
-add address=23.34.51.249 name=nl.kobo.com
-add address=23.34.51.249 name=pt.kobo.com
-add address=23.34.51.249 name=ptbr.kobo.com
-add address=23.34.51.249 name=read.kobo.com
-add address=23.34.51.249 name=rum.kobo.com
-add address=23.34.51.249 name=stage.kobo.com
-add address=23.34.51.249 name=storeapi.kobo.com
-add address=23.34.51.249 name=tw.kobo.com
-add address=23.66.137.9 name=www.kobo.com
-add address=40.114.86.114 name=sorry.kobo.com
 add address=75.98.196.99 name=media.kobobooks.com
 add address=184.51.198.112 name=contentdownloads.kobobooks.com
 add address=184.51.198.112 name=get.kobobooks.com
 add address=184.51.198.112 name=ecimages.kobobooks.com
 add address=184.51.198.112 name=ecmimages.kobobooks.com
-add address=89.187.65.68 name=insiders.kobo.com
 # Kobo End
 
 # Logmein Start
