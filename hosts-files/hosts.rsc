@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-25
+# Last updated: 2019-04-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -159,6 +159,7 @@ add address=172.217.168.209 name=britishmuseum.withgoogle.com
 add address=172.217.168.209 name=beyondthemap.withgoogle.com
 add address=172.217.168.209 name=analyticsacademy.withgoogle.com
 add address=172.217.168.209 name=spellup.withgoogle.com
+add address=172.217.27.148 name=chrome-infra-packages.appspot.com
 # Appspot End
 
 # Appspotpreview Start
