@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-28
+# Last updated: 2019-06-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -35,6 +35,8 @@ add address=185.122.58.249 name=185-122-58-249.googlehosts.org
 add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
+add address=103.68.223.109 name=103-68-223-109.googlehosts.org
+add address=103.68.223.109 name=tg-10.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
 add address=23.226.136.24 name=ss-1.googlehosts.org
 add address=23.226.136.132 name=23-226-136-132.googlehosts.org
@@ -121,7 +123,7 @@ add address=172.217.168.209 name=britishmuseum.withgoogle.com
 add address=172.217.168.209 name=beyondthemap.withgoogle.com
 add address=172.217.168.209 name=analyticsacademy.withgoogle.com
 add address=172.217.168.209 name=spellup.withgoogle.com
-add address=172.217.27.148 name=chrome-infra-packages.appspot.com
+add address=172.217.194.153 name=chrome-infra-packages.appspot.com
 # Appspot End
 
 # Appspotpreview Start
@@ -374,8 +376,8 @@ add address=216.239.32.67 name=26644787.googleapis.com
 # Google Apis End
 
 # Googleapis:storage Start
-add address=172.217.24.16 name=storage.googleapis.com
-add address=172.217.4.16 name=commondatastorage.googleapis.com
+add address=172.217.25.48 name=storage.googleapis.com
+add address=172.217.24.16 name=commondatastorage.googleapis.com
 add address=172.217.4.144 name=content-storage.googleapis.com
 add address=172.217.4.112 name=content-storage-download.googleapis.com
 add address=172.217.4.240 name=content-storage-upload.googleapis.com
@@ -434,16 +436,21 @@ add address=173.194.198.82 name=www.googlesource.com
 add address=173.194.198.82 name=googlesource.com
 add address=173.194.198.82 name=code.googlesource.com
 add address=173.194.198.82 name=fuchsia.googlesource.com
-add address=173.194.198.82 name=boringssl.googlesource.com
 add address=173.194.198.82 name=gerrit-review.googlesource.com
 add address=173.194.198.82 name=kernel.googlesource.com
 add address=173.194.198.82 name=uploads.code.google.com
 add address=173.194.198.82 name=gwt.googlesource.com
-add address=173.194.198.82 name=skia.googlesource.com
 add address=173.194.198.82 name=gcr.io
 add address=173.194.198.82 name=www.gcr.io
-add address=108.177.127.82 name=chromium.googlesource.com
+add address=172.217.194.82 name=chromium.googlesource.com
 add address=108.177.127.82 name=gerrit.googlesource.com
+add address=172.217.194.82 name=quiche.googlesource.com
+add address=172.217.194.82 name=boringssl.googlesource.com
+add address=172.217.194.82 name=dawn.googlesource.com
+add address=172.217.194.82 name=pdfium.googlesource.com
+add address=172.217.194.82 name=skia.googlesource.com
+add address=172.217.194.82 name=swiftshader.googlesource.com
+add address=172.217.194.82 name=webrtc.googlesource.com
 add address=172.217.194.82 name=android-review.googlesource.com
 add address=172.217.194.82 name=android.googlesource.com
 # Google Code End

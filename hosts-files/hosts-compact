@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-28
+# Last updated: 2019-06-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -19,6 +19,7 @@
 106.75.2.132	106-75-2-132.googlehosts.org tg-7-b.googlehosts.org
 185.122.58.249	185-122-58-249.googlehosts.org tg-8.googlehosts.org
 103.105.48.234	103-105-48-234.googlehosts.org tg-9.googlehosts.org
+103.68.223.109	103-68-223-109.googlehosts.org tg-10.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org ss-1.googlehosts.org
 23.226.136.132	23-226-136-132.googlehosts.org ss-2.googlehosts.org
 66.154.108.62	66-154-108-62.googlehosts.org
@@ -75,7 +76,7 @@
 104.20.82.194	apkpure.com m.apkpure.com
 104.19.133.58	www.apkmirror.com
 172.217.168.209	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
-172.217.27.148	chrome-infra-packages.appspot.com
+172.217.194.153	chrome-infra-packages.appspot.com
 172.217.161.180	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
 172.217.8.244	netlog-viewer.appspot.com
 172.217.14.116	go-tour-zh.appspot.com
@@ -227,8 +228,8 @@
 172.217.168.202	ajax.googleapis.com googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com
 108.177.127.201	fonts.googleapis.com
 216.239.32.67	31061001.googleapis.com 26644787.googleapis.com
-172.217.24.16	storage.googleapis.com
-172.217.4.16	commondatastorage.googleapis.com
+172.217.25.48	storage.googleapis.com
+172.217.24.16	commondatastorage.googleapis.com
 172.217.4.144	content-storage.googleapis.com
 172.217.4.112	content-storage-download.googleapis.com
 172.217.4.240	content-storage-upload.googleapis.com
@@ -238,9 +239,9 @@
 172.217.5.208	storage-download.googleapis.com
 64.233.171.192	supl.google.com
 172.217.168.201	www.blogger.com www.blogblog.com www1.blogblog.com www2.blogblog.com blogger.com blogger.google.com accounts.blogger.com beta.blogger.com buttons.blogger.com buzz.blogger.com draft.blogger.com status.blogger.com help.blogger.com photos1.blogger.com bp0.blogger.com bp1.blogger.com bp2.blogger.com bp3.blogger.com img.blogblog.com img1.blogblog.com img2.blogblog.com resources.blogblog.com www.blogspot.com blogspot.com bp.blogspot.com 1.bp.blogspot.com 2.bp.blogspot.com 3.bp.blogspot.com 4.bp.blogspot.com googleblog.blogspot.com googleforstudents.blogspot.com chrome.blogspot.com googlepublicpolicy.blogspot.com google-latlong.blogspot.com insidesearch.blogspot.com googleadsdeveloper.blogspot.com googledevelopers.blogspot.com
-173.194.198.82	www.googlesource.com googlesource.com code.googlesource.com fuchsia.googlesource.com boringssl.googlesource.com gerrit-review.googlesource.com kernel.googlesource.com uploads.code.google.com gwt.googlesource.com skia.googlesource.com gcr.io www.gcr.io
-108.177.127.82	chromium.googlesource.com gerrit.googlesource.com
-172.217.194.82	android-review.googlesource.com android.googlesource.com
+173.194.198.82	www.googlesource.com googlesource.com code.googlesource.com fuchsia.googlesource.com gerrit-review.googlesource.com kernel.googlesource.com uploads.code.google.com gwt.googlesource.com gcr.io www.gcr.io
+172.217.194.82	chromium.googlesource.com quiche.googlesource.com boringssl.googlesource.com dawn.googlesource.com pdfium.googlesource.com skia.googlesource.com swiftshader.googlesource.com webrtc.googlesource.com android-review.googlesource.com android.googlesource.com
+108.177.127.82	gerrit.googlesource.com
 216.58.200.23	google.ac google.ad google.ae google.af google.ag google.al google.am google.as google.at google.az google.ba google.be google.bf google.bg google.bi google.bj google.bs google.bt google.by google.bo google.ca google.cat google.cc google.cd google.cf google.cg google.ch google.ci google.cl google.cm google.co google.cv google.cz google.co.ao google.co.bw google.co.ck google.co.cr google.co.hu google.co.id google.co.il google.co.im google.co.in google.co.je google.co.jp google.co.ke google.co.kr google.co.ls google.co.ma google.co.mz google.co.nz google.co.th google.co.tz google.co.ug google.co.uk google.co.uz google.co.ve google.co.vi google.co.za google.co.zm google.co.zw google.de google.dj google.dk google.dm google.do google.dz google.ec google.ee google.es google.hk google.mx google.ng google.ph google.pk google.pl google.pn google.ps google.pt google.qa google.ro google.rs google.ru google.rw google.sc google.se google.sh google.si google.sk google.sm google.sn google.so google.st google.sg google.sl google.td google.tg google.tw google.tk google.tl google.tm google.tn google.to google.tt google.ua google.vg google.vn google.vu google.ws google.com google.com.af google.com.ag google.com.ai google.com.ar google.com.au google.com.bd google.com.bh google.com.bn google.com.bo google.com.br google.com.by google.com.bz google.com.co google.com.cu google.com.cy google.com.do google.com.ec google.com.eg google.com.et google.com.fj google.com.ge google.com.gh google.com.gi google.com.gr google.com.gt google.com.hk google.com.iq google.com.jm google.com.jo google.com.kh google.com.kw google.com.lb google.com.ly google.com.mm google.com.mt google.com.mx google.com.my google.com.na google.com.nf google.com.ng google.com.ni google.com.np google.com.nr google.com.om google.com.pa google.com.pe google.com.pg google.com.ph google.com.pk google.com.pr google.com.py google.com.qa google.com.ru google.com.sa google.com.sb google.com.sg google.com.sl google.com.sv google.com.tj google.com.tr google.com.tw google.com.ua google.com.uy google.com.vc google.com.vn
 172.217.25.220	chrome.google.com
 74.125.248.73	git.chromium.org

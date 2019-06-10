@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-28
+# Last updated: 2019-06-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -33,6 +33,8 @@ tg-7-b.googlehosts.org	106.75.2.132
 tg-8.googlehosts.org	185.122.58.249
 103-105-48-234.googlehosts.org	103.105.48.234
 tg-9.googlehosts.org	103.105.48.234
+103-68-223-109.googlehosts.org	103.68.223.109
+tg-10.googlehosts.org	103.68.223.109
 23-226-136-24.googlehosts.org	23.226.136.24
 ss-1.googlehosts.org	23.226.136.24
 23-226-136-132.googlehosts.org	23.226.136.132
@@ -119,7 +121,7 @@ britishmuseum.withgoogle.com	172.217.168.209
 beyondthemap.withgoogle.com	172.217.168.209
 analyticsacademy.withgoogle.com	172.217.168.209
 spellup.withgoogle.com	172.217.168.209
-chrome-infra-packages.appspot.com	172.217.27.148
+chrome-infra-packages.appspot.com	172.217.194.153
 # Appspot End
 
 # Appspotpreview Start
@@ -372,8 +374,8 @@ music-pa.clients6.google.com	172.217.168.202
 # Google Apis End
 
 # Googleapis:storage Start
-storage.googleapis.com	172.217.24.16
-commondatastorage.googleapis.com	172.217.4.16
+storage.googleapis.com	172.217.25.48
+commondatastorage.googleapis.com	172.217.24.16
 content-storage.googleapis.com	172.217.4.144
 content-storage-download.googleapis.com	172.217.4.112
 content-storage-upload.googleapis.com	172.217.4.240
@@ -432,16 +434,21 @@ www.googlesource.com	173.194.198.82
 googlesource.com	173.194.198.82
 code.googlesource.com	173.194.198.82
 fuchsia.googlesource.com	173.194.198.82
-boringssl.googlesource.com	173.194.198.82
 gerrit-review.googlesource.com	173.194.198.82
 kernel.googlesource.com	173.194.198.82
 uploads.code.google.com	173.194.198.82
 gwt.googlesource.com	173.194.198.82
-skia.googlesource.com	173.194.198.82
 gcr.io	173.194.198.82
 www.gcr.io	173.194.198.82
-chromium.googlesource.com	108.177.127.82
+chromium.googlesource.com	172.217.194.82
 gerrit.googlesource.com	108.177.127.82
+quiche.googlesource.com	172.217.194.82
+boringssl.googlesource.com	172.217.194.82
+dawn.googlesource.com	172.217.194.82
+pdfium.googlesource.com	172.217.194.82
+skia.googlesource.com	172.217.194.82
+swiftshader.googlesource.com	172.217.194.82
+webrtc.googlesource.com	172.217.194.82
 android-review.googlesource.com	172.217.194.82
 android.googlesource.com	172.217.194.82
 # Google Code End
