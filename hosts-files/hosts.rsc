@@ -235,6 +235,14 @@ add address=212.58.244.92 name=account.bbc.com
 add address=212.58.244.78 name=open.live.bbc.co.uk
 # Bbc End
 
+# Behance Start
+add address=151.101.193.197 name=www.behance.net
+add address=216.146.46.10 name=behance.com
+add address=52.85.231.84 name=mir-s3-cdn-cf.behance.net
+add address=54.192.182.143 name=a5.behance.net
+add address=54.192.75.182 name=mir-cdn-cf.behance.net
+# Behance End
+
 # Box Start
 add address=107.152.24.198 name=app.box.com
 add address=107.152.24.197 name=m.box.com
@@ -255,6 +263,14 @@ add address=104.16.4.13 name=assets-fe.change.org
 add address=13.33.25.77 name=d3njjcbhbojbot.cloudfront.net
 add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
+
+# Clyp Start
+add address=13.33.231.37 name=api.clyp.it
+add address=13.33.231.37 name=audio.clyp.it
+add address=13.33.231.37 name=clyp.it
+add address=13.33.231.37 name=soundwave.clyp.it
+add address=13.33.231.37 name=static.clyp.it
+# Clyp End
 
 # Culturalspot Start
 # Pending fix
