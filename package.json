@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "glob": "^7.1.2",
-    "js-yaml": "^3.10.0",
-    "is-my-ip-valid": "^1.0.0"
+    "is-my-ip-valid": "^1.0.0",
+    "js-yaml": "^3.13.1"
   }
 }
