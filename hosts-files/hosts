@@ -4050,6 +4050,10 @@
 104.16.121.145	glyph.medium.com
 # Medium End
 
+# Nhk Start
+23.51.209.40 www3.nhk.or.jp
+# Nhk End
+
 # Nytimes Start
 34.225.58.16	messaging-sub.api.nytimes.com
 23.21.73.215	nytab.nytimes.com
