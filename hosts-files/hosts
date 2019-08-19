@@ -1511,27 +1511,28 @@
 # Google Blogger End
 
 # Google Code Start
-173.194.198.82	www.googlesource.com
-173.194.198.82	googlesource.com
-173.194.198.82	code.googlesource.com
-173.194.198.82	fuchsia.googlesource.com
-173.194.198.82	gerrit-review.googlesource.com
-173.194.198.82	kernel.googlesource.com
-173.194.198.82	uploads.code.google.com
-173.194.198.82	gwt.googlesource.com
-173.194.198.82	gcr.io
-173.194.198.82	www.gcr.io
-172.217.194.82	chromium.googlesource.com
 108.177.127.82	gerrit.googlesource.com
-172.217.194.82	quiche.googlesource.com
+108.177.127.82	go.googlesource.com
+172.217.194.82	android-review.googlesource.com
+172.217.194.82	android.googlesource.com
 172.217.194.82	boringssl.googlesource.com
+172.217.194.82	chromium.googlesource.com
 172.217.194.82	dawn.googlesource.com
 172.217.194.82	pdfium.googlesource.com
+172.217.194.82	quiche.googlesource.com
 172.217.194.82	skia.googlesource.com
 172.217.194.82	swiftshader.googlesource.com
 172.217.194.82	webrtc.googlesource.com
-172.217.194.82	android-review.googlesource.com
-172.217.194.82	android.googlesource.com
+173.194.198.82	code.googlesource.com
+173.194.198.82	fuchsia.googlesource.com
+173.194.198.82	gcr.io
+173.194.198.82	gerrit-review.googlesource.com
+173.194.198.82	googlesource.com
+173.194.198.82	gwt.googlesource.com
+173.194.198.82	kernel.googlesource.com
+173.194.198.82	uploads.code.google.com
+173.194.198.82	www.gcr.io
+173.194.198.82	www.googlesource.com
 # Google Code End
 
 # Google Country Start

@@ -1513,27 +1513,28 @@ add address=172.217.168.201 name=googledevelopers.blogspot.com
 # Google Blogger End
 
 # Google Code Start
-add address=173.194.198.82 name=www.googlesource.com
-add address=173.194.198.82 name=googlesource.com
-add address=173.194.198.82 name=code.googlesource.com
-add address=173.194.198.82 name=fuchsia.googlesource.com
-add address=173.194.198.82 name=gerrit-review.googlesource.com
-add address=173.194.198.82 name=kernel.googlesource.com
-add address=173.194.198.82 name=uploads.code.google.com
-add address=173.194.198.82 name=gwt.googlesource.com
-add address=173.194.198.82 name=gcr.io
-add address=173.194.198.82 name=www.gcr.io
-add address=172.217.194.82 name=chromium.googlesource.com
 add address=108.177.127.82 name=gerrit.googlesource.com
-add address=172.217.194.82 name=quiche.googlesource.com
+add address=108.177.127.82 name=go.googlesource.com
+add address=172.217.194.82 name=android-review.googlesource.com
+add address=172.217.194.82 name=android.googlesource.com
 add address=172.217.194.82 name=boringssl.googlesource.com
+add address=172.217.194.82 name=chromium.googlesource.com
 add address=172.217.194.82 name=dawn.googlesource.com
 add address=172.217.194.82 name=pdfium.googlesource.com
+add address=172.217.194.82 name=quiche.googlesource.com
 add address=172.217.194.82 name=skia.googlesource.com
 add address=172.217.194.82 name=swiftshader.googlesource.com
 add address=172.217.194.82 name=webrtc.googlesource.com
-add address=172.217.194.82 name=android-review.googlesource.com
-add address=172.217.194.82 name=android.googlesource.com
+add address=173.194.198.82 name=code.googlesource.com
+add address=173.194.198.82 name=fuchsia.googlesource.com
+add address=173.194.198.82 name=gcr.io
+add address=173.194.198.82 name=gerrit-review.googlesource.com
+add address=173.194.198.82 name=googlesource.com
+add address=173.194.198.82 name=gwt.googlesource.com
+add address=173.194.198.82 name=kernel.googlesource.com
+add address=173.194.198.82 name=uploads.code.google.com
+add address=173.194.198.82 name=www.gcr.io
+add address=173.194.198.82 name=www.googlesource.com
 # Google Code End
 
 # Google Country Start
