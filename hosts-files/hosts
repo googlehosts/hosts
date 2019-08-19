@@ -4197,6 +4197,26 @@
 # Ptt End
 
 # Quora Start
+104.16.52.111	help.quora.com
+151.101.73.2	blog.quora.com
+151.101.73.2	bn.quora.com
+151.101.73.2	da.quora.com
+151.101.73.2	de.quora.com
+151.101.73.2	en-us.quora.com
+151.101.73.2	es.quora.com
+151.101.73.2	fi.quora.com
+151.101.73.2	fr.quora.com
+151.101.73.2	hi.quora.com
+151.101.73.2	id.quora.com
+151.101.73.2	it.quora.com
+151.101.73.2	jp.quora.com
+151.101.73.2	mn.quora.com
+151.101.73.2	nl.quora.com
+151.101.73.2	no.quora.com
+151.101.73.2	pt.quora.com
+151.101.73.2	qsf.fs.quoracdn.net
+151.101.73.2	sv.quora.com
+151.101.73.2	ta.quora.com
 192.229.189.142	www.quora.com
 # Quora End
 
@@ -4425,39 +4445,42 @@
 # Tor End
 
 # Twitch Start
-151.101.66.167	twitch.tv
-151.101.230.167	www.twitch.tv
-54.84.222.78	app.twitch.tv
 104.94.41.138	api.twitch.tv
-52.40.25.185	badges.twitch.tv
-52.4.145.119	blog.twitch.tv
-52.26.110.179	client-event-reporter.twitch.tv
-23.12.207.125	cvp.twitch.tv
-34.216.28.142	countess.twitch.tv
-52.84.47.22	dev.twitch.tv
-52.39.89.40	discuss.dev.twitch.tv
-54.192.151.87	extension-files.twitch.tv
 151.101.110.167	gql.twitch.tv
+151.101.230.167	www.twitch.tv
+151.101.66.167	twitch.tv
 184.169.164.174	help.twitch.tv
-23.77.13.84	player.twitch.tv
-54.71.196.178	passport.twitch.tv
-35.161.182.231	spade.twitch.tv
-34.212.220.91	trowel.twitch.tv
-35.185.17.162	music.twitch.tv
-54.69.142.1	spade.sci.twitch.tv
-54.192.151.22	clips-media-assets2.twitch.tv
+23.12.207.125	cvp.twitch.tv
 23.160.0.254	usher.ttvnw.net
-54.192.151.7	vod-storyboards.twitch.tv
-52.24.180.27	pubsub-edge.twitch.tv
+23.77.13.84	player.twitch.tv
+34.212.220.91	trowel.twitch.tv
+34.216.28.142	countess.twitch.tv
+35.161.182.231	spade.twitch.tv
+35.163.32.174	video-edge-867df2.sjc02.hls.ttvnw.net
 35.164.18.6	irc-ws.chat.twitch.tv
-52.223.241.18	video-weaver.sjc02.hls.ttvnw.net
-54.200.235.249	video-edge-6c210a.sjc02.hls.ttvnw.net
-52.24.56.73	video-edge-91c358.sjc02.hls.ttvnw.net
-54.191.74.73	video-edge-98de7c.sjc02.hls.ttvnw.net
-52.223.253.59	video-edge-a37110.sjc02.abs.hls.ttvnw.net
-52.41.6.153	video-edge-a4da6d.sjc02.hls.ttvnw.net
 35.165.41.164	video-edge-af973f.sjc02.hls.ttvnw.net
+35.185.17.162	music.twitch.tv
+52.223.227.246	video-edge-7e96a0.sea01.abs.hls.ttvnw.net
+52.223.228.119	video-edge-7e9938.sea01.abs.hls.ttvnw.net
+52.223.241.18	video-weaver.sjc02.hls.ttvnw.net
 52.223.252.212	video-edge-7ea270.sjc02.abs.hls.ttvnw.net
+52.223.253.59	video-edge-a37110.sjc02.abs.hls.ttvnw.net
+52.24.180.27	pubsub-edge.twitch.tv
+52.24.56.73	video-edge-91c358.sjc02.hls.ttvnw.net
+52.26.110.179	client-event-reporter.twitch.tv
+52.39.89.40	discuss.dev.twitch.tv
+52.4.145.119	blog.twitch.tv
+52.40.25.185	badges.twitch.tv
+52.41.6.153	video-edge-a4da6d.sjc02.hls.ttvnw.net
+52.84.47.22	dev.twitch.tv
+54.191.74.73	video-edge-98de7c.sjc02.hls.ttvnw.net
+54.192.151.22	clips-media-assets2.twitch.tv
+54.192.151.7	vod-storyboards.twitch.tv
+54.192.151.87	extension-files.twitch.tv
+54.200.235.249	video-edge-6c210a.sjc02.hls.ttvnw.net
+54.69.142.1	spade.sci.twitch.tv
+54.71.196.178	passport.twitch.tv
+54.84.222.78	app.twitch.tv
 # Twitch End
 
 # Twitter Start

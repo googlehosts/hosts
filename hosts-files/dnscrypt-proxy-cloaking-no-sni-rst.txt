@@ -3762,10 +3762,6 @@ www.psiphon.ca	104.20.38.14
 ptt.cc	140.112.172.1
 # Ptt End
 
-# Quora Start
-www.quora.com	192.229.189.142
-# Quora End
-
 # Rakuten Start
 rd.rakuten.co.jp	133.237.50.6
 esearch.rakuten.co.jp	133.237.61.71
@@ -3991,39 +3987,42 @@ trac.torproject.org	138.201.212.227
 # Tor End
 
 # Twitch Start
-twitch.tv	151.101.66.167
-www.twitch.tv	151.101.230.167
-app.twitch.tv	54.84.222.78
 api.twitch.tv	104.94.41.138
-badges.twitch.tv	52.40.25.185
-blog.twitch.tv	52.4.145.119
-client-event-reporter.twitch.tv	52.26.110.179
-cvp.twitch.tv	23.12.207.125
-countess.twitch.tv	34.216.28.142
-dev.twitch.tv	52.84.47.22
-discuss.dev.twitch.tv	52.39.89.40
-extension-files.twitch.tv	54.192.151.87
 gql.twitch.tv	151.101.110.167
+www.twitch.tv	151.101.230.167
+twitch.tv	151.101.66.167
 help.twitch.tv	184.169.164.174
-player.twitch.tv	23.77.13.84
-passport.twitch.tv	54.71.196.178
-spade.twitch.tv	35.161.182.231
-trowel.twitch.tv	34.212.220.91
-music.twitch.tv	35.185.17.162
-spade.sci.twitch.tv	54.69.142.1
-clips-media-assets2.twitch.tv	54.192.151.22
+cvp.twitch.tv	23.12.207.125
 usher.ttvnw.net	23.160.0.254
-vod-storyboards.twitch.tv	54.192.151.7
-pubsub-edge.twitch.tv	52.24.180.27
+player.twitch.tv	23.77.13.84
+trowel.twitch.tv	34.212.220.91
+countess.twitch.tv	34.216.28.142
+spade.twitch.tv	35.161.182.231
+video-edge-867df2.sjc02.hls.ttvnw.net	35.163.32.174
 irc-ws.chat.twitch.tv	35.164.18.6
-video-weaver.sjc02.hls.ttvnw.net	52.223.241.18
-video-edge-6c210a.sjc02.hls.ttvnw.net	54.200.235.249
-video-edge-91c358.sjc02.hls.ttvnw.net	52.24.56.73
-video-edge-98de7c.sjc02.hls.ttvnw.net	54.191.74.73
-video-edge-a37110.sjc02.abs.hls.ttvnw.net	52.223.253.59
-video-edge-a4da6d.sjc02.hls.ttvnw.net	52.41.6.153
 video-edge-af973f.sjc02.hls.ttvnw.net	35.165.41.164
+music.twitch.tv	35.185.17.162
+video-edge-7e96a0.sea01.abs.hls.ttvnw.net	52.223.227.246
+video-edge-7e9938.sea01.abs.hls.ttvnw.net	52.223.228.119
+video-weaver.sjc02.hls.ttvnw.net	52.223.241.18
 video-edge-7ea270.sjc02.abs.hls.ttvnw.net	52.223.252.212
+video-edge-a37110.sjc02.abs.hls.ttvnw.net	52.223.253.59
+pubsub-edge.twitch.tv	52.24.180.27
+video-edge-91c358.sjc02.hls.ttvnw.net	52.24.56.73
+client-event-reporter.twitch.tv	52.26.110.179
+discuss.dev.twitch.tv	52.39.89.40
+blog.twitch.tv	52.4.145.119
+badges.twitch.tv	52.40.25.185
+video-edge-a4da6d.sjc02.hls.ttvnw.net	52.41.6.153
+dev.twitch.tv	52.84.47.22
+video-edge-98de7c.sjc02.hls.ttvnw.net	54.191.74.73
+clips-media-assets2.twitch.tv	54.192.151.22
+vod-storyboards.twitch.tv	54.192.151.7
+extension-files.twitch.tv	54.192.151.87
+video-edge-6c210a.sjc02.hls.ttvnw.net	54.200.235.249
+spade.sci.twitch.tv	54.69.142.1
+passport.twitch.tv	54.71.196.178
+app.twitch.tv	54.84.222.78
 # Twitch End
 
 # Twitter Start
