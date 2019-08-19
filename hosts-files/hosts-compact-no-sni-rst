@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-07-21
+# Last updated: 2019-08-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -8,32 +8,16 @@
 # Modified Hosts Start
 
 127.0.0.1	localhost
-23.95.9.4	23-95-9-4.googlehosts.org tg-1.googlehosts.org
-204.44.101.36	204-44-101-36.googlehosts.org
 185.200.34.198	185-200-34-198.googlehosts.org tg-2.googlehosts.org
 107.174.205.58	107-174-205-58.googlehosts.org tg-3.googlehosts.org
 185.200.34.209	185-200-34-209.googlehosts.org tg-4.googlehosts.org
 107.174.203.60	107-174-203-60.googlehosts.org tg-5.googlehosts.org
-45.124.64.82	45-124-64-82.googlehosts.org tg-6.googlehosts.org
 117.50.61.150	117-50-61-150.googlehosts.org tg-7.googlehosts.org
 106.75.2.132	106-75-2-132.googlehosts.org tg-7-b.googlehosts.org
-185.122.58.249	185-122-58-249.googlehosts.org tg-8.googlehosts.org
 103.105.48.234	103-105-48-234.googlehosts.org tg-9.googlehosts.org
-103.68.223.109	103-68-223-109.googlehosts.org tg-10.googlehosts.org
-23.226.136.24	23-226-136-24.googlehosts.org ss-1.googlehosts.org
-23.226.136.132	23-226-136-132.googlehosts.org ss-2.googlehosts.org
-66.154.108.62	66-154-108-62.googlehosts.org
-23.226.136.216	23-226-136-216.googlehosts.org ss-3.googlehosts.org
-155.94.137.77	155-94-137-77.googlehosts.org
+45.89.228.109	45-89-228-109.googlehosts.org tg-10.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
-167.88.168.251	167-88-168-251.googlehosts.org
-167.88.163.163	167-88-163-163.googlehosts.org ss-4.googlehosts.org
-23.95.54.162	23-95-54-162.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
-45.59.113.167	45-59-113-167.googlehosts.org status.googlehosts.org
-45.59.113.168	45-59-113-168.googlehosts.org www.googlehosts.org
-45.59.113.169	45-59-113-169.googlehosts.org netlog-viewer.googlehosts.org
-45.59.113.172	45-59-113-172.googlehosts.org main-ssh.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com

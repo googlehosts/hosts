@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-07-21
+# Last updated: 2019-08-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -14,9 +14,6 @@ add address=127.0.0.1 name=localhost
 # Localhost (DO NOT REMOVE) End
 
 # GoogleHosts Start
-add address=23.95.9.4 name=23-95-9-4.googlehosts.org
-add address=23.95.9.4 name=tg-1.googlehosts.org
-add address=204.44.101.36 name=204-44-101-36.googlehosts.org
 add address=185.200.34.198 name=185-200-34-198.googlehosts.org
 add address=185.200.34.198 name=tg-2.googlehosts.org
 add address=107.174.205.58 name=107-174-205-58.googlehosts.org
@@ -25,42 +22,18 @@ add address=185.200.34.209 name=185-200-34-209.googlehosts.org
 add address=185.200.34.209 name=tg-4.googlehosts.org
 add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
-add address=45.124.64.82 name=45-124-64-82.googlehosts.org
-add address=45.124.64.82 name=tg-6.googlehosts.org
 add address=117.50.61.150 name=117-50-61-150.googlehosts.org
 add address=117.50.61.150 name=tg-7.googlehosts.org
 add address=106.75.2.132 name=106-75-2-132.googlehosts.org
 add address=106.75.2.132 name=tg-7-b.googlehosts.org
-add address=185.122.58.249 name=185-122-58-249.googlehosts.org
-add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
-add address=103.68.223.109 name=103-68-223-109.googlehosts.org
-add address=103.68.223.109 name=tg-10.googlehosts.org
-add address=23.226.136.24 name=23-226-136-24.googlehosts.org
-add address=23.226.136.24 name=ss-1.googlehosts.org
-add address=23.226.136.132 name=23-226-136-132.googlehosts.org
-add address=23.226.136.132 name=ss-2.googlehosts.org
-add address=66.154.108.62 name=66-154-108-62.googlehosts.org
-add address=23.226.136.216 name=23-226-136-216.googlehosts.org
-add address=23.226.136.216 name=ss-3.googlehosts.org
-add address=155.94.137.77 name=155-94-137-77.googlehosts.org
+add address=45.89.228.109 name=45-89-228-109.googlehosts.org
+add address=45.89.228.109 name=tg-10.googlehosts.org
 add address=185.22.152.42 name=185-22-152-42.googlehosts.org
 add address=185.22.152.42 name=ss-3.googlehosts.org
-add address=167.88.168.251 name=167-88-168-251.googlehosts.org
-add address=167.88.163.163 name=167-88-163-163.googlehosts.org
-add address=167.88.163.163 name=ss-4.googlehosts.org
-add address=23.95.54.162 name=23-95-54-162.googlehosts.org
 add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
-add address=45.59.113.167 name=45-59-113-167.googlehosts.org
-add address=45.59.113.167 name=status.googlehosts.org
-add address=45.59.113.168 name=45-59-113-168.googlehosts.org
-add address=45.59.113.168 name=www.googlehosts.org
-add address=45.59.113.169 name=45-59-113-169.googlehosts.org
-add address=45.59.113.169 name=netlog-viewer.googlehosts.org
-add address=45.59.113.172 name=45-59-113-172.googlehosts.org
-add address=45.59.113.172 name=main-ssh.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-07-21
+# Last updated: 2019-08-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -12,9 +12,6 @@ localhost	127.0.0.1
 # Localhost (DO NOT REMOVE) End
 
 # GoogleHosts Start
-23-95-9-4.googlehosts.org	23.95.9.4
-tg-1.googlehosts.org	23.95.9.4
-204-44-101-36.googlehosts.org	204.44.101.36
 185-200-34-198.googlehosts.org	185.200.34.198
 tg-2.googlehosts.org	185.200.34.198
 107-174-205-58.googlehosts.org	107.174.205.58
@@ -23,42 +20,18 @@ tg-3.googlehosts.org	107.174.205.58
 tg-4.googlehosts.org	185.200.34.209
 107-174-203-60.googlehosts.org	107.174.203.60
 tg-5.googlehosts.org	107.174.203.60
-45-124-64-82.googlehosts.org	45.124.64.82
-tg-6.googlehosts.org	45.124.64.82
 117-50-61-150.googlehosts.org	117.50.61.150
 tg-7.googlehosts.org	117.50.61.150
 106-75-2-132.googlehosts.org	106.75.2.132
 tg-7-b.googlehosts.org	106.75.2.132
-185-122-58-249.googlehosts.org	185.122.58.249
-tg-8.googlehosts.org	185.122.58.249
 103-105-48-234.googlehosts.org	103.105.48.234
 tg-9.googlehosts.org	103.105.48.234
-103-68-223-109.googlehosts.org	103.68.223.109
-tg-10.googlehosts.org	103.68.223.109
-23-226-136-24.googlehosts.org	23.226.136.24
-ss-1.googlehosts.org	23.226.136.24
-23-226-136-132.googlehosts.org	23.226.136.132
-ss-2.googlehosts.org	23.226.136.132
-66-154-108-62.googlehosts.org	66.154.108.62
-23-226-136-216.googlehosts.org	23.226.136.216
-ss-3.googlehosts.org	23.226.136.216
-155-94-137-77.googlehosts.org	155.94.137.77
+45-89-228-109.googlehosts.org	45.89.228.109
+tg-10.googlehosts.org	45.89.228.109
 185-22-152-42.googlehosts.org	185.22.152.42
 ss-3.googlehosts.org	185.22.152.42
-167-88-168-251.googlehosts.org	167.88.168.251
-167-88-163-163.googlehosts.org	167.88.163.163
-ss-4.googlehosts.org	167.88.163.163
-23-95-54-162.googlehosts.org	23.95.54.162
 103-124-106-174.googlehosts.org	103.124.106.174
 proxy.googlehosts.org	103.124.106.174
-45-59-113-167.googlehosts.org	45.59.113.167
-status.googlehosts.org	45.59.113.167
-45-59-113-168.googlehosts.org	45.59.113.168
-www.googlehosts.org	45.59.113.168
-45-59-113-169.googlehosts.org	45.59.113.169
-netlog-viewer.googlehosts.org	45.59.113.169
-45-59-113-172.googlehosts.org	45.59.113.172
-main-ssh.googlehosts.org	45.59.113.172
 # GoogleHosts End
 
 # Akamai Start
