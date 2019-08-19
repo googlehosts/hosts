@@ -1037,6 +1037,15 @@ add address=99.84.254.32 name=t00.deviantart.net
 add address=13.33.47.221 name=film00.deviantart.net
 # DeviantArt End
 
+# DMHY Start
+add address=104.25.27.31 name=bbs.dmhy.org
+add address=104.25.27.31 name=dl.dmhy.org
+add address=104.25.27.31 name=dmhy.org
+add address=104.25.27.31 name=share.dmhy.org
+add address=104.25.27.31 name=u2.dmhy.org
+add address=104.25.27.31 name=www.dmhy.org
+# DMHY End
+
 # DuckDuckGo Start
 add address=13.210.167.213 name=duckduckgo.com
 add address=13.210.167.213 name=www.duckduckgo.com
