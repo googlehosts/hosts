@@ -261,6 +261,12 @@
 63.141.239.58	library.ctext.org
 # Ctext End
 
+# Doubi Start
+104.24.116.224	doubibackup.com
+104.24.126.191	doubmirror.cf
+104.27.137.174	softsmirror.cf
+# Doubi End
+
 # Kakao:Daum Start
 103.24.8.9	ruliweb.daum.net
 113.29.186.33	policy.daum.net
@@ -3627,7 +3633,7 @@
 # Hinet End
 
 # Heroku Start
-52.200.255.123	id.heroku.com
+34.192.228.6	id.heroku.com
 # Heroku End
 
 # HKGalden Start
@@ -4205,6 +4211,16 @@
 140.112.172.1	ptt.cc
 # Ptt End
 
+# Pubu Start
+175.41.144.51	gtbook.pubu.com.tw
+175.41.144.51	www.pubu.com.tw
+54.230.108.227	res1.pubu.tw
+99.84.143.35	res2.pubu.tw
+99.84.143.46	static.pubu.tw
+99.84.143.51	res3.pubu.tw
+99.84.59.53	res4.pubu.tw
+# Pubu End
+
 # Quora Start
 104.16.52.111	help.quora.com
 151.101.73.2	blog.quora.com
@@ -4497,6 +4513,10 @@
 117.18.237.70	pbs.twimg.com
 117.18.237.70	ton.twimg.com
 # Twitter End
+
+# Uncyclopedia Start
+104.28.18.4	uncyclopedia.tw
+# Uncyclopedia End
 
 # Vimeo Start
 151.101.0.217	vimeo.com

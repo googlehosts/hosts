@@ -53,6 +53,9 @@
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
 63.141.239.58	ctext.org library.ctext.org
+104.24.116.224	doubibackup.com
+104.24.126.191	doubmirror.cf
+104.27.137.174	softsmirror.cf
 103.24.8.9	ruliweb.daum.net
 113.29.186.33	policy.daum.net
 113.29.186.70	mail.daum.net
@@ -251,7 +254,7 @@
 216.58.221.65	yt3.ggpht.com
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
-52.200.255.123	id.heroku.com
+34.192.228.6	id.heroku.com
 104.25.120.37	hkgalden.com www.hkgalden.com
 104.22.12.39	www.hkgolden.com forum.hkgolden.com forum8.hkgolden.com m.hkgolden.com forum111.hkgolden.com classbm.hkgolden.com
 104.25.153.116	img.eservice-hk.net
@@ -447,6 +450,12 @@
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
 140.112.172.1	ptt.cc
+175.41.144.51	gtbook.pubu.com.tw www.pubu.com.tw
+54.230.108.227	res1.pubu.tw
+99.84.143.35	res2.pubu.tw
+99.84.143.46	static.pubu.tw
+99.84.143.51	res3.pubu.tw
+99.84.59.53	res4.pubu.tw
 133.237.50.6	rd.rakuten.co.jp
 133.237.61.71	esearch.rakuten.co.jp
 23.40.72.233	www.rakuten.co.jp
@@ -592,6 +601,7 @@
 54.71.196.178	passport.twitch.tv
 54.84.222.78	app.twitch.tv
 117.18.237.70	abs.twimg.com pbs.twimg.com ton.twimg.com
+104.28.18.4	uncyclopedia.tw
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
 151.101.64.217	www.vimeo.com

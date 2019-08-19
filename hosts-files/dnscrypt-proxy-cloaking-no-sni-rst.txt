@@ -183,6 +183,12 @@ ctext.org	63.141.239.58
 library.ctext.org	63.141.239.58
 # Ctext End
 
+# Doubi Start
+doubibackup.com	104.24.116.224
+doubmirror.cf	104.24.126.191
+softsmirror.cf	104.27.137.174
+# Doubi End
+
 # Kakao:Daum Start
 ruliweb.daum.net	103.24.8.9
 policy.daum.net	113.29.186.33
@@ -3378,7 +3384,7 @@ radio-hichannel.cdn.hinet.net	202.39.143.235
 # Hinet End
 
 # Heroku Start
-id.heroku.com	52.200.255.123
+id.heroku.com	34.192.228.6
 # Heroku End
 
 # HKGalden Start
@@ -3771,6 +3777,16 @@ www.psiphon.ca	104.20.38.14
 ptt.cc	140.112.172.1
 # Ptt End
 
+# Pubu Start
+gtbook.pubu.com.tw	175.41.144.51
+www.pubu.com.tw	175.41.144.51
+res1.pubu.tw	54.230.108.227
+res2.pubu.tw	99.84.143.35
+static.pubu.tw	99.84.143.46
+res3.pubu.tw	99.84.143.51
+res4.pubu.tw	99.84.59.53
+# Pubu End
+
 # Rakuten Start
 rd.rakuten.co.jp	133.237.50.6
 esearch.rakuten.co.jp	133.237.61.71
@@ -4039,6 +4055,10 @@ abs.twimg.com	117.18.237.70
 pbs.twimg.com	117.18.237.70
 ton.twimg.com	117.18.237.70
 # Twitter End
+
+# Uncyclopedia Start
+uncyclopedia.tw	104.28.18.4
+# Uncyclopedia End
 
 # Vimeo Start
 vimeo.com	151.101.0.217

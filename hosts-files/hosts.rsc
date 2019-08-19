@@ -263,6 +263,12 @@ add address=63.141.239.58 name=ctext.org
 add address=63.141.239.58 name=library.ctext.org
 # Ctext End
 
+# Doubi Start
+add address=104.24.116.224 name=doubibackup.com
+add address=104.24.126.191 name=doubmirror.cf
+add address=104.27.137.174 name=softsmirror.cf
+# Doubi End
+
 # Kakao:Daum Start
 add address=103.24.8.9 name=ruliweb.daum.net
 add address=113.29.186.33 name=policy.daum.net
@@ -3629,7 +3635,7 @@ add address=202.39.143.235 name=radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=52.200.255.123 name=id.heroku.com
+add address=34.192.228.6 name=id.heroku.com
 # Heroku End
 
 # HKGalden Start
@@ -4207,6 +4213,16 @@ add address=104.20.38.14 name=www.psiphon.ca
 add address=140.112.172.1 name=ptt.cc
 # Ptt End
 
+# Pubu Start
+add address=175.41.144.51 name=gtbook.pubu.com.tw
+add address=175.41.144.51 name=www.pubu.com.tw
+add address=54.230.108.227 name=res1.pubu.tw
+add address=99.84.143.35 name=res2.pubu.tw
+add address=99.84.143.46 name=static.pubu.tw
+add address=99.84.143.51 name=res3.pubu.tw
+add address=99.84.59.53 name=res4.pubu.tw
+# Pubu End
+
 # Quora Start
 add address=104.16.52.111 name=help.quora.com
 add address=151.101.73.2 name=blog.quora.com
@@ -4499,6 +4515,10 @@ add address=117.18.237.70 name=abs.twimg.com
 add address=117.18.237.70 name=pbs.twimg.com
 add address=117.18.237.70 name=ton.twimg.com
 # Twitter End
+
+# Uncyclopedia Start
+add address=104.28.18.4 name=uncyclopedia.tw
+# Uncyclopedia End
 
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
