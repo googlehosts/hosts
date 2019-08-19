@@ -3797,7 +3797,8 @@ search.rakuten.co.jp	96.7.133.108
 # Rakuten End
 
 # RawGit Start
-cdn.rawgit.com	198.232.125.81
+rawgit.com	104.27.188.178
+cdn.rawgit.com	151.139.237.11
 # RawGit End
 
 # Reuters Start
@@ -3970,9 +3971,6 @@ updates.tdesktop.com	149.154.167.80
 # Telegram End
 
 # Tor Start
-torproject.org	38.229.72.17
-www.torproject.org	154.35.175.245
-dist.torproject.org	78.47.38.226
 atlas.torproject.org	138.201.14.197
 bugs.torproject.org	138.201.14.197
 cloud.torproject.org	138.201.14.197
@@ -3988,27 +3986,30 @@ spec.torproject.org	138.201.14.197
 stem.torproject.org	138.201.14.197
 tb-manual.torproject.org	138.201.14.197
 wiki.torproject.org	138.201.14.197
-archive.torproject.org	94.130.28.200
-media.torproject.org	82.195.75.101
-blog.torproject.org	23.185.0.2
-bridges.torproject.org	78.47.38.229
+www.torproject.org	138.201.14.197
+svn.torproject.org	138.201.14.206
 check.torproject.org	138.201.14.212
-collector.torproject.org	195.201.54.247
-exonerator.torproject.org	195.201.54.247
-db.torproject.org	94.130.28.196
-donate.torproject.org	138.201.212.231
+trac.torproject.org	138.201.212.227
 git.torproject.org	138.201.212.228
 gitweb.torproject.org	138.201.212.228
+rt.torproject.org	138.201.212.230
+donate.torproject.org	138.201.212.231
+onionoo.torproject.org	154.35.132.148
 labs.torproject.org	161.47.6.182
+people.torproject.org	195.201.54.244
+collector.torproject.org	195.201.54.247
+exonerator.torproject.org	195.201.54.247
+blog.torproject.org	23.185.0.2
+explorer.ooni.torproject.org	37.218.242.173
+torproject.org	38.229.72.17
+bridges.torproject.org	78.47.38.229
+storm.torproject.org	78.47.38.231
+dist.torproject.org	82.195.75.101
+media.torproject.org	82.195.75.101
+db.torproject.org	94.130.28.196
+archive.torproject.org	94.130.28.200
 lists.torproject.org	94.130.28.202
 metrics.torproject.org	94.130.28.202
-onionoo.torproject.org	154.35.132.148
-explorer.ooni.torproject.org	37.218.242.173
-people.torproject.org	195.201.54.244
-rt.torproject.org	138.201.212.230
-storm.torproject.org	78.47.38.231
-svn.torproject.org	138.201.14.206
-trac.torproject.org	138.201.212.227
 # Tor End
 
 # Twitch Start

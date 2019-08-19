@@ -3799,7 +3799,8 @@ add address=96.7.133.108 name=search.rakuten.co.jp
 # Rakuten End
 
 # RawGit Start
-add address=198.232.125.81 name=cdn.rawgit.com
+add address=104.27.188.178 name=rawgit.com
+add address=151.139.237.11 name=cdn.rawgit.com
 # RawGit End
 
 # Reuters Start
@@ -3972,9 +3973,6 @@ add address=149.154.167.80 name=updates.tdesktop.com
 # Telegram End
 
 # Tor Start
-add address=38.229.72.17 name=torproject.org
-add address=154.35.175.245 name=www.torproject.org
-add address=78.47.38.226 name=dist.torproject.org
 add address=138.201.14.197 name=atlas.torproject.org
 add address=138.201.14.197 name=bugs.torproject.org
 add address=138.201.14.197 name=cloud.torproject.org
@@ -3990,27 +3988,30 @@ add address=138.201.14.197 name=spec.torproject.org
 add address=138.201.14.197 name=stem.torproject.org
 add address=138.201.14.197 name=tb-manual.torproject.org
 add address=138.201.14.197 name=wiki.torproject.org
-add address=94.130.28.200 name=archive.torproject.org
-add address=82.195.75.101 name=media.torproject.org
-add address=23.185.0.2 name=blog.torproject.org
-add address=78.47.38.229 name=bridges.torproject.org
+add address=138.201.14.197 name=www.torproject.org
+add address=138.201.14.206 name=svn.torproject.org
 add address=138.201.14.212 name=check.torproject.org
-add address=195.201.54.247 name=collector.torproject.org
-add address=195.201.54.247 name=exonerator.torproject.org
-add address=94.130.28.196 name=db.torproject.org
-add address=138.201.212.231 name=donate.torproject.org
+add address=138.201.212.227 name=trac.torproject.org
 add address=138.201.212.228 name=git.torproject.org
 add address=138.201.212.228 name=gitweb.torproject.org
+add address=138.201.212.230 name=rt.torproject.org
+add address=138.201.212.231 name=donate.torproject.org
+add address=154.35.132.148 name=onionoo.torproject.org
 add address=161.47.6.182 name=labs.torproject.org
+add address=195.201.54.244 name=people.torproject.org
+add address=195.201.54.247 name=collector.torproject.org
+add address=195.201.54.247 name=exonerator.torproject.org
+add address=23.185.0.2 name=blog.torproject.org
+add address=37.218.242.173 name=explorer.ooni.torproject.org
+add address=38.229.72.17 name=torproject.org
+add address=78.47.38.229 name=bridges.torproject.org
+add address=78.47.38.231 name=storm.torproject.org
+add address=82.195.75.101 name=dist.torproject.org
+add address=82.195.75.101 name=media.torproject.org
+add address=94.130.28.196 name=db.torproject.org
+add address=94.130.28.200 name=archive.torproject.org
 add address=94.130.28.202 name=lists.torproject.org
 add address=94.130.28.202 name=metrics.torproject.org
-add address=154.35.132.148 name=onionoo.torproject.org
-add address=37.218.242.173 name=explorer.ooni.torproject.org
-add address=195.201.54.244 name=people.torproject.org
-add address=138.201.212.230 name=rt.torproject.org
-add address=78.47.38.231 name=storm.torproject.org
-add address=138.201.14.206 name=svn.torproject.org
-add address=138.201.212.227 name=trac.torproject.org
 # Tor End
 
 # Twitch Start
