@@ -3870,6 +3870,16 @@ add address=115.127.250.75 name=t1.kakaocdn.net
 add address=104.20.171.40 name=www.kik.com
 # Kik End
 
+# Kinokuniya Start
+add address=124.146.171.177 name=faq.kinokuniya.co.jp
+add address=124.36.142.42 name=mirai.kinokuniya.co.jp
+add address=176.32.73.17 name=malaysia.kinokuniya.com
+add address=176.32.73.17 name=singapore.kinokuniya.com
+add address=176.32.73.17 name=thailand.kinokuniya.com
+add address=176.32.73.17 name=uae.kinokuniya.com
+add address=203.216.212.234 name=www.kinokuniya.co.jp
+# Kinokuniya End
+
 # Kobo Start
 add address=84.39.136.9 name=magazines-adf.kobo.com
 add address=157.55.176.209 name=social.kobobooks.com
