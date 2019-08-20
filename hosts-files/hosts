@@ -34,6 +34,12 @@
 103.124.106.174	proxy.googlehosts.org
 # GoogleHosts End
 
+# AbeBooks Start
+199.255.34.38	data.abebooks.com
+52.87.120.250	www.abebooks.com
+99.84.58.39	pictures.abebooks.com
+# AbeBooks End
+
 # Akamai Start
 23.32.241.9	a248.e.akamai.net
 # Akamai End
@@ -167,6 +173,12 @@
 207.241.225.247	books-general.archive.org
 # Archive End
 
+# ARTE Start
+212.95.74.30	api.arte.tv
+212.95.74.37	www.arte.tv
+23.50.102.235	static-cdn.arte.tv
+# ARTE End
+
 # Arukas Start
 27.133.136.8	app.arukas.io
 # Arukas End
@@ -214,6 +226,11 @@
 54.192.75.182	mir-cdn-cf.behance.net
 # Behance End
 
+# BigGo Start
+61.222.241.167	img.biggo.com.tw
+61.222.241.168	biggo.com.tw
+# BigGo End
+
 # Box Start
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
@@ -235,6 +252,15 @@
 # Buzzfeed Start
 151.101.2.114	img.buzzfeed.com
 # Buzzfeed End
+
+# CD Universe Start
+110.232.178.118	c6.cduniverse.ws
+110.232.178.118	c7.cduniverse.ws
+110.232.178.118	c8.cduniverse.ws
+110.232.178.118	c9.cduniverse.ws
+110.232.178.118	www.cduniverse.com
+72.248.115.70	cduniverse.ws
+# CD Universe End
 
 # Change.org Start
 104.16.5.13	www.change.org
@@ -279,6 +305,10 @@
 63.141.239.58	ctext.org
 63.141.239.58	library.ctext.org
 # Ctext End
+
+# DailyView Start
+52.230.12.205	dailyview.tw
+# DailyView End
 
 # Doubi Start
 104.24.116.224	doubibackup.com
@@ -1399,10 +1429,23 @@
 157.240.11.18	video.xx.fbcdn.net
 # Facebook End
 
+# Fastly Start
+151.101.110.79	freetls.fastly.net
+151.101.230.79	tampermonkey.freetls.fastly.net
+# Fastly End
+
+# Feedly Start
+104.20.60.241	cloud.feedly.com
+# Feedly End
+
 # FlipBoard Start
 13.33.208.8	beacon.flipboard.com
 13.33.208.8	fbprod.flipboard.com
 # FlipBoard End
+
+# Foreign Policy Start
+192.0.79.32	foreignpolicy.com
+# Foreign Policy End
 
 # Github Start
 192.30.253.118	gist.github.com
@@ -4074,10 +4117,11 @@
 104.19.140.58	i.lihkg.com
 # Lihkg End
 
-# MEGA Start
-31.216.148.10	mega.nz
-117.18.237.188	g.cdn1.mega.co.nz
-# MEGA End
+# Matters.news Start
+13.32.52.37	assets.matters.news
+54.192.151.121	matters.news
+54.254.167.73	server.matters.news
+# Matters.news End
 
 # Medium Start
 104.16.120.127	medium.com
@@ -4087,6 +4131,11 @@
 104.16.120.145	cdn-images-2.medium.com
 104.16.121.145	glyph.medium.com
 # Medium End
+
+# MEGA Start
+31.216.148.10	mega.nz
+117.18.237.188	g.cdn1.mega.co.nz
+# MEGA End
 
 # Nytimes Start
 34.225.58.16	messaging-sub.api.nytimes.com
@@ -4132,6 +4181,32 @@
 # Pepitastore Start
 68.232.44.109	ips.pepitastore.com
 # Pepitastore End
+
+# Periscope Start
+13.124.246.138	pscp.tv
+13.124.203.13	www.pscp.tv
+52.39.74.21	channels.pscp.tv
+54.200.114.148	proxsee.pscp.tv
+54.192.73.58	assets.pscp.tv
+54.192.73.58	prod-profile.pscp.tv
+54.192.73.58	prod-thumbnail.pscp.tv
+151.101.2.164	prod-video-ap-northeast-1.pscp.tv
+151.101.2.164	prod-video-ap-southeast-1.pscp.tv
+151.101.66.164	prod-video-ap-southeast-2.pscp.tv
+151.101.66.164	prod-video-eu-central-1.pscp.tv
+151.101.130.164	prod-video-us-east-1.pscp.tv
+151.101.194.164	prod-video-sa-east-1.pscp.tv
+151.101.194.164	prod-video-us-west-2.pscp.tv
+151.101.78.164	prod-video-us-west-1.pscp.tv
+151.101.78.164	prod-video-eu-west-1.pscp.tv
+18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
+34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
+35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
+# Pincong Start
+104.18.54.73	pincong.rocks
+# Pincong End
 
 # Pinterest Start
 151.101.128.84	pinterest.com
@@ -4219,28 +4294,6 @@
 210.140.131.183	comic-api.pixiv.net
 210.140.131.184	pay.pixiv.net
 # Pixiv End
-
-# Periscope Start
-13.124.246.138	pscp.tv
-13.124.203.13	www.pscp.tv
-52.39.74.21	channels.pscp.tv
-54.200.114.148	proxsee.pscp.tv
-54.192.73.58	assets.pscp.tv
-54.192.73.58	prod-profile.pscp.tv
-54.192.73.58	prod-thumbnail.pscp.tv
-151.101.2.164	prod-video-ap-northeast-1.pscp.tv
-151.101.2.164	prod-video-ap-southeast-1.pscp.tv
-151.101.66.164	prod-video-ap-southeast-2.pscp.tv
-151.101.66.164	prod-video-eu-central-1.pscp.tv
-151.101.130.164	prod-video-us-east-1.pscp.tv
-151.101.194.164	prod-video-sa-east-1.pscp.tv
-151.101.194.164	prod-video-us-west-2.pscp.tv
-151.101.78.164	prod-video-us-west-1.pscp.tv
-151.101.78.164	prod-video-eu-west-1.pscp.tv
-18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
-34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
-35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
-# Periscope End
 
 # Potplayer Start
 211.231.108.181	potplayer.daum.net
@@ -4346,6 +4399,11 @@
 54.82.227.39	new-bench.resilio.com
 # Resilio Sync End
 
+# rixCloud Start
+13.107.246.10	rixcloud.com
+151.101.1.195	rixcloud.us
+# rixCloud End
+
 # SCMP Start
 104.16.215.232	www.scmp.com
 # SCMP End
@@ -4353,6 +4411,22 @@
 # Shadowsocks Start
 104.28.18.85	shadowsocks.org
 # Shadowsocks End
+
+# Slideshare Start
+144.2.3.20	www.slideshare.net
+144.2.3.20	de.slideshare.net
+144.2.3.20	es.slideshare.net
+144.2.3.20	fr.slideshare.net
+144.2.3.20	pt.slideshare.net
+108.174.10.14	engineering.slideshare.net
+108.174.10.14	blog.slideshare.net
+108.174.10.19	slideshare.net
+# Slideshare End
+
+# Smartdnsproxy Start
+45.64.64.96	www.smartdnsproxy.com
+54.215.198.167	support.smartdnsproxy.com
+# Smartdnsproxy End
 
 # Soundcloud Start
 68.232.44.127	soundcloud.com
@@ -4376,22 +4450,6 @@
 72.21.91.96	va.sndcdn.com
 # Soundcloud End
 
-# Slideshare Start
-144.2.3.20	www.slideshare.net
-144.2.3.20	de.slideshare.net
-144.2.3.20	es.slideshare.net
-144.2.3.20	fr.slideshare.net
-144.2.3.20	pt.slideshare.net
-108.174.10.14	engineering.slideshare.net
-108.174.10.14	blog.slideshare.net
-108.174.10.19	slideshare.net
-# Slideshare End
-
-# Smartdnsproxy Start
-45.64.64.96	www.smartdnsproxy.com
-54.215.198.167	support.smartdnsproxy.com
-# Smartdnsproxy End
-
 # Startpage & Ixquick Start
 216.218.239.62	startpage.com
 216.218.239.22	www.startpage.com
@@ -4405,6 +4463,14 @@
 104.71.136.93	steamcommunity.com
 # Steam End
 
+# SupChina Start
+104.27.131.29	supchina.com
+# SupChina End
+
+# SWI Start
+23.10.10.243	www.swissinfo.ch
+# SWI End
+
 # The Economist Start
 199.83.128.108	www.economist.com
 # The Economist End
@@ -4414,6 +4480,10 @@
 52.221.46.214	theinitium.com
 52.221.46.214	api.theinitium.com
 # Theinitium End
+
+# The Nation Start
+192.229.179.32	www.thenation.com
+# The Nation End
 
 # TheTVDB Start
 104.16.230.14	www.thetvdb.com
@@ -16783,5 +16853,17 @@
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
 # Google XN End
+
+# GreatFire Start
+104.25.179.28	freewechat.com
+104.25.239.102	freeweibo.com
+104.25.53.117	cc.greatfire.org
+104.25.53.117	en.greatfire.org
+104.25.53.117	freebrowser.org
+104.25.53.117	startpage.freebrowser.org
+104.25.53.117	zh.greatfire.org
+104.25.54.117	greatfire.org
+104.28.9.217	pao-pao.net
+# GreatFire End
 
 # Modified Hosts End

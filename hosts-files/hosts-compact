@@ -18,6 +18,9 @@
 45.89.228.109	45-89-228-109.googlehosts.org tg-10.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
+199.255.34.38	data.abebooks.com
+52.87.120.250	www.abebooks.com
+99.84.58.39	pictures.abebooks.com
 23.32.241.9	a248.e.akamai.net
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
@@ -69,6 +72,9 @@
 207.241.233.214	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
 207.241.224.6	mail.archive.org
 207.241.225.247	books-general.archive.org
+212.95.74.30	api.arte.tv
+212.95.74.37	www.arte.tv
+23.50.102.235	static-cdn.arte.tv
 27.133.136.8	app.arukas.io
 52.59.33.68	search.avira.com
 104.20.7.63	bandwagonhost.com
@@ -101,6 +107,8 @@
 52.85.231.84	mir-s3-cdn-cf.behance.net
 54.192.182.143	a5.behance.net
 54.192.75.182	mir-cdn-cf.behance.net
+61.222.241.167	img.biggo.com.tw
+61.222.241.168	biggo.com.tw
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
 151.101.1.171	static2.businessinsider.com static5.businessinsider.com
@@ -109,6 +117,8 @@
 151.101.73.171	static1.businessinsider.com static3.businessinsider.com static4.businessinsider.com
 151.101.88.64	analytics.businessinsider.com
 151.101.2.114	img.buzzfeed.com
+110.232.178.118	c6.cduniverse.ws c7.cduniverse.ws c8.cduniverse.ws c9.cduniverse.ws www.cduniverse.com
+72.248.115.70	cduniverse.ws
 104.16.5.13	www.change.org assets.change.org
 104.16.4.13	change.org assets-fe.change.org
 13.33.25.77	d3njjcbhbojbot.cloudfront.net
@@ -123,6 +133,7 @@
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
 63.141.239.58	ctext.org library.ctext.org
+52.230.12.205	dailyview.tw
 104.24.116.224	doubibackup.com
 104.24.126.191	doubmirror.cf
 104.27.137.174	softsmirror.cf
@@ -279,7 +290,11 @@
 31.13.91.15	static.xx.fbcdn.net scontent-lax3-1.xx.fbcdn.net scontent-lax3-2.xx.fbcdn.net scontent-lax3-3.xx.fbcdn.net scontent-lax3-4.xx.fbcdn.net scontent-hkg3-1.xx.fbcdn.net scontent-hkg3-2.xx.fbcdn.net scontent-hkg3-3.xx.fbcdn.net z-1-scontent.xx.fbcdn.net video-lax3-1.xx.fbcdn.net video-lax3-2.xx.fbcdn.net video-lax3-3.xx.fbcdn.net video-lax3-4.xx.fbcdn.net video-mrs1-1.xx.fbcdn.net video-mrs1-2.xx.fbcdn.net video-mrs1-3.xx.fbcdn.net video-mrs1-4.xx.fbcdn.net video-hkg3-1.xx.fbcdn.net video-sit4-1.xx.fbcdn.net external.xx.fbcdn.net
 192.0.66.2	messengerplatform.fb.com threatexchange.fb.com
 157.240.11.18	video.xx.fbcdn.net
+151.101.110.79	freetls.fastly.net
+151.101.230.79	tampermonkey.freetls.fastly.net
+104.20.60.241	cloud.feedly.com
 13.33.208.8	beacon.flipboard.com fbprod.flipboard.com
+192.0.79.32	foreignpolicy.com
 192.30.253.118	gist.github.com
 192.30.255.112	github.com
 192.30.255.110	www.github.com
@@ -551,11 +566,14 @@
 23.57.92.220	social-plugins.line.me
 104.19.139.58	x.lihkg.com
 104.19.140.58	lihkg.com graph.lihkg.com i.lihkg.com
-31.216.148.10	mega.nz
-117.18.237.188	g.cdn1.mega.co.nz
+13.32.52.37	assets.matters.news
+54.192.151.121	matters.news
+54.254.167.73	server.matters.news
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com cdn-static-1.medium.com cdn-images-1.medium.com cdn-images-2.medium.com
 104.16.121.145	glyph.medium.com
+31.216.148.10	mega.nz
+117.18.237.188	g.cdn1.mega.co.nz
 34.225.58.16	messaging-sub.api.nytimes.com
 23.21.73.215	nytab.nytimes.com
 34.224.132.29	et.nytimes.com
@@ -579,6 +597,20 @@
 134.170.104.157	skyweb.skyprod.akadns.net
 74.120.8.13	my.pcloud.com
 68.232.44.109	ips.pepitastore.com
+13.124.246.138	pscp.tv
+13.124.203.13	www.pscp.tv
+52.39.74.21	channels.pscp.tv
+54.200.114.148	proxsee.pscp.tv
+54.192.73.58	assets.pscp.tv prod-profile.pscp.tv prod-thumbnail.pscp.tv
+151.101.2.164	prod-video-ap-northeast-1.pscp.tv prod-video-ap-southeast-1.pscp.tv
+151.101.66.164	prod-video-ap-southeast-2.pscp.tv prod-video-eu-central-1.pscp.tv
+151.101.130.164	prod-video-us-east-1.pscp.tv
+151.101.194.164	prod-video-sa-east-1.pscp.tv prod-video-us-west-2.pscp.tv
+151.101.78.164	prod-video-us-west-1.pscp.tv prod-video-eu-west-1.pscp.tv
+18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
+34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
+35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+104.18.54.73	pincong.rocks
 151.101.128.84	pinterest.com www.pinterest.com about.pinterest.com blog.pinterest.com ads.pinterest.com api.pinterest.com analytics.pinterest.com br.pinterest.com business.pinterest.com canary.pinterest.com cz.pinterest.com de.pinterest.com dk.pinterest.com es.pinterest.com fi.pinterest.com fr.pinterest.com gb.pinterest.com gr.pinterest.com help.pinterest.com hu.pinterest.com id.pinterest.com in.pinterest.com it.pinterest.com jp.pinterest.com kr.pinterest.com media-cache-ec0.pinterest.com pl.pinterest.com pt.pinterest.com ro.pinterest.com ru.pinterest.com se.pinterest.com sk.pinterest.com tr.pinterest.com uk.pinterest.com no.pinterest.com nl.pinterest.com engineering.pinterest.com
 52.6.255.21	dev.pinterest.com developers.pinterest.com
 54.149.226.209	post.pinterest.com
@@ -621,19 +653,6 @@
 210.140.131.182	embed.pixiv.net
 210.140.131.183	comic-api.pixiv.net
 210.140.131.184	pay.pixiv.net
-13.124.246.138	pscp.tv
-13.124.203.13	www.pscp.tv
-52.39.74.21	channels.pscp.tv
-54.200.114.148	proxsee.pscp.tv
-54.192.73.58	assets.pscp.tv prod-profile.pscp.tv prod-thumbnail.pscp.tv
-151.101.2.164	prod-video-ap-northeast-1.pscp.tv prod-video-ap-southeast-1.pscp.tv
-151.101.66.164	prod-video-ap-southeast-2.pscp.tv prod-video-eu-central-1.pscp.tv
-151.101.130.164	prod-video-us-east-1.pscp.tv
-151.101.194.164	prod-video-sa-east-1.pscp.tv prod-video-us-west-2.pscp.tv
-151.101.78.164	prod-video-us-west-1.pscp.tv prod-video-eu-west-1.pscp.tv
-18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
-34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
-35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
 211.231.108.181	potplayer.daum.net
 104.27.154.107	www.v2ray.com
 54.192.75.124	psiphon3.com
@@ -687,8 +706,15 @@
 54.192.75.46	config.resilio.com
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
+13.107.246.10	rixcloud.com
+151.101.1.195	rixcloud.us
 104.16.215.232	www.scmp.com
 104.28.18.85	shadowsocks.org
+144.2.3.20	www.slideshare.net de.slideshare.net es.slideshare.net fr.slideshare.net pt.slideshare.net
+108.174.10.14	engineering.slideshare.net blog.slideshare.net
+108.174.10.19	slideshare.net
+45.64.64.96	www.smartdnsproxy.com
+54.215.198.167	support.smartdnsproxy.com
 68.232.44.127	soundcloud.com api-v2.soundcloud.com telemetry.soundcloud.com
 72.21.81.127	l9bjkkhaycw6f8f4.soundcloud.com api.soundcloud.com eventgateway.soundcloud.com
 72.21.91.127	promoted.soundcloud.com m.soundcloud.com on.soundcloud.com visuals.soundcloud.com
@@ -697,20 +723,18 @@
 72.21.81.77	ec-rtmp-media.soundcloud.com
 68.232.45.77	ec-media.sndcdn.com
 72.21.91.96	a1.sndcdn.com a-v2.sndcdn.com ec-preview-media.sndcdn.com style.sndcdn.com va.sndcdn.com
-144.2.3.20	www.slideshare.net de.slideshare.net es.slideshare.net fr.slideshare.net pt.slideshare.net
-108.174.10.14	engineering.slideshare.net blog.slideshare.net
-108.174.10.19	slideshare.net
-45.64.64.96	www.smartdnsproxy.com
-54.215.198.167	support.smartdnsproxy.com
 216.218.239.62	startpage.com
 216.218.239.22	www.startpage.com
 64.71.175.181	www.ixquick.com ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
 104.71.136.93	steamcommunity.com
+104.27.131.29	supchina.com
+23.10.10.243	www.swissinfo.ch
 199.83.128.108	www.economist.com
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com api.theinitium.com
+192.229.179.32	www.thenation.com
 104.16.230.14	www.thetvdb.com
 118.143.30.216	topick.hket.com
 118.143.30.165	inlog01.hket.com
@@ -1572,5 +1596,10 @@
 173.194.51.88	r19---sn-oguesnle.c.docs.google.com r19---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com r19---sn-oguesnle.c.drive.google.com r19---sn-oguesnle.c.inbox.google.com r19---sn-oguesnle.c.mail.google.com r19---sn-oguesnle.c.offline.maps.google.com r19---sn-oguesnle.c.pack.google.com r19---sn-oguesnle.gvt1.com r19---sn-oguesnle.c.play.google.com r19---sn-oguesnle.googlevideo.com r19---sn-oguesnle.a1.googlevideo.com r19---sn-oguesnle.c.youtube.com r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.c.docs.google.com r20---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com r20---sn-oguesnle.c.drive.google.com r20---sn-oguesnle.c.inbox.google.com r20---sn-oguesnle.c.mail.google.com r20---sn-oguesnle.c.offline.maps.google.com r20---sn-oguesnle.c.pack.google.com r20---sn-oguesnle.gvt1.com r20---sn-oguesnle.c.play.google.com r20---sn-oguesnle.googlevideo.com r20---sn-oguesnle.a1.googlevideo.com r20---sn-oguesnle.c.youtube.com r20---sn-oguesnle.xn--ngstr-lra8j.com
 203.208.41.40	redirector.gvt1.com redirector.c.play.google.com
+104.25.179.28	freewechat.com
+104.25.239.102	freeweibo.com
+104.25.53.117	cc.greatfire.org en.greatfire.org freebrowser.org startpage.freebrowser.org zh.greatfire.org
+104.25.54.117	greatfire.org
+104.28.9.217	pao-pao.net
 
 # Modified Hosts End

@@ -36,6 +36,12 @@ add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
 # GoogleHosts End
 
+# AbeBooks Start
+add address=199.255.34.38 name=data.abebooks.com
+add address=52.87.120.250 name=www.abebooks.com
+add address=99.84.58.39 name=pictures.abebooks.com
+# AbeBooks End
+
 # Akamai Start
 add address=23.32.241.9 name=a248.e.akamai.net
 # Akamai End
@@ -126,6 +132,12 @@ add address=207.241.224.4 name=www.archive.org
 add address=207.241.224.6 name=mail.archive.org
 # Archive End
 
+# ARTE Start
+add address=212.95.74.30 name=api.arte.tv
+add address=212.95.74.37 name=www.arte.tv
+add address=23.50.102.235 name=static-cdn.arte.tv
+# ARTE End
+
 # Arukas Start
 add address=27.133.136.8 name=app.arukas.io
 # Arukas End
@@ -146,6 +158,11 @@ add address=54.192.182.143 name=a5.behance.net
 add address=54.192.75.182 name=mir-cdn-cf.behance.net
 # Behance End
 
+# BigGo Start
+add address=61.222.241.167 name=img.biggo.com.tw
+add address=61.222.241.168 name=biggo.com.tw
+# BigGo End
+
 # Box Start
 add address=107.152.24.198 name=app.box.com
 add address=107.152.24.197 name=m.box.com
@@ -153,6 +170,15 @@ add address=107.152.24.197 name=m.box.com
 
 # Buzzfeed Start
 # Buzzfeed End
+
+# CD Universe Start
+add address=110.232.178.118 name=c6.cduniverse.ws
+add address=110.232.178.118 name=c7.cduniverse.ws
+add address=110.232.178.118 name=c8.cduniverse.ws
+add address=110.232.178.118 name=c9.cduniverse.ws
+add address=110.232.178.118 name=www.cduniverse.com
+add address=72.248.115.70 name=cduniverse.ws
+# CD Universe End
 
 # Cloudfront Start
 add address=13.33.25.77 name=d3njjcbhbojbot.cloudfront.net
@@ -184,6 +210,10 @@ add address=150.95.236.31 name=manage.conoha.jp
 add address=63.141.239.58 name=ctext.org
 add address=63.141.239.58 name=library.ctext.org
 # Ctext End
+
+# DailyView Start
+add address=52.230.12.205 name=dailyview.tw
+# DailyView End
 
 # Doubi Start
 add address=104.24.116.224 name=doubibackup.com
@@ -1129,10 +1159,23 @@ add address=104.20.170.49 name=computer.discuss.com.hk
 add address=207.38.70.29 name=www.dynu.com
 # Dynu End
 
+# Fastly Start
+add address=151.101.110.79 name=freetls.fastly.net
+add address=151.101.230.79 name=tampermonkey.freetls.fastly.net
+# Fastly End
+
+# Feedly Start
+add address=104.20.60.241 name=cloud.feedly.com
+# Feedly End
+
 # FlipBoard Start
 add address=13.33.208.8 name=beacon.flipboard.com
 add address=13.33.208.8 name=fbprod.flipboard.com
 # FlipBoard End
+
+# Foreign Policy Start
+add address=192.0.79.32 name=foreignpolicy.com
+# Foreign Policy End
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
@@ -3619,10 +3662,11 @@ add address=104.19.140.58 name=graph.lihkg.com
 add address=104.19.140.58 name=i.lihkg.com
 # Lihkg End
 
-# MEGA Start
-add address=31.216.148.10 name=mega.nz
-add address=117.18.237.188 name=g.cdn1.mega.co.nz
-# MEGA End
+# Matters.news Start
+add address=13.32.52.37 name=assets.matters.news
+add address=54.192.151.121 name=matters.news
+add address=54.254.167.73 name=server.matters.news
+# Matters.news End
 
 # Medium Start
 add address=104.16.120.127 name=medium.com
@@ -3632,6 +3676,11 @@ add address=104.16.120.145 name=cdn-images-1.medium.com
 add address=104.16.120.145 name=cdn-images-2.medium.com
 add address=104.16.121.145 name=glyph.medium.com
 # Medium End
+
+# MEGA Start
+add address=31.216.148.10 name=mega.nz
+add address=117.18.237.188 name=g.cdn1.mega.co.nz
+# MEGA End
 
 # Nytimes Start
 add address=34.225.58.16 name=messaging-sub.api.nytimes.com
@@ -3677,6 +3726,32 @@ add address=74.120.8.13 name=my.pcloud.com
 # Pepitastore Start
 add address=68.232.44.109 name=ips.pepitastore.com
 # Pepitastore End
+
+# Periscope Start
+add address=13.124.246.138 name=pscp.tv
+add address=13.124.203.13 name=www.pscp.tv
+add address=52.39.74.21 name=channels.pscp.tv
+add address=54.200.114.148 name=proxsee.pscp.tv
+add address=54.192.73.58 name=assets.pscp.tv
+add address=54.192.73.58 name=prod-profile.pscp.tv
+add address=54.192.73.58 name=prod-thumbnail.pscp.tv
+add address=151.101.2.164 name=prod-video-ap-northeast-1.pscp.tv
+add address=151.101.2.164 name=prod-video-ap-southeast-1.pscp.tv
+add address=151.101.66.164 name=prod-video-ap-southeast-2.pscp.tv
+add address=151.101.66.164 name=prod-video-eu-central-1.pscp.tv
+add address=151.101.130.164 name=prod-video-us-east-1.pscp.tv
+add address=151.101.194.164 name=prod-video-sa-east-1.pscp.tv
+add address=151.101.194.164 name=prod-video-us-west-2.pscp.tv
+add address=151.101.78.164 name=prod-video-us-west-1.pscp.tv
+add address=151.101.78.164 name=prod-video-eu-west-1.pscp.tv
+add address=18.194.108.2 name=prod-chatman-ancillary-eu-central-1.pscp.tv
+add address=34.233.63.45 name=prod-chatman-ancillary-us-east-1.pscp.tv
+add address=35.160.28.174 name=prod-chatman-ancillary-us-west-2.pscp.tv
+# Periscope End
+
+# Pincong Start
+add address=104.18.54.73 name=pincong.rocks
+# Pincong End
 
 # Pinterest Start
 add address=151.101.128.84 name=pinterest.com
@@ -3765,28 +3840,6 @@ add address=210.140.131.183 name=comic-api.pixiv.net
 add address=210.140.131.184 name=pay.pixiv.net
 # Pixiv End
 
-# Periscope Start
-add address=13.124.246.138 name=pscp.tv
-add address=13.124.203.13 name=www.pscp.tv
-add address=52.39.74.21 name=channels.pscp.tv
-add address=54.200.114.148 name=proxsee.pscp.tv
-add address=54.192.73.58 name=assets.pscp.tv
-add address=54.192.73.58 name=prod-profile.pscp.tv
-add address=54.192.73.58 name=prod-thumbnail.pscp.tv
-add address=151.101.2.164 name=prod-video-ap-northeast-1.pscp.tv
-add address=151.101.2.164 name=prod-video-ap-southeast-1.pscp.tv
-add address=151.101.66.164 name=prod-video-ap-southeast-2.pscp.tv
-add address=151.101.66.164 name=prod-video-eu-central-1.pscp.tv
-add address=151.101.130.164 name=prod-video-us-east-1.pscp.tv
-add address=151.101.194.164 name=prod-video-sa-east-1.pscp.tv
-add address=151.101.194.164 name=prod-video-us-west-2.pscp.tv
-add address=151.101.78.164 name=prod-video-us-west-1.pscp.tv
-add address=151.101.78.164 name=prod-video-eu-west-1.pscp.tv
-add address=18.194.108.2 name=prod-chatman-ancillary-eu-central-1.pscp.tv
-add address=34.233.63.45 name=prod-chatman-ancillary-us-east-1.pscp.tv
-add address=35.160.28.174 name=prod-chatman-ancillary-us-west-2.pscp.tv
-# Periscope End
-
 # Potplayer Start
 add address=211.231.108.181 name=potplayer.daum.net
 # Potplayer End
@@ -3867,9 +3920,30 @@ add address=54.192.75.27 name=www.resilio.com
 add address=54.82.227.39 name=new-bench.resilio.com
 # Resilio Sync End
 
+# rixCloud Start
+add address=13.107.246.10 name=rixcloud.com
+add address=151.101.1.195 name=rixcloud.us
+# rixCloud End
+
 # Shadowsocks Start
 add address=104.28.18.85 name=shadowsocks.org
 # Shadowsocks End
+
+# Slideshare Start
+add address=144.2.3.20 name=www.slideshare.net
+add address=144.2.3.20 name=de.slideshare.net
+add address=144.2.3.20 name=es.slideshare.net
+add address=144.2.3.20 name=fr.slideshare.net
+add address=144.2.3.20 name=pt.slideshare.net
+add address=108.174.10.14 name=engineering.slideshare.net
+add address=108.174.10.14 name=blog.slideshare.net
+add address=108.174.10.19 name=slideshare.net
+# Slideshare End
+
+# Smartdnsproxy Start
+add address=45.64.64.96 name=www.smartdnsproxy.com
+add address=54.215.198.167 name=support.smartdnsproxy.com
+# Smartdnsproxy End
 
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
@@ -3893,22 +3967,6 @@ add address=72.21.91.96 name=style.sndcdn.com
 add address=72.21.91.96 name=va.sndcdn.com
 # Soundcloud End
 
-# Slideshare Start
-add address=144.2.3.20 name=www.slideshare.net
-add address=144.2.3.20 name=de.slideshare.net
-add address=144.2.3.20 name=es.slideshare.net
-add address=144.2.3.20 name=fr.slideshare.net
-add address=144.2.3.20 name=pt.slideshare.net
-add address=108.174.10.14 name=engineering.slideshare.net
-add address=108.174.10.14 name=blog.slideshare.net
-add address=108.174.10.19 name=slideshare.net
-# Slideshare End
-
-# Smartdnsproxy Start
-add address=45.64.64.96 name=www.smartdnsproxy.com
-add address=54.215.198.167 name=support.smartdnsproxy.com
-# Smartdnsproxy End
-
 # Startpage & Ixquick Start
 add address=216.218.239.62 name=startpage.com
 add address=216.218.239.22 name=www.startpage.com
@@ -3922,11 +3980,23 @@ add address=64.71.134.121 name=support.ixquick.com
 add address=104.71.136.93 name=steamcommunity.com
 # Steam End
 
+# SupChina Start
+add address=104.27.131.29 name=supchina.com
+# SupChina End
+
+# SWI Start
+add address=23.10.10.243 name=www.swissinfo.ch
+# SWI End
+
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com
 add address=52.221.46.214 name=theinitium.com
 add address=52.221.46.214 name=api.theinitium.com
 # Theinitium End
+
+# The Nation Start
+add address=192.229.179.32 name=www.thenation.com
+# The Nation End
 
 # TopickHK Start
 add address=118.143.30.216 name=topick.hket.com
@@ -16288,5 +16358,17 @@ add address=173.194.51.87 name=r18---sn-oguesnle.xn--ngstr-lra8j.com
 add address=173.194.51.88 name=r19---sn-oguesnle.xn--ngstr-lra8j.com
 add address=173.194.51.89 name=r20---sn-oguesnle.xn--ngstr-lra8j.com
 # Google XN End
+
+# GreatFire Start
+add address=104.25.179.28 name=freewechat.com
+add address=104.25.239.102 name=freeweibo.com
+add address=104.25.53.117 name=cc.greatfire.org
+add address=104.25.53.117 name=en.greatfire.org
+add address=104.25.53.117 name=freebrowser.org
+add address=104.25.53.117 name=startpage.freebrowser.org
+add address=104.25.53.117 name=zh.greatfire.org
+add address=104.25.54.117 name=greatfire.org
+add address=104.28.9.217 name=pao-pao.net
+# GreatFire End
 
 # Modified Hosts End
