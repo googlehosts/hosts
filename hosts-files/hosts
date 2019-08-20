@@ -219,6 +219,19 @@
 107.152.24.197	m.box.com
 # Box End
 
+# Bussiness Insider Start
+151.101.1.171	static2.businessinsider.com
+151.101.1.171	static5.businessinsider.com
+151.101.193.171	www.businessinsider.com
+151.101.229.171	amp.businessinsider.com
+151.101.229.171	geoip.businessinsider.com
+151.101.229.171	static6.businessinsider.com
+151.101.73.171	static1.businessinsider.com
+151.101.73.171	static3.businessinsider.com
+151.101.73.171	static4.businessinsider.com
+151.101.88.64	analytics.businessinsider.com
+# Bussiness Insider End
+
 # Buzzfeed Start
 151.101.2.114	img.buzzfeed.com
 # Buzzfeed End
@@ -242,6 +255,12 @@
 13.33.231.37	soundwave.clyp.it
 13.33.231.37	static.clyp.it
 # Clyp End
+
+# CNA Start
+210.242.210.65	img5.cna.com.tw
+211.72.255.204	www.cna.com.tw
+72.21.81.200	img4.cna.com.tw
+# CNA End
 
 # Culturalspot Start
 # Pending fix
@@ -1257,6 +1276,10 @@
 # Dynu Start
 207.38.70.29	www.dynu.com
 # Dynu End
+
+# Euronews Start
+8.252.15.252	static.euronews.com
+# Euronews End
 
 # Facebook Start
 157.240.7.35	www.facebook.com
@@ -4323,6 +4346,10 @@
 54.82.227.39	new-bench.resilio.com
 # Resilio Sync End
 
+# SCMP Start
+104.16.215.232	www.scmp.com
+# SCMP End
+
 # Shadowsocks Start
 104.28.18.85	shadowsocks.org
 # Shadowsocks End
@@ -4378,11 +4405,19 @@
 104.71.136.93	steamcommunity.com
 # Steam End
 
+# The Economist Start
+199.83.128.108	www.economist.com
+# The Economist End
+
 # Theinitium Start
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com
 52.221.46.214	api.theinitium.com
 # Theinitium End
+
+# TheTVDB Start
+104.16.230.14	www.thetvdb.com
+# TheTVDB End
 
 # TopickHK Start
 118.143.30.216	topick.hket.com
@@ -4545,6 +4580,10 @@
 # Uncyclopedia Start
 104.28.18.4	uncyclopedia.tw
 # Uncyclopedia End
+
+# Up Media Start
+192.124.249.65	www.upmedia.mg
+# Up Media End
 
 # Vimeo Start
 151.101.0.217	vimeo.com

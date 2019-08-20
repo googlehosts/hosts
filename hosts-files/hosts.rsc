@@ -221,6 +221,19 @@ add address=107.152.24.198 name=app.box.com
 add address=107.152.24.197 name=m.box.com
 # Box End
 
+# Bussiness Insider Start
+add address=151.101.1.171 name=static2.businessinsider.com
+add address=151.101.1.171 name=static5.businessinsider.com
+add address=151.101.193.171 name=www.businessinsider.com
+add address=151.101.229.171 name=amp.businessinsider.com
+add address=151.101.229.171 name=geoip.businessinsider.com
+add address=151.101.229.171 name=static6.businessinsider.com
+add address=151.101.73.171 name=static1.businessinsider.com
+add address=151.101.73.171 name=static3.businessinsider.com
+add address=151.101.73.171 name=static4.businessinsider.com
+add address=151.101.88.64 name=analytics.businessinsider.com
+# Bussiness Insider End
+
 # Buzzfeed Start
 add address=151.101.2.114 name=img.buzzfeed.com
 # Buzzfeed End
@@ -244,6 +257,12 @@ add address=13.33.231.37 name=clyp.it
 add address=13.33.231.37 name=soundwave.clyp.it
 add address=13.33.231.37 name=static.clyp.it
 # Clyp End
+
+# CNA Start
+add address=210.242.210.65 name=img5.cna.com.tw
+add address=211.72.255.204 name=www.cna.com.tw
+add address=72.21.81.200 name=img4.cna.com.tw
+# CNA End
 
 # Culturalspot Start
 # Pending fix
@@ -1259,6 +1278,10 @@ add address=104.20.170.49 name=computer.discuss.com.hk
 # Dynu Start
 add address=207.38.70.29 name=www.dynu.com
 # Dynu End
+
+# Euronews Start
+add address=8.252.15.252 name=static.euronews.com
+# Euronews End
 
 # Facebook Start
 add address=157.240.7.35 name=www.facebook.com
@@ -4325,6 +4348,10 @@ add address=54.192.75.27 name=www.resilio.com
 add address=54.82.227.39 name=new-bench.resilio.com
 # Resilio Sync End
 
+# SCMP Start
+add address=104.16.215.232 name=www.scmp.com
+# SCMP End
+
 # Shadowsocks Start
 add address=104.28.18.85 name=shadowsocks.org
 # Shadowsocks End
@@ -4380,11 +4407,19 @@ add address=64.71.134.121 name=support.ixquick.com
 add address=104.71.136.93 name=steamcommunity.com
 # Steam End
 
+# The Economist Start
+add address=199.83.128.108 name=www.economist.com
+# The Economist End
+
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com
 add address=52.221.46.214 name=theinitium.com
 add address=52.221.46.214 name=api.theinitium.com
 # Theinitium End
+
+# TheTVDB Start
+add address=104.16.230.14 name=www.thetvdb.com
+# TheTVDB End
 
 # TopickHK Start
 add address=118.143.30.216 name=topick.hket.com
@@ -4547,6 +4582,10 @@ add address=117.18.237.70 name=ton.twimg.com
 # Uncyclopedia Start
 add address=104.28.18.4 name=uncyclopedia.tw
 # Uncyclopedia End
+
+# Up Media Start
+add address=192.124.249.65 name=www.upmedia.mg
+# Up Media End
 
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
