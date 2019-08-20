@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-08-19
+# Last updated: 2019-08-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -56,6 +56,14 @@
 104.24.116.224	doubibackup.com
 104.24.126.191	doubmirror.cf
 104.27.137.174	softsmirror.cf
+183.177.40.106	kmh.kadokawa.co.jp
+183.177.40.130	kadokawa-mg.kadokawa.co.jp kadokawa.co.jp kadokawagakugei.kadokawa.co.jp kadokawashoten.kadokawa.co.jp mediafactory.kadokawa.co.jp www.kadokawa.co.jp
+183.177.40.228	asciimw.kadokawa.co.jp
+183.177.42.87	ir.kadokawa.co.jp
+183.177.44.38	license.kadokawa.co.jp
+202.213.45.132	www.chara-ani.com
+54.230.193.207	mediaguide.kadokawa.co.jp
+99.84.181.106	store.kadokawa.co.jp
 103.24.8.9	ruliweb.daum.net
 113.29.186.33	policy.daum.net
 113.29.186.70	mail.daum.net

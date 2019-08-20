@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-08-19
+# Last updated: 2019-08-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -190,6 +190,22 @@ add address=104.24.116.224 name=doubibackup.com
 add address=104.24.126.191 name=doubmirror.cf
 add address=104.27.137.174 name=softsmirror.cf
 # Doubi End
+
+# Kadokawa Start
+add address=183.177.40.106 name=kmh.kadokawa.co.jp
+add address=183.177.40.130 name=kadokawa-mg.kadokawa.co.jp
+add address=183.177.40.130 name=kadokawa.co.jp
+add address=183.177.40.130 name=kadokawagakugei.kadokawa.co.jp
+add address=183.177.40.130 name=kadokawashoten.kadokawa.co.jp
+add address=183.177.40.130 name=mediafactory.kadokawa.co.jp
+add address=183.177.40.130 name=www.kadokawa.co.jp
+add address=183.177.40.228 name=asciimw.kadokawa.co.jp
+add address=183.177.42.87 name=ir.kadokawa.co.jp
+add address=183.177.44.38 name=license.kadokawa.co.jp
+add address=202.213.45.132 name=www.chara-ani.com
+add address=54.230.193.207 name=mediaguide.kadokawa.co.jp
+add address=99.84.181.106 name=store.kadokawa.co.jp
+# Kadokawa End
 
 # Kakao:Daum Start
 add address=103.24.8.9 name=ruliweb.daum.net

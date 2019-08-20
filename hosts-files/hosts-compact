@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-08-19
+# Last updated: 2019-08-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -118,6 +118,14 @@
 104.24.116.224	doubibackup.com
 104.24.126.191	doubmirror.cf
 104.27.137.174	softsmirror.cf
+183.177.40.106	kmh.kadokawa.co.jp
+183.177.40.130	kadokawa-mg.kadokawa.co.jp kadokawa.co.jp kadokawagakugei.kadokawa.co.jp kadokawashoten.kadokawa.co.jp mediafactory.kadokawa.co.jp www.kadokawa.co.jp
+183.177.40.228	asciimw.kadokawa.co.jp
+183.177.42.87	ir.kadokawa.co.jp
+183.177.44.38	license.kadokawa.co.jp
+202.213.45.132	www.chara-ani.com
+54.230.193.207	mediaguide.kadokawa.co.jp
+99.84.181.106	store.kadokawa.co.jp
 103.24.8.9	ruliweb.daum.net
 113.29.186.33	policy.daum.net
 113.29.186.70	mail.daum.net
@@ -402,7 +410,7 @@
 31.13.71.174	scontent-a-lga.cdninstagram.com scontent-b-lga.cdninstagram.com scontent-lga.cdninstagram.com scontent-lga3-1.cdninstagram.com
 31.13.90.174	scontent-a-lhr.cdninstagram.com scontent-b-lhr.cdninstagram.com scontent-lhr3-1.cdninstagram.com
 157.240.1.172	scontent-a-lht.cdninstagram.com scontent-b-lht.cdninstagram.com scontent-lht6-1.cdninstagram.com
-31.13.83.52	scontent-a-mad.cdninstagram.com scontent-b-mad.cdninstagram.com scontent-mad1-1.cdninstagram.comc
+31.13.83.52	scontent-a-mad.cdninstagram.com scontent-b-mad.cdninstagram.com scontent-mad1-1.cdninstagram.com
 31.13.75.174	scontent-a-mrs.cdninstagram.com scontent-b-mrs.cdninstagram.com scontent-mrs1-1.cdninstagram.com
 31.13.86.52	scontent-a-mxp.cdninstagram.com scontent-b-mxp.cdninstagram.com scontent-mxp1-1.cdninstagram.com
 157.240.18.63	scontent-a-ort.cdninstagram.com scontent-b-ort.cdninstagram.com
