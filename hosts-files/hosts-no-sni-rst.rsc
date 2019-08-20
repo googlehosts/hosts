@@ -182,7 +182,7 @@ add address=72.248.115.70 name=cduniverse.ws
 
 # Cloudfront Start
 add address=13.33.25.77 name=d3njjcbhbojbot.cloudfront.net
-add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
+add address=99.84.138.226 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
 # Clyp Start

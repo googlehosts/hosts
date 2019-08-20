@@ -271,7 +271,7 @@ assets-fe.change.org	104.16.4.13
 
 # Cloudfront Start
 d3njjcbhbojbot.cloudfront.net	13.33.25.77
-d3c33hcgiwev3.cloudfront.net	52.85.83.12
+d3c33hcgiwev3.cloudfront.net	99.84.138.226
 # Cloudfront End
 
 # Clyp Start
