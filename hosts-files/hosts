@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-08-20
+# Last updated: 2019-09-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1448,9 +1448,9 @@
 # Foreign Policy End
 
 # Github Start
-192.30.253.118	gist.github.com
-192.30.255.112	github.com
-192.30.255.110	www.github.com
+13.250.177.223	gist.github.com
+13.250.177.223	github.com
+13.229.188.59	www.github.com
 # Github End
 
 # Gmail Start

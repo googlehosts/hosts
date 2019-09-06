@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-08-20
+# Last updated: 2019-09-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -295,9 +295,8 @@
 104.20.60.241	cloud.feedly.com
 13.33.208.8	beacon.flipboard.com fbprod.flipboard.com
 192.0.79.32	foreignpolicy.com
-192.30.253.118	gist.github.com
-192.30.255.112	github.com
-192.30.255.110	www.github.com
+13.250.177.223	gist.github.com github.com
+13.229.188.59	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com googlemail.l.google.com m.gmail.com
 216.58.215.231	mail-settings.google.com

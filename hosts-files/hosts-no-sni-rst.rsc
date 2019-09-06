@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-08-20
+# Last updated: 2019-09-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1178,9 +1178,9 @@ add address=192.0.79.32 name=foreignpolicy.com
 # Foreign Policy End
 
 # Github Start
-add address=192.30.253.118 name=gist.github.com
-add address=192.30.255.112 name=github.com
-add address=192.30.255.110 name=www.github.com
+add address=13.250.177.223 name=gist.github.com
+add address=13.250.177.223 name=github.com
+add address=13.229.188.59 name=www.github.com
 # Github End
 
 # Gmail Start
