@@ -1453,6 +1453,7 @@ add address=192.0.79.32 name=foreignpolicy.com
 add address=13.250.177.223 name=gist.github.com
 add address=13.250.177.223 name=github.com
 add address=13.229.188.59 name=www.github.com
+add address=151.101.56.133 name=raw.githubusercontent.com
 # Github End
 
 # Gmail Start
