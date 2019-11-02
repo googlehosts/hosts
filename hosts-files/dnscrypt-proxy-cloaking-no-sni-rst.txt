@@ -1158,8 +1158,25 @@ www.dynu.com	207.38.70.29
 # Dynu End
 
 # Fastly Start
+codeproject.global.ssl.fastly.net	151.101.1.194
+github.global.ssl.fastly.net	151.101.1.194
 freetls.fastly.net	151.101.110.79
+aosc-repo.freetls.fastly.net	151.101.230.79
+bt-wpstatic.freetls.fastly.net	151.101.230.79
+chairish-prod.freetls.fastly.net	151.101.230.79
+codeproject.freetls.fastly.net	151.101.230.79
+finanzen.freetls.fastly.net	151.101.230.79
+github-atom-io-herokuapp-com.freetls.fastly.net	151.101.230.79
+gl-canary.freetls.fastly.net	151.101.230.79
+grokker-static.freetls.fastly.net	151.101.230.79
+images-production.freetls.fastly.net	151.101.230.79
+img-mdpr.freetls.fastly.net	151.101.230.79
+lakvod-508179.freetls.fastly.net	151.101.230.79
+oldies-cdn.freetls.fastly.net	151.101.230.79
+prehistory101.freetls.fastly.net	151.101.230.79
 tampermonkey.freetls.fastly.net	151.101.230.79
+villagevoice.freetls.fastly.net	151.101.230.79
+zcdn.freetls.fastly.net	151.101.230.79
 # Fastly End
 
 # Feedly Start
@@ -1208,10 +1225,10 @@ ads.goodreads.com	205.251.242.64
 
 # Google Apis Start
 www.googleapis.com	216.58.204.202
+android.googleapis.com	216.58.204.202
 ajax.googleapis.com	172.217.168.202
 fonts.googleapis.com	108.177.127.201
 googleapis.com	172.217.168.202
-android.googleapis.com	172.217.168.202
 appinvite-pa.googleapis.com	172.217.168.202
 appinvite-ipv4-pa.googleapis.com	172.217.168.202
 redirector-bigcache.googleapis.com	172.217.168.202

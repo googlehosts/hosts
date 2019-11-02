@@ -1432,8 +1432,25 @@ add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
 # Fastly Start
+add address=151.101.1.194 name=codeproject.global.ssl.fastly.net
+add address=151.101.1.194 name=github.global.ssl.fastly.net
 add address=151.101.110.79 name=freetls.fastly.net
+add address=151.101.230.79 name=aosc-repo.freetls.fastly.net
+add address=151.101.230.79 name=bt-wpstatic.freetls.fastly.net
+add address=151.101.230.79 name=chairish-prod.freetls.fastly.net
+add address=151.101.230.79 name=codeproject.freetls.fastly.net
+add address=151.101.230.79 name=finanzen.freetls.fastly.net
+add address=151.101.230.79 name=github-atom-io-herokuapp-com.freetls.fastly.net
+add address=151.101.230.79 name=gl-canary.freetls.fastly.net
+add address=151.101.230.79 name=grokker-static.freetls.fastly.net
+add address=151.101.230.79 name=images-production.freetls.fastly.net
+add address=151.101.230.79 name=img-mdpr.freetls.fastly.net
+add address=151.101.230.79 name=lakvod-508179.freetls.fastly.net
+add address=151.101.230.79 name=oldies-cdn.freetls.fastly.net
+add address=151.101.230.79 name=prehistory101.freetls.fastly.net
 add address=151.101.230.79 name=tampermonkey.freetls.fastly.net
+add address=151.101.230.79 name=villagevoice.freetls.fastly.net
+add address=151.101.230.79 name=zcdn.freetls.fastly.net
 # Fastly End
 
 # Feedly Start
@@ -1482,10 +1499,10 @@ add address=205.251.242.64 name=ads.goodreads.com
 
 # Google Apis Start
 add address=216.58.204.202 name=www.googleapis.com
+add address=216.58.204.202 name=android.googleapis.com
 add address=172.217.168.202 name=ajax.googleapis.com
 add address=108.177.127.201 name=fonts.googleapis.com
 add address=172.217.168.202 name=googleapis.com
-add address=172.217.168.202 name=android.googleapis.com
 add address=172.217.168.202 name=appinvite-pa.googleapis.com
 add address=172.217.168.202 name=appinvite-ipv4-pa.googleapis.com
 add address=172.217.168.202 name=redirector-bigcache.googleapis.com
