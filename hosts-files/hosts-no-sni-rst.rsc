@@ -4155,6 +4155,8 @@ add address=54.84.222.78 name=app.twitch.tv
 add address=117.18.237.70 name=abs.twimg.com
 add address=117.18.237.70 name=pbs.twimg.com
 add address=117.18.237.70 name=ton.twimg.com
+add address=117.18.237.70 name=video.twimg.com
+add address=117.18.237.70 name=cdn.syndication.twimg.com
 # Twitter End
 
 # Uncyclopedia Start
