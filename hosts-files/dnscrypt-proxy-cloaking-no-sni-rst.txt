@@ -4153,6 +4153,11 @@ cdn.syndication.twimg.com	117.18.237.70
 uncyclopedia.tw	104.28.18.4
 # Uncyclopedia End
 
+# urbandictionary Start
+www.urbandictionary.com	151.101.120.207
+api.urbandictionary.com	151.101.240.207
+# urbandictionary End
+
 # Vimeo Start
 vimeo.com	151.101.0.217
 api.vimeo.com	151.101.192.217

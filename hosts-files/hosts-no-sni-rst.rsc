@@ -4155,6 +4155,11 @@ add address=117.18.237.70 name=cdn.syndication.twimg.com
 add address=104.28.18.4 name=uncyclopedia.tw
 # Uncyclopedia End
 
+# urbandictionary Start
+add address=151.101.120.207 name=www.urbandictionary.com
+add address=151.101.240.207 name=api.urbandictionary.com
+# urbandictionary End
+
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
 add address=151.101.192.217 name=api.vimeo.com

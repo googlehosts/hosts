@@ -4661,6 +4661,11 @@ add address=104.28.18.4 name=uncyclopedia.tw
 add address=192.124.249.65 name=www.upmedia.mg
 # Up Media End
 
+# urbandictionary Start
+add address=151.101.120.207 name=www.urbandictionary.com
+add address=151.101.240.207 name=api.urbandictionary.com
+# urbandictionary End
+
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
 add address=151.101.192.217 name=api.vimeo.com

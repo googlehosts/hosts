@@ -4659,6 +4659,11 @@ uncyclopedia.tw	104.28.18.4
 www.upmedia.mg	192.124.249.65
 # Up Media End
 
+# urbandictionary Start
+www.urbandictionary.com	151.101.120.207
+api.urbandictionary.com	151.101.240.207
+# urbandictionary End
+
 # Vimeo Start
 vimeo.com	151.101.0.217
 api.vimeo.com	151.101.192.217

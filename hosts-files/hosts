@@ -4659,6 +4659,11 @@
 192.124.249.65	www.upmedia.mg
 # Up Media End
 
+# urbandictionary Start
+151.101.120.207	www.urbandictionary.com
+151.101.240.207	api.urbandictionary.com
+# urbandictionary End
+
 # Vimeo Start
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
