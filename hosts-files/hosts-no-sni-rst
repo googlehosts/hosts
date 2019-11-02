@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-09-06
+# Last updated: 2019-11-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3465,6 +3465,7 @@
 # HumbleBundle Start
 54.249.82.168	humble.pubnub.com
 104.20.34.236	humblebundle.com
+104.20.34.236	www.humblebundle.com
 52.36.140.12	pubnub.com
 # HumbleBundle End
 

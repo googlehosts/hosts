@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-09-06
+# Last updated: 2019-11-02
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3739,6 +3739,7 @@ add address=104.25.153.116 name=img.eservice-hk.net
 # HumbleBundle Start
 add address=54.249.82.168 name=humble.pubnub.com
 add address=104.20.34.236 name=humblebundle.com
+add address=104.20.34.236 name=www.humblebundle.com
 add address=52.36.140.12 name=pubnub.com
 # HumbleBundle End
 
