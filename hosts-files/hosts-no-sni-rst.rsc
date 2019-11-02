@@ -3669,15 +3669,6 @@ add address=54.192.151.121 name=matters.news
 add address=54.254.167.73 name=server.matters.news
 # Matters.news End
 
-# Medium Start
-add address=104.16.120.127 name=medium.com
-add address=104.16.120.145 name=api.medium.com
-add address=104.16.120.145 name=cdn-static-1.medium.com
-add address=104.16.120.145 name=cdn-images-1.medium.com
-add address=104.16.120.145 name=cdn-images-2.medium.com
-add address=104.16.121.145 name=glyph.medium.com
-# Medium End
-
 # MEGA Start
 add address=31.216.148.10 name=mega.nz
 add address=117.18.237.188 name=g.cdn1.mega.co.nz
