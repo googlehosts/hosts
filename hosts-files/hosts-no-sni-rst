@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-11-02
+# Last updated: 2019-11-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1620,11 +1620,11 @@
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-108.177.96.161	ogs.google.com
+172.217.5.128	ogs.google.com
 172.217.160.0	www.google.com
-108.177.103.161	id.google.com
-74.125.204.100	clients5.google.com
-108.177.127.99	apis.google.com
+172.217.5.129	id.google.com
+172.217.5.130	clients5.google.com
+172.217.5.131	apis.google.com
 # Google Search Home End
 
 # Google Service Start
@@ -1934,8 +1934,8 @@
 # Google Service End
 
 # Google Service:Ncr Start
-216.58.204.169	accounts.google.com
-216.58.204.171	myaccount.google.com
+172.217.5.133	accounts.google.com
+172.217.5.134	myaccount.google.com
 108.177.103.163	assistant.google.com
 108.177.103.163	books.google.com
 108.177.103.163	blogsearch.google.com
@@ -3071,10 +3071,10 @@
 # Google GoLang End
 
 # Google Service:Google Play Start
-172.217.30.184	play.google.com
-172.217.30.155	android.clients.google.com
+172.217.5.135	play.google.com
+172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
-203.208.39.99	alt7-mtalk.google.com
+172.217.5.137	alt7-mtalk.google.com
 # Google Service:Google Play End
 
 # Google:gcm Start

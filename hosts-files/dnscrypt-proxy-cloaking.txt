@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-11-02
+# Last updated: 2019-11-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1892,11 +1892,11 @@ p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com	172.217
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com	172.217.27.247
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com	216.58.200.183
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com	216.58.200.195
-ogs.google.com	108.177.96.161
+ogs.google.com	172.217.5.128
 www.google.com	172.217.160.0
-id.google.com	108.177.103.161
-clients5.google.com	74.125.204.100
-apis.google.com	108.177.127.99
+id.google.com	172.217.5.129
+clients5.google.com	172.217.5.130
+apis.google.com	172.217.5.131
 # Google Search Home End
 
 # Google Service Start
@@ -2206,8 +2206,8 @@ uploadsj.clients.google.com	172.217.162.15
 # Google Service End
 
 # Google Service:Ncr Start
-accounts.google.com	216.58.204.169
-myaccount.google.com	216.58.204.171
+accounts.google.com	172.217.5.133
+myaccount.google.com	172.217.5.134
 assistant.google.com	108.177.103.163
 books.google.com	108.177.103.163
 blogsearch.google.com	108.177.103.163
@@ -3343,10 +3343,10 @@ tour.golang.org	172.217.14.128
 # Google GoLang End
 
 # Google Service:Google Play Start
-play.google.com	172.217.30.184
-android.clients.google.com	172.217.30.155
+play.google.com	172.217.5.135
+android.clients.google.com	172.217.5.136
 play.googleapis.com	108.177.121.201
-alt7-mtalk.google.com	203.208.39.99
+alt7-mtalk.google.com	172.217.5.137
 # Google Service:Google Play End
 
 # Google:gcm Start

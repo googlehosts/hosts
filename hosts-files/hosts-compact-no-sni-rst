@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-11-02
+# Last updated: 2019-11-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -227,10 +227,10 @@
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-108.177.96.161	ogs.google.com
-108.177.103.161	id.google.com
-74.125.204.100	clients5.google.com
-108.177.127.99	apis.google.com
+172.217.5.128	ogs.google.com
+172.217.5.129	id.google.com
+172.217.5.130	clients5.google.com
+172.217.5.131	apis.google.com
 216.239.34.21	blog.google 3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 216.239.38.21	environment.google ghs.google.com ghs46.google.com ghs.l.google.com ghs46.l.google.com www.nianticlabs.com gsamplemaps.googlepages.com javascript-blocker.toggleable.com goto.ext.google.com webrtc.org www.webrtc.org chromeexperiments.com www.chromeexperiments.com vr.chromeexperiments.com globe.chromeexperiments.com workshop.chromeexperiments.com www.gwtproject.org www.html5rocks.com slides.html5rocks.com playground.html5rocks.com studio.html5rocks.com lists.webmproject.org www.waveprotocol.org www.20thingsilearned.com www.creativelab5.com blog.webmproject.org www.agoogleaday.com www.gosetsuden.jp www.thegooglepuzzle.com www.thegobridgeoglepuzzle.com www.googlezeitgeist.com news.dartlang.org dartpad.dartlang.org ghs-svc-https-sni.ghs-ssl.googlehosted.com polymer-project.org material.io www.autodraw.com madewithcode.com www.madewithcode.com 220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 172.217.161.182	domains.google
@@ -248,11 +248,11 @@
 108.177.125.189	0.client-channel.google.com 1.client-channel.google.com 2.client-channel.google.com 3.client-channel.google.com 4.client-channel.google.com 5.client-channel.google.com 6.client-channel.google.com 7.client-channel.google.com 8.client-channel.google.com 9.client-channel.google.com 10.client-channel.google.com 11.client-channel.google.com 12.client-channel.google.com 13.client-channel.google.com 14.client-channel.google.com 15.client-channel.google.com 16.client-channel.google.com 17.client-channel.google.com 18.client-channel.google.com 19.client-channel.google.com 20.client-channel.google.com 21.client-channel.google.com 22.client-channel.google.com 23.client-channel.google.com 24.client-channel.google.com 25.client-channel.google.com 26.client-channel.google.com 27.client-channel.google.com 28.client-channel.google.com 29.client-channel.google.com cello.client-channel.google.com 0.docs.google.com 1.docs.google.com 2.docs.google.com 3.docs.google.com 4.docs.google.com 5.docs.google.com 6.docs.google.com 7.docs.google.com 8.docs.google.com 9.docs.google.com 10.docs.google.com 11.docs.google.com 12.docs.google.com 13.docs.google.com 14.docs.google.com 15.docs.google.com 16.docs.google.com 0.drive.google.com 1.drive.google.com 2.drive.google.com 3.drive.google.com 4.drive.google.com 5.drive.google.com 6.drive.google.com 7.drive.google.com 8.drive.google.com 9.drive.google.com 10.drive.google.com 11.drive.google.com 12.drive.google.com 13.drive.google.com 14.drive.google.com 15.drive.google.com 16.drive.google.com chromoting-oauth.talkgadget.google.com chromoting-host.talkgadget.google.com chromoting-client.talkgadget.google.com 0.talkgadget.google.com
 108.177.97.107	www.googlechinawebmaster.com t0.gstatic.com t1.gstatic.com t2.gstatic.com t3.gstatic.com
 172.217.162.15	upload.google.com upload.video.google.com upload.clients.google.com uploads.clients.google.com upload.drive.google.com upload.youtube.com uploads.stage.gdata.youtube.com uploadsj.clients.google.com
-216.58.204.169	accounts.google.com
-216.58.204.171	myaccount.google.com
+172.217.5.133	accounts.google.com
+172.217.5.134	myaccount.google.com
 108.177.103.163	assistant.google.com books.google.com blogsearch.google.com clients1.google.com desktop.google.com desktop4.google.com gxc.google.com get.google.com gsuite.google.com image.google.com video.google.com jmt17.google.com maps.google.com mobile.google.com news.google.com patents.google.com places.google.com privacy.google.com translate.google.com toolbarqueries.google.com
 216.58.194.223	scholar.google.com
-172.217.30.184	accounts.google.com.hk play.google.com
+172.217.30.184	accounts.google.com.hk
 108.177.120.94	assistant.google.com.hk books.google.com.hk blogsearch.google.com.hk clients1.google.com.hk desktop.google.com.hk desktop4.google.com.hk gxc.google.com.hk get.google.com.hk gsuite.google.com.hk groups.google.com.hk id.google.com.hk image.google.com.hk video.google.com.hk jmt17.google.com.hk lh4.google.com.hk maps.google.com.hk mobile.google.com.hk news.google.com.hk patents.google.com.hk places.google.com.hk picasaweb.google.com.hk privacy.google.com.hk toolbar.google.com translate.google.com.hk toolbarqueries.google.com.hk scholar.google.com.hk accounts.google.com.tw assistant.google.com.tw books.google.com.tw blogsearch.google.com.tw clients1.google.com.tw desktop.google.com.tw desktop4.google.com.tw gxc.google.com.tw get.google.com.tw gsuite.google.com.tw groups.google.com.tw image.google.com.tw id.google.com.tw video.google.com.tw jmt17.google.com.tw lh4.google.com.tw maps.google.com.tw mobile.google.com.tw news.google.com.tw patents.google.com.tw places.google.com.tw picasaweb.google.com.tw privacy.google.com.tw translate.google.com.tw toolbarqueries.google.com.tw scholar.google.com.tw voice.google.com accounts.gstatic.com maps.gstatic.com play-music.gstatic.com cdn.ampproject.org encrypted-tbn0.gstatic.com encrypted-tbn1.gstatic.com encrypted-tbn2.gstatic.com encrypted-tbn3.gstatic.com mt0.gstatic.com mt1.gstatic.com mt2.gstatic.com mt3.gstatic.com mt4.gstatic.com mt5.gstatic.com mt6.gstatic.com mt7.gstatic.com
 172.217.31.96	docs.google.com
 172.217.3.207	upload.docs.google.com
@@ -260,9 +260,10 @@
 172.217.31.103	browserchannel-docs.l.google.com
 172.217.14.127	golang.org golang-consa.l.google.com
 172.217.14.128	tour.golang.org
-172.217.30.155	android.clients.google.com
+172.217.5.135	play.google.com
+172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
-203.208.39.99	alt7-mtalk.google.com
+172.217.5.137	alt7-mtalk.google.com
 108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
 172.217.4.179	tools.android.com b.android.com m.android.com
