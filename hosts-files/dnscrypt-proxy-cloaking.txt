@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-11-30
+# Last updated: 2019-12-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2208,86 +2208,86 @@ uploadsj.clients.google.com	172.217.162.15
 # Google Service:Ncr Start
 accounts.google.com	172.217.5.133
 myaccount.google.com	172.217.5.134
-assistant.google.com	108.177.103.163
-books.google.com	108.177.103.163
-blogsearch.google.com	108.177.103.163
-clients1.google.com	108.177.103.163
-desktop.google.com	108.177.103.163
-desktop4.google.com	108.177.103.163
-gxc.google.com	108.177.103.163
-get.google.com	108.177.103.163
-gsuite.google.com	108.177.103.163
-image.google.com	108.177.103.163
-video.google.com	108.177.103.163
-jmt17.google.com	108.177.103.163
-maps.google.com	108.177.103.163
-mobile.google.com	108.177.103.163
-news.google.com	108.177.103.163
-patents.google.com	108.177.103.163
-places.google.com	108.177.103.163
-privacy.google.com	108.177.103.163
-translate.google.com	108.177.103.163
-toolbarqueries.google.com	108.177.103.163
+assistant.google.com	172.217.5.138
+books.google.com	172.217.5.138
+blogsearch.google.com	172.217.5.138
+clients1.google.com	172.217.5.138
+desktop.google.com	172.217.5.138
+desktop4.google.com	172.217.5.138
+gxc.google.com	172.217.5.138
+get.google.com	172.217.5.138
+gsuite.google.com	172.217.5.138
+image.google.com	172.217.5.138
+video.google.com	172.217.5.138
+jmt17.google.com	172.217.5.138
+maps.google.com	172.217.5.138
+mobile.google.com	172.217.5.138
+news.google.com	172.217.5.138
+patents.google.com	172.217.5.138
+places.google.com	172.217.5.138
+privacy.google.com	172.217.5.138
+translate.google.com	172.217.5.138
+toolbarqueries.google.com	172.217.5.138
 scholar.google.com	216.58.194.223
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
 accounts.google.com.hk	172.217.30.184
-assistant.google.com.hk	108.177.120.94
-books.google.com.hk	108.177.120.94
-blogsearch.google.com.hk	108.177.120.94
-clients1.google.com.hk	108.177.120.94
-desktop.google.com.hk	108.177.120.94
-desktop4.google.com.hk	108.177.120.94
-gxc.google.com.hk	108.177.120.94
-get.google.com.hk	108.177.120.94
-gsuite.google.com.hk	108.177.120.94
-groups.google.com.hk	108.177.120.94
-id.google.com.hk	108.177.120.94
-image.google.com.hk	108.177.120.94
-video.google.com.hk	108.177.120.94
-jmt17.google.com.hk	108.177.120.94
-lh4.google.com.hk	108.177.120.94
-maps.google.com.hk	108.177.120.94
-mobile.google.com.hk	108.177.120.94
-news.google.com.hk	108.177.120.94
-patents.google.com.hk	108.177.120.94
-places.google.com.hk	108.177.120.94
-picasaweb.google.com.hk	108.177.120.94
-privacy.google.com.hk	108.177.120.94
-toolbar.google.com	108.177.120.94
-translate.google.com.hk	108.177.120.94
-toolbarqueries.google.com.hk	108.177.120.94
-scholar.google.com.hk	108.177.120.94
+assistant.google.com.hk	172.217.5.139
+books.google.com.hk	172.217.5.139
+blogsearch.google.com.hk	172.217.5.139
+clients1.google.com.hk	172.217.5.139
+desktop.google.com.hk	172.217.5.139
+desktop4.google.com.hk	172.217.5.139
+gxc.google.com.hk	172.217.5.139
+get.google.com.hk	172.217.5.139
+gsuite.google.com.hk	172.217.5.139
+groups.google.com.hk	172.217.5.139
+id.google.com.hk	172.217.5.139
+image.google.com.hk	172.217.5.139
+video.google.com.hk	172.217.5.139
+jmt17.google.com.hk	172.217.5.139
+lh4.google.com.hk	172.217.5.139
+maps.google.com.hk	172.217.5.139
+mobile.google.com.hk	172.217.5.139
+news.google.com.hk	172.217.5.139
+patents.google.com.hk	172.217.5.139
+places.google.com.hk	172.217.5.139
+picasaweb.google.com.hk	172.217.5.139
+privacy.google.com.hk	172.217.5.139
+toolbar.google.com	172.217.5.139
+translate.google.com.hk	172.217.5.139
+toolbarqueries.google.com.hk	172.217.5.139
+scholar.google.com.hk	172.217.5.139
 # Google Service:China Hongkong End
 
 # Google Service:China Taiwan Start
-accounts.google.com.tw	108.177.120.94
-assistant.google.com.tw	108.177.120.94
-books.google.com.tw	108.177.120.94
-blogsearch.google.com.tw	108.177.120.94
-clients1.google.com.tw	108.177.120.94
-desktop.google.com.tw	108.177.120.94
-desktop4.google.com.tw	108.177.120.94
-gxc.google.com.tw	108.177.120.94
-get.google.com.tw	108.177.120.94
-gsuite.google.com.tw	108.177.120.94
-groups.google.com.tw	108.177.120.94
-image.google.com.tw	108.177.120.94
-id.google.com.tw	108.177.120.94
-video.google.com.tw	108.177.120.94
-jmt17.google.com.tw	108.177.120.94
-lh4.google.com.tw	108.177.120.94
-maps.google.com.tw	108.177.120.94
-mobile.google.com.tw	108.177.120.94
-news.google.com.tw	108.177.120.94
-patents.google.com.tw	108.177.120.94
-places.google.com.tw	108.177.120.94
-picasaweb.google.com.tw	108.177.120.94
-privacy.google.com.tw	108.177.120.94
-translate.google.com.tw	108.177.120.94
-toolbarqueries.google.com.tw	108.177.120.94
-scholar.google.com.tw	108.177.120.94
+accounts.google.com.tw	172.217.5.141
+assistant.google.com.tw	172.217.5.141
+books.google.com.tw	172.217.5.141
+blogsearch.google.com.tw	172.217.5.141
+clients1.google.com.tw	172.217.5.141
+desktop.google.com.tw	172.217.5.141
+desktop4.google.com.tw	172.217.5.141
+gxc.google.com.tw	172.217.5.141
+get.google.com.tw	172.217.5.141
+gsuite.google.com.tw	172.217.5.141
+groups.google.com.tw	172.217.5.141
+image.google.com.tw	172.217.5.141
+id.google.com.tw	172.217.5.141
+video.google.com.tw	172.217.5.141
+jmt17.google.com.tw	172.217.5.141
+lh4.google.com.tw	172.217.5.141
+maps.google.com.tw	172.217.5.141
+mobile.google.com.tw	172.217.5.141
+news.google.com.tw	172.217.5.141
+patents.google.com.tw	172.217.5.141
+places.google.com.tw	172.217.5.141
+picasaweb.google.com.tw	172.217.5.141
+privacy.google.com.tw	172.217.5.141
+translate.google.com.tw	172.217.5.141
+toolbarqueries.google.com.tw	172.217.5.141
+scholar.google.com.tw	172.217.5.141
 # Google Service:China Taiwan End
 
 # Google Service:Docs Start

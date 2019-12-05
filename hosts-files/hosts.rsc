@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-11-30
+# Last updated: 2019-12-05
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2210,86 +2210,86 @@ add address=172.217.162.15 name=uploadsj.clients.google.com
 # Google Service:Ncr Start
 add address=172.217.5.133 name=accounts.google.com
 add address=172.217.5.134 name=myaccount.google.com
-add address=108.177.103.163 name=assistant.google.com
-add address=108.177.103.163 name=books.google.com
-add address=108.177.103.163 name=blogsearch.google.com
-add address=108.177.103.163 name=clients1.google.com
-add address=108.177.103.163 name=desktop.google.com
-add address=108.177.103.163 name=desktop4.google.com
-add address=108.177.103.163 name=gxc.google.com
-add address=108.177.103.163 name=get.google.com
-add address=108.177.103.163 name=gsuite.google.com
-add address=108.177.103.163 name=image.google.com
-add address=108.177.103.163 name=video.google.com
-add address=108.177.103.163 name=jmt17.google.com
-add address=108.177.103.163 name=maps.google.com
-add address=108.177.103.163 name=mobile.google.com
-add address=108.177.103.163 name=news.google.com
-add address=108.177.103.163 name=patents.google.com
-add address=108.177.103.163 name=places.google.com
-add address=108.177.103.163 name=privacy.google.com
-add address=108.177.103.163 name=translate.google.com
-add address=108.177.103.163 name=toolbarqueries.google.com
+add address=172.217.5.138 name=assistant.google.com
+add address=172.217.5.138 name=books.google.com
+add address=172.217.5.138 name=blogsearch.google.com
+add address=172.217.5.138 name=clients1.google.com
+add address=172.217.5.138 name=desktop.google.com
+add address=172.217.5.138 name=desktop4.google.com
+add address=172.217.5.138 name=gxc.google.com
+add address=172.217.5.138 name=get.google.com
+add address=172.217.5.138 name=gsuite.google.com
+add address=172.217.5.138 name=image.google.com
+add address=172.217.5.138 name=video.google.com
+add address=172.217.5.138 name=jmt17.google.com
+add address=172.217.5.138 name=maps.google.com
+add address=172.217.5.138 name=mobile.google.com
+add address=172.217.5.138 name=news.google.com
+add address=172.217.5.138 name=patents.google.com
+add address=172.217.5.138 name=places.google.com
+add address=172.217.5.138 name=privacy.google.com
+add address=172.217.5.138 name=translate.google.com
+add address=172.217.5.138 name=toolbarqueries.google.com
 add address=216.58.194.223 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
 add address=172.217.30.184 name=accounts.google.com.hk
-add address=108.177.120.94 name=assistant.google.com.hk
-add address=108.177.120.94 name=books.google.com.hk
-add address=108.177.120.94 name=blogsearch.google.com.hk
-add address=108.177.120.94 name=clients1.google.com.hk
-add address=108.177.120.94 name=desktop.google.com.hk
-add address=108.177.120.94 name=desktop4.google.com.hk
-add address=108.177.120.94 name=gxc.google.com.hk
-add address=108.177.120.94 name=get.google.com.hk
-add address=108.177.120.94 name=gsuite.google.com.hk
-add address=108.177.120.94 name=groups.google.com.hk
-add address=108.177.120.94 name=id.google.com.hk
-add address=108.177.120.94 name=image.google.com.hk
-add address=108.177.120.94 name=video.google.com.hk
-add address=108.177.120.94 name=jmt17.google.com.hk
-add address=108.177.120.94 name=lh4.google.com.hk
-add address=108.177.120.94 name=maps.google.com.hk
-add address=108.177.120.94 name=mobile.google.com.hk
-add address=108.177.120.94 name=news.google.com.hk
-add address=108.177.120.94 name=patents.google.com.hk
-add address=108.177.120.94 name=places.google.com.hk
-add address=108.177.120.94 name=picasaweb.google.com.hk
-add address=108.177.120.94 name=privacy.google.com.hk
-add address=108.177.120.94 name=toolbar.google.com
-add address=108.177.120.94 name=translate.google.com.hk
-add address=108.177.120.94 name=toolbarqueries.google.com.hk
-add address=108.177.120.94 name=scholar.google.com.hk
+add address=172.217.5.139 name=assistant.google.com.hk
+add address=172.217.5.139 name=books.google.com.hk
+add address=172.217.5.139 name=blogsearch.google.com.hk
+add address=172.217.5.139 name=clients1.google.com.hk
+add address=172.217.5.139 name=desktop.google.com.hk
+add address=172.217.5.139 name=desktop4.google.com.hk
+add address=172.217.5.139 name=gxc.google.com.hk
+add address=172.217.5.139 name=get.google.com.hk
+add address=172.217.5.139 name=gsuite.google.com.hk
+add address=172.217.5.139 name=groups.google.com.hk
+add address=172.217.5.139 name=id.google.com.hk
+add address=172.217.5.139 name=image.google.com.hk
+add address=172.217.5.139 name=video.google.com.hk
+add address=172.217.5.139 name=jmt17.google.com.hk
+add address=172.217.5.139 name=lh4.google.com.hk
+add address=172.217.5.139 name=maps.google.com.hk
+add address=172.217.5.139 name=mobile.google.com.hk
+add address=172.217.5.139 name=news.google.com.hk
+add address=172.217.5.139 name=patents.google.com.hk
+add address=172.217.5.139 name=places.google.com.hk
+add address=172.217.5.139 name=picasaweb.google.com.hk
+add address=172.217.5.139 name=privacy.google.com.hk
+add address=172.217.5.139 name=toolbar.google.com
+add address=172.217.5.139 name=translate.google.com.hk
+add address=172.217.5.139 name=toolbarqueries.google.com.hk
+add address=172.217.5.139 name=scholar.google.com.hk
 # Google Service:China Hongkong End
 
 # Google Service:China Taiwan Start
-add address=108.177.120.94 name=accounts.google.com.tw
-add address=108.177.120.94 name=assistant.google.com.tw
-add address=108.177.120.94 name=books.google.com.tw
-add address=108.177.120.94 name=blogsearch.google.com.tw
-add address=108.177.120.94 name=clients1.google.com.tw
-add address=108.177.120.94 name=desktop.google.com.tw
-add address=108.177.120.94 name=desktop4.google.com.tw
-add address=108.177.120.94 name=gxc.google.com.tw
-add address=108.177.120.94 name=get.google.com.tw
-add address=108.177.120.94 name=gsuite.google.com.tw
-add address=108.177.120.94 name=groups.google.com.tw
-add address=108.177.120.94 name=image.google.com.tw
-add address=108.177.120.94 name=id.google.com.tw
-add address=108.177.120.94 name=video.google.com.tw
-add address=108.177.120.94 name=jmt17.google.com.tw
-add address=108.177.120.94 name=lh4.google.com.tw
-add address=108.177.120.94 name=maps.google.com.tw
-add address=108.177.120.94 name=mobile.google.com.tw
-add address=108.177.120.94 name=news.google.com.tw
-add address=108.177.120.94 name=patents.google.com.tw
-add address=108.177.120.94 name=places.google.com.tw
-add address=108.177.120.94 name=picasaweb.google.com.tw
-add address=108.177.120.94 name=privacy.google.com.tw
-add address=108.177.120.94 name=translate.google.com.tw
-add address=108.177.120.94 name=toolbarqueries.google.com.tw
-add address=108.177.120.94 name=scholar.google.com.tw
+add address=172.217.5.141 name=accounts.google.com.tw
+add address=172.217.5.141 name=assistant.google.com.tw
+add address=172.217.5.141 name=books.google.com.tw
+add address=172.217.5.141 name=blogsearch.google.com.tw
+add address=172.217.5.141 name=clients1.google.com.tw
+add address=172.217.5.141 name=desktop.google.com.tw
+add address=172.217.5.141 name=desktop4.google.com.tw
+add address=172.217.5.141 name=gxc.google.com.tw
+add address=172.217.5.141 name=get.google.com.tw
+add address=172.217.5.141 name=gsuite.google.com.tw
+add address=172.217.5.141 name=groups.google.com.tw
+add address=172.217.5.141 name=image.google.com.tw
+add address=172.217.5.141 name=id.google.com.tw
+add address=172.217.5.141 name=video.google.com.tw
+add address=172.217.5.141 name=jmt17.google.com.tw
+add address=172.217.5.141 name=lh4.google.com.tw
+add address=172.217.5.141 name=maps.google.com.tw
+add address=172.217.5.141 name=mobile.google.com.tw
+add address=172.217.5.141 name=news.google.com.tw
+add address=172.217.5.141 name=patents.google.com.tw
+add address=172.217.5.141 name=places.google.com.tw
+add address=172.217.5.141 name=picasaweb.google.com.tw
+add address=172.217.5.141 name=privacy.google.com.tw
+add address=172.217.5.141 name=translate.google.com.tw
+add address=172.217.5.141 name=toolbarqueries.google.com.tw
+add address=172.217.5.141 name=scholar.google.com.tw
 # Google Service:China Taiwan End
 
 # Google Service:Docs Start
