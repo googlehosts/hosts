@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-12-05
+# Last updated: 2019-12-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1179,6 +1179,7 @@ add address=151.101.230.79 name=prehistory101.freetls.fastly.net
 add address=151.101.230.79 name=tampermonkey.freetls.fastly.net
 add address=151.101.230.79 name=villagevoice.freetls.fastly.net
 add address=151.101.230.79 name=zcdn.freetls.fastly.net
+add address=151.101.230.79 name=herokudata-frontend.freetls.fastly.net
 # Fastly End
 
 # Feedly Start
@@ -3464,7 +3465,7 @@ add address=202.39.143.235 name=radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=34.192.228.6 name=id.heroku.com
+add address=34.230.120.16 name=id.heroku.com
 # Heroku End
 
 # HKGalden Start

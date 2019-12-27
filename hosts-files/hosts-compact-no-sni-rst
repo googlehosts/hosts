@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-12-05
+# Last updated: 2019-12-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -181,7 +181,7 @@
 207.38.70.29	www.dynu.com
 151.101.1.194	codeproject.global.ssl.fastly.net github.global.ssl.fastly.net
 151.101.110.79	freetls.fastly.net
-151.101.230.79	aosc-repo.freetls.fastly.net bt-wpstatic.freetls.fastly.net chairish-prod.freetls.fastly.net codeproject.freetls.fastly.net finanzen.freetls.fastly.net github-atom-io-herokuapp-com.freetls.fastly.net gl-canary.freetls.fastly.net grokker-static.freetls.fastly.net images-production.freetls.fastly.net img-mdpr.freetls.fastly.net lakvod-508179.freetls.fastly.net oldies-cdn.freetls.fastly.net prehistory101.freetls.fastly.net tampermonkey.freetls.fastly.net villagevoice.freetls.fastly.net zcdn.freetls.fastly.net
+151.101.230.79	aosc-repo.freetls.fastly.net bt-wpstatic.freetls.fastly.net chairish-prod.freetls.fastly.net codeproject.freetls.fastly.net finanzen.freetls.fastly.net github-atom-io-herokuapp-com.freetls.fastly.net gl-canary.freetls.fastly.net grokker-static.freetls.fastly.net images-production.freetls.fastly.net img-mdpr.freetls.fastly.net lakvod-508179.freetls.fastly.net oldies-cdn.freetls.fastly.net prehistory101.freetls.fastly.net tampermonkey.freetls.fastly.net villagevoice.freetls.fastly.net zcdn.freetls.fastly.net herokudata-frontend.freetls.fastly.net
 104.20.60.241	cloud.feedly.com
 13.33.208.8	beacon.flipboard.com fbprod.flipboard.com
 192.0.79.32	foreignpolicy.com
@@ -281,7 +281,7 @@
 216.58.221.65	yt3.ggpht.com
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
-34.192.228.6	id.heroku.com
+34.230.120.16	id.heroku.com
 104.25.120.37	hkgalden.com www.hkgalden.com
 104.22.12.39	www.hkgolden.com forum.hkgolden.com forum8.hkgolden.com m.hkgolden.com forum111.hkgolden.com classbm.hkgolden.com
 104.25.153.116	img.eservice-hk.net
