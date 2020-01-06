@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2020, googlehosts members.
+# Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -393,7 +393,6 @@
 13.32.52.37	assets.matters.news
 54.192.151.121	matters.news
 54.254.167.73	server.matters.news
-31.216.148.10	mega.nz
 117.18.237.188	g.cdn1.mega.co.nz
 34.225.58.16	messaging-sub.api.nytimes.com
 23.21.73.215	nytab.nytimes.com

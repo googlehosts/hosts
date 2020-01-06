@@ -1,6 +1,6 @@
 /ip dns static
 
-# Copyright (c) 2017-2020, googlehosts members.
+# Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -3699,7 +3699,6 @@ add address=54.254.167.73 name=server.matters.news
 # Matters.news End
 
 # MEGA Start
-add address=31.216.148.10 name=mega.nz
 add address=117.18.237.188 name=g.cdn1.mega.co.nz
 # MEGA End
 
