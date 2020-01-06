@@ -1,6 +1,6 @@
 /ip dns static
 
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -1906,6 +1906,7 @@ add address=172.217.5.131 name=apis.google.com
 
 # Google Service Start
 add address=216.239.34.21 name=blog.google
+add address=216.239.34.21 name=www.blog.google
 add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
@@ -1925,7 +1926,6 @@ add address=74.125.206.210 name=bpui0.google.com
 add address=74.125.206.210 name=buzz.google.com
 add address=74.125.206.210 name=calendar.google.com
 add address=74.125.206.210 name=classroom.google.com
-add address=74.125.206.210 name=classroom.google.ca
 add address=74.125.206.210 name=cloud.google.com
 add address=74.125.206.210 name=packages.cloud.google.com
 add address=74.125.206.210 name=ssh.cloud.google.com
@@ -2035,7 +2035,6 @@ add address=74.125.206.210 name=suggestqueries.google.com
 add address=74.125.206.210 name=takeout.google.com
 add address=74.125.206.210 name=v3.cache1.c.docs.google.com
 add address=74.125.206.210 name=wallet.google.com
-add address=74.125.206.210 name=www.blog.google
 add address=74.125.206.210 name=www.googlegroups.com
 add address=74.125.206.210 name=www.googlestore.com
 add address=74.125.206.210 name=www.tensorflow.org

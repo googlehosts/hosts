@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -1904,6 +1904,7 @@ apis.google.com	172.217.5.131
 
 # Google Service Start
 blog.google	216.239.34.21
+www.blog.google	216.239.34.21
 environment.google	216.239.38.21
 domains.google	172.217.161.182
 domains.google.com	64.15.126.100
@@ -1923,7 +1924,6 @@ bpui0.google.com	74.125.206.210
 buzz.google.com	74.125.206.210
 calendar.google.com	74.125.206.210
 classroom.google.com	74.125.206.210
-classroom.google.ca	74.125.206.210
 cloud.google.com	74.125.206.210
 packages.cloud.google.com	74.125.206.210
 ssh.cloud.google.com	74.125.206.210
@@ -2033,7 +2033,6 @@ suggestqueries.google.com	74.125.206.210
 takeout.google.com	74.125.206.210
 v3.cache1.c.docs.google.com	74.125.206.210
 wallet.google.com	74.125.206.210
-www.blog.google	74.125.206.210
 www.googlegroups.com	74.125.206.210
 www.googlestore.com	74.125.206.210
 www.tensorflow.org	74.125.206.210
