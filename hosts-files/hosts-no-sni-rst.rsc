@@ -1,6 +1,6 @@
 /ip dns static
 
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -3171,6 +3171,12 @@ add address=172.217.31.179 name=1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.c
 add address=216.239.38.21 name=220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 add address=216.239.34.21 name=3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 # Google:npf base End
+
+# Google TLDs Start
+add address=172.217.160.0 name=iam.soy
+add address=172.217.160.0 name=www.iam.soy
+add address=172.217.160.0 name=xn--p8j9a0d9c9a.xn--q9jyb4c
+# Google TLDs End
 
 # Googleusercontent Start
 add address=172.217.168.193 name=www.googleusercontent.com

@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -3169,6 +3169,12 @@
 216.239.38.21	220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 # Google:npf base End
+
+# Google TLDs Start
+172.217.160.0	iam.soy
+172.217.160.0	www.iam.soy
+172.217.160.0	xn--p8j9a0d9c9a.xn--q9jyb4c
+# Google TLDs End
 
 # Googleusercontent Start
 172.217.168.193	www.googleusercontent.com
