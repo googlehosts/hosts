@@ -1,6 +1,6 @@
 /ip dns static
 
-# Copyright (c) 2017-2020, googlehosts members.
+# Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -3343,6 +3343,7 @@ add address=172.217.31.103 name=browserchannel-docs.l.google.com
 add address=172.217.14.127 name=golang.org
 add address=172.217.14.127 name=golang-consa.l.google.com
 add address=172.217.14.128 name=tour.golang.org
+add address=172.217.14.128 name=blog.golang.org
 # Google GoLang End
 
 # Google Service:Google Play Start

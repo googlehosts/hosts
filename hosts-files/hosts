@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2020, googlehosts members.
+# Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2020-01-06
 
@@ -3341,6 +3341,7 @@
 172.217.14.127	golang.org
 172.217.14.127	golang-consa.l.google.com
 172.217.14.128	tour.golang.org
+172.217.14.128	blog.golang.org
 # Google GoLang End
 
 # Google Service:Google Play Start
