@@ -1105,6 +1105,8 @@ help.duckduckgo.com	13.210.167.213
 icons.duckduckgo.com	23.21.193.169
 proxy.duckduckgo.com	23.21.193.169
 images.duckduckgo.com	23.21.193.169
+improving.duckduckgo.com	23.21.193.169
+external-content.duckduckgo.com	23.21.193.169
 # DuckDuckGo End
 
 # Disqus Start

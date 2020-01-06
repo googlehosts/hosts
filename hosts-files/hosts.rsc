@@ -1257,6 +1257,8 @@ add address=13.210.167.213 name=help.duckduckgo.com
 add address=23.21.193.169 name=icons.duckduckgo.com
 add address=23.21.193.169 name=proxy.duckduckgo.com
 add address=23.21.193.169 name=images.duckduckgo.com
+add address=23.21.193.169 name=improving.duckduckgo.com
+add address=23.21.193.169 name=external-content.duckduckgo.com
 # DuckDuckGo End
 
 # Disqus Start
