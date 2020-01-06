@@ -1765,6 +1765,7 @@ add address=74.125.206.210 name=www.blog.google
 add address=74.125.206.210 name=www.googlegroups.com
 add address=74.125.206.210 name=www.googlestore.com
 add address=74.125.206.210 name=www.tensorflow.org
+add address=74.125.206.210 name=tensorflow.org
 add address=74.125.206.210 name=writely.google.com
 add address=74.125.206.210 name=auth.keyhole.com
 add address=74.125.206.210 name=talkgadget.l.google.com
