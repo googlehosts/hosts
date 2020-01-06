@@ -1,8 +1,8 @@
 /ip dns static
 
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-12-28
+# Last updated: 2020-01-06
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -4482,7 +4482,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=104.71.136.93 name=steamcommunity.com
+add address=104.85.218.83 name=steamcommunity.com
 # Steam End
 
 # SupChina Start
