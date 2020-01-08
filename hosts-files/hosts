@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-06
+# Last updated: 2020-01-08
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -4590,45 +4590,57 @@
 # Telegram End
 
 # Tor Start
-138.201.14.197	atlas.torproject.org
-138.201.14.197	bugs.torproject.org
-138.201.14.197	cloud.torproject.org
-138.201.14.197	consensus-health.torproject.org
-138.201.14.197	deb.torproject.org
-138.201.14.197	extra.torproject.org
-138.201.14.197	gettor.torproject.org
-138.201.14.197	help.torproject.org
-138.201.14.197	onion.torproject.org
-138.201.14.197	ooni.torproject.org
-138.201.14.197	research.torproject.org
-138.201.14.197	spec.torproject.org
-138.201.14.197	stem.torproject.org
-138.201.14.197	tb-manual.torproject.org
-138.201.14.197	wiki.torproject.org
-138.201.14.197	www.torproject.org
+104.198.14.52	ooni.torproject.org
+116.202.120.165	torproject.org
+116.202.120.165	www.torproject.org
+116.202.120.171	onionoo.torproject.org
+116.202.120.172	blog.torproject.org
+116.202.120.172	cache.torproject.org
+138.201.14.206	gayi.torproject.org
 138.201.14.206	svn.torproject.org
 138.201.14.212	check.torproject.org
 138.201.212.227	trac.torproject.org
+138.201.212.227	troodi.torproject.org
 138.201.212.228	git.torproject.org
 138.201.212.228	gitweb.torproject.org
+138.201.212.228	vineale.torproject.org
 138.201.212.230	rt.torproject.org
-138.201.212.231	donate.torproject.org
-154.35.132.148	onionoo.torproject.org
-161.47.6.182	labs.torproject.org
+138.201.212.236	crm-ext-01.torproject.org
+138.201.212.236	donate.torproject.org
+159.69.63.226	archive-01.torproject.org
+159.69.63.226	archive.torproject.org
 195.201.54.244	people.torproject.org
+195.201.54.244	perdulce.torproject.org
+195.201.54.247	colchicifolium.torproject.org
 195.201.54.247	collector.torproject.org
-195.201.54.247	exonerator.torproject.org
-23.185.0.2	blog.torproject.org
-37.218.242.173	explorer.ooni.torproject.org
-38.229.72.17	torproject.org
+195.201.54.249	exonerator.torproject.org
+195.201.54.249	materculae.torproject.org
+37.218.242.149	explorer.ooni.io
+37.218.242.149	explorer.ooni.torproject.org
+38.229.72.19	dist.torproject.org
 78.47.38.229	bridges.torproject.org
 78.47.38.231	storm.torproject.org
-82.195.75.101	dist.torproject.org
+82.195.75.101	atlas.torproject.org
+82.195.75.101	bugs.torproject.org
+82.195.75.101	cloud.torproject.org
+82.195.75.101	consensus-health.torproject.org
+82.195.75.101	deb.torproject.org
+82.195.75.101	extra.torproject.org
+82.195.75.101	gettor.torproject.org
+82.195.75.101	help.torproject.org
+82.195.75.101	listera.torproject.org
 82.195.75.101	media.torproject.org
+82.195.75.101	onion.torproject.org
+82.195.75.101	research.torproject.org
+82.195.75.101	spec.torproject.org
+82.195.75.101	static.torproject.org
+82.195.75.101	stem.torproject.org
+82.195.75.101	tb-manual.torproject.org
+82.195.75.101	wiki.torproject.org
+94.130.28.195	meronense.torproject.org
+94.130.28.195	metrics.torproject.org
 94.130.28.196	db.torproject.org
-94.130.28.200	archive.torproject.org
 94.130.28.202	lists.torproject.org
-94.130.28.202	metrics.torproject.org
 # Tor End
 
 # Twitch Start
