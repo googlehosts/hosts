@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -279,6 +279,7 @@
 216.58.221.108	proxy.googlezip.net compress.googlezip.net proxy-dev.googlezip.net
 108.177.127.132	lh3.ggpht.com lh4.ggpht.com lh5.ggpht.com lh6.ggpht.com
 216.58.221.65	yt3.ggpht.com
+209.216.230.240	news.ycombinator.com
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
 34.230.120.16	id.heroku.com

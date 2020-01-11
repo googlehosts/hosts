@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3737,6 +3737,10 @@ mt5.gstatic.com	108.177.120.94
 mt6.gstatic.com	108.177.120.94
 mt7.gstatic.com	108.177.120.94
 # Gstatic End
+
+# Hacker News Start
+news.ycombinator.com	209.216.230.240
+# Hacker News End
 
 # Hinet Start
 hichannel.hinet.net	211.20.148.228
