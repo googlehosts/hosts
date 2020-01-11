@@ -36,6 +36,16 @@ add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
 # GoogleHosts End
 
+# 9GAG Start
+add address=104.16.103.144 name=9gag.com
+add address=104.16.103.144 name=web-t.9gag.com
+add address=104.16.103.144 name=www.9gag.com
+add address=104.17.170.73 name=assets-9gag-fun.9cache.com
+add address=104.17.170.73 name=img-9gag-fun.9cache.com
+add address=104.17.170.73 name=js-webt-lol.9cache.com
+add address=104.17.170.73 name=miscmedia-9gag-fun.9cache.com
+# 9GAG End
+
 # AbeBooks Start
 add address=199.255.34.38 name=data.abebooks.com
 add address=52.87.120.250 name=www.abebooks.com

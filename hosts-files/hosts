@@ -34,6 +34,16 @@
 103.124.106.174	proxy.googlehosts.org
 # GoogleHosts End
 
+# 9GAG Start
+104.16.103.144	9gag.com
+104.16.103.144	web-t.9gag.com
+104.16.103.144	www.9gag.com
+104.17.170.73	assets-9gag-fun.9cache.com
+104.17.170.73	img-9gag-fun.9cache.com
+104.17.170.73	js-webt-lol.9cache.com
+104.17.170.73	miscmedia-9gag-fun.9cache.com
+# 9GAG End
+
 # AbeBooks Start
 199.255.34.38	data.abebooks.com
 52.87.120.250	www.abebooks.com
