@@ -3083,7 +3083,7 @@ add address=108.177.121.201 name=play.googleapis.com
 add address=172.217.5.137 name=alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 add address=108.177.97.188 name=mobile-gtalk.l.google.com
 add address=108.177.97.188 name=mtalk.google.com
 add address=108.177.97.188 name=mtalk4.google.com
@@ -3092,8 +3092,9 @@ add address=108.177.97.188 name=gcm.l.google.com
 add address=108.177.97.188 name=gcm-xmpp.googleapis.com
 add address=108.177.97.188 name=gcm-preprod.l.google.com
 add address=108.177.97.188 name=gcm-preprod.googleapis.com
+add address=108.177.97.188 name=fcm.googleapis.com
 add address=216.58.199.10 name=gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 add address=216.239.38.21 name=ghs.google.com

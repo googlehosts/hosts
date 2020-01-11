@@ -265,7 +265,7 @@
 172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
 172.217.5.137	alt7-mtalk.google.com
-108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com
+108.177.97.188	mobile-gtalk.l.google.com mtalk.google.com mtalk4.google.com gcm.googleapis.com gcm.l.google.com gcm-xmpp.googleapis.com gcm-preprod.l.google.com gcm-preprod.googleapis.com fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
 172.217.4.179	tools.android.com b.android.com m.android.com
 172.217.27.4	googlemashups.com www.googlemashups.com

@@ -3081,7 +3081,7 @@ play.googleapis.com	108.177.121.201
 alt7-mtalk.google.com	172.217.5.137
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 mobile-gtalk.l.google.com	108.177.97.188
 mtalk.google.com	108.177.97.188
 mtalk4.google.com	108.177.97.188
@@ -3090,8 +3090,9 @@ gcm.l.google.com	108.177.97.188
 gcm-xmpp.googleapis.com	108.177.97.188
 gcm-preprod.l.google.com	108.177.97.188
 gcm-preprod.googleapis.com	108.177.97.188
+fcm.googleapis.com	108.177.97.188
 gcm-http.googleapis.com	216.58.199.10
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 ghs.google.com	216.239.38.21
