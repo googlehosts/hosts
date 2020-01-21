@@ -1,6 +1,6 @@
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-09-06
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -33,6 +33,16 @@
 103.124.106.174	103-124-106-174.googlehosts.org
 103.124.106.174	proxy.googlehosts.org
 # GoogleHosts End
+
+# 9GAG Start
+104.16.103.144	9gag.com
+104.16.103.144	web-t.9gag.com
+104.16.103.144	www.9gag.com
+104.17.170.73	assets-9gag-fun.9cache.com
+104.17.170.73	img-9gag-fun.9cache.com
+104.17.170.73	js-webt-lol.9cache.com
+104.17.170.73	miscmedia-9gag-fun.9cache.com
+# 9GAG End
 
 # AbeBooks Start
 199.255.34.38	data.abebooks.com
@@ -1255,6 +1265,8 @@
 23.21.193.169	icons.duckduckgo.com
 23.21.193.169	proxy.duckduckgo.com
 23.21.193.169	images.duckduckgo.com
+23.21.193.169	improving.duckduckgo.com
+23.21.193.169	external-content.duckduckgo.com
 # DuckDuckGo End
 
 # Disqus Start
@@ -1430,8 +1442,26 @@
 # Facebook End
 
 # Fastly Start
+151.101.1.194	codeproject.global.ssl.fastly.net
+151.101.1.194	github.global.ssl.fastly.net
 151.101.110.79	freetls.fastly.net
+151.101.230.79	aosc-repo.freetls.fastly.net
+151.101.230.79	bt-wpstatic.freetls.fastly.net
+151.101.230.79	chairish-prod.freetls.fastly.net
+151.101.230.79	codeproject.freetls.fastly.net
+151.101.230.79	finanzen.freetls.fastly.net
+151.101.230.79	github-atom-io-herokuapp-com.freetls.fastly.net
+151.101.230.79	gl-canary.freetls.fastly.net
+151.101.230.79	grokker-static.freetls.fastly.net
+151.101.230.79	images-production.freetls.fastly.net
+151.101.230.79	img-mdpr.freetls.fastly.net
+151.101.230.79	lakvod-508179.freetls.fastly.net
+151.101.230.79	oldies-cdn.freetls.fastly.net
+151.101.230.79	prehistory101.freetls.fastly.net
 151.101.230.79	tampermonkey.freetls.fastly.net
+151.101.230.79	villagevoice.freetls.fastly.net
+151.101.230.79	zcdn.freetls.fastly.net
+151.101.230.79	herokudata-frontend.freetls.fastly.net
 # Fastly End
 
 # Feedly Start
@@ -1451,6 +1481,7 @@
 13.250.177.223	gist.github.com
 13.250.177.223	github.com
 13.229.188.59	www.github.com
+151.101.56.133	raw.githubusercontent.com
 # Github End
 
 # Gmail Start
@@ -1479,10 +1510,10 @@
 
 # Google Apis Start
 216.58.204.202	www.googleapis.com
+216.58.204.202	android.googleapis.com
 172.217.168.202	ajax.googleapis.com
 108.177.127.201	fonts.googleapis.com
 172.217.168.202	googleapis.com
-172.217.168.202	android.googleapis.com
 172.217.168.202	appinvite-pa.googleapis.com
 172.217.168.202	appinvite-ipv4-pa.googleapis.com
 172.217.168.202	redirector-bigcache.googleapis.com
@@ -1874,15 +1905,16 @@
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-108.177.96.161	ogs.google.com
+172.217.5.128	ogs.google.com
 172.217.160.0	www.google.com
-108.177.103.161	id.google.com
-74.125.204.100	clients5.google.com
-108.177.127.99	apis.google.com
+172.217.5.129	id.google.com
+172.217.5.130	clients5.google.com
+172.217.5.131	apis.google.com
 # Google Search Home End
 
 # Google Service Start
 216.239.34.21	blog.google
+216.239.34.21	www.blog.google
 216.239.38.21	environment.google
 172.217.161.182	domains.google
 64.15.126.100	domains.google.com
@@ -1902,7 +1934,6 @@
 74.125.206.210	buzz.google.com
 74.125.206.210	calendar.google.com
 74.125.206.210	classroom.google.com
-74.125.206.210	classroom.google.ca
 74.125.206.210	cloud.google.com
 74.125.206.210	packages.cloud.google.com
 74.125.206.210	ssh.cloud.google.com
@@ -2012,10 +2043,10 @@
 74.125.206.210	takeout.google.com
 74.125.206.210	v3.cache1.c.docs.google.com
 74.125.206.210	wallet.google.com
-74.125.206.210	www.blog.google
 74.125.206.210	www.googlegroups.com
 74.125.206.210	www.googlestore.com
 74.125.206.210	www.tensorflow.org
+74.125.206.210	tensorflow.org
 74.125.206.210	writely.google.com
 74.125.206.210	auth.keyhole.com
 74.125.206.210	talkgadget.l.google.com
@@ -2188,88 +2219,88 @@
 # Google Service End
 
 # Google Service:Ncr Start
-216.58.204.169	accounts.google.com
-216.58.204.171	myaccount.google.com
-108.177.103.163	assistant.google.com
-108.177.103.163	books.google.com
-108.177.103.163	blogsearch.google.com
-108.177.103.163	clients1.google.com
-108.177.103.163	desktop.google.com
-108.177.103.163	desktop4.google.com
-108.177.103.163	gxc.google.com
-108.177.103.163	get.google.com
-108.177.103.163	gsuite.google.com
-108.177.103.163	image.google.com
-108.177.103.163	video.google.com
-108.177.103.163	jmt17.google.com
-108.177.103.163	maps.google.com
-108.177.103.163	mobile.google.com
-108.177.103.163	news.google.com
-108.177.103.163	patents.google.com
-108.177.103.163	places.google.com
-108.177.103.163	privacy.google.com
-108.177.103.163	translate.google.com
-108.177.103.163	toolbarqueries.google.com
+172.217.5.133	accounts.google.com
+172.217.5.134	myaccount.google.com
+172.217.5.138	assistant.google.com
+172.217.5.138	books.google.com
+172.217.5.138	blogsearch.google.com
+172.217.5.138	clients1.google.com
+172.217.5.138	desktop.google.com
+172.217.5.138	desktop4.google.com
+172.217.5.138	gxc.google.com
+172.217.5.138	get.google.com
+172.217.5.138	gsuite.google.com
+172.217.5.138	image.google.com
+172.217.5.138	video.google.com
+172.217.5.138	jmt17.google.com
+172.217.5.138	maps.google.com
+172.217.5.138	mobile.google.com
+172.217.5.138	news.google.com
+172.217.5.138	patents.google.com
+172.217.5.138	places.google.com
+172.217.5.138	privacy.google.com
+172.217.5.138	translate.google.com
+172.217.5.138	toolbarqueries.google.com
 216.58.194.223	scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
 172.217.30.184	accounts.google.com.hk
-108.177.120.94	assistant.google.com.hk
-108.177.120.94	books.google.com.hk
-108.177.120.94	blogsearch.google.com.hk
-108.177.120.94	clients1.google.com.hk
-108.177.120.94	desktop.google.com.hk
-108.177.120.94	desktop4.google.com.hk
-108.177.120.94	gxc.google.com.hk
-108.177.120.94	get.google.com.hk
-108.177.120.94	gsuite.google.com.hk
-108.177.120.94	groups.google.com.hk
-108.177.120.94	id.google.com.hk
-108.177.120.94	image.google.com.hk
-108.177.120.94	video.google.com.hk
-108.177.120.94	jmt17.google.com.hk
-108.177.120.94	lh4.google.com.hk
-108.177.120.94	maps.google.com.hk
-108.177.120.94	mobile.google.com.hk
-108.177.120.94	news.google.com.hk
-108.177.120.94	patents.google.com.hk
-108.177.120.94	places.google.com.hk
-108.177.120.94	picasaweb.google.com.hk
-108.177.120.94	privacy.google.com.hk
-108.177.120.94	toolbar.google.com
-108.177.120.94	translate.google.com.hk
-108.177.120.94	toolbarqueries.google.com.hk
-108.177.120.94	scholar.google.com.hk
+172.217.5.139	assistant.google.com.hk
+172.217.5.139	books.google.com.hk
+172.217.5.139	blogsearch.google.com.hk
+172.217.5.139	clients1.google.com.hk
+172.217.5.139	desktop.google.com.hk
+172.217.5.139	desktop4.google.com.hk
+172.217.5.139	gxc.google.com.hk
+172.217.5.139	get.google.com.hk
+172.217.5.139	gsuite.google.com.hk
+172.217.5.139	groups.google.com.hk
+172.217.5.139	id.google.com.hk
+172.217.5.139	image.google.com.hk
+172.217.5.139	video.google.com.hk
+172.217.5.139	jmt17.google.com.hk
+172.217.5.139	lh4.google.com.hk
+172.217.5.139	maps.google.com.hk
+172.217.5.139	mobile.google.com.hk
+172.217.5.139	news.google.com.hk
+172.217.5.139	patents.google.com.hk
+172.217.5.139	places.google.com.hk
+172.217.5.139	picasaweb.google.com.hk
+172.217.5.139	privacy.google.com.hk
+172.217.5.139	toolbar.google.com
+172.217.5.139	translate.google.com.hk
+172.217.5.139	toolbarqueries.google.com.hk
+172.217.5.139	scholar.google.com.hk
 # Google Service:China Hongkong End
 
 # Google Service:China Taiwan Start
-108.177.120.94	accounts.google.com.tw
-108.177.120.94	assistant.google.com.tw
-108.177.120.94	books.google.com.tw
-108.177.120.94	blogsearch.google.com.tw
-108.177.120.94	clients1.google.com.tw
-108.177.120.94	desktop.google.com.tw
-108.177.120.94	desktop4.google.com.tw
-108.177.120.94	gxc.google.com.tw
-108.177.120.94	get.google.com.tw
-108.177.120.94	gsuite.google.com.tw
-108.177.120.94	groups.google.com.tw
-108.177.120.94	image.google.com.tw
-108.177.120.94	id.google.com.tw
-108.177.120.94	video.google.com.tw
-108.177.120.94	jmt17.google.com.tw
-108.177.120.94	lh4.google.com.tw
-108.177.120.94	maps.google.com.tw
-108.177.120.94	mobile.google.com.tw
-108.177.120.94	news.google.com.tw
-108.177.120.94	patents.google.com.tw
-108.177.120.94	places.google.com.tw
-108.177.120.94	picasaweb.google.com.tw
-108.177.120.94	privacy.google.com.tw
-108.177.120.94	translate.google.com.tw
-108.177.120.94	toolbarqueries.google.com.tw
-108.177.120.94	scholar.google.com.tw
+172.217.5.141	accounts.google.com.tw
+172.217.5.141	assistant.google.com.tw
+172.217.5.141	books.google.com.tw
+172.217.5.141	blogsearch.google.com.tw
+172.217.5.141	clients1.google.com.tw
+172.217.5.141	desktop.google.com.tw
+172.217.5.141	desktop4.google.com.tw
+172.217.5.141	gxc.google.com.tw
+172.217.5.141	get.google.com.tw
+172.217.5.141	gsuite.google.com.tw
+172.217.5.141	groups.google.com.tw
+172.217.5.141	image.google.com.tw
+172.217.5.141	id.google.com.tw
+172.217.5.141	video.google.com.tw
+172.217.5.141	jmt17.google.com.tw
+172.217.5.141	lh4.google.com.tw
+172.217.5.141	maps.google.com.tw
+172.217.5.141	mobile.google.com.tw
+172.217.5.141	news.google.com.tw
+172.217.5.141	patents.google.com.tw
+172.217.5.141	places.google.com.tw
+172.217.5.141	picasaweb.google.com.tw
+172.217.5.141	privacy.google.com.tw
+172.217.5.141	translate.google.com.tw
+172.217.5.141	toolbarqueries.google.com.tw
+172.217.5.141	scholar.google.com.tw
 # Google Service:China Taiwan End
 
 # Google Service:Docs Start
@@ -3322,16 +3353,17 @@
 172.217.14.127	golang.org
 172.217.14.127	golang-consa.l.google.com
 172.217.14.128	tour.golang.org
+172.217.14.128	blog.golang.org
 # Google GoLang End
 
 # Google Service:Google Play Start
-172.217.30.184	play.google.com
-172.217.30.155	android.clients.google.com
+172.217.5.135	play.google.com
+172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
-203.208.39.99	alt7-mtalk.google.com
+172.217.5.137	alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 108.177.97.188	mobile-gtalk.l.google.com
 108.177.97.188	mtalk.google.com
 108.177.97.188	mtalk4.google.com
@@ -3340,8 +3372,9 @@
 108.177.97.188	gcm-xmpp.googleapis.com
 108.177.97.188	gcm-preprod.l.google.com
 108.177.97.188	gcm-preprod.googleapis.com
+108.177.97.188	fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 216.239.38.21	ghs.google.com
@@ -3418,6 +3451,12 @@
 216.239.38.21	220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 # Google:npf base End
+
+# Google TLDs Start
+172.217.160.0	iam.soy
+172.217.160.0	www.iam.soy
+172.217.160.0	xn--p8j9a0d9c9a.xn--q9jyb4c
+# Google TLDs End
 
 # Googleusercontent Start
 172.217.168.193	www.googleusercontent.com
@@ -3710,13 +3749,17 @@
 108.177.120.94	mt7.gstatic.com
 # Gstatic End
 
+# Hacker News Start
+209.216.230.240	news.ycombinator.com
+# Hacker News End
+
 # Hinet Start
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
-34.192.228.6	id.heroku.com
+34.230.120.16	id.heroku.com
 # Heroku End
 
 # HKGalden Start
@@ -3737,6 +3780,7 @@
 # HumbleBundle Start
 54.249.82.168	humble.pubnub.com
 104.20.34.236	humblebundle.com
+104.20.34.236	www.humblebundle.com
 52.36.140.12	pubnub.com
 # HumbleBundle End
 
@@ -4460,7 +4504,7 @@
 # Startpage & Ixquick End
 
 # Steam Start
-104.71.136.93	steamcommunity.com
+104.85.218.83	steamcommunity.com
 # Steam End
 
 # SupChina Start
@@ -4561,45 +4605,57 @@
 # Telegram End
 
 # Tor Start
-138.201.14.197	atlas.torproject.org
-138.201.14.197	bugs.torproject.org
-138.201.14.197	cloud.torproject.org
-138.201.14.197	consensus-health.torproject.org
-138.201.14.197	deb.torproject.org
-138.201.14.197	extra.torproject.org
-138.201.14.197	gettor.torproject.org
-138.201.14.197	help.torproject.org
-138.201.14.197	onion.torproject.org
-138.201.14.197	ooni.torproject.org
-138.201.14.197	research.torproject.org
-138.201.14.197	spec.torproject.org
-138.201.14.197	stem.torproject.org
-138.201.14.197	tb-manual.torproject.org
-138.201.14.197	wiki.torproject.org
-138.201.14.197	www.torproject.org
+104.198.14.52	ooni.torproject.org
+116.202.120.165	torproject.org
+116.202.120.165	www.torproject.org
+116.202.120.171	onionoo.torproject.org
+116.202.120.172	blog.torproject.org
+116.202.120.172	cache.torproject.org
+138.201.14.206	gayi.torproject.org
 138.201.14.206	svn.torproject.org
 138.201.14.212	check.torproject.org
 138.201.212.227	trac.torproject.org
+138.201.212.227	troodi.torproject.org
 138.201.212.228	git.torproject.org
 138.201.212.228	gitweb.torproject.org
+138.201.212.228	vineale.torproject.org
 138.201.212.230	rt.torproject.org
-138.201.212.231	donate.torproject.org
-154.35.132.148	onionoo.torproject.org
-161.47.6.182	labs.torproject.org
+138.201.212.236	crm-ext-01.torproject.org
+138.201.212.236	donate.torproject.org
+159.69.63.226	archive-01.torproject.org
+159.69.63.226	archive.torproject.org
 195.201.54.244	people.torproject.org
+195.201.54.244	perdulce.torproject.org
+195.201.54.247	colchicifolium.torproject.org
 195.201.54.247	collector.torproject.org
-195.201.54.247	exonerator.torproject.org
-23.185.0.2	blog.torproject.org
-37.218.242.173	explorer.ooni.torproject.org
-38.229.72.17	torproject.org
+195.201.54.249	exonerator.torproject.org
+195.201.54.249	materculae.torproject.org
+37.218.242.149	explorer.ooni.io
+37.218.242.149	explorer.ooni.torproject.org
+38.229.72.19	dist.torproject.org
 78.47.38.229	bridges.torproject.org
 78.47.38.231	storm.torproject.org
-82.195.75.101	dist.torproject.org
+82.195.75.101	atlas.torproject.org
+82.195.75.101	bugs.torproject.org
+82.195.75.101	cloud.torproject.org
+82.195.75.101	consensus-health.torproject.org
+82.195.75.101	deb.torproject.org
+82.195.75.101	extra.torproject.org
+82.195.75.101	gettor.torproject.org
+82.195.75.101	help.torproject.org
+82.195.75.101	listera.torproject.org
 82.195.75.101	media.torproject.org
+82.195.75.101	onion.torproject.org
+82.195.75.101	research.torproject.org
+82.195.75.101	spec.torproject.org
+82.195.75.101	static.torproject.org
+82.195.75.101	stem.torproject.org
+82.195.75.101	tb-manual.torproject.org
+82.195.75.101	wiki.torproject.org
+94.130.28.195	meronense.torproject.org
+94.130.28.195	metrics.torproject.org
 94.130.28.196	db.torproject.org
-94.130.28.200	archive.torproject.org
 94.130.28.202	lists.torproject.org
-94.130.28.202	metrics.torproject.org
 # Tor End
 
 # Twitch Start
@@ -4645,6 +4701,8 @@
 117.18.237.70	abs.twimg.com
 117.18.237.70	pbs.twimg.com
 117.18.237.70	ton.twimg.com
+117.18.237.70	cdn.syndication.twimg.com
+192.229.232.217	video.twimg.com
 # Twitter End
 
 # Uncyclopedia Start
@@ -4654,6 +4712,11 @@
 # Up Media Start
 192.124.249.65	www.upmedia.mg
 # Up Media End
+
+# urbandictionary Start
+151.101.120.207	www.urbandictionary.com
+151.101.240.207	api.urbandictionary.com
+# urbandictionary End
 
 # Vimeo Start
 151.101.0.217	vimeo.com

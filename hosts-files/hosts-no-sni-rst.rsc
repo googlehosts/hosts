@@ -1,8 +1,8 @@
 /ip dns static
 
-# Copyright (c) 2017-2019, googlehosts members.
+# Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-09-06
+# Last updated: 2020-01-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -35,6 +35,16 @@ add address=185.22.152.42 name=ss-3.googlehosts.org
 add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
 # GoogleHosts End
+
+# 9GAG Start
+add address=104.16.103.144 name=9gag.com
+add address=104.16.103.144 name=web-t.9gag.com
+add address=104.16.103.144 name=www.9gag.com
+add address=104.17.170.73 name=assets-9gag-fun.9cache.com
+add address=104.17.170.73 name=img-9gag-fun.9cache.com
+add address=104.17.170.73 name=js-webt-lol.9cache.com
+add address=104.17.170.73 name=miscmedia-9gag-fun.9cache.com
+# 9GAG End
 
 # AbeBooks Start
 add address=199.255.34.38 name=data.abebooks.com
@@ -1107,6 +1117,8 @@ add address=13.210.167.213 name=help.duckduckgo.com
 add address=23.21.193.169 name=icons.duckduckgo.com
 add address=23.21.193.169 name=proxy.duckduckgo.com
 add address=23.21.193.169 name=images.duckduckgo.com
+add address=23.21.193.169 name=improving.duckduckgo.com
+add address=23.21.193.169 name=external-content.duckduckgo.com
 # DuckDuckGo End
 
 # Disqus Start
@@ -1160,8 +1172,26 @@ add address=207.38.70.29 name=www.dynu.com
 # Dynu End
 
 # Fastly Start
+add address=151.101.1.194 name=codeproject.global.ssl.fastly.net
+add address=151.101.1.194 name=github.global.ssl.fastly.net
 add address=151.101.110.79 name=freetls.fastly.net
+add address=151.101.230.79 name=aosc-repo.freetls.fastly.net
+add address=151.101.230.79 name=bt-wpstatic.freetls.fastly.net
+add address=151.101.230.79 name=chairish-prod.freetls.fastly.net
+add address=151.101.230.79 name=codeproject.freetls.fastly.net
+add address=151.101.230.79 name=finanzen.freetls.fastly.net
+add address=151.101.230.79 name=github-atom-io-herokuapp-com.freetls.fastly.net
+add address=151.101.230.79 name=gl-canary.freetls.fastly.net
+add address=151.101.230.79 name=grokker-static.freetls.fastly.net
+add address=151.101.230.79 name=images-production.freetls.fastly.net
+add address=151.101.230.79 name=img-mdpr.freetls.fastly.net
+add address=151.101.230.79 name=lakvod-508179.freetls.fastly.net
+add address=151.101.230.79 name=oldies-cdn.freetls.fastly.net
+add address=151.101.230.79 name=prehistory101.freetls.fastly.net
 add address=151.101.230.79 name=tampermonkey.freetls.fastly.net
+add address=151.101.230.79 name=villagevoice.freetls.fastly.net
+add address=151.101.230.79 name=zcdn.freetls.fastly.net
+add address=151.101.230.79 name=herokudata-frontend.freetls.fastly.net
 # Fastly End
 
 # Feedly Start
@@ -1181,6 +1211,7 @@ add address=192.0.79.32 name=foreignpolicy.com
 add address=13.250.177.223 name=gist.github.com
 add address=13.250.177.223 name=github.com
 add address=13.229.188.59 name=www.github.com
+add address=151.101.56.133 name=raw.githubusercontent.com
 # Github End
 
 # Gmail Start
@@ -1209,10 +1240,10 @@ add address=205.251.242.64 name=ads.goodreads.com
 
 # Google Apis Start
 add address=216.58.204.202 name=www.googleapis.com
+add address=216.58.204.202 name=android.googleapis.com
 add address=172.217.168.202 name=ajax.googleapis.com
 add address=108.177.127.201 name=fonts.googleapis.com
 add address=172.217.168.202 name=googleapis.com
-add address=172.217.168.202 name=android.googleapis.com
 add address=172.217.168.202 name=appinvite-pa.googleapis.com
 add address=172.217.168.202 name=appinvite-ipv4-pa.googleapis.com
 add address=172.217.168.202 name=redirector-bigcache.googleapis.com
@@ -1604,15 +1635,16 @@ add address=172.217.26.195 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6ex
 add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-add address=108.177.96.161 name=ogs.google.com
+add address=172.217.5.128 name=ogs.google.com
 add address=172.217.160.0 name=www.google.com
-add address=108.177.103.161 name=id.google.com
-add address=74.125.204.100 name=clients5.google.com
-add address=108.177.127.99 name=apis.google.com
+add address=172.217.5.129 name=id.google.com
+add address=172.217.5.130 name=clients5.google.com
+add address=172.217.5.131 name=apis.google.com
 # Google Search Home End
 
 # Google Service Start
 add address=216.239.34.21 name=blog.google
+add address=216.239.34.21 name=www.blog.google
 add address=216.239.38.21 name=environment.google
 add address=172.217.161.182 name=domains.google
 add address=64.15.126.100 name=domains.google.com
@@ -1632,7 +1664,6 @@ add address=74.125.206.210 name=bpui0.google.com
 add address=74.125.206.210 name=buzz.google.com
 add address=74.125.206.210 name=calendar.google.com
 add address=74.125.206.210 name=classroom.google.com
-add address=74.125.206.210 name=classroom.google.ca
 add address=74.125.206.210 name=cloud.google.com
 add address=74.125.206.210 name=packages.cloud.google.com
 add address=74.125.206.210 name=ssh.cloud.google.com
@@ -1742,10 +1773,10 @@ add address=74.125.206.210 name=suggestqueries.google.com
 add address=74.125.206.210 name=takeout.google.com
 add address=74.125.206.210 name=v3.cache1.c.docs.google.com
 add address=74.125.206.210 name=wallet.google.com
-add address=74.125.206.210 name=www.blog.google
 add address=74.125.206.210 name=www.googlegroups.com
 add address=74.125.206.210 name=www.googlestore.com
 add address=74.125.206.210 name=www.tensorflow.org
+add address=74.125.206.210 name=tensorflow.org
 add address=74.125.206.210 name=writely.google.com
 add address=74.125.206.210 name=auth.keyhole.com
 add address=74.125.206.210 name=talkgadget.l.google.com
@@ -1918,88 +1949,88 @@ add address=172.217.162.15 name=uploadsj.clients.google.com
 # Google Service End
 
 # Google Service:Ncr Start
-add address=216.58.204.169 name=accounts.google.com
-add address=216.58.204.171 name=myaccount.google.com
-add address=108.177.103.163 name=assistant.google.com
-add address=108.177.103.163 name=books.google.com
-add address=108.177.103.163 name=blogsearch.google.com
-add address=108.177.103.163 name=clients1.google.com
-add address=108.177.103.163 name=desktop.google.com
-add address=108.177.103.163 name=desktop4.google.com
-add address=108.177.103.163 name=gxc.google.com
-add address=108.177.103.163 name=get.google.com
-add address=108.177.103.163 name=gsuite.google.com
-add address=108.177.103.163 name=image.google.com
-add address=108.177.103.163 name=video.google.com
-add address=108.177.103.163 name=jmt17.google.com
-add address=108.177.103.163 name=maps.google.com
-add address=108.177.103.163 name=mobile.google.com
-add address=108.177.103.163 name=news.google.com
-add address=108.177.103.163 name=patents.google.com
-add address=108.177.103.163 name=places.google.com
-add address=108.177.103.163 name=privacy.google.com
-add address=108.177.103.163 name=translate.google.com
-add address=108.177.103.163 name=toolbarqueries.google.com
+add address=172.217.5.133 name=accounts.google.com
+add address=172.217.5.134 name=myaccount.google.com
+add address=172.217.5.138 name=assistant.google.com
+add address=172.217.5.138 name=books.google.com
+add address=172.217.5.138 name=blogsearch.google.com
+add address=172.217.5.138 name=clients1.google.com
+add address=172.217.5.138 name=desktop.google.com
+add address=172.217.5.138 name=desktop4.google.com
+add address=172.217.5.138 name=gxc.google.com
+add address=172.217.5.138 name=get.google.com
+add address=172.217.5.138 name=gsuite.google.com
+add address=172.217.5.138 name=image.google.com
+add address=172.217.5.138 name=video.google.com
+add address=172.217.5.138 name=jmt17.google.com
+add address=172.217.5.138 name=maps.google.com
+add address=172.217.5.138 name=mobile.google.com
+add address=172.217.5.138 name=news.google.com
+add address=172.217.5.138 name=patents.google.com
+add address=172.217.5.138 name=places.google.com
+add address=172.217.5.138 name=privacy.google.com
+add address=172.217.5.138 name=translate.google.com
+add address=172.217.5.138 name=toolbarqueries.google.com
 add address=216.58.194.223 name=scholar.google.com
 # Google Service:Ncr End
 
 # Google Service:China Hongkong Start
 add address=172.217.30.184 name=accounts.google.com.hk
-add address=108.177.120.94 name=assistant.google.com.hk
-add address=108.177.120.94 name=books.google.com.hk
-add address=108.177.120.94 name=blogsearch.google.com.hk
-add address=108.177.120.94 name=clients1.google.com.hk
-add address=108.177.120.94 name=desktop.google.com.hk
-add address=108.177.120.94 name=desktop4.google.com.hk
-add address=108.177.120.94 name=gxc.google.com.hk
-add address=108.177.120.94 name=get.google.com.hk
-add address=108.177.120.94 name=gsuite.google.com.hk
-add address=108.177.120.94 name=groups.google.com.hk
-add address=108.177.120.94 name=id.google.com.hk
-add address=108.177.120.94 name=image.google.com.hk
-add address=108.177.120.94 name=video.google.com.hk
-add address=108.177.120.94 name=jmt17.google.com.hk
-add address=108.177.120.94 name=lh4.google.com.hk
-add address=108.177.120.94 name=maps.google.com.hk
-add address=108.177.120.94 name=mobile.google.com.hk
-add address=108.177.120.94 name=news.google.com.hk
-add address=108.177.120.94 name=patents.google.com.hk
-add address=108.177.120.94 name=places.google.com.hk
-add address=108.177.120.94 name=picasaweb.google.com.hk
-add address=108.177.120.94 name=privacy.google.com.hk
-add address=108.177.120.94 name=toolbar.google.com
-add address=108.177.120.94 name=translate.google.com.hk
-add address=108.177.120.94 name=toolbarqueries.google.com.hk
-add address=108.177.120.94 name=scholar.google.com.hk
+add address=172.217.5.139 name=assistant.google.com.hk
+add address=172.217.5.139 name=books.google.com.hk
+add address=172.217.5.139 name=blogsearch.google.com.hk
+add address=172.217.5.139 name=clients1.google.com.hk
+add address=172.217.5.139 name=desktop.google.com.hk
+add address=172.217.5.139 name=desktop4.google.com.hk
+add address=172.217.5.139 name=gxc.google.com.hk
+add address=172.217.5.139 name=get.google.com.hk
+add address=172.217.5.139 name=gsuite.google.com.hk
+add address=172.217.5.139 name=groups.google.com.hk
+add address=172.217.5.139 name=id.google.com.hk
+add address=172.217.5.139 name=image.google.com.hk
+add address=172.217.5.139 name=video.google.com.hk
+add address=172.217.5.139 name=jmt17.google.com.hk
+add address=172.217.5.139 name=lh4.google.com.hk
+add address=172.217.5.139 name=maps.google.com.hk
+add address=172.217.5.139 name=mobile.google.com.hk
+add address=172.217.5.139 name=news.google.com.hk
+add address=172.217.5.139 name=patents.google.com.hk
+add address=172.217.5.139 name=places.google.com.hk
+add address=172.217.5.139 name=picasaweb.google.com.hk
+add address=172.217.5.139 name=privacy.google.com.hk
+add address=172.217.5.139 name=toolbar.google.com
+add address=172.217.5.139 name=translate.google.com.hk
+add address=172.217.5.139 name=toolbarqueries.google.com.hk
+add address=172.217.5.139 name=scholar.google.com.hk
 # Google Service:China Hongkong End
 
 # Google Service:China Taiwan Start
-add address=108.177.120.94 name=accounts.google.com.tw
-add address=108.177.120.94 name=assistant.google.com.tw
-add address=108.177.120.94 name=books.google.com.tw
-add address=108.177.120.94 name=blogsearch.google.com.tw
-add address=108.177.120.94 name=clients1.google.com.tw
-add address=108.177.120.94 name=desktop.google.com.tw
-add address=108.177.120.94 name=desktop4.google.com.tw
-add address=108.177.120.94 name=gxc.google.com.tw
-add address=108.177.120.94 name=get.google.com.tw
-add address=108.177.120.94 name=gsuite.google.com.tw
-add address=108.177.120.94 name=groups.google.com.tw
-add address=108.177.120.94 name=image.google.com.tw
-add address=108.177.120.94 name=id.google.com.tw
-add address=108.177.120.94 name=video.google.com.tw
-add address=108.177.120.94 name=jmt17.google.com.tw
-add address=108.177.120.94 name=lh4.google.com.tw
-add address=108.177.120.94 name=maps.google.com.tw
-add address=108.177.120.94 name=mobile.google.com.tw
-add address=108.177.120.94 name=news.google.com.tw
-add address=108.177.120.94 name=patents.google.com.tw
-add address=108.177.120.94 name=places.google.com.tw
-add address=108.177.120.94 name=picasaweb.google.com.tw
-add address=108.177.120.94 name=privacy.google.com.tw
-add address=108.177.120.94 name=translate.google.com.tw
-add address=108.177.120.94 name=toolbarqueries.google.com.tw
-add address=108.177.120.94 name=scholar.google.com.tw
+add address=172.217.5.141 name=accounts.google.com.tw
+add address=172.217.5.141 name=assistant.google.com.tw
+add address=172.217.5.141 name=books.google.com.tw
+add address=172.217.5.141 name=blogsearch.google.com.tw
+add address=172.217.5.141 name=clients1.google.com.tw
+add address=172.217.5.141 name=desktop.google.com.tw
+add address=172.217.5.141 name=desktop4.google.com.tw
+add address=172.217.5.141 name=gxc.google.com.tw
+add address=172.217.5.141 name=get.google.com.tw
+add address=172.217.5.141 name=gsuite.google.com.tw
+add address=172.217.5.141 name=groups.google.com.tw
+add address=172.217.5.141 name=image.google.com.tw
+add address=172.217.5.141 name=id.google.com.tw
+add address=172.217.5.141 name=video.google.com.tw
+add address=172.217.5.141 name=jmt17.google.com.tw
+add address=172.217.5.141 name=lh4.google.com.tw
+add address=172.217.5.141 name=maps.google.com.tw
+add address=172.217.5.141 name=mobile.google.com.tw
+add address=172.217.5.141 name=news.google.com.tw
+add address=172.217.5.141 name=patents.google.com.tw
+add address=172.217.5.141 name=places.google.com.tw
+add address=172.217.5.141 name=picasaweb.google.com.tw
+add address=172.217.5.141 name=privacy.google.com.tw
+add address=172.217.5.141 name=translate.google.com.tw
+add address=172.217.5.141 name=toolbarqueries.google.com.tw
+add address=172.217.5.141 name=scholar.google.com.tw
 # Google Service:China Taiwan End
 
 # Google Service:Docs Start
@@ -3052,16 +3083,17 @@ add address=172.217.31.103 name=browserchannel-docs.l.google.com
 add address=172.217.14.127 name=golang.org
 add address=172.217.14.127 name=golang-consa.l.google.com
 add address=172.217.14.128 name=tour.golang.org
+add address=172.217.14.128 name=blog.golang.org
 # Google GoLang End
 
 # Google Service:Google Play Start
-add address=172.217.30.184 name=play.google.com
-add address=172.217.30.155 name=android.clients.google.com
+add address=172.217.5.135 name=play.google.com
+add address=172.217.5.136 name=android.clients.google.com
 add address=108.177.121.201 name=play.googleapis.com
-add address=203.208.39.99 name=alt7-mtalk.google.com
+add address=172.217.5.137 name=alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 add address=108.177.97.188 name=mobile-gtalk.l.google.com
 add address=108.177.97.188 name=mtalk.google.com
 add address=108.177.97.188 name=mtalk4.google.com
@@ -3070,8 +3102,9 @@ add address=108.177.97.188 name=gcm.l.google.com
 add address=108.177.97.188 name=gcm-xmpp.googleapis.com
 add address=108.177.97.188 name=gcm-preprod.l.google.com
 add address=108.177.97.188 name=gcm-preprod.googleapis.com
+add address=108.177.97.188 name=fcm.googleapis.com
 add address=216.58.199.10 name=gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 add address=216.239.38.21 name=ghs.google.com
@@ -3148,6 +3181,12 @@ add address=172.217.31.179 name=1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.c
 add address=216.239.38.21 name=220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 add address=216.239.34.21 name=3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 # Google:npf base End
+
+# Google TLDs Start
+add address=172.217.160.0 name=iam.soy
+add address=172.217.160.0 name=www.iam.soy
+add address=172.217.160.0 name=xn--p8j9a0d9c9a.xn--q9jyb4c
+# Google TLDs End
 
 # Googleusercontent Start
 add address=172.217.168.193 name=www.googleusercontent.com
@@ -3440,13 +3479,17 @@ add address=108.177.120.94 name=mt6.gstatic.com
 add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
 
+# Hacker News Start
+add address=209.216.230.240 name=news.ycombinator.com
+# Hacker News End
+
 # Hinet Start
 add address=211.20.148.228 name=hichannel.hinet.net
 add address=202.39.143.235 name=radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=34.192.228.6 name=id.heroku.com
+add address=34.230.120.16 name=id.heroku.com
 # Heroku End
 
 # HKGalden Start
@@ -3467,6 +3510,7 @@ add address=104.25.153.116 name=img.eservice-hk.net
 # HumbleBundle Start
 add address=54.249.82.168 name=humble.pubnub.com
 add address=104.20.34.236 name=humblebundle.com
+add address=104.20.34.236 name=www.humblebundle.com
 add address=52.36.140.12 name=pubnub.com
 # HumbleBundle End
 
@@ -3668,17 +3712,7 @@ add address=54.192.151.121 name=matters.news
 add address=54.254.167.73 name=server.matters.news
 # Matters.news End
 
-# Medium Start
-add address=104.16.120.127 name=medium.com
-add address=104.16.120.145 name=api.medium.com
-add address=104.16.120.145 name=cdn-static-1.medium.com
-add address=104.16.120.145 name=cdn-images-1.medium.com
-add address=104.16.120.145 name=cdn-images-2.medium.com
-add address=104.16.121.145 name=glyph.medium.com
-# Medium End
-
 # MEGA Start
-add address=31.216.148.10 name=mega.nz
 add address=117.18.237.188 name=g.cdn1.mega.co.nz
 # MEGA End
 
@@ -3977,7 +4011,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=104.71.136.93 name=steamcommunity.com
+add address=104.85.218.83 name=steamcommunity.com
 # Steam End
 
 # SupChina Start
@@ -4070,45 +4104,57 @@ add address=149.154.167.80 name=updates.tdesktop.com
 # Telegram End
 
 # Tor Start
-add address=138.201.14.197 name=atlas.torproject.org
-add address=138.201.14.197 name=bugs.torproject.org
-add address=138.201.14.197 name=cloud.torproject.org
-add address=138.201.14.197 name=consensus-health.torproject.org
-add address=138.201.14.197 name=deb.torproject.org
-add address=138.201.14.197 name=extra.torproject.org
-add address=138.201.14.197 name=gettor.torproject.org
-add address=138.201.14.197 name=help.torproject.org
-add address=138.201.14.197 name=onion.torproject.org
-add address=138.201.14.197 name=ooni.torproject.org
-add address=138.201.14.197 name=research.torproject.org
-add address=138.201.14.197 name=spec.torproject.org
-add address=138.201.14.197 name=stem.torproject.org
-add address=138.201.14.197 name=tb-manual.torproject.org
-add address=138.201.14.197 name=wiki.torproject.org
-add address=138.201.14.197 name=www.torproject.org
+add address=104.198.14.52 name=ooni.torproject.org
+add address=116.202.120.165 name=torproject.org
+add address=116.202.120.165 name=www.torproject.org
+add address=116.202.120.171 name=onionoo.torproject.org
+add address=116.202.120.172 name=blog.torproject.org
+add address=116.202.120.172 name=cache.torproject.org
+add address=138.201.14.206 name=gayi.torproject.org
 add address=138.201.14.206 name=svn.torproject.org
 add address=138.201.14.212 name=check.torproject.org
 add address=138.201.212.227 name=trac.torproject.org
+add address=138.201.212.227 name=troodi.torproject.org
 add address=138.201.212.228 name=git.torproject.org
 add address=138.201.212.228 name=gitweb.torproject.org
+add address=138.201.212.228 name=vineale.torproject.org
 add address=138.201.212.230 name=rt.torproject.org
-add address=138.201.212.231 name=donate.torproject.org
-add address=154.35.132.148 name=onionoo.torproject.org
-add address=161.47.6.182 name=labs.torproject.org
+add address=138.201.212.236 name=crm-ext-01.torproject.org
+add address=138.201.212.236 name=donate.torproject.org
+add address=159.69.63.226 name=archive-01.torproject.org
+add address=159.69.63.226 name=archive.torproject.org
 add address=195.201.54.244 name=people.torproject.org
+add address=195.201.54.244 name=perdulce.torproject.org
+add address=195.201.54.247 name=colchicifolium.torproject.org
 add address=195.201.54.247 name=collector.torproject.org
-add address=195.201.54.247 name=exonerator.torproject.org
-add address=23.185.0.2 name=blog.torproject.org
-add address=37.218.242.173 name=explorer.ooni.torproject.org
-add address=38.229.72.17 name=torproject.org
+add address=195.201.54.249 name=exonerator.torproject.org
+add address=195.201.54.249 name=materculae.torproject.org
+add address=37.218.242.149 name=explorer.ooni.io
+add address=37.218.242.149 name=explorer.ooni.torproject.org
+add address=38.229.72.19 name=dist.torproject.org
 add address=78.47.38.229 name=bridges.torproject.org
 add address=78.47.38.231 name=storm.torproject.org
-add address=82.195.75.101 name=dist.torproject.org
+add address=82.195.75.101 name=atlas.torproject.org
+add address=82.195.75.101 name=bugs.torproject.org
+add address=82.195.75.101 name=cloud.torproject.org
+add address=82.195.75.101 name=consensus-health.torproject.org
+add address=82.195.75.101 name=deb.torproject.org
+add address=82.195.75.101 name=extra.torproject.org
+add address=82.195.75.101 name=gettor.torproject.org
+add address=82.195.75.101 name=help.torproject.org
+add address=82.195.75.101 name=listera.torproject.org
 add address=82.195.75.101 name=media.torproject.org
+add address=82.195.75.101 name=onion.torproject.org
+add address=82.195.75.101 name=research.torproject.org
+add address=82.195.75.101 name=spec.torproject.org
+add address=82.195.75.101 name=static.torproject.org
+add address=82.195.75.101 name=stem.torproject.org
+add address=82.195.75.101 name=tb-manual.torproject.org
+add address=82.195.75.101 name=wiki.torproject.org
+add address=94.130.28.195 name=meronense.torproject.org
+add address=94.130.28.195 name=metrics.torproject.org
 add address=94.130.28.196 name=db.torproject.org
-add address=94.130.28.200 name=archive.torproject.org
 add address=94.130.28.202 name=lists.torproject.org
-add address=94.130.28.202 name=metrics.torproject.org
 # Tor End
 
 # Twitch Start
@@ -4154,11 +4200,18 @@ add address=54.84.222.78 name=app.twitch.tv
 add address=117.18.237.70 name=abs.twimg.com
 add address=117.18.237.70 name=pbs.twimg.com
 add address=117.18.237.70 name=ton.twimg.com
+add address=117.18.237.70 name=cdn.syndication.twimg.com
+add address=192.229.232.217 name=video.twimg.com
 # Twitter End
 
 # Uncyclopedia Start
 add address=104.28.18.4 name=uncyclopedia.tw
 # Uncyclopedia End
+
+# urbandictionary Start
+add address=151.101.120.207 name=www.urbandictionary.com
+add address=151.101.240.207 name=api.urbandictionary.com
+# urbandictionary End
 
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
