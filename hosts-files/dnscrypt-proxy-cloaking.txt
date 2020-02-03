@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-11
+# Last updated: 2020-02-03
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -26,12 +26,10 @@ tg-7.googlehosts.org	117.50.61.150
 tg-7-b.googlehosts.org	106.75.2.132
 103-105-48-234.googlehosts.org	103.105.48.234
 tg-9.googlehosts.org	103.105.48.234
+2-56-240-163.googlehosts.org	2.56.240.163
+tg-10.googlehosts.org	2.56.240.163
 45-89-228-109.googlehosts.org	45.89.228.109
-tg-10.googlehosts.org	45.89.228.109
-185-22-152-42.googlehosts.org	185.22.152.42
-ss-3.googlehosts.org	185.22.152.42
-103-124-106-174.googlehosts.org	103.124.106.174
-proxy.googlehosts.org	103.124.106.174
+ss-3.googlehosts.org	45.89.228.109
 # GoogleHosts End
 
 # 9GAG Start
