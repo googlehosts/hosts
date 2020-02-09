@@ -10,5 +10,5 @@ script:
 
 after_success:
   - cd master
-  - git remote add coding https://$CODING_USER:$CODING_KEY@git.coding.net/scaffrey/hosts.git
+  - git remote add coding https://$CODING_USER:$CODING_KEY@e.coding.net/scaffrey/hosts.git
   - git push coding HEAD:master -f
