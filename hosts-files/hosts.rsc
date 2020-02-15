@@ -1481,7 +1481,22 @@ add address=192.0.79.32 name=foreignpolicy.com
 add address=192.30.255.112 name=gist.github.com
 add address=192.30.255.112 name=github.com
 add address=192.30.255.112 name=www.github.com
+add address=151.101.56.133 name=avatars0.githubusercontent.com
+add address=151.101.56.133 name=avatars1.githubusercontent.com
+add address=151.101.56.133 name=avatars2.githubusercontent.com
+add address=151.101.56.133 name=avatars3.githubusercontent.com
+add address=151.101.56.133 name=avatars4.githubusercontent.com
+add address=151.101.56.133 name=avatars5.githubusercontent.com
+add address=151.101.56.133 name=avatars6.githubusercontent.com
+add address=151.101.56.133 name=avatars7.githubusercontent.com
+add address=151.101.56.133 name=avatars8.githubusercontent.com
+add address=151.101.56.133 name=camo.githubusercontent.com
+add address=151.101.56.133 name=cloud.githubusercontent.com
+add address=151.101.56.133 name=gist.githubusercontent.com
+add address=151.101.56.133 name=marketplace-screenshots.githubusercontent.com
 add address=151.101.56.133 name=raw.githubusercontent.com
+add address=151.101.56.133 name=repository-images.githubusercontent.com
+add address=151.101.56.133 name=user-images.githubusercontent.com
 # GitHub End
 
 # Gmail Start
