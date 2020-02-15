@@ -1203,12 +1203,12 @@
 192.0.79.32	foreignpolicy.com
 # Foreign Policy End
 
-# Github Start
-13.250.177.223	gist.github.com
-13.250.177.223	github.com
-13.229.188.59	www.github.com
+# GitHub Start
+192.30.255.112	gist.github.com
+192.30.255.112	github.com
+192.30.255.112	www.github.com
 151.101.56.133	raw.githubusercontent.com
-# Github End
+# GitHub End
 
 # Gmail Start
 216.58.215.229	gmail.com

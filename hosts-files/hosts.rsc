@@ -1477,12 +1477,12 @@ add address=13.33.208.8 name=fbprod.flipboard.com
 add address=192.0.79.32 name=foreignpolicy.com
 # Foreign Policy End
 
-# Github Start
-add address=13.250.177.223 name=gist.github.com
-add address=13.250.177.223 name=github.com
-add address=13.229.188.59 name=www.github.com
+# GitHub Start
+add address=192.30.255.112 name=gist.github.com
+add address=192.30.255.112 name=github.com
+add address=192.30.255.112 name=www.github.com
 add address=151.101.56.133 name=raw.githubusercontent.com
-# Github End
+# GitHub End
 
 # Gmail Start
 add address=216.58.215.229 name=gmail.com
