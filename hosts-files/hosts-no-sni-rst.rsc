@@ -3335,6 +3335,8 @@ add address=172.217.168.193 name=a-oz-opensocial.googleusercontent.com
 add address=172.217.168.193 name=lh0.googleusercontent.com
 add address=172.217.168.193 name=lh1.googleusercontent.com
 add address=172.217.168.193 name=lh2.googleusercontent.com
+add address=172.217.168.193 name=www-fbk-opensocial.googleusercontent.com
+add address=172.217.168.193 name=walkthroughs.googleusercontent.com
 add address=108.177.127.133 name=lh3.googleusercontent.com
 add address=108.177.127.133 name=lh4.googleusercontent.com
 add address=108.177.127.133 name=lh5.googleusercontent.com
