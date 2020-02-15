@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-02-03
+# Last updated: 2020-02-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -4310,7 +4310,7 @@
 210.140.131.211	comic.pixiv.net
 210.140.131.212	factory.pixiv.net
 18.211.61.121	g-client-proxy.pixiv.net
-210.140.131.213	sketch.pixiv.net
+210.140.170.179	sketch.pixiv.net
 210.140.131.214	payment.pixiv.net
 210.140.131.215	sensei.pixiv.net
 210.140.131.216	novel.pixiv.net

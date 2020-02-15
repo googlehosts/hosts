@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-02-03
+# Last updated: 2020-02-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -4312,7 +4312,7 @@ add address=210.140.131.210 name=dic.pixiv.net
 add address=210.140.131.211 name=comic.pixiv.net
 add address=210.140.131.212 name=factory.pixiv.net
 add address=18.211.61.121 name=g-client-proxy.pixiv.net
-add address=210.140.131.213 name=sketch.pixiv.net
+add address=210.140.170.179 name=sketch.pixiv.net
 add address=210.140.131.214 name=payment.pixiv.net
 add address=210.140.131.215 name=sensei.pixiv.net
 add address=210.140.131.216 name=novel.pixiv.net
