@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-02-15
+# Last updated: 2020-02-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -546,7 +546,7 @@
 64.71.175.181	www.ixquick.com ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
-104.85.218.83	steamcommunity.com
+23.42.45.238	steamcommunity.com
 104.27.131.29	supchina.com
 23.10.10.243	www.swissinfo.ch
 52.76.148.61	stigma.theinitium.com
