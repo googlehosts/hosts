@@ -1651,6 +1651,8 @@ add address=172.217.194.82 name=quiche.googlesource.com
 add address=172.217.194.82 name=skia.googlesource.com
 add address=172.217.194.82 name=swiftshader.googlesource.com
 add address=172.217.194.82 name=webrtc.googlesource.com
+add address=173.194.198.82 name=aomedia-review.googlesource.com
+add address=173.194.198.82 name=aomedia.googlesource.com
 add address=173.194.198.82 name=code.googlesource.com
 add address=173.194.198.82 name=fuchsia.googlesource.com
 add address=173.194.198.82 name=gcr.io
