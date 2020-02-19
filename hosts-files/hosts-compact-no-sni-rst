@@ -89,7 +89,7 @@
 113.29.189.55	like.daum.net
 113.29.190.177	channel.daum.net
 113.29.190.20	apihub.daum.net
-115.127.250.75	img1.daumcdn.net img2.daumcdn.net m1.daumcdn.net search1.daumcdn.net search2.daumcdn.net shop1.daumcdn.net t1.daumcdn.net t2.daumcdn.net search1.kakaocdn.net search2.kakaocdn.net search3.kakaocdn.net search4.kakaocdn.net t1.kakaocdn.net
+14.0.44.247	img1.daumcdn.net img2.daumcdn.net m1.daumcdn.net search1.daumcdn.net search2.daumcdn.net shop1.daumcdn.net t1.daumcdn.net t2.daumcdn.net
 121.53.201.232	agora.media.daum.net
 121.53.201.234	gargoyle.daum.net
 121.53.202.219	realty.daum.net
@@ -298,6 +298,7 @@
 54.241.32.12	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.204	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
+115.127.250.75	search1.kakaocdn.net search2.kakaocdn.net search3.kakaocdn.net search4.kakaocdn.net t1.kakaocdn.net
 104.20.171.40	www.kik.com
 124.146.171.177	faq.kinokuniya.co.jp
 124.36.142.42	mirai.kinokuniya.co.jp
