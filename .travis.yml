@@ -12,5 +12,5 @@ after_success:
   - cd master
   - git remote add coding https://$CODING_USER:$CODING_KEY@e.coding.net/scaffrey/hosts.git
   - git remote add qvqnetwork https://$QVQNETWORK_TOKEN@git.qvq.network/googlehosts/hosts
-  - [ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "TRAVIS_BRANCH" = "hosts-source" ] && git push coding HEAD:master -f
-  - [ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "TRAVIS_BRANCH" = "hosts-source" ] && git push qvqnetwork HEAD:master -f
+  - '[ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "TRAVIS_BRANCH" = "hosts-source" ] && git push coding HEAD:master -f'
+  - '[ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "TRAVIS_BRANCH" = "hosts-source" ] && git push qvqnetwork HEAD:master -f'
