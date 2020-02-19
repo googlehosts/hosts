@@ -14,7 +14,7 @@
 [travis-badge]: https://img.shields.io/travis/googlehosts/hosts/hosts-source.svg?style=flat-square
 [travis-link]: https://travis-ci.org/googlehosts/hosts
 [mirror-badge-coding]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
-[mirror-badge-qvqnetwork]: https://avatars0.githubusercontent.com/u/41489902?s=60
+[mirror-badge-qvqnetwork]: https://user-images.githubusercontent.com/30754849/74812238-0ecae380-532e-11ea-84a7-9f6e347b73ee.png
 [mirror-link-coding]: https://scaffrey.coding.net/p/hosts/git
 [mirror-link-qvqnetwork]: https://git.qvq.network/googlehosts/hosts
 
