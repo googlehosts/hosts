@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-02-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -28,13 +28,21 @@ add address=106.75.2.132 name=106-75-2-132.googlehosts.org
 add address=106.75.2.132 name=tg-7-b.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
+add address=2.56.240.163 name=2-56-240-163.googlehosts.org
+add address=2.56.240.163 name=tg-10.googlehosts.org
 add address=45.89.228.109 name=45-89-228-109.googlehosts.org
-add address=45.89.228.109 name=tg-10.googlehosts.org
-add address=185.22.152.42 name=185-22-152-42.googlehosts.org
-add address=185.22.152.42 name=ss-3.googlehosts.org
-add address=103.124.106.174 name=103-124-106-174.googlehosts.org
-add address=103.124.106.174 name=proxy.googlehosts.org
+add address=45.89.228.109 name=ss-3.googlehosts.org
 # GoogleHosts End
+
+# 9GAG Start
+add address=104.16.103.144 name=9gag.com
+add address=104.16.103.144 name=web-t.9gag.com
+add address=104.16.103.144 name=www.9gag.com
+add address=104.17.170.73 name=assets-9gag-fun.9cache.com
+add address=104.17.170.73 name=img-9gag-fun.9cache.com
+add address=104.17.170.73 name=js-webt-lol.9cache.com
+add address=104.17.170.73 name=miscmedia-9gag-fun.9cache.com
+# 9GAG End
 
 # AbeBooks Start
 add address=199.255.34.38 name=data.abebooks.com
@@ -671,14 +679,14 @@ add address=113.29.189.203 name=search.daum.net
 add address=113.29.189.55 name=like.daum.net
 add address=113.29.190.177 name=channel.daum.net
 add address=113.29.190.20 name=apihub.daum.net
-add address=115.127.250.75 name=img1.daumcdn.net
-add address=115.127.250.75 name=img2.daumcdn.net
-add address=115.127.250.75 name=m1.daumcdn.net
-add address=115.127.250.75 name=search1.daumcdn.net
-add address=115.127.250.75 name=search2.daumcdn.net
-add address=115.127.250.75 name=shop1.daumcdn.net
-add address=115.127.250.75 name=t1.daumcdn.net
-add address=115.127.250.75 name=t2.daumcdn.net
+add address=14.0.44.247 name=img1.daumcdn.net
+add address=14.0.44.247 name=img2.daumcdn.net
+add address=14.0.44.247 name=m1.daumcdn.net
+add address=14.0.44.247 name=search1.daumcdn.net
+add address=14.0.44.247 name=search2.daumcdn.net
+add address=14.0.44.247 name=shop1.daumcdn.net
+add address=14.0.44.247 name=t1.daumcdn.net
+add address=14.0.44.247 name=t2.daumcdn.net
 add address=121.53.201.232 name=agora.media.daum.net
 add address=121.53.201.234 name=gargoyle.daum.net
 add address=121.53.202.219 name=realty.daum.net
@@ -1197,12 +1205,27 @@ add address=13.33.208.8 name=fbprod.flipboard.com
 add address=192.0.79.32 name=foreignpolicy.com
 # Foreign Policy End
 
-# Github Start
-add address=13.250.177.223 name=gist.github.com
-add address=13.250.177.223 name=github.com
-add address=13.229.188.59 name=www.github.com
+# GitHub Start
+add address=192.30.255.112 name=gist.github.com
+add address=192.30.255.112 name=github.com
+add address=192.30.255.112 name=www.github.com
+add address=151.101.56.133 name=avatars0.githubusercontent.com
+add address=151.101.56.133 name=avatars1.githubusercontent.com
+add address=151.101.56.133 name=avatars2.githubusercontent.com
+add address=151.101.56.133 name=avatars3.githubusercontent.com
+add address=151.101.56.133 name=avatars4.githubusercontent.com
+add address=151.101.56.133 name=avatars5.githubusercontent.com
+add address=151.101.56.133 name=avatars6.githubusercontent.com
+add address=151.101.56.133 name=avatars7.githubusercontent.com
+add address=151.101.56.133 name=avatars8.githubusercontent.com
+add address=151.101.56.133 name=camo.githubusercontent.com
+add address=151.101.56.133 name=cloud.githubusercontent.com
+add address=151.101.56.133 name=gist.githubusercontent.com
+add address=151.101.56.133 name=marketplace-screenshots.githubusercontent.com
 add address=151.101.56.133 name=raw.githubusercontent.com
-# Github End
+add address=151.101.56.133 name=repository-images.githubusercontent.com
+add address=151.101.56.133 name=user-images.githubusercontent.com
+# GitHub End
 
 # Gmail Start
 add address=216.58.215.229 name=gmail.com
@@ -1356,6 +1379,8 @@ add address=172.217.194.82 name=quiche.googlesource.com
 add address=172.217.194.82 name=skia.googlesource.com
 add address=172.217.194.82 name=swiftshader.googlesource.com
 add address=172.217.194.82 name=webrtc.googlesource.com
+add address=173.194.198.82 name=aomedia-review.googlesource.com
+add address=173.194.198.82 name=aomedia.googlesource.com
 add address=173.194.198.82 name=code.googlesource.com
 add address=173.194.198.82 name=fuchsia.googlesource.com
 add address=173.194.198.82 name=gcr.io
@@ -3083,7 +3108,7 @@ add address=108.177.121.201 name=play.googleapis.com
 add address=172.217.5.137 name=alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 add address=108.177.97.188 name=mobile-gtalk.l.google.com
 add address=108.177.97.188 name=mtalk.google.com
 add address=108.177.97.188 name=mtalk4.google.com
@@ -3092,8 +3117,9 @@ add address=108.177.97.188 name=gcm.l.google.com
 add address=108.177.97.188 name=gcm-xmpp.googleapis.com
 add address=108.177.97.188 name=gcm-preprod.l.google.com
 add address=108.177.97.188 name=gcm-preprod.googleapis.com
+add address=108.177.97.188 name=fcm.googleapis.com
 add address=216.58.199.10 name=gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 add address=216.239.38.21 name=ghs.google.com
@@ -3311,6 +3337,8 @@ add address=172.217.168.193 name=a-oz-opensocial.googleusercontent.com
 add address=172.217.168.193 name=lh0.googleusercontent.com
 add address=172.217.168.193 name=lh1.googleusercontent.com
 add address=172.217.168.193 name=lh2.googleusercontent.com
+add address=172.217.168.193 name=www-fbk-opensocial.googleusercontent.com
+add address=172.217.168.193 name=walkthroughs.googleusercontent.com
 add address=108.177.127.133 name=lh3.googleusercontent.com
 add address=108.177.127.133 name=lh4.googleusercontent.com
 add address=108.177.127.133 name=lh5.googleusercontent.com
@@ -3467,6 +3495,10 @@ add address=108.177.120.94 name=mt5.gstatic.com
 add address=108.177.120.94 name=mt6.gstatic.com
 add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
+
+# Hacker News Start
+add address=209.216.230.240 name=news.ycombinator.com
+# Hacker News End
 
 # Hinet Start
 add address=211.20.148.228 name=hichannel.hinet.net
@@ -3832,7 +3864,7 @@ add address=210.140.131.210 name=dic.pixiv.net
 add address=210.140.131.211 name=comic.pixiv.net
 add address=210.140.131.212 name=factory.pixiv.net
 add address=18.211.61.121 name=g-client-proxy.pixiv.net
-add address=210.140.131.213 name=sketch.pixiv.net
+add address=210.140.170.179 name=sketch.pixiv.net
 add address=210.140.131.214 name=payment.pixiv.net
 add address=210.140.131.215 name=sensei.pixiv.net
 add address=210.140.131.216 name=novel.pixiv.net
@@ -3996,7 +4028,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=104.85.218.83 name=steamcommunity.com
+add address=23.42.45.238 name=steamcommunity.com
 # Steam End
 
 # SupChina Start

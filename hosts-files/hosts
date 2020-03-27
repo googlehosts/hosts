@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-01-08
+# Last updated: 2020-02-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -26,13 +26,21 @@
 106.75.2.132	tg-7-b.googlehosts.org
 103.105.48.234	103-105-48-234.googlehosts.org
 103.105.48.234	tg-9.googlehosts.org
+2.56.240.163	2-56-240-163.googlehosts.org
+2.56.240.163	tg-10.googlehosts.org
 45.89.228.109	45-89-228-109.googlehosts.org
-45.89.228.109	tg-10.googlehosts.org
-185.22.152.42	185-22-152-42.googlehosts.org
-185.22.152.42	ss-3.googlehosts.org
-103.124.106.174	103-124-106-174.googlehosts.org
-103.124.106.174	proxy.googlehosts.org
+45.89.228.109	ss-3.googlehosts.org
 # GoogleHosts End
+
+# 9GAG Start
+104.16.103.144	9gag.com
+104.16.103.144	web-t.9gag.com
+104.16.103.144	www.9gag.com
+104.17.170.73	assets-9gag-fun.9cache.com
+104.17.170.73	img-9gag-fun.9cache.com
+104.17.170.73	js-webt-lol.9cache.com
+104.17.170.73	miscmedia-9gag-fun.9cache.com
+# 9GAG End
 
 # AbeBooks Start
 199.255.34.38	data.abebooks.com
@@ -766,14 +774,14 @@
 113.29.189.55	like.daum.net
 113.29.190.177	channel.daum.net
 113.29.190.20	apihub.daum.net
-115.127.250.75	img1.daumcdn.net
-115.127.250.75	img2.daumcdn.net
-115.127.250.75	m1.daumcdn.net
-115.127.250.75	search1.daumcdn.net
-115.127.250.75	search2.daumcdn.net
-115.127.250.75	shop1.daumcdn.net
-115.127.250.75	t1.daumcdn.net
-115.127.250.75	t2.daumcdn.net
+14.0.44.247	img1.daumcdn.net
+14.0.44.247	img2.daumcdn.net
+14.0.44.247	m1.daumcdn.net
+14.0.44.247	search1.daumcdn.net
+14.0.44.247	search2.daumcdn.net
+14.0.44.247	shop1.daumcdn.net
+14.0.44.247	t1.daumcdn.net
+14.0.44.247	t2.daumcdn.net
 121.53.201.232	agora.media.daum.net
 121.53.201.234	gargoyle.daum.net
 121.53.202.219	realty.daum.net
@@ -1467,12 +1475,27 @@
 192.0.79.32	foreignpolicy.com
 # Foreign Policy End
 
-# Github Start
-13.250.177.223	gist.github.com
-13.250.177.223	github.com
-13.229.188.59	www.github.com
+# GitHub Start
+192.30.255.112	gist.github.com
+192.30.255.112	github.com
+192.30.255.112	www.github.com
+151.101.56.133	avatars0.githubusercontent.com
+151.101.56.133	avatars1.githubusercontent.com
+151.101.56.133	avatars2.githubusercontent.com
+151.101.56.133	avatars3.githubusercontent.com
+151.101.56.133	avatars4.githubusercontent.com
+151.101.56.133	avatars5.githubusercontent.com
+151.101.56.133	avatars6.githubusercontent.com
+151.101.56.133	avatars7.githubusercontent.com
+151.101.56.133	avatars8.githubusercontent.com
+151.101.56.133	camo.githubusercontent.com
+151.101.56.133	cloud.githubusercontent.com
+151.101.56.133	gist.githubusercontent.com
+151.101.56.133	marketplace-screenshots.githubusercontent.com
 151.101.56.133	raw.githubusercontent.com
-# Github End
+151.101.56.133	repository-images.githubusercontent.com
+151.101.56.133	user-images.githubusercontent.com
+# GitHub End
 
 # Gmail Start
 216.58.215.229	gmail.com
@@ -1626,6 +1649,8 @@
 172.217.194.82	skia.googlesource.com
 172.217.194.82	swiftshader.googlesource.com
 172.217.194.82	webrtc.googlesource.com
+173.194.198.82	aomedia-review.googlesource.com
+173.194.198.82	aomedia.googlesource.com
 173.194.198.82	code.googlesource.com
 173.194.198.82	fuchsia.googlesource.com
 173.194.198.82	gcr.io
@@ -3353,7 +3378,7 @@
 172.217.5.137	alt7-mtalk.google.com
 # Google Service:Google Play End
 
-# Google:gcm Start
+# Google:gcm/fcm Start
 108.177.97.188	mobile-gtalk.l.google.com
 108.177.97.188	mtalk.google.com
 108.177.97.188	mtalk4.google.com
@@ -3362,8 +3387,9 @@
 108.177.97.188	gcm-xmpp.googleapis.com
 108.177.97.188	gcm-preprod.l.google.com
 108.177.97.188	gcm-preprod.googleapis.com
+108.177.97.188	fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
-# Google:gcm End
+# Google:gcm/fcm End
 
 # Google:ghs Start
 216.239.38.21	ghs.google.com
@@ -3581,6 +3607,8 @@
 172.217.168.193	lh0.googleusercontent.com
 172.217.168.193	lh1.googleusercontent.com
 172.217.168.193	lh2.googleusercontent.com
+172.217.168.193	www-fbk-opensocial.googleusercontent.com
+172.217.168.193	walkthroughs.googleusercontent.com
 108.177.127.133	lh3.googleusercontent.com
 108.177.127.133	lh4.googleusercontent.com
 108.177.127.133	lh5.googleusercontent.com
@@ -3737,6 +3765,10 @@
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
 # Gstatic End
+
+# Hacker News Start
+209.216.230.240	news.ycombinator.com
+# Hacker News End
 
 # Hinet Start
 211.20.148.228	hichannel.hinet.net
@@ -4297,7 +4329,7 @@
 210.140.131.211	comic.pixiv.net
 210.140.131.212	factory.pixiv.net
 18.211.61.121	g-client-proxy.pixiv.net
-210.140.131.213	sketch.pixiv.net
+210.140.170.179	sketch.pixiv.net
 210.140.131.214	payment.pixiv.net
 210.140.131.215	sensei.pixiv.net
 210.140.131.216	novel.pixiv.net
@@ -4489,7 +4521,7 @@
 # Startpage & Ixquick End
 
 # Steam Start
-104.85.218.83	steamcommunity.com
+23.42.45.238	steamcommunity.com
 # Steam End
 
 # SupChina Start

@@ -4,17 +4,19 @@
 [doodle]: https://www.google.com/logos/doodles/2019/spring-equinox-2019-northern-hemisphere-5139135894388736-2x.png
 [doodle-story]: https://www.google.com/doodles/spring-2019-northern-hemisphere
 
-|    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
+|    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    hosts镜像    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
-| [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge]][mirror-link] |
+| [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge-coding]][mirror-link-coding][![mirror-badge-qvqnetwork]][mirror-link-qvqnetwork] |
 
 [telegram-badge]: https://img.shields.io/badge/GoogleHosts-Telegram-brightgreen.svg?style=flat-square
 [telegram-group-link]: https://t.me/googlehosts
 [telegram-channel-link]: https://t.me/googlehostsnews
 [travis-badge]: https://img.shields.io/travis/googlehosts/hosts/hosts-source.svg?style=flat-square
 [travis-link]: https://travis-ci.org/googlehosts/hosts
-[mirror-badge]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
-[mirror-link]: https://coding.net/u/scaffrey/p/hosts/git
+[mirror-badge-coding]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
+[mirror-badge-qvqnetwork]: https://user-images.githubusercontent.com/30754849/74812238-0ecae380-532e-11ea-84a7-9f6e347b73ee.png
+[mirror-link-coding]: https://scaffrey.coding.net/p/hosts/git
+[mirror-link-qvqnetwork]: https://git.qvq.network/googlehosts/hosts
 
 我们立足于美利坚合众国，对全球华人服务，受北美法律保护。版权所有，未经授权禁止复制或建立镜像。
 
