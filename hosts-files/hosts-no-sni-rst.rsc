@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-02-19
+# Last updated: 2020-04-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -14,24 +14,9 @@ add address=127.0.0.1 name=localhost
 # Localhost (DO NOT REMOVE) End
 
 # GoogleHosts Start
-add address=185.200.34.198 name=185-200-34-198.googlehosts.org
-add address=185.200.34.198 name=tg-2.googlehosts.org
-add address=107.174.205.58 name=107-174-205-58.googlehosts.org
-add address=107.174.205.58 name=tg-3.googlehosts.org
-add address=185.200.34.209 name=185-200-34-209.googlehosts.org
-add address=185.200.34.209 name=tg-4.googlehosts.org
-add address=107.174.203.60 name=107-174-203-60.googlehosts.org
-add address=107.174.203.60 name=tg-5.googlehosts.org
-add address=117.50.61.150 name=117-50-61-150.googlehosts.org
-add address=117.50.61.150 name=tg-7.googlehosts.org
-add address=106.75.2.132 name=106-75-2-132.googlehosts.org
-add address=106.75.2.132 name=tg-7-b.googlehosts.org
-add address=103.105.48.234 name=103-105-48-234.googlehosts.org
-add address=103.105.48.234 name=tg-9.googlehosts.org
-add address=2.56.240.163 name=2-56-240-163.googlehosts.org
-add address=2.56.240.163 name=tg-10.googlehosts.org
-add address=45.89.228.109 name=45-89-228-109.googlehosts.org
+add address=2.56.240.163 name=ss-3.googlehosts.org
 add address=45.89.228.109 name=ss-3.googlehosts.org
+add address=74.125.34.1 name=googlehosts.org
 # GoogleHosts End
 
 # 9GAG Start

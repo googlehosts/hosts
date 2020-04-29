@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-02-19
+# Last updated: 2020-04-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -8,15 +8,9 @@
 # Modified Hosts Start
 
 127.0.0.1	localhost
-185.200.34.198	185-200-34-198.googlehosts.org tg-2.googlehosts.org
-107.174.205.58	107-174-205-58.googlehosts.org tg-3.googlehosts.org
-185.200.34.209	185-200-34-209.googlehosts.org tg-4.googlehosts.org
-107.174.203.60	107-174-203-60.googlehosts.org tg-5.googlehosts.org
-117.50.61.150	117-50-61-150.googlehosts.org tg-7.googlehosts.org
-106.75.2.132	106-75-2-132.googlehosts.org tg-7-b.googlehosts.org
-103.105.48.234	103-105-48-234.googlehosts.org tg-9.googlehosts.org
-2.56.240.163	2-56-240-163.googlehosts.org tg-10.googlehosts.org
-45.89.228.109	45-89-228-109.googlehosts.org ss-3.googlehosts.org
+2.56.240.163	ss-3.googlehosts.org
+45.89.228.109	ss-3.googlehosts.org
+74.125.34.1	googlehosts.org
 104.16.103.144	9gag.com web-t.9gag.com www.9gag.com
 104.17.170.73	assets-9gag-fun.9cache.com img-9gag-fun.9cache.com js-webt-lol.9cache.com miscmedia-9gag-fun.9cache.com
 199.255.34.38	data.abebooks.com
