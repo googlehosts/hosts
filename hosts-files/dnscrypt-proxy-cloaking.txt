@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2020, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2020-04-29
+# Last updated: 2020-06-19
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -13,6 +13,8 @@ localhost	127.0.0.1
 
 # GoogleHosts Start
 ss-3.googlehosts.org	2.56.240.163
+204-44-66-78.googlehosts.org	204.44.66.78
+tg-1.googlehosts.org	204.44.66.78
 ss-3.googlehosts.org	45.89.228.109
 googlehosts.org	74.125.34.1
 # GoogleHosts End
