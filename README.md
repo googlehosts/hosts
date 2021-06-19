@@ -1,4 +1,5 @@
 # GoogleHosts
+## 本项目已放弃曾用域名googlehosts.org，请小心他人将域名用于制作钓鱼网站。
 [![doodle]][doodle-story]
 
 [doodle]: https://www.google.com/logos/doodles/2019/spring-equinox-2019-northern-hemisphere-5139135894388736-2x.png
